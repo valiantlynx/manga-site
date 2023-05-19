@@ -28,7 +28,7 @@ function Navbar() {
                 <Link
                     href="/"
                     className="btn btn-ghost normal-case text-xl"  >
-                    Anime Variant Scans
+                    Animevariant Scans
                 </Link>
             </div>
             <div className="navbar-end">
