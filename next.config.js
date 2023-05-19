@@ -10,7 +10,7 @@ const nextConfig = {
     env: {
         key: process.env.COUNT_API_KEY,
         URL: "https://pocketbase-upload-maga.vercel.app/api/",
-        GA_MEASUREMENT_ID: "G-3D40VC4QXL",
+        GA_MEASUREMENT_ID: "G-E1KHJ9LDW8",
     },
     images: {
         domains: [
