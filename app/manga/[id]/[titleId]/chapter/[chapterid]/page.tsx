@@ -1,20 +1,7 @@
 
-"use client"
 import Breadcrumbs from '@/app/components/BreadCrumbs';
 import getEpisode from '@/utils/getEpisode';
 import Image from 'next/image';
-
-export async function generateMetadata({ params }: { params: { id: string, titleId: string, chapterid: string } }) {
-  const { id, titleId, chapterid } = params
-  console.log("id: ", id, "titleId: ", titleId, "chapterid: ", chapterid);
-
-  const data: any = await getEpisode(id, titleId, chapterid);
-
-  return {
-    title: `${titleId} Episode ${chapterid}`,
-  }
-}
-
 
 async function page({ params }: { params: { id: string, titleId: string, chapterid: string } }) {
 

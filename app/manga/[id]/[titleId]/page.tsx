@@ -2,37 +2,19 @@
 import Breadcrumbs from '@/app/components/BreadCrumbs';
 import Chapter from '@/app/components/Chapter';
 import getDetails from '@/utils/getDetails';
-import getPopular from '@/utils/getPopular';
 import Image from 'next/image';
-import Link from 'next/link';
 import { useSearchParams } from 'next/navigation';
 
 
 // turn this ssr to ssg 
-export async function generateStaticParams() {
-
-  const animeList: any = await getPopular(1);
-
-
-  return animeList.map((anime: PopularMangaProps) => ({
-    postId: anime.id,
-  }))
-
-}
-
-export async function generateMetadata({ params }: { params: { id: string, titleId: string } }) {
-  const { id, titleId } = params
-  const { title }: any = await getDetails(id, titleId); // deduped
-
-  if (!title) {
-    return {
-      title: 'Post Not Found',
-    }
-  }
+export async function generateStaticParams({ params }: { params: { id: string, titleId: string } }) {
+  const { id, titleId }: any = params
 
   return {
-    title,
+    id,
+    titleId,
   }
+
 }
 
 async function MangaDetails({ params }: { params: { id: string, titleId: string } }) {
