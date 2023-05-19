@@ -1,4 +1,4 @@
-import '../globals.css'
+import '@/app/globals.css'
 
 export async function generateMetadata({ params }: { params: { id: string, titleId: string, chapterid: string } }) {
     const { id, titleId, chapterid } = params

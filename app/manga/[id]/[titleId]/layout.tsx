@@ -1,4 +1,4 @@
-import '../globals.css'
+import '@/app/globals.css'
 import getDetails from '@/utils/getDetails';
 
 export async function generateMetadata({ params }: { params: { id: string, titleId: string } }) {
