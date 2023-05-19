@@ -18,14 +18,18 @@ async function page({ params }: { params: { id: string, titleId: string, chapter
     <div>
       <main className="flex-grow bg-gray-900">
         <Breadcrumbs items={breadcrumbs} />
-        <div className="flex flex-col items-center justify-center h-full w-4/5 mx-auto">
+        <div className="flex flex-col items-center justify-center h-full w-full md:w-4/5 lg:w-4/5 xl:w-3/5  mx-auto ">
           {data.map((page: any) => (
-              <Image
-                key={page.pageNumber}
-                src={page.imageUrl}
-                alt={`${titleId} Episode ${chapterid} Page ${page.id}`}
-                className="w-full"
-              />
+            <Image
+              key={page.pageNumber}
+              src={page.imageUrl}
+              alt={`${titleId} Chapter ${chapterid} Page ${page.id}`}
+              className='w-full'
+              sizes="(max-width: 768px) 100vw, (max-width: 1200px) 80vw, 33vw"
+              width={4/5}
+              height={5/5}
+            />
+
           ))}
         </div>
       </main>
