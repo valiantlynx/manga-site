@@ -13,7 +13,7 @@ export const metadata = {
     template: '%s | AnimeVariant read manga online free',
   },
   description: 'Read the latest manga online for free at animevariant.org, update fastest, most full, synthesized 24h free with high-quality images and be the first one to publish new chapters.',
-  keywords: ['anime', 'read manga', 'read manga online', 'manga online', 'manga', 'read manga free', 'manga free', 'read free manga', 'read free manga online', 'manga reader', 'manga viewer', 'manga scans', 'animevariant'],
+  keywords: ['manga', 'read manga', 'read manga online', 'manga online', 'manga', 'read manga free', 'manga free', 'read free manga', 'read free manga online', 'manga reader', 'manga viewer', 'manga scans', 'animevariant'],
   creator: 'Valiantlynx',
   aplicattionName: 'AnimeVariant',
   referrer: 'origin-when-cross-origin',
