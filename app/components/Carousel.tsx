@@ -1,8 +1,9 @@
 import Image from 'next/image'
 import Link from 'next/link'
 
-function Carousel({ animeListArray }: any) {
-    const carouselItems = animeListArray.map((child: any, index: number) => {
+function Carousel({ mangaListArray }: any) {
+    
+    const carouselItems = mangaListArray.map((child: any, index: number) => {
     
         return (
             <Link
