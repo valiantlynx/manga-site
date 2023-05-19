@@ -35,7 +35,7 @@ export async function generateMetadata({ params }: { params: { id: string, title
   }
 }
 
-async function page({ params }: { params: { id: string, titleId: string } }) {
+async function MangaDetails({ params }: { params: { id: string, titleId: string } }) {
   const { id, titleId }: any = params
   const searchParams = useSearchParams();
 
@@ -102,4 +102,4 @@ async function page({ params }: { params: { id: string, titleId: string } }) {
   );
 }
 
-export default page;
+export default MangaDetails;
