@@ -5,18 +5,6 @@ import getDetails from '@/utils/getDetails';
 import Image from 'next/image';
 import { useSearchParams } from 'next/navigation';
 
-
-// turn this ssr to ssg 
-export async function generateStaticParams({ params }: { params: { id: string, titleId: string } }) {
-  const { id, titleId }: any = params
-
-  return {
-    id,
-    titleId,
-  }
-
-}
-
 async function MangaDetails({ params }: { params: { id: string, titleId: string } }) {
   const { id, titleId }: any = params
   const searchParams = useSearchParams();
@@ -84,4 +72,4 @@ async function MangaDetails({ params }: { params: { id: string, titleId: string 
   );
 }
 
-export default MangaDetails;
+export default MangaDetails
