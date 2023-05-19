@@ -3,32 +3,24 @@ import { MetadataRoute } from 'next';
 export default function sitemap(): MetadataRoute.Sitemap {
   return [
     {
-      url: 'https://animevariant.com',
+      url: 'https://animevariant.org',
       lastModified: new Date(),
     },
     {
-      url: 'https://animevariant.com/welcome',
+      url: 'https://animevariant.org/welcome',
       lastModified: new Date(),
     },
     {
-      url: 'https://animevariant.com/popular',
+      url: 'https://animevariant.org/popular',
       lastModified: new Date(),
     },
-    {
-        url: 'https://animevariant.com/recent',
+      {
+        url: 'https://animevariant.org/settings',
         lastModified: new Date(),
       },
       {
-        url: 'https://animevariant.com/settings',
+        url: 'https://animevariant.org/profile',
         lastModified: new Date(),
-      },
-      {
-        url: 'https://animevariant.com/profile',
-        lastModified: new Date(),
-      },
-      {
-        url: 'https://animevariant.com/genre-list',
-        lastModified: new Date(),
-      },
+      }
   ];
 }

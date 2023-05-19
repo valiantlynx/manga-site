@@ -18,7 +18,7 @@ export async function generateMetadata({ params }: { params: { id: string, title
 
 
 
-export default function RecentLayout({
+export default function ChapterLayout({
     children,
 }: {
     children: React.ReactNode

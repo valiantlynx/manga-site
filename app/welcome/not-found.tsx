@@ -9,7 +9,7 @@ export default function NotFound() {
                 404
             </h1>
             <p className="mt-3 text-2xl">
-                This post could not be found.
+                This welcome could not be found.
             </p>
         </main>
     </div>

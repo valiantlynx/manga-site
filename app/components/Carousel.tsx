@@ -9,7 +9,7 @@ function Carousel({ mangaListArray }: any) {
             <Link
                 key={index}
                 className="carousel-item"
-                href={`/details/${child.id}/${child.titleId}`}
+                href={`/manga/${child.id}/${child.titleId}`}
                 aria-label={child.title}
             >
                 <Image src={child.img} alt={child.title} width={200} height={200} />

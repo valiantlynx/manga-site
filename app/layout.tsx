@@ -9,11 +9,11 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
   title: {
-    default: 'AnimeVariant watch anime online free',
-    template: '%s | AnimeVariant watch anime online free',
+    default: 'AnimeVariant read manga online free',
+    template: '%s | AnimeVariant read manga online free',
   },
-  description: 'Watch anime online free in high quality 720p, 1080p english subbed and dubbed on any browser and devices. Watch anime similar to kissanime, 9anime and gogoanime in HTML5 videos format with different anime sources',
-  keywords: ['anime', 'watch anime', 'watch anime online', 'watch anime free', 'anime online', 'anime free', 'anime streaming', 'anime streaming online', 'anime streaming free', 'anime streaming sites', 'anime streaming websites', 'anime streaming app', 'anime streaming apps', 'anime streaming sites free', 'anime streaming websites free', 'anime streaming app free', 'anime streaming apps free', 'anime streaming sites no ads', 'anime streaming websites no ads', 'anime streaming app no ads', 'anime streaming apps no ads', 'anime streaming sites no ads free', 'anime streaming websites no ads free', 'anime streaming app no ads free', 'anime streaming apps no ads free', 'anime streaming sites no ads no sign up', 'anime streaming websites no ads no sign up', 'anime streaming app no ads no sign up', 'anime streaming apps no ads no sign up', 'anime streaming sites no ads no sign up free', 'anime streaming websites no ads no sign up free', 'anime streaming app no ads no sign up free', 'anime streaming apps no ads no sign up free', 'anime streaming sites no ads no sign up no download', 'anime streaming websites no ads no sign up no download', 'anime streaming app no ads no sign up no download', 'anime streaming apps no ads no sign up no download', 'anime streaming sites no ads no sign up no download free', 'anime streaming websites no ads no sign up no download free', 'anime streaming app no ads no sign up no download free', 'anime streaming apps no ads no sign up no download free', 'anime streaming sites no ads no sign up no download no registration', 'anime streaming websites no ads no sign up no download no registration', 'anime streaming app no ads no sign up no download no registration', 'anime streaming apps no ads no sign up no download no registration', 'anime streaming sites no ads no sign up no download no registration free', 'anime streaming websites no ads no sign up no download no registration free', 'anime streaming app no ads no sign up no download no registration free', 'anime streaming apps no ads no sign up no download no registration free', 'anime streaming sites no ads no sign up no download no registration no credit card', 'anime streaming websites no ads no sign up no download no registration no credit card', 'anime streaming app no ads no sign up no download no registration no credit card', 'anime streaming apps no ads'],
+  description: 'Read the latest manga online for free at animevariant.org, update fastest, most full, synthesized 24h free with high-quality images and be the first one to publish new chapters.',
+  keywords: ['anime', 'read manga', 'read manga online', 'manga online', 'manga', 'read manga free', 'manga free', 'read free manga', 'read free manga online', 'manga reader', 'manga viewer', 'manga scans', 'animevariant'],
   creator: 'Valiantlynx',
   aplicattionName: 'AnimeVariant',
   referrer: 'origin-when-cross-origin',
@@ -23,7 +23,7 @@ export const metadata = {
     address: false,
     telephone: false,
   },
-  metadataBase: new URL('https://animevariant.com'),
+  metadataBase: new URL('https://animevariant.org'),
   alternates: {
     canonical: '/',
     languages: {

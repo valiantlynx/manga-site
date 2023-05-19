@@ -1,9 +1,9 @@
-# Anime Watching Website
+# Animevariant Manga
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ## Description
-The Anime Watching Website is a platform where users can stream and watch their favorite anime series and episodes. It provides a user-friendly interface and features to enhance the anime-watching experience.
+Animevariant Manga is a platform where users can read manga online for free. 
 
 ## Table of Contents
 - [Installation](#installation)
@@ -14,24 +14,48 @@ The Anime Watching Website is a platform where users can stream and watch their 
 - [Contact](#contact)
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/valiantlynx/anime-site.git`
-2. Navigate to the project directory: `cd anime-site`
+1. Clone the repository: `git clone https://github.com/valiantlynx/manga-site.git`
+2. Navigate to the project directory: `cd manga-site`
 3. Install the dependencies: `npm install`
 
 ## Usage
 1. Start the development server: `npm start`
 2. Access the website in your browser at: `http://localhost:3000`
-3. Explore the anime catalog, select a series, and watch episodes online.
+3. Explore the manga catalog, select a manga, and read a chapter online.
 
 ## Features
 - Browse and search for anime series.
-- View details of each series, including title, image, type, summary, release year, genres, status, and total episodes.
-- Watch episodes online with a built-in video player.
+- View details of each manga series.
+- Read manga chapters online.
 - Responsive design for optimal viewing experience on different devices.
 - Breadcrumbs navigation for easy navigation between pages.
 
+soon to be added:
+- User accounts
+- Manga bookmarking
+- Manga rating and reviews
+- Manga recommendations
+- Manga comments
+- Manga downloads
+- Manga reading history
+- Manga reading progress
+- Manga reading list
+- Manga reading notifications
+- Manga reading statistics
+- Manga reading settings
+- Manga reading themes
+- Manga reading tracking
+- Manga reading updates
+- progress and manga's read log
+- chat 
+- private chat
+- group chat
+- chat rooms
+- chat notifications
+
+
 ## Contributing
-Contributions are welcome! If you'd like to contribute to the Anime site, please follow these guidelines:
+Contributions are welcome! If you'd like to contribute to the Manga site, please follow these guidelines:
 1. Fork the repository.
 2. Create a new branch for your feature/bug fix: `git checkout -b feature-name`
 3. Commit your changes: `git commit -m "Add feature/fix bug"`
@@ -44,7 +68,7 @@ Please ensure that your code follows the project's coding style and conventions.
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
-For any inquiries or questions regarding the Anime Watching Website, please feel free to reach out:
+For any inquiries or questions regarding the Animevariant Manga, please feel free to reach out:
 
 - Email: valiantlynxz@gmail.com
 - Twitter: [@valiantlynx](https://twitter.com/valiantlynx)

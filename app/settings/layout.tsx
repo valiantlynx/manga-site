@@ -6,7 +6,6 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
   title: 'settings - Animevariant',
-  description: 'Watch the latest anime episodes on AnimeVariant, the best website to watch streaming anime for free. Watch now without any ads. ',
 }
 
 const breadcrumbs = [
@@ -14,7 +13,7 @@ const breadcrumbs = [
   { label: `settings`, url: `/settings` },
 ]
 
-export default function RecentLayout({
+export default function settingLayout({
   children,
 }: {
   children: React.ReactNode

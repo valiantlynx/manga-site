@@ -5,8 +5,7 @@ import { Inter } from 'next/font/google'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Recent Anime - Animevariant',
-  description: 'Watch the latest anime episodes on AnimeVariant, the best website to watch streaming anime for free. Watch now without any ads. ',
+  title: 'Profile - Animevariant',
 }
 
 const breadcrumbs = [
@@ -14,7 +13,7 @@ const breadcrumbs = [
   { label: `Profile`, url: `/profile` },
 ]
 
-export default function RecentLayout({
+export default function ProfileLayout({
   children,
 }: {
   children: React.ReactNode

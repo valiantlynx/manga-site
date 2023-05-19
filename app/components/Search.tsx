@@ -14,8 +14,11 @@ function Search() {
     async function handleChange(e: React.ChangeEvent<HTMLInputElement>) {
         setSearch(e.target.value)
         setLoading(true)
-        const results: any = await getSearch(1, e.target.value)
-        setResults(results)
+
+        //fix this later search is not working
+        // const results: any = await getSearch(1, e.target.value)
+        // setResults(results)
+        
         setLoading(false)
     }
 
@@ -59,7 +62,7 @@ function Search() {
                                     results.map((result: any) => (
                                         <tr key={result.id}>
                                             <Link
-                                                href={`/details/${result.id}`}
+                                                href={`/manga/${result.id}`}
                                             >
                                                 <td>
                                                     <div className="flex items-center space-x-3">

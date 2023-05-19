@@ -15,7 +15,7 @@ async function MangaDetails({ params }: { params: { id: string, titleId: string 
 
   const breadcrumbs = [
     { label: 'Home', url: '/' },
-    { label: `${titleId}`, url: `/manga/${titleId}` },
+    { label: `${titleId}`, url: `/manga/${id}/${titleId}` },
   ];
 
   const chapterList: any = await getDetails(id, titleId);
