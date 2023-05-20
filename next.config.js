@@ -9,7 +9,7 @@ const withPWA = require("next-pwa")({
 const nextConfig = {
     env: {
         key: process.env.COUNT_API_KEY,
-        URL: "https://api.animevariant.org/api/",
+        URL: "https://pocketbase-upload-maga-production.up.railway.app/api/",
         GA_MEASUREMENT_ID: "G-E1KHJ9LDW8",
     },
     images: {
