@@ -105,3 +105,26 @@ type ChapterProps = {
 type Chapter = {
     images: ChapterProps[]
 }
+
+type MangaPocketbase = {
+    page: number,
+    perPage: number,
+    totalPages: number,
+    totalItems: number,
+    items: Item[],
+}
+
+type MangaItem = {
+    id: string,
+    collectionId: string,
+    collectionName: string,
+    created: Date,
+    updated: Date,
+    title: string,
+    img: string,
+    tags: string,
+    latestChapter: number,
+    src: string,
+    description: string,
+    author: string,
+}
