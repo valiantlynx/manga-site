@@ -1,7 +1,7 @@
 "use client";
 import Breadcrumbs from '@/app/components/BreadCrumbs';
 import Chapter from '@/app/components/Chapter';
-import getDetails from '@/utils/getDetails';
+import getMangaData from '@/utils/pocketbase/getMangaData';
 import Image from 'next/image';
 import { useSearchParams } from 'next/navigation';
 
@@ -18,7 +18,8 @@ async function MangaDetails({ params }: { params: { id: string, titleId: string 
     { label: `${titleId}`, url: `/manga/${id}/${titleId}` },
   ];
 
-  const chapterList: any = await getDetails(id, titleId);
+  const chapterList: any = await getMangaData(id, titleId);
+  console.log(chapterList);
 
   const chapters = chapterList.map((episode: any) => (
     <Chapter

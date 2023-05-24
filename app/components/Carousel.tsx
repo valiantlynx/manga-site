@@ -2,6 +2,7 @@ import Image from 'next/image'
 import Link from 'next/link'
 
 function Carousel({ mangaListArray }: any) {
+    console.log("mangaListArray: ", mangaListArray);
     const carouselItems = mangaListArray.map((child: any, index: number) => {
 
         return (

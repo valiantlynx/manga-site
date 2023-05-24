@@ -14,7 +14,8 @@ async function getHomeData(page: number) {
             .catch((error) => {
                 console.error("error: ", error);
             });
-         
+            console.log("resultList: ", resultList);
+            
         return resultList;
 
     } catch (error) {

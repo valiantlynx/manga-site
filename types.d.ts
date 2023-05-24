@@ -123,8 +123,12 @@ type MangaItem = {
     title: string,
     img: string,
     tags: string,
-    latestChapter: number,
+    latestChapter: string,
     src: string,
     description: string,
     author: string,
+    expand: any;
+    imageCid: string,
+    isPinned: boolean,
+    titleId: string,
 }

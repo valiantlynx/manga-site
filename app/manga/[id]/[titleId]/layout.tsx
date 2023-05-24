@@ -1,21 +1,20 @@
 import '@/app/globals.css'
-import getDetails from '@/utils/getDetails';
+import getMangaData from '@/utils/pocketbase/getMangaData';
 
 export async function generateMetadata({ params }: { params: { id: string, titleId: string } }) {
     const { id, titleId } = params
-    const { title }: any = await getDetails(id, titleId); // deduped
-  
-    if (!title) {
+    const data: any = await getMangaData(id, titleId); // deduped
+
+    if (!data) {
       return {
-        title: 'Post Not Found',
+        title: 'animevariant.org - manga title not found',
       }
     }
   
     return {
-      title,
+      title: titleId,
     }
   }
-
 
 
 export default function ChapterLayout({
