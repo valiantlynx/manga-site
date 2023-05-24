@@ -1,18 +1,19 @@
-import axios from 'axios';
-import { URL } from './URLS';
+
+import { pb } from '@/utils/pocketbase/pb';
 
 async function getDetails(id: string, titleId: string) {
+    console.log("id1: ", id);
+    console.log("titleId1: ", titleId);
     try {
-        const response: any = await axios
-            .get(`${URL.MANGA}${id}/${titleId}`, {
-                headers: { 'Access-Control-Allow-Origin': '*' },
-            })
-            .catch((error) => {
-                console.log(error);
+        const record = await pb
+            .collection('chapters')
+            .getFirstListItem(`mangaParkId="${id}"`, {
+                expand: 'mangaId',
             });
-            const mangadetail: MangaDetails = response.data;
+
+        console.log("record: ", record);
+
        
-            return mangadetail.episodes;
     } catch (error) {
         console.log(error);
     }

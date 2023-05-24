@@ -95,13 +95,54 @@ type Robots = {
     host?: string;
 };
 
-type ChapterProps = {
-    imageUrl: string,
-    pageNumber: number,
-    totalPages: number,
-    chapterText: string,
+type Chapter = {
+    Record : {
+        id: string,
+        collectionId: string,
+        collectionName: string,
+        created: Date,
+        updated: Date,
+        mangaId: string,
+        src: string,
+        title: string,
+        expand: any;
+    }
 }
 
-type Chapter = {
-    images: ChapterProps[]
+type Chapters = {
+    page: number,
+    perPage: number,
+    totalPages: number,
+    totalItems: number,
+    items: items[],
+
+}
+
+type MangaPocketbase = {
+    page: number,
+    perPage: number,
+    totalPages: number,
+    totalItems: number,
+    items: items[],
+}
+
+type MangaItem = {
+    Record: {
+        id: string,
+        collectionId: string,
+        collectionName: string,
+        created: Date,
+        updated: Date,
+        title: string,
+        img: string,
+        tags: string,
+        latestChapter: string,
+        src: string,
+        description: string,
+        author: string,
+        expand: any;
+        imageCid: string,
+        isPinned: boolean,
+        titleId: string,
+    }
 }

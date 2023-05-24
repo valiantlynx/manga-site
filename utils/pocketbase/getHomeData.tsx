@@ -8,15 +8,11 @@ async function getHomeData(page: number) {
             .getList(page, 15, {
                 sort: '-created',
             })
-            .then((res) => {
-                return res.items;
-            })
-            .catch((error) => {
-                console.error("error: ", error);
-            });
-            console.log("resultList: ", resultList);
-            
-        return resultList;
+
+        console.log("resultList: ", resultList);
+
+        const pocketbaseResults: MangaPocketbase = resultList;
+        return pocketbaseResults.items;
 
     } catch (error) {
         console.error("error: ", error);

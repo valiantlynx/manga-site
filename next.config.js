@@ -16,6 +16,7 @@ const nextConfig = {
         domains: [
             "gogocdn.net",
             "daisyui.com",
+            "localhost",
         ],
         remotePatterns: [
             {
