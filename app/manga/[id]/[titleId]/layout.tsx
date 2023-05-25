@@ -3,16 +3,16 @@ import getDetails from '@/utils/getDetails';
 
 export async function generateMetadata({ params }: { params: { id: string, titleId: string } }) {
     const { id, titleId } = params
-    const { title }: any = await getDetails(id, titleId); // deduped
+    const data: any = await getDetails(id, titleId); // deduped
   
-    if (!title) {
+    if (!data) {
       return {
         title: 'Post Not Found',
       }
     }
   
     return {
-      title,
+      title: titleId,
     }
   }
 
