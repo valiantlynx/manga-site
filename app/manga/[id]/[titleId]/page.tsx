@@ -14,7 +14,7 @@ async function MangaDetails({ params }: { params: { id: string, titleId: string 
 
   const chapterList: any = await getDetails(id, titleId);
 
-  console.log("chapterList: ", id, titleId);
+  console.log("chapterList: ", id, titleId, chapterList);
 
   // const chapters = chapterList.map((episode: any) => (
   //   <Chapter

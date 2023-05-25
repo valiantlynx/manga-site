@@ -96,7 +96,7 @@ type Robots = {
 };
 
 type Chapter = {
-    Record : {
+    Record: {
         id: string,
         collectionId: string,
         collectionName: string,
@@ -144,5 +144,30 @@ type MangaItem = {
         imageCid: string,
         isPinned: boolean,
         titleId: string,
+    }
+}
+
+type Images = {
+    page: number,
+    perPage: number,
+    totalPages: number,
+    totalItems: number,
+    items: Image[],
+}
+
+type Image = {
+    Record: {
+        id: string,
+        pageNumber: number,
+        img: string,
+        expand: any,
+        totalPages: number,
+        imageUri: string,
+        titleId: string,
+        chapterUri: string,
+        cid: string,
+        size: number,
+        chapterId: string,
+        isPinned: boolean,
     }
 }

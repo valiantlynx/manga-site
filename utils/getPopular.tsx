@@ -1,4 +1,4 @@
-import { pb } from '@/utils/pocketbase/pb';
+import { pb } from '@/utils/pb';
 
 async function getPopular(page: number) {
     try {

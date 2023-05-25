@@ -15,4 +15,3 @@ pb.authStore.onChange((auth) => {
     console.log('authStore changed', auth);
     // localStorage.setItem('currentUser', JSON.stringify(pb.authStore));
 });
-

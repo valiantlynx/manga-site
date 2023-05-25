@@ -1,9 +1,9 @@
 import '@/app/globals.css'
-import getMangaData from '@/utils/pocketbase/getMangaData';
+import getDetails from '@/utils/getDetails';
 
 export async function generateMetadata({ params }: { params: { id: string, titleId: string } }) {
   const { id, titleId } = params
-  const data: any = await getMangaData(id, titleId); // deduped
+  const data: any = await getDetails(id, titleId); // deduped
 
   if (!data) {
     return {
@@ -15,9 +15,6 @@ export async function generateMetadata({ params }: { params: { id: string, title
     title: titleId,
   }
 }
-
-
-
 
 export default function ChapterLayout({
   children,

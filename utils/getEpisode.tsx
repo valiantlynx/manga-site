@@ -1,18 +1,15 @@
-import axios from 'axios';
-import { URL } from './URLS';
+import { pb } from '@/utils/pb';
 
 async function getEpisode(id: string, titleId: string, chapterid: string) {
     try {
-        const response: any = await axios
-            .get(`${URL.MANGA}${id}/${titleId}/${chapterid}`, {
-                headers: { 'Access-Control-Allow-Origin': '*' },
-            })
-            .catch((error) => {
-                console.log(error);
-            });
+        // you can also fetch all records at once via getFullList
+        const records = await pb.collection('images').getFullList({
+            filter: `titleId="${titleId}" && chapterId="${chapterid}"`,
+            sort: '-created',
+        });
 
-        const chapterData: Chapter = response.data;
-        return chapterData.images;
+        const chapterImages = records;
+        return chapterImages;
     } catch (error) {
         console.log(error);
     }

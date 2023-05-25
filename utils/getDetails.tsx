@@ -1,19 +1,16 @@
-
-import { pb } from '@/utils/pocketbase/pb';
+import { pb } from '@/utils/pb';
 
 async function getDetails(id: string, titleId: string) {
-    console.log("id1: ", id);
-    console.log("titleId1: ", titleId);
     try {
         const record = await pb
-            .collection('chapters')
-            .getFirstListItem(`mangaParkId="${id}"`, {
-                expand: 'mangaId',
-            });
-
+        .collection('chapters')
+        .getFirstListItem(`mangaId="${id}"`, {
+            expand: 'mangaId',
+        });
         console.log("record: ", record);
 
-       
+        const mangaDetail: any = record;
+        return mangaDetail.items;
     } catch (error) {
         console.log(error);
     }
