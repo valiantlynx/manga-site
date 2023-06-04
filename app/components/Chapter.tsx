@@ -43,7 +43,7 @@ function Chapter({ mangaId, mangaTitle, chapterId, image, mangaParkId, chapterNa
                     </Link>
                 </div>
             </div>
-            <h3 className="text-lg font-bold mt-2">{chapterId}</h3>
+            <h3 className="text-lg font-bold mt-2">{chapterName}</h3>
         </div>
     )
 }

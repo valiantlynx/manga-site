@@ -23,7 +23,20 @@ async function MangaDetails({ params }: { params: { id: string, titleId: string 
     const fetchData = async () => {
       const result = await getDetails(id, titleId);
       setChapter(result?.record);
-      setChapterList(result?.records);
+
+      let chaptersGroupedByLanguage: any = {};
+      result?.records.forEach((record) => {
+        const chapterId = record.chapterId;
+        const language = chapterId.split('-')[1];
+
+        if (!chaptersGroupedByLanguage[language]) {
+          chaptersGroupedByLanguage[language] = [];
+        }
+
+        chaptersGroupedByLanguage[language].push(record);
+      });
+
+      setChapterList(chaptersGroupedByLanguage);
     };
     fetchData();
   }, [id, titleId]);
@@ -32,21 +45,28 @@ async function MangaDetails({ params }: { params: { id: string, titleId: string 
     { label: 'Home', url: '/' },
     { label: `${titleId}`, url: `/manga/${id}/${titleId}` },
   ];
-
-  // for the length of the chapterList, create a Chapter component
-  const chapters = chapterList?.map((chapter: any) => {
-    // console.log("chapter: ", chapter.src);
+  
+  const chapters = Object.keys(chapterList || {}).map((language) => {
     return (
-      <Chapter
-        key={chapter.id}
-        mangaTitle={mangaTitle}
-        chapterId={chapter.id}
-        image={image}
-        mangaId={mangaId}
-        mangaParkId={mangaParkId}
-        chapterName={chapter.chapterId}
-      />
-    )
+      <div key={language} className="my-4">
+        <h2 className="text-lg font-bold text-blue-600 mb-2">{language}</h2>
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4">
+          {chapterList[language].map((chapter: any) => {
+            return (
+              <Chapter
+                key={chapter.id}
+                mangaTitle={mangaTitle}
+                chapterId={chapter.id}
+                image={image}
+                mangaId={mangaId}
+                mangaParkId={mangaParkId}
+                chapterName={chapter.chapterId}
+              />
+            );
+          })}
+        </div>
+      </div>
+    );
   });
 
   return (
@@ -82,18 +102,17 @@ async function MangaDetails({ params }: { params: { id: string, titleId: string 
 
       <div className="mt-8">
         <h2 className="text-2xl font-bold mb-4">Chapters</h2>
-        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4">
+        <div className="flex flex-col gap-4">
           {chapters}
         </div>
       </div>
+
       <div className="flex flex-col items-center justify-center h-full w-full md:w-4/5 lg:w-4/5 xl:w-3/5 mx-auto  ">
-          <button onClick={() => {
-            populateDetails(mangaParkId, titleId)
-          }}
-            className="btn hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
-            Upload to Pocketbase
-          </button>
-        </div>
+        <button onClick={() => { populateDetails(mangaParkId, titleId) }}
+          className="btn hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+          Upload to Pocketbase
+        </button>
+      </div>
     </div>
   );
 }
