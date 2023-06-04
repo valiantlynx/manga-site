@@ -5,7 +5,7 @@ import Chapter from '@/app/components/Chapter';
 import getDetails from '@/utils/getDetails';
 import Image from 'next/image';
 import { useSearchParams } from 'next/navigation';
-
+import populateDetails from '@/utils/populateDetails';
 
 async function MangaDetails({ params }: { params: { id: string, titleId: string } }) {
   const { id, titleId }: any = params
@@ -16,6 +16,8 @@ async function MangaDetails({ params }: { params: { id: string, titleId: string 
   const image: any = searchParams.get('img');
   const mangaId: any = searchParams.get('mangaId');
   const mangaTitle: any = searchParams.get('mangaTitle');
+  const mangaParkId: any = searchParams.get('mangaParkId');
+  const chapterName: any = searchParams.get('chapterName');
 
   useEffect(() => {
     const fetchData = async () => {
@@ -23,7 +25,6 @@ async function MangaDetails({ params }: { params: { id: string, titleId: string 
       setChapter(result?.record);
       setChapterList(result?.records);
     };
-
     fetchData();
   }, [id, titleId]);
 
@@ -42,6 +43,8 @@ async function MangaDetails({ params }: { params: { id: string, titleId: string 
         chapterId={chapter.id}
         image={image}
         mangaId={mangaId}
+        mangaParkId={mangaParkId}
+        chapterName={chapter.chapterId}
       />
     )
   });
@@ -49,7 +52,6 @@ async function MangaDetails({ params }: { params: { id: string, titleId: string 
   return (
     <div className="container mx-auto px-4">
       <Breadcrumbs items={breadcrumbs} />
-
       <div className="flex flex-col md:flex-row">
         <div className="md:w-1/3">
           <Image src={image} alt={titleId} width={200} height={300} className="w-full h-auto" />
@@ -84,6 +86,14 @@ async function MangaDetails({ params }: { params: { id: string, titleId: string 
           {chapters}
         </div>
       </div>
+      <div className="flex flex-col items-center justify-center h-full w-full md:w-4/5 lg:w-4/5 xl:w-3/5 mx-auto  ">
+          <button onClick={() => {
+            populateDetails(mangaParkId, titleId)
+          }}
+            className="btn hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+            Upload to Pocketbase
+          </button>
+        </div>
     </div>
   );
 }

@@ -2,6 +2,7 @@ import Image from 'next/image'
 import Link from 'next/link'
 
 function Card({ child }: { child: any }) {
+    console.log("child: ", child);
     return (
         <Link
             href={{
@@ -10,6 +11,7 @@ function Card({ child }: { child: any }) {
                     img: child.img,
                     mangaId: child.id,
                     mangaTitle: child.titleId,
+                    mangaParkId: child.mangaParkId,
                  },
             }}
             aria-label={child.title}

@@ -1,9 +1,9 @@
 import Image from 'next/image';
 import Link from 'next/link';
 
-function Chapter({ mangaId, mangaTitle, chapterId, image }: { mangaTitle: string, mangaId: string, chapterId: number, image: string }) {
+function Chapter({ mangaId, mangaTitle, chapterId, image, mangaParkId, chapterName }: { mangaTitle: string, mangaId: string, chapterId: number, image: string, mangaParkId: string, chapterName: string }) {
     return (
-        <div  className="w-full md:w-10/12 lg:w-10/12 xl:w-10/12 p-4">
+        <div className="w-full md:w-10/12 lg:w-10/12 xl:w-10/12 p-4">
             <div className="relative">
                 <div className="h-48">
                     <Image
@@ -15,7 +15,15 @@ function Chapter({ mangaId, mangaTitle, chapterId, image }: { mangaTitle: string
                     />
                 </div>
                 <div className="absolute top-0 right-0 bottom-0 left-0 flex items-center justify-center">
-                    <Link href={`/manga/${mangaId}/${mangaTitle}/chapter/${chapterId}`}>
+                    <Link
+                        href={{
+                            pathname: `/manga/${mangaId}/${mangaTitle}/chapter/${chapterId}`,
+                            query: {
+                                mangaParkId,
+                                chapterName,
+                            },
+                        }}
+                    >
                         <div className="flex items-center justify-center bg-gray-800 bg-opacity-50 text-white text-lg font-bold rounded-full w-12 h-12">
                             <svg
                                 xmlns="http://www.w3.org/2000/svg"
