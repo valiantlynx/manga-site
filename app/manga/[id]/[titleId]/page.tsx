@@ -17,8 +17,7 @@ async function MangaDetails({ params }: { params: { id: string, titleId: string 
   const mangaId: any = searchParams.get('mangaId');
   const mangaTitle: any = searchParams.get('mangaTitle');
   const mangaParkId: any = searchParams.get('mangaParkId');
-  const chapterName: any = searchParams.get('chapterName');
-
+  
   useEffect(() => {
     const fetchData = async () => {
       const result = await getDetails(id, titleId);
@@ -45,7 +44,7 @@ async function MangaDetails({ params }: { params: { id: string, titleId: string 
     { label: 'Home', url: '/' },
     { label: `${titleId}`, url: `/manga/${id}/${titleId}` },
   ];
-  
+
   const chapters = Object.keys(chapterList || {}).map((language) => {
     return (
       <div key={language} className="my-4">
@@ -61,6 +60,7 @@ async function MangaDetails({ params }: { params: { id: string, titleId: string 
                 mangaId={mangaId}
                 mangaParkId={mangaParkId}
                 chapterName={chapter.chapterId}
+                chapterNumber={chapter.chapterNumber}
               />
             );
           })}
