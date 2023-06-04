@@ -13,7 +13,15 @@ function Carousel({ items }: CarouselProps) {
         key={index}
         className="carousel-item"
         aria-label={child.title}
-        href={`/manga/${child.mangaParkId}/${child.titleId}`}
+        href={{
+          pathname: `/manga/${child.mangaParkId}/${child.titleId}`,
+          query: { 
+              img: child.img,
+              mangaId: child.id,
+              mangaTitle: child.titleId,
+              mangaParkId: child.mangaParkId,
+           },
+      }}
       >
         <Image src={child.img} alt={child.title} width={200} height={200} />
       </Link>

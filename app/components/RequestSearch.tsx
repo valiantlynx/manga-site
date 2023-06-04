@@ -1,12 +1,12 @@
 "use client"
 import React from 'react'
-import getSearch from '@/utils/getSearch'
+import populateSearch from '@/utils/populateSearch'
 import { useState } from 'react'
 import Loading from '../loading'
 import Link from 'next/link'
 import Image from 'next/image'
 
-function Search() {
+function RequestSearch() {
     const [search, setSearch] = useState('')
     const [results, setResults] = useState([])
     const [loading, setLoading] = useState(false)
@@ -16,7 +16,7 @@ function Search() {
         setLoading(true)
 
         // fix this later search is not working
-        const results: any = await getSearch(1, e.target.value)
+        const results: any = await populateSearch(1, e.target.value)
         console.log("results search: ", results)
         setResults(results)
         
@@ -83,7 +83,7 @@ function Search() {
                                                             {/* {result.title.substring(0, 20) + '...' // Limit to 20 characters and add ellipsis
                                                             } */}
                                                             {result.title}
-                                                            <span className="badge badge-ghost badge-sm50">{result.id.substring(0, 10) + '...' // Limit to 20 characters and add ellipsis
+                                                            <span className="badge badge-ghost badge-sm50">{result.latestChapter.substring(0, 10) + '...' // Limit to 20 characters and add ellipsis
                                                             }</span>
                                                         </div>
                                                     </div>
@@ -103,4 +103,4 @@ function Search() {
     )
 }
 
-export default Search
+export default RequestSearch
