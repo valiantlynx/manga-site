@@ -117,6 +117,9 @@ type Chapters = {
     items: items[],
 
 }
+type CarouselProps = {
+    items: MangaItem[];
+};
 
 type MangaPocketbase = {
     page: number,
@@ -127,24 +130,22 @@ type MangaPocketbase = {
 }
 
 type MangaItem = {
-    Record: {
-        id: string,
-        collectionId: string,
-        collectionName: string,
-        created: Date,
-        updated: Date,
-        title: string,
-        img: string,
-        tags: string,
-        latestChapter: string,
-        src: string,
-        description: string,
-        author: string,
-        expand: any;
-        imageCid: string,
-        isPinned: boolean,
-        titleId: string,
-    }
+    id: string,
+    collectionId: string,
+    collectionName: string,
+    created: Date,
+    updated: Date,
+    title: string,
+    img: string,
+    tags: string,
+    latestChapter: string,
+    src: string,
+    description: string,
+    author: string,
+    expand: any;
+    imageCid: string,
+    isPinned: boolean,
+    titleId: string,
 }
 
 type Images = {

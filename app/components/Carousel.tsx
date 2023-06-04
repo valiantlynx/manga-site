@@ -1,27 +1,30 @@
 import Image from 'next/image'
 import Link from 'next/link'
 
-function Carousel({ mangaListArray }: any) {
-console.log("mangaListArray: ", mangaListArray)
-    const carouselItems = mangaListArray.map((child: any, index: number) => {
+function Carousel({ items }: CarouselProps) {
+  // Add this check
+  if (!items) {
+    return null;
+  }
 
-        return (
-            <Link
-                key={index}
-                className="carousel-item"
-                aria-label={child.title}
-                href={ `/manga/${child.mangaParkId}/${child.titleId}`}
-            >
-                <Image src={child.img} alt={child.title} width={200} height={200} />
-            </Link>
-        )
-    })
-
+  const carouselItems = items.map((child: any, index: number) => {
     return (
-        <div className="carousel carousel-center rounded-box">
-            {carouselItems}
-        </div>
+      <Link
+        key={index}
+        className="carousel-item"
+        aria-label={child.title}
+        href={`/manga/${child.mangaParkId}/${child.titleId}`}
+      >
+        <Image src={child.img} alt={child.title} width={200} height={200} />
+      </Link>
     )
+  })
+
+  return (
+    <div className="carousel carousel-center rounded-box">
+      {carouselItems}
+    </div>
+  )
 }
 
 export default Carousel

@@ -4,12 +4,13 @@ import Pagination from "../components/Pagination";
 
 
 function Grid({ mangaListArray, page, setPage }: any) {
-    // map through children and render each child as a card
-    const gridItems = mangaListArray.map((child: any, index: number) => {
-        return (
-            <Card key={index} child={child} />
-        )
-    })
+    const gridItems = mangaListArray 
+      ? mangaListArray.map((child: any, index: number) => {
+          return (
+              <Card key={index} child={child} />
+          )
+      })
+      : [];
 
     return (
         <>
@@ -19,8 +20,8 @@ function Grid({ mangaListArray, page, setPage }: any) {
             </div>
             <Pagination page={page} setPage={setPage} className=" hover" />
         </>
-
     )
 }
+
 
 export default Grid

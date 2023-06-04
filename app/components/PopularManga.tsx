@@ -17,8 +17,7 @@ export default function PopularManga() {
     useEffect(() => {
         async function getMangaList() {
             const mangaList: any = await getPopular(page);
-            console.log("mangaList: ", mangaList);
-            setMangaList(mangaList);
+            setMangaList(mangaList?.items);
         }
         getMangaList();
     }, [page]);

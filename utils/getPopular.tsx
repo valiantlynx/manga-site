@@ -1,21 +1,18 @@
-import { pb } from '@/utils/pb';
+import axios from 'axios';
+import { URL } from './URLS';
 
-async function getPopular(page: number) {
+async function populatePopular(page: Number) {
     try {
-       // fetch a paginated records list
-        const resultList = await pb
-            .collection('manga')
-            .getList(page, 15, {
-                sort: '-created',
-            })
+        const response = await axios.get(`${URL.BROWSE}${page}`,
+            { headers: { 'Access-Control-Allow-Origin': '*' } }
+        );
 
-        console.log("resultList: ", resultList);
-
-        const pocketbaseResults: MangaPocketbase = resultList;
-        return pocketbaseResults.items;
+        const results: PopularManga = response.data;
+      
+        return results.mangas;
     } catch (error) {
         console.log(error);
     }
 }
 
-export default getPopular;
+export default populatePopular;
