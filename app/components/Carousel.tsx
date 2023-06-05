@@ -14,7 +14,7 @@ function Carousel({ items }: CarouselProps) {
         className="carousel-item"
         aria-label={child.title}
         href={{
-          pathname: `/manga/${child.mangaParkId}/${child.titleId}`,
+          pathname: `/manga/${child.id}/${child.titleId}`,
           query: { 
               img: child.img,
               mangaId: child.id,
