@@ -29,13 +29,12 @@ function page() {
       </div>
       <div className="flex flex-col items-center justify-center my-10">
         <h3 className="text-xl font-bold">3. Chapter page</h3>
-        <p className="text-lg font-semibold">At the end of every chapter page, there is a button that says &quot;Request the chapter&quot;, just click it. If you refresh you&apos;ll see the chapters appear. Its Done if on refreshing there is no change</p>
+        <p className="text-lg font-semibold">At the end of every chapter page, there is a button that says &quot;Request the chapter&quot;, just click it. If you refresh you&apos;ll see the chapter images appear. Its Done if on refreshing there is no change</p>
       </div>
       <h2 className="text-2xl font-bold">You&apos;re Done!</h2>
       <div className="flex flex-col items-center justify-center my-10">
         <h2 className="text-2xl font-bold">One last thing</h2>
         <p className="text-xl font-semibold">You might see a button at the bottom of the homepage with the text &quot;Request all the manga in page *number*. This will populate all the 48 manga depending on the number you see. This is useful if you want to populate all the manga in a page. The lower the number the more popular the manga.</p>
-
       </div>
 
     </main>
