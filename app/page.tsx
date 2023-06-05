@@ -20,7 +20,7 @@ export default async function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-10 bg-base-200">
       <Carousel items={mangaList ? mangaList : []} />
-      <Grid mangaListArray={mangaList} page={page} setPage={setPage} />
+      <Grid mangaListArray={mangaList ? mangaList : []} page={page} setPage={setPage} />
       <div className="flex flex-col items-center justify-center h-full w-full md:w-4/5 lg:w-4/5 xl:w-3/5 mx-auto  ">
           <button onClick={() => {
             populatePopular(page);

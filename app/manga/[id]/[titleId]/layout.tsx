@@ -1,23 +1,21 @@
 import '@/app/globals.css'
 
 export function generateMetadata({ params }: { params: { id: string, titleId: string } }) {
-    const { id, titleId } = params
+  const { id, titleId } = params
 
-    return {
-      title: titleId,
-    }
+  return {
+    title: titleId,
   }
-
-
+}
 
 export default function ChapterLayout({
-    children,
+  children,
 }: {
-    children: React.ReactNode
+  children: React.ReactNode
 }) {
-    return (
-        <>
-            {children}
-        </>
-    )
+  return (
+    <>
+      {children}
+    </>
+  )
 }
