@@ -8,13 +8,15 @@ import { notFound } from "next/navigation"
 export default function PopularManga() {
     const [mangaList, setMangaList] = useState<MangaItem[]>([]);
     const [page, setPage] = useState<number>(1);
+    const [currentUrl, setCurrentUrl] = useState('');
 
     const breadcrumbs = [
         { label: 'Home', url: '/' },
-        { label: `Popular Manga`, url: `/popular` },
+        { label: `Popular Manga`, url: currentUrl },
     ];
 
     useEffect(() => {
+        setCurrentUrl(window.location.pathname + window.location.search);
         async function getMangaList() {
             const mangaList: any = await getPopular(page);
             setMangaList(mangaList?.items);

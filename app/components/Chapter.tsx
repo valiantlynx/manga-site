@@ -22,6 +22,7 @@ function Chapter({ mangaId, mangaTitle, chapterId, image, mangaParkId, chapterNa
                                 mangaParkId,
                                 chapterName,  
                                 chapterNumber,
+                                image
                             },
                         }}
                     >

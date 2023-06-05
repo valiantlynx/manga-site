@@ -12,6 +12,7 @@ async function MangaDetails({ params }: { params: { id: string, titleId: string 
   const [chapterList, setChapterList] = useState<any>(null);
   const [chapter, setChapter] = useState<any>(null);
   const searchParams = useSearchParams();
+  const [currentUrl, setCurrentUrl] = useState('');
 
   const image: any = searchParams.get('img');
   const mangaId: any = searchParams.get('mangaId');
@@ -19,6 +20,7 @@ async function MangaDetails({ params }: { params: { id: string, titleId: string 
   const mangaParkId: any = searchParams.get('mangaParkId');
   
   useEffect(() => {
+    setCurrentUrl(window.location.pathname + window.location.search);
     const fetchData = async () => {
       const result = await getDetails(id, titleId);
       console.log("results from getDetails", result)
@@ -43,7 +45,7 @@ async function MangaDetails({ params }: { params: { id: string, titleId: string 
 
   const breadcrumbs = [
     { label: 'Home', url: '/' },
-    { label: `${titleId}`, url: `/manga/${id}/${titleId}` },
+    { label: `${titleId}`, url: currentUrl },
   ];
 
   const chapters = Object.keys(chapterList || {}).map((language) => {
