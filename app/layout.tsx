@@ -1,6 +1,7 @@
 
 import Footer from './components/Footer'
 import Navbar from './components/Navbar'
+import SuccessAlert from './components/alerts/SuccessAlert';
 import './globals.css'
 import { Inter } from 'next/font/google'
 import Script from 'next/script';
@@ -48,6 +49,7 @@ export default function RootLayout({
 
       <body className={`${inter.className} bg-base-200`}>
         <Navbar />
+        <SuccessAlert message="Didn't find your manga? We have a request system, with a click of a button you'll get any manga within minutes!" />
         {children}
         <Footer />
       </body>

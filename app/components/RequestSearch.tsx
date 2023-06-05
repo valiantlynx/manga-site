@@ -29,7 +29,7 @@ function RequestSearch() {
     }
 
     return (
-        <form className="form-control" onSubmit={handleSubmit}>
+        <form className="form-control my-10" onSubmit={handleSubmit}>
             <div className="input-group dropdown ">
 
                 <input

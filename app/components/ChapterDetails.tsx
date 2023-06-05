@@ -177,7 +177,7 @@ function ChapterDetails({ params }: { params: { id: string, titleId: string, cha
             populateEpisode(mangaParkId, titleId, chapterName);
           }}
             className="btn hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
-            Upload to Pocketbase
+            Request the chapter
           </button>
         </div>
       </main>

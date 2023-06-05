@@ -122,7 +122,7 @@ function MangaDetails({ params }: { params: { id: string, titleId: string } }) {
       <div className="flex flex-col items-center justify-center h-full w-full md:w-4/5 lg:w-4/5 xl:w-3/5 mx-auto  ">
         <button onClick={() => { populateDetails(mangaParkId, titleId) }}
           className="btn hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
-          Upload to Pocketbase
+          Request the manga
         </button>
       </div>
     </div>
