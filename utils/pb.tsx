@@ -1,7 +1,7 @@
 "use client"
 import PocketBase from 'pocketbase';
 
-export const pb = new PocketBase('http://localhost:8080');
+export const pb = new PocketBase('https://analytics.valiantlynx.com');
 
 export let currentUser: Object | null;
 

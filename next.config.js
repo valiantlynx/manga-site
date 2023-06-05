@@ -9,7 +9,7 @@ const withPWA = require("next-pwa")({
 const nextConfig = {
     env: {
         key: process.env.COUNT_API_KEY,
-        URL: "http://localhost:3001/api/",
+        URL: "http://localhost:3800/api/",
         GA_MEASUREMENT_ID: "G-E1KHJ9LDW8",
     },
     images: {

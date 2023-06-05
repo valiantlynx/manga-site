@@ -8,7 +8,7 @@ import { useSearchParams } from 'next/navigation';
 import getDetails from '@/utils/getDetails';
 import Link from 'next/link';
 
-async function page({ params }: { params: { id: string, titleId: string, chapterid: string } }) {
+async function Chapter({ params }: { params: { id: string, titleId: string, chapterid: string } }) {
   const { id, titleId, chapterid } = params
   const [chapterList, setChapterList] = useState<any>(null);
   const searchParams = useSearchParams();
@@ -179,17 +179,4 @@ async function page({ params }: { params: { id: string, titleId: string, chapter
   );
 }
 
-export async function getServerSideProps(context: any) {
-  const { id, titleId, chapterid } = context.params;
-  const initialData = await getEpisode(id, titleId, chapterid);
-
-  return {
-    props: {
-      initialData,
-      params: { id, titleId, chapterid }
-    }
-  }
-}
-
-
-export default page;
+export default Chapter;

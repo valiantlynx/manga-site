@@ -117,16 +117,4 @@ async function MangaDetails({ params }: { params: { id: string, titleId: string 
   );
 }
 
-export const getServerSideProps = async (context: any) => {
-  const { id, titleId } = context.params;
-  const result = await getDetails(id, titleId);
-
-  return {
-    props: {
-      chapter: result?.record,
-      chapterList: result?.records,
-      params: { id, titleId },
-    },
-  };
-};
 export default MangaDetails
