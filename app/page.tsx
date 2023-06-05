@@ -11,15 +11,15 @@ export default async function Home() {
 
   useEffect(() => {
     async function getMangaList() {
-      const mangaList: any = await getPopular(page);
-      setMangaList(mangaList?.items);
+      const manga: any = await getPopular(page);
+      setMangaList(manga?.items);
     }
     getMangaList();
   }, [page]);
 
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-10 bg-base-200">
-      <Carousel items={mangaList} />
+      <Carousel items={mangaList ? mangaList : []} />
       <Grid mangaListArray={mangaList} page={page} setPage={setPage} />
       <div className="flex flex-col items-center justify-center h-full w-full md:w-4/5 lg:w-4/5 xl:w-3/5 mx-auto  ">
           <button onClick={() => {

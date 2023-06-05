@@ -7,7 +7,6 @@ async function getDetails(id: string, titleId: string) {
             .getFirstListItem(`mangaId="${id}"`, {
                 expand: 'mangaId',
             });
-
         // you can also fetch all records at once via getFullList
         const records = await pb.collection('chapters').getFullList({
             filter: `mangaId="${id}"`,

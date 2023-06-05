@@ -21,6 +21,7 @@ async function MangaDetails({ params }: { params: { id: string, titleId: string 
   useEffect(() => {
     const fetchData = async () => {
       const result = await getDetails(id, titleId);
+      console.log("results from getDetails", result)
       setChapter(result?.record);
 
       let chaptersGroupedByLanguage: any = {};
