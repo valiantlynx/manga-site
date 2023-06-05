@@ -17,6 +17,7 @@ const nextConfig = {
             "gogocdn.net",
             "daisyui.com",
             "localhost",
+            "pocketbase-upload-maga-production.up.railway.app",
         ],
         remotePatterns: [
             {
