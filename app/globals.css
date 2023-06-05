@@ -6,6 +6,8 @@
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
   --background-end-rgb: 255, 255, 255;
+  --secondary-color: bg-secondary;
+  --secondary-content-color: text-secondary-content;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -13,6 +15,8 @@
     --foreground-rgb: 255, 255, 255;
     --background-start-rgb: 0, 0, 0;
     --background-end-rgb: 0, 0, 0;
+    --secondary-color: 78, 114, 163;;
+    --secondary-content-color: 255, 255, 255;
   }
 }
 
@@ -25,3 +29,14 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+details[open] .collapse-title {
+  background-color: var(--secondary-color) !important;
+  /* color: var(--secondary-content-color) !important; */
+}
+
+details[open] .grid {
+  background-color: var(--secondary-color) !important;
+  /* color: var(--secondary-content-color) !important; */
+}
+

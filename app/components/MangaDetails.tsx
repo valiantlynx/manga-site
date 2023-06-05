@@ -18,7 +18,7 @@ function MangaDetails({ params }: { params: { id: string, titleId: string } }) {
   const mangaId: any = searchParams.get('mangaId');
   const mangaTitle: any = searchParams.get('mangaTitle');
   const mangaParkId: any = searchParams.get('mangaParkId');
-  
+
   useEffect(() => {
     setCurrentUrl(window.location.pathname + window.location.search);
     const fetchData = async () => {
@@ -50,9 +50,15 @@ function MangaDetails({ params }: { params: { id: string, titleId: string } }) {
 
   const chapters = Object.keys(chapterList || {}).map((language) => {
     return (
-      <div key={language} className="my-4">
-        <h2 className="text-lg font-bold text-blue-600 mb-2">{language}</h2>
-        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4">
+      <details
+        className="collapse bg-base-200 my-4"
+        key={language}
+      >
+        <summary className="collapse-title text-xl font-bold bg-primary text-primary-content">
+          Language - {language}
+        </summary>
+
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4 bg-primary text-primary-content">
           {chapterList[language].map((chapter: any) => {
             return (
               <Chapter
@@ -68,7 +74,10 @@ function MangaDetails({ params }: { params: { id: string, titleId: string } }) {
             );
           })}
         </div>
-      </div>
+      </details>
+
+
+
     );
   });
 
