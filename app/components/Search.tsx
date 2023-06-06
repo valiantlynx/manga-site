@@ -5,26 +5,31 @@ import { useState } from 'react'
 import Loading from '../loading'
 import Link from 'next/link'
 import Image from 'next/image'
+import debounce from 'lodash/debounce';
 
 function Search() {
     const [search, setSearch] = useState('')
     const [results, setResults] = useState([])
     const [loading, setLoading] = useState(false)
 
-    async function handleChange(e: React.ChangeEvent<HTMLInputElement>) {
-        setSearch(e.target.value)
-        setLoading(true)
+    // Debounced function that will be called after a delay
+    const debouncedSearch = debounce(async (value: string) => {
+        const results: any = await getSearch(1, value);
+        setResults(results);
+        setLoading(false);
+    }, 300); // Delay of 300 milliseconds
 
-        // fix this later search is not working
-        const results: any = await getSearch(1, e.target.value)
-        setResults(results)
-        
-        setLoading(false)
+    async function handleChange(e: React.ChangeEvent<HTMLInputElement>) {
+        const value = e.target.value;
+        setSearch(value);
+        setLoading(true);
+
+        debouncedSearch(value);
     }
 
     function handleSubmit(e: React.FormEvent<HTMLFormElement>) {
         e.preventDefault()
-       // send the user to the search page or the manga page if there is only one result or something
+        // send the user to the search page or the manga page if there is only one result or something
     }
 
     return (
@@ -52,18 +57,18 @@ function Search() {
                                 {loading && (
                                     <Loading />
                                 )}
-                                {results.length >= 0 && (
+                                {results?.length >= 0 && (
                                     results.map((result: any) => (
                                         <tr key={result.id}>
                                             <Link
                                                 href={{
                                                     pathname: `/manga/${result.id}/${result.titleId}`,
-                                                    query: { 
+                                                    query: {
                                                         img: result.img,
                                                         mangaId: result.id,
                                                         mangaTitle: result.titleId,
                                                         mangaParkId: result.mangaParkId,
-                                                     },
+                                                    },
                                                 }}
                                             >
                                                 <td>
