@@ -9,7 +9,7 @@ const withPWA = require("next-pwa")({
 const nextConfig = {
     env: {
         key: process.env.COUNT_API_KEY,
-        URL: "https://uploader-valiantlynxz.b4a.run/api/",
+        URL: "https://pocketbase-upload-maga-production.up.railway.app/api/",
         GA_MEASUREMENT_ID: "G-E1KHJ9LDW8",
         CLARITY_KEY: "h6i9jxcrem",
     },
@@ -19,7 +19,6 @@ const nextConfig = {
             "daisyui.com",
             "localhost",
             "pocketbase-upload-maga-production.up.railway.app",
-            "uploader-valiantlynxz.b4a.run"
         ],
         remotePatterns: [
             {
