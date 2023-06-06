@@ -1,5 +1,5 @@
 "use client"
-import Search from "./Search"
+import Search from "@/app/components/Search"
 import Link from "next/link"
 import Image from "next/image"
 
