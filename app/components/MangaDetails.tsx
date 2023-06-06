@@ -128,4 +128,17 @@ function MangaDetails({ params }: { params: { id: string, titleId: string } }) {
   );
 }
 
+export async function getServerSideProps({ params }: { params: { id: string, titleId: string } }) {
+  const { id, titleId }: any = params
+  return {
+    props: {
+      params: {
+        id,
+        titleId
+      }
+    }
+  }
+}
+
+
 export default MangaDetails
