@@ -30,7 +30,7 @@ function Search() {
 
     return (
         <form className="form-control" onSubmit={handleSubmit}>
-            <div className="input-group dropdown ">
+            <div className="input-group dropdown text-base-content">
 
                 <input
                     type="text"

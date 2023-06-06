@@ -82,7 +82,7 @@ function MangaDetails({ params }: { params: { id: string, titleId: string } }) {
   });
 
   return (
-    <div className="container mx-auto px-4">
+    <div className="container mx-auto px-4 text-base-content">
       <Breadcrumbs items={breadcrumbs} />
       <div className="flex flex-col md:flex-row">
         <div className="md:w-1/3">

@@ -3,7 +3,7 @@ import Link from 'next/link';
 
 function Chapter({ mangaId, mangaTitle, chapterId, image, mangaParkId, chapterName, chapterNumber }: { mangaTitle: string, mangaId: string, chapterId: number, image: string, mangaParkId: string, chapterName: string, chapterNumber: number }) {
     return (
-        <div className="w-full md:w-10/12 lg:w-10/12 xl:w-10/12 p-4">
+        <div className="w-full md:w-10/12 lg:w-10/12 xl:w-10/12 p-4 text-base-content">
             <div className="relative">
                 <div className="h-48">
                     <Image

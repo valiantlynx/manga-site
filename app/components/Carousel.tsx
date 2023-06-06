@@ -11,7 +11,7 @@ function Carousel({ items }: CarouselProps) {
     return (
       <Link
         key={index}
-        className="carousel-item"
+        className="carousel-item text-base-content"
         aria-label={child.title}
         href={{
           pathname: `/manga/${child.id}/${child.titleId}`,

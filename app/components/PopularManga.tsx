@@ -27,7 +27,7 @@ export default function PopularManga() {
 
     if (!mangaList) {
         return (
-            <div className="container mx-auto px-4">
+            <div className="container mx-auto px-4 ">
                 <Breadcrumbs items={breadcrumbs} />
                 <h1 className="text-3xl font-bold mt-8 mb-4">Popular Manga - Page {page}</h1>
                 <p>No manga found.</p>
@@ -36,7 +36,7 @@ export default function PopularManga() {
     }
 
     return (
-        <div className="container mx-auto px-4">
+        <div className="container mx-auto px-4 text-base-content">
             <Breadcrumbs items={breadcrumbs} />
             <h1 className="text-3xl font-bold mt-8 mb-4">Popular Manga - Page {page}</h1>
             <Grid mangaListArray={mangaList} page={page} setPage={setPage} />

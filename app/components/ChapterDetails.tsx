@@ -82,7 +82,7 @@ function ChapterDetails({ params }: { params: { id: string, titleId: string, cha
 
   return (
     <div>
-      <main className="flex-grow bg-gray-900">
+      <main className="flex-grow bg-gray-900 text-base-content">
         <Breadcrumbs items={breadcrumbs} />
         <div className="dropdown">
           <label tabIndex={0} className="btn m-1">Chapters:</label>

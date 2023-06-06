@@ -15,7 +15,7 @@ function Card({ child }: { child: any }) {
                 },
             }}
             aria-label={child.title}
-            className="card"
+            className="card text-base-content"
         >
             <figure>
                 <Image
