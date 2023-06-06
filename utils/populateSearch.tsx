@@ -1,12 +1,12 @@
 import axios from 'axios';
 import { URL } from './URLS';
 
-async function getSearch(page: Number, word: String) {
+async function getSearch(page: Number, word: String, action: String) {
     try {
         if (word.length === 0) {
             return [];
         }
-        const response = await axios.get(`${URL.SEARCH}${word}/${page}`,
+        const response = await axios.get(`${URL.SEARCH}${word}/${page}/${action}`,
             { headers: { 'Access-Control-Allow-Origin': '*' } }
         );
 

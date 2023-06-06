@@ -16,19 +16,26 @@ function RequestSearch() {
         setLoading(true)
 
         // fix this later search is not working
-        const results: any = await populateSearch(1, e.target.value)
+        const results: any = await populateSearch(1, e.target.value, 'see')
         setResults(results)
-        
+
         setLoading(false)
     }
 
-    function handleSubmit(e: React.FormEvent<HTMLFormElement>) {
+    async function handleSubmit(e: React.FormEvent<HTMLFormElement>) {
         e.preventDefault()
-       // send the user to the search page or the manga page if there is only one result or something
+        // send the user to the search page or the manga page if there is only one result or something
+        // fix this later search is not working
+        const results: any = await populateSearch(1, search, 'populate')
+        setResults(results)
     }
 
     return (
-        <form className="form-control my-10" onSubmit={handleSubmit}>
+        <form
+            className="form-control my-10"
+            onSubmit={handleSubmit}
+
+        >
             <div className="input-group dropdown text-base-content ">
 
                 <input
@@ -38,7 +45,10 @@ function RequestSearch() {
                     value={search}
                     onChange={handleChange}
                 />
-                <button className="btn btn-square">
+                <button
+                    className="btn btn-square"
+                    type="submit"
+                >
                     <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" /></svg>
                 </button>
 
@@ -58,12 +68,12 @@ function RequestSearch() {
                                             <Link
                                                 href={{
                                                     pathname: `/manga/${result.id}/${result.titleId}`,
-                                                    query: { 
+                                                    query: {
                                                         img: result.img,
                                                         mangaId: result.id,
                                                         mangaTitle: result.titleId,
                                                         mangaParkId: result.mangaParkId,
-                                                     },
+                                                    },
                                                 }}
                                             >
                                                 <td>
