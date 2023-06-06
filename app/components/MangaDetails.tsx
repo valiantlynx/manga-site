@@ -140,5 +140,4 @@ export async function getServerSideProps({ params }: { params: { id: string, tit
   }
 }
 
-
 export default MangaDetails

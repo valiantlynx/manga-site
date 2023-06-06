@@ -8,7 +8,7 @@ import { useSearchParams } from 'next/navigation';
 import getDetails from '@/utils/getDetails';
 import Link from 'next/link';
 
-function ChapterDetails({ params }: { params: { id: string, titleId: string, chapterid: string }}) {
+function ChapterDetails({ params }: { params: { id: string, titleId: string, chapterid: string } }) {
   const { id, titleId, chapterid } = params ? params : { id: '', titleId: '', chapterid: '' };
   const [currentUrl, setCurrentUrl] = useState('');
 
@@ -183,6 +183,19 @@ function ChapterDetails({ params }: { params: { id: string, titleId: string, cha
       </main>
     </div>
   );
+}
+
+export async function getServerSideProps({ params }: { params: { id: string, titleId: string, chapterid: string } }) {
+  const { id, titleId, chapterid }: any = params
+  return {
+    props: {
+      params: {
+        id,
+        titleId,
+        chapterid
+      }
+    }
+  }
 }
 
 export default ChapterDetails;
