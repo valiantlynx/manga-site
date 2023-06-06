@@ -23,7 +23,6 @@ function MangaDetails({ params }: { params: { id: string, titleId: string } }) {
     setCurrentUrl(window.location.pathname + window.location.search);
     const fetchData = async () => {
       const result = await getDetails(id, titleId);
-      console.log("results from getDetails", result)
       setChapter(result?.record);
 
       let chaptersGroupedByLanguage: any = {};

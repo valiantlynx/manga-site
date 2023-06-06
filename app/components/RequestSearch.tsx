@@ -17,7 +17,6 @@ function RequestSearch() {
 
         // fix this later search is not working
         const results: any = await populateSearch(1, e.target.value)
-        console.log("results search: ", results)
         setResults(results)
         
         setLoading(false)
