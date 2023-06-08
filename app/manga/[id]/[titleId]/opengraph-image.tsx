@@ -1,6 +1,5 @@
 import { pb } from '@/utils/pb';
 import { ImageResponse } from "next/server";
-import Image from 'next/image';
 
 export const size = {
     width: 300,
@@ -20,11 +19,14 @@ export default async function og({ params }: Props) {
         expand: 'relField1,relField2.subRelField',
     });
     const date: any = record?.updated
+
+    console.log("record", record);
     
     return new ImageResponse(
         (
             <div tw="relative flex items-center justify-center">
-                <Image src={record?.img} alt={record?.title} />
+                 {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img src={record?.img} alt={record?.title} />
                 <div tw="absolute flex bg-black opacity-10 inset-0 " />
                 <div tw="absolute flex items-center top-2 w-full ">
                     <p tw="text-white text-xl flex font-bold m-5">{record?.title}</p>
