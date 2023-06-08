@@ -1,2 +1,4 @@
-User-agent: *
-allow: /
+User-Agent: *
+Allow: /
+
+Sitemap: https://animevariant.org/sitemap.xml

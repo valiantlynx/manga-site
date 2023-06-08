@@ -92,7 +92,10 @@ function ChapterDetails({ params }: { params: { id: string, titleId: string, cha
                 <li key={chapter.id} value={chapter.chapterNumber}>
                   <Link href={{
                     pathname: `/manga/${id}/${titleId}/chapter/${chapter.id}`,
-                    query: { mangaParkId, chapterName: chapter.chapterId, chapterNumber: chapter.chapterNumber },
+                    query: { 
+                      mangaParkId, 
+                      chapterName: chapter.chapterId, 
+                      chapterNumber: chapter.chapterNumber },
                   }}
                     className="join-item btn btn-outline"
                   >{chapter.chapterNumber}</Link>
@@ -161,7 +164,10 @@ function ChapterDetails({ params }: { params: { id: string, titleId: string, cha
                 <li key={chapter.id} value={chapter.chapterNumber}>
                   <Link href={{
                     pathname: `/manga/${id}/${titleId}/chapter/${chapter.id}`,
-                    query: { mangaParkId, chapterName: chapter.chapterId, chapterNumber: chapter.chapterNumber },
+                    query: { 
+                      mangaParkId, 
+                      chapterName: chapter.chapterId, 
+                      chapterNumber: chapter.chapterNumber },
                   }}
                     className="join-item btn btn-outline"
                   >{chapter.chapterNumber}</Link>

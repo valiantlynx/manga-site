@@ -10,17 +10,17 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
   title: {
-    default: 'AnimeVariant read manga online free',
-    template: '%s | AnimeVariant read manga online free',
+    default: 'Animevariant read manga online free',
+    template: '%s | Animevariant read manga online free',
   },
   description: 'Read the latest manga online for free at animevariant.org, update fastest, most full, synthesized 24h free with high-quality images and be the first one to publish new chapters.',
   keywords: ['manga', 'read manga', 'read manga online', 'request manga', 'manga reading website', 'populate manga', 'manga online', 'manga', 'manga details', 'manga chapters', 'read manga free', 'manga free', 'read free manga', 'read free manga online', 'manga reader', 'manga viewer', 'manga scans', 'animevariant', 'AnimeVariant.org'],
   creator: 'Valiantlynx',
-  aplicattionName: 'AnimeVariant',
+  aplicattionName: 'Animevariant',
   referrer: 'origin-when-cross-origin',
   authors: [{ name: 'Valiantlynx', url: 'https://valiantlynx.com' }],
   formatDetection: {
-    email: false,
+    email: true,
     address: false,
     telephone: false,
   },
@@ -28,12 +28,18 @@ export const metadata = {
   alternates: {
     canonical: '/',
     languages: {
-      'en-US': '/en-US',
       'de-DE': '/de-DE',
     },
   },
   openGraph: {
     images: '/og-image.png',
+    type: 'website',
+    locale: 'en_US',
+  },
+  verification: {
+    google: `google-site-verification=${process.env.GOOGLE_VERIFICATION}`,
+    bing: `msvalidate.01=${process.env.BING_VERIFICATION}`,
+    yandex: `${process.env.YANDEX_VERIFICATION}`,
   },
 
 }
@@ -45,8 +51,6 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-
-
       <body className={`${inter.className} bg-base-200`}>
         <Navbar />
         <SuccessAlert message="Didn't find your manga? We have a request system, with a click of a button you'll get any manga within minutes!" />

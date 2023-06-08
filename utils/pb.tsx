@@ -1,4 +1,4 @@
-"use client"
+
 import PocketBase from 'pocketbase';
 
 export const pb = new PocketBase('https://analytics.valiantlynx.com');

@@ -55,6 +55,10 @@ USER nextjs
 
 EXPOSE 3000
 
+# environment variables
 ENV PORT 3000
+ENV GA_MEASUREMENT_ID G-E1KHJ9LDW8
+ENV CLARITY_KEY h6i9jxcrem
+ENV URL https://pocketbase-upload-maga-production.up.railway.app/api/
 
 CMD ["node", "server.js"]
