@@ -6,7 +6,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
   // you can also fetch all records at once via getFullList
   const records: any = await pb.collection('manga').getFullList({
-    sort: '-created',
+    sort: '-updated',
   });
   const mangaUrls = records?.map((manga: any) => {
     // & is not a valid character in XML, so replace with &amp;
