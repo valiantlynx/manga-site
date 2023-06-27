@@ -22,6 +22,8 @@ const nextConfig = {
             "daisyui.com",
             "localhost",
             "pocketbase-upload-maga-production.up.railway.app",
+            "animevariant.org", 
+            "animevariant.com",
         ],
         remotePatterns: [
             {
