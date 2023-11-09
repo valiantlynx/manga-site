@@ -40,7 +40,7 @@
 		"svelte-routing": "^1.11.0",
 		"tailwind-config": "*",
 		"tailwindcss": "^3.3.2",
-		"three": "^0.155.0",
+		"three": "^0.158.0",
 		"tsconfig": "*",
 		"tslib": "^2.4.1",
 		"typescript": "^5.2.2",
