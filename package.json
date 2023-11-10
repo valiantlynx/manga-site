@@ -4,7 +4,11 @@
   "license": "MIT",
   "files": ["dist"],
   "scripts": {
-    "build": "rm -rf dist && mkdir dist && cp base.json nextjs.json react-library.json ts-library.json svelte.json dist/"
+    "build": "rm -rf dist && mkdir dist && cp base.json nextjs.json react-library.json ts-library.json svelte.json dist/",
+    "changeset": "changeset",
+    "publish:packages": "changeset publish",
+    "version:packages": "changeset version",
+    "release": "yarn version:packages && yarn publish:packages"
   },
   "publishConfig": {
     "access": "public"
