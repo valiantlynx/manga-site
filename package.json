@@ -1,6 +1,6 @@
 {
   "name": "@valiantlynx/general-config",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "license": "MIT",
   "scripts": {
     "build": "tsup",
@@ -31,6 +31,6 @@
     "fff-flavored-frontmatter": "^1.1.0",
     "tsup": "^7.2.0",
     "typescript": "^5.2.2",
-    "@valiantlynx/tsconfig": "^0.0.2"
+    "@valiantlynx/tsconfig": "^0.0.3"
   }
 }
