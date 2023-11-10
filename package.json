@@ -1,0 +1,16 @@
+{
+  "name": "@valiantlynx/tsconfig",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {
+    "build": "mkdir -p dist && cp base.json nextjs.json react-library.json ts-library.json svelte.json dist/"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "./dist/base.json",
+  "dependencies": {
+    "tsup": "^7.2.0",
+    "typescript": "^5.2.2"
+  }
+}
