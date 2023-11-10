@@ -19,8 +19,9 @@
     "eslint": "^8.48.0",
     "prettier": "^3.0.3",
     "prettier-plugin-tailwindcss": "^0.5.3",
-    "@valiantlynx/tsconfig": "*",
-    "turbo": "latest"
+    "turbo": "latest",
+    "@changesets/cli": "^2.26.2",
+    "@valiantlynx/tsconfig": "^0.0.2"
   },
   "workspaces": [
     "apps/*",
@@ -32,8 +33,5 @@
   "engines": {
     "node": ">=18.0.0",
     "npm": ">=7.0.0"
-  },
-  "dependencies": {
-    "@changesets/cli": "^2.26.2"
   }
 }
