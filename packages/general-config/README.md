@@ -14,4 +14,5 @@ e.g. themes, colors, fonts, etc.
 
 
 # usage of changeset
+- `git tag -l`
 - `yarn changeset`
