@@ -1319,14 +1319,17 @@
   resolved "https://registry.npmjs.org/@valiantlynx/image/-/image-0.0.2.tgz"
   integrity sha512-cthhGEd+g4FHfqrszd/cD6ubbJdQdWvHloviWraIifdp/xcmp9KvyTXJQKo4XoFKDFt9hXzsm2DQHy2hbXyWOw==
 
-"@valiantlynx/svelte-rich-text@^0.0.4":
-  version "0.0.4"
-  resolved "https://registry.yarnpkg.com/@valiantlynx/svelte-rich-text/-/svelte-rich-text-0.0.4.tgz#b1b100abe499c50fbc966bfa4bbd7fdb7e949978"
-  integrity sha512-A91xAjX5CgX9CfMexL+E1FDWVbEjWWxN8dfLp0VYhEBXcE8wRJU4Ckcrdj1foEJpBZzRJP4vxddSM495kCSPHA==
+"@valiantlynx/tsconfig@^0.0.2":
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/@valiantlynx/tsconfig/-/tsconfig-0.0.2.tgz#570b580f8ba31feb15954f87e4b3e5ad2d213a6c"
+  integrity sha512-Qo9Utq/BOnsZwNcvGtsJPC86a2dpFvLMPNXH2jERU/oZFVPilsSF3kci5LZf7VqGYsf3OnEKHu1DdsdUiC94uA==
   dependencies:
-    short-uuid "^4.2.2"
-    svelte-highlight "^7.4.1"
-    svelte-select "^5.7.0"
+    "@changesets/cli" "^2.26.2"
+
+"@valiantlynx/tsconfig@^0.0.4":
+  version "0.0.4"
+  resolved "https://registry.yarnpkg.com/@valiantlynx/tsconfig/-/tsconfig-0.0.4.tgz#3430b28f8ceb21d85c99a3bf528cf4a43f6705ec"
+  integrity sha512-uAmxRHzxpW73jS+TI9+MgAMDEz8rXcFwOUmg183gGXxst+njKgxWte5KmZoprRBXWCFk13RtuQQDBnWaaQLbQg==
 
 "@vercel/nft@^0.23.0":
   version "0.23.1"
@@ -5909,10 +5912,10 @@ thenify-all@^1.0.0:
   dependencies:
     any-promise "^1.0.0"
 
-three@^0.158.0:
-  version "0.158.0"
-  resolved "https://registry.yarnpkg.com/three/-/three-0.158.0.tgz#03ddd5b60ce9c31be8fb69f27a6d9efd49908ac3"
-  integrity sha512-TALj4EOpdDPF1henk2Q+s17K61uEAAWQ7TJB68nr7FKxqwyDr3msOt5IWdbGm4TaWKjrtWS8DJJWe9JnvsWOhQ==
+three@^0.155.0:
+  version "0.155.0"
+  resolved "https://registry.yarnpkg.com/three/-/three-0.155.0.tgz#cca9b8ad817830c8b4fdd8f0d9a12a2e413a2672"
+  integrity sha512-sNgCYmDijnIqkD/bMfk+1pHg3YzsxW7V2ChpuP6HCQ8NiZr3RufsXQr8M3SSUMjW4hG+sUk7YbyuY0DncaDTJQ==
 
 tiny-glob@^0.2.9:
   version "0.2.9"
