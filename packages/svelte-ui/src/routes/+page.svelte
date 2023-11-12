@@ -1,7 +1,11 @@
+<script>
+	import SideBarIcon from "$lib/components/SideBarIcon.svelte";
 
-<h1>Welcome to your library project</h1>
-<p>Create your package using @sveltejs/package and preview/showcase your work with SvelteKit</p>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+</script>
 
+<h1>Svelte ui components</h1>
+
+<h2>SideBarIcon</h2>
+<SideBarIcon tooltip="Profile" icon="iconoir:profile-circle" />
 
 

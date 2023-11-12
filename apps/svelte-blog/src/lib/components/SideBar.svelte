@@ -1,5 +1,5 @@
 <script>
-	import {SideBarIcon} from '@valiantlynx/svelte-ui';
+	import { SideBarIcon } from '@valiantlynx/svelte-ui';
 	import { page } from '$app/stores';
 </script>
 
