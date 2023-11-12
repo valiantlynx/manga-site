@@ -1,6 +1,6 @@
 {
   "name": "@valiantlynx/tsconfig",
-  "version": "0.0.12",
+  "version": "0.0.17",
   "license": "MIT",
   "files": [
     "dist"
@@ -8,8 +8,9 @@
   "scripts": {
     "build": "rm -rf dist && mkdir dist && cp base.json nextjs.json react-library.json ts-library.json svelte.json noentry.js dist/",
     "changeset": "changeset",
+    "publish:packages": "changeset publish",
     "version:packages": "changeset version",
-    "release": "changeset publish"
+    "release": "yarn version:packages && yarn publish:packages"
   },
   "publishConfig": {
     "access": "public"

@@ -1309,27 +1309,15 @@
   resolved "https://registry.yarnpkg.com/@ungap/structured-clone/-/structured-clone-1.2.0.tgz#756641adb587851b5ccb3e095daf27ae581c8406"
   integrity sha512-zuVdFrMJiuCDQUMCzQaD6KL28MjnqqN8XnAqiEq9PNm/hCPTSGfrXCOfwj1ow4LFb/tNymJPwsNbVePc1xFqrQ==
 
-"@valiantlynx/general-config@^0.0.2":
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/@valiantlynx/general-config/-/general-config-0.0.2.tgz#c36c6c9dfc0b0de66169b2f4e0204b4ca44749d7"
-  integrity sha512-yxwxcdlj/eYKHSIB1ywHZ6ogpYx42TmQytLX7K0Y/lV04S3kgijDfI35joN+bpZ1HszheBXiR9DXGJAF23/EjQ==
-
 "@valiantlynx/image@^0.0.2":
   version "0.0.2"
   resolved "https://registry.npmjs.org/@valiantlynx/image/-/image-0.0.2.tgz"
   integrity sha512-cthhGEd+g4FHfqrszd/cD6ubbJdQdWvHloviWraIifdp/xcmp9KvyTXJQKo4XoFKDFt9hXzsm2DQHy2hbXyWOw==
 
-"@valiantlynx/tsconfig@^0.0.2":
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/@valiantlynx/tsconfig/-/tsconfig-0.0.2.tgz#570b580f8ba31feb15954f87e4b3e5ad2d213a6c"
-  integrity sha512-Qo9Utq/BOnsZwNcvGtsJPC86a2dpFvLMPNXH2jERU/oZFVPilsSF3kci5LZf7VqGYsf3OnEKHu1DdsdUiC94uA==
-  dependencies:
-    "@changesets/cli" "^2.26.2"
-
-"@valiantlynx/tsconfig@^0.0.4":
-  version "0.0.4"
-  resolved "https://registry.yarnpkg.com/@valiantlynx/tsconfig/-/tsconfig-0.0.4.tgz#3430b28f8ceb21d85c99a3bf528cf4a43f6705ec"
-  integrity sha512-uAmxRHzxpW73jS+TI9+MgAMDEz8rXcFwOUmg183gGXxst+njKgxWte5KmZoprRBXWCFk13RtuQQDBnWaaQLbQg==
+"@valiantlynx/tsconfig@0.0.12", "@valiantlynx/tsconfig@^0.0.12":
+  version "0.0.12"
+  resolved "https://registry.yarnpkg.com/@valiantlynx/tsconfig/-/tsconfig-0.0.12.tgz#dec44fe2d9e725741b6fc2044854fdd221570c72"
+  integrity sha512-R8eP+1UnI1KRuv+UhOU1T22bbTz0t56QYzsbIskUw2EadTWEvIVHopABUhLMPiMGSrwjSI/0JXJ2oYqLKO07JQ==
 
 "@vercel/nft@^0.23.0":
   version "0.23.1"

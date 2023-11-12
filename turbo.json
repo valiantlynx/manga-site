@@ -22,6 +22,9 @@
     "package": {
       "dependsOn": [ "^build"]
     },
+    "release": {
+      "dependsOn": [ "^build"]
+    },
     "python": {
       "dependsOn": ["python:pip"]
     },
