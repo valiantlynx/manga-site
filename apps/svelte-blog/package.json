@@ -36,10 +36,8 @@
 		"tailwindcss": "^3.3.5",
 		"tslib": "^2.4.1",
 		"typescript": "^5.2.2",
-		"vite": "^4.4.2"
+		"vite": "^4.4.2",
+		"@valiantlynx/svelte-ui": "^0.0.2"
 	},
-	"type": "module",
-	"dependencies": {
-		"@valiantlynx/svelte-ui": "^0.0.1"
-	}
+	"type": "module"
 }

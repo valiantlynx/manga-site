@@ -1,8 +1,8 @@
 <script>
 	import { enhance, applyAction } from '$app/forms';
 	import { invalidateAll } from '$app/navigation';
-	import Modal from '$lib/components/Modal.svelte';
-	import Input from '$lib/components/Input.svelte';
+	import {Modal} from '@valiantlynx/svelte-ui';
+	import {Input} from '@valiantlynx/svelte-ui';
 	import { page } from '$app/stores';
 
 	let emailModalOpen;

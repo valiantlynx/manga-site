@@ -1,6 +1,6 @@
 <script>
 	import { enhance } from '$app/forms';
-	import Modal from '$lib/components/Modal.svelte';
+	import {Modal} from '@valiantlynx/svelte-ui';
 	import { getImageURL } from '$lib/utils/api';
 	import toast from 'svelte-french-toast';
 	export let project;
