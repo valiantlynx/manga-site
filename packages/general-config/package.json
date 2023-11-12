@@ -1,6 +1,6 @@
 {
   "name": "@valiantlynx/general-config",
-  "version": "0.0.10",
+  "version": "0.0.12",
   "license": "MIT",
   "files": [
     "dist"
@@ -13,7 +13,7 @@
     "changeset": "changeset",
     "publish:packages": "changeset publish",
     "version:packages": "changeset version",
-    "release": "yarn build && yarn version:packages && yarn publish:packages"
+    "release": "yarn build && yarn publish:packages"
   },
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -34,6 +34,6 @@
     "fff-flavored-frontmatter": "^1.1.0",
     "tsup": "^7.2.0",
     "typescript": "^5.2.2",
-    "@valiantlynx/tsconfig": "^0.0.21"
+    "@valiantlynx/tsconfig": "^0.0.22"
   }
 }

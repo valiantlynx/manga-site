@@ -1,12 +1,12 @@
 {
   "name": "@valiantlynx/tsconfig",
-  "version": "0.0.21",
+  "version": "0.0.24",
   "license": "MIT",
   "files": [
     "dist"
   ],
   "scripts": {
-    "build": "rm -rf dist && mkdir dist && cp base.json nextjs.json react-library.json ts-library.json svelte.json noentry.js dist/",
+    "build": "rm -rf dist && mkdir dist && cp base.json nextjs.json react-library.json ts-library.json svelte.json svelte-library.json noentry.js dist/",
     "changeset": "changeset",
     "publish:packages": "changeset publish",
     "version:packages": "changeset version",
