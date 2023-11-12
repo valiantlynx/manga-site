@@ -1,5 +1,11 @@
 # @valiantlynx/general-config
 
+## 0.0.10
+
+### Patch Changes
+
+- nothing majoe
+
 ## 0.0.9
 
 ### Patch Changes

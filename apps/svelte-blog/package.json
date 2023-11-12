@@ -20,7 +20,7 @@
 		"@sveltejs/kit": "^1.20.4",
 		"@typescript-eslint/eslint-plugin": "^6.0.0",
 		"@typescript-eslint/parser": "^6.0.0",
-		"@valiantlynx/general-config": "^0.0.9",
+		"@valiantlynx/general-config": "^0.0.10",
 		"autoprefixer": "^10.4.16",
 		"@valiantlynx/eslint-config-custom": "0.0.1",
 		"marked": "^9.1.4",
