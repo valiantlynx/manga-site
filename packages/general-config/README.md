@@ -13,6 +13,8 @@ e.g. themes, colors, fonts, etc.
 - [] social media
 
 
-# usage of changeset
+# usage of changeset and release
 - `git tag -l`
 - `yarn changeset`
+
+

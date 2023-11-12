@@ -22,9 +22,9 @@
   },
   "devDependencies": {
     "@types/react": "^18.2.5",
-    "@valiantlynx/eslint-config-custom": "*",
-    "@valiantlynx/tailwind-config": "*",
-    "@valiantlynx/tsconfig": "^0.0.4",
+    "@valiantlynx/eslint-config-custom": "0.0.1",
+    "@valiantlynx/tailwind-config": "0.0.5",
+    "@valiantlynx/tsconfig": "^0.0.21",
     "autoprefixer": "^10.4.13",
     "postcss": "^8.4.20",
     "react": "^18.2.0",
