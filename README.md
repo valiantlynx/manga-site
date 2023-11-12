@@ -90,3 +90,5 @@ git subtree push --prefix=packages/tsconfig https://github.com/valiantlynx/tscon
 ```sh
 yarn publish:packages // this will publish all packages that are not private
 ```
+
+free svg icons: https://www.svgrepo.com/svg/122485/car-placeholder
