@@ -1,3 +1,3 @@
-git subtree add --prefix=apps/svelte-ui https://github.com/valiantlynx/svelte-ui.git valiantlynx-turborepo --squash
-git subtree pull --prefix=apps/svelte-ui https://github.com/valiantlynx/svelte-ui.git valiantlynx-turborepo --squash
-git subtree push --prefix=apps/svelte-ui https://github.com/valiantlynx/svelte-ui.git valiantlynx-turborepo
+git subtree add --prefix=packages/svelte-ui https://github.com/valiantlynx/svelte-ui.git valiantlynx-turborepo --squash
+git subtree pull --prefix=packages/svelte-ui https://github.com/valiantlynx/svelte-ui.git valiantlynx-turborepo --squash
+git subtree push --prefix=packages/svelte-ui https://github.com/valiantlynx/svelte-ui.git valiantlynx-turborepo

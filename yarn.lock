@@ -1319,6 +1319,11 @@
   resolved "https://registry.yarnpkg.com/@valiantlynx/tsconfig/-/tsconfig-0.0.22.tgz#a4da4fd81cb7efc91492e40af3b0b4e9049b3d28"
   integrity sha512-xEMZbwkBopRDhRAr/iV56YDT8gHcyxKohSG7QSvmL9dURW2zNrLOEslMC0cFjjBDRcVAZEI2fVcKej4w/u3glg==
 
+"@valiantlynx/tsconfig@^0.0.21":
+  version "0.0.21"
+  resolved "https://registry.yarnpkg.com/@valiantlynx/tsconfig/-/tsconfig-0.0.21.tgz#f9b34bfd82169b4463f1e4b5aad8793540d437df"
+  integrity sha512-WEZ4EYF6AINXLTdxFX2FZMh/vZ0Hgt+6TksLAi+UV683wvtT6h5oZ/86GGs//rp8cxgTxRNxVO0rWVyORuS7Sg==
+
 "@vercel/nft@^0.23.0":
   version "0.23.1"
   resolved "https://registry.yarnpkg.com/@vercel/nft/-/nft-0.23.1.tgz#f17c5f9d3f3a0178ea25eb7397a14618c00529bf"
