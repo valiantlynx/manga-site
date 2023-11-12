@@ -10,10 +10,7 @@
     "format": "turbo format",
     "preview": "turbo preview",
     "package": "turbo package",
-    "changeset": "changeset",
-    "publish:packages": "changeset publish",
-    "version:packages": "changeset version",
-    "release": "yarn version:packages && yarn publish:packages"
+    "release": "turbo release"
   },
   "devDependencies": {
     "@valiantlynx/tsconfig": "^0.0.2",
