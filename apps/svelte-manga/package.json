@@ -38,7 +38,7 @@
 		"svelte": "^4.0.0",
 		"svelte-check": "^3.4.3",
 		"svelte-routing": "^1.11.0",
-		"@valiantlynx/tailwind-config": "0.0.5",
+		"@valiantlynx/tailwind-config": "0.0.6",
 		"three": "^0.155.0",
 		"@valiantlynx/tsconfig": "0.0.21",
 		"tslib": "^2.4.1",
