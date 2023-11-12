@@ -1,12 +1,16 @@
 {
   "name": "@valiantlynx/general-config",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "license": "MIT",
   "scripts": {
     "build": "tsup",
     "lint": "tsc",
     "dev": "tsup --watch",
-    "check-types": "tsc --noEmit"
+    "check-types": "tsc --noEmit",
+    "changeset": "changeset",
+    "publish:packages": "changeset publish",
+    "version:packages": "changeset version",
+    "release": "yarn version:packages && yarn publish:packages"
   },
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -23,10 +27,10 @@
   },
   "homepage": "https://github.com/valiantlynx/general-config#readme",
   "devDependencies": {
+    "@changesets/cli": "^2.26.2",
     "fff-flavored-frontmatter": "^1.1.0",
-    "tsconfig": "*",
     "tsup": "^7.2.0",
-    "typescript": "^5.2.2"
-  },
-  "dependencies": {}
+    "typescript": "^5.2.2",
+    "@valiantlynx/tsconfig": "^0.0.4"
+  }
 }

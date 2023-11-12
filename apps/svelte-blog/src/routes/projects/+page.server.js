@@ -1,4 +1,3 @@
-
 import { error } from '@sveltejs/kit';
 import { serializeNonPOJOs } from '$lib/utils/api';
 
@@ -10,7 +9,7 @@ export const load = ({ locals }) => {
 					expand: ['user']
 				})
 			);
-			
+
 			return projects;
 		} catch (err) {
 			console.error('Error: ', err);

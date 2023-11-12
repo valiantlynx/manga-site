@@ -1309,19 +1309,32 @@
   resolved "https://registry.yarnpkg.com/@ungap/structured-clone/-/structured-clone-1.2.0.tgz#756641adb587851b5ccb3e095daf27ae581c8406"
   integrity sha512-zuVdFrMJiuCDQUMCzQaD6KL28MjnqqN8XnAqiEq9PNm/hCPTSGfrXCOfwj1ow4LFb/tNymJPwsNbVePc1xFqrQ==
 
+"@valiantlynx/general-config@^0.0.2":
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/@valiantlynx/general-config/-/general-config-0.0.2.tgz#c36c6c9dfc0b0de66169b2f4e0204b4ca44749d7"
+  integrity sha512-yxwxcdlj/eYKHSIB1ywHZ6ogpYx42TmQytLX7K0Y/lV04S3kgijDfI35joN+bpZ1HszheBXiR9DXGJAF23/EjQ==
+
 "@valiantlynx/image@^0.0.2":
   version "0.0.2"
   resolved "https://registry.npmjs.org/@valiantlynx/image/-/image-0.0.2.tgz"
   integrity sha512-cthhGEd+g4FHfqrszd/cD6ubbJdQdWvHloviWraIifdp/xcmp9KvyTXJQKo4XoFKDFt9hXzsm2DQHy2hbXyWOw==
 
-"@valiantlynx/svelte-rich-text@^0.0.2":
+"@valiantlynx/tsconfig@*":
+  version "0.0.10"
+  resolved "https://registry.yarnpkg.com/@valiantlynx/tsconfig/-/tsconfig-0.0.10.tgz#d9d2fb718a5b14eb2e20f7bc5648d070c4a5672f"
+  integrity sha512-/lnjGEA0GbvdNSJXky8CwqbF7NdQ/FkgGyLjiSg5LonEidxQc7dd8sw5tnXKCWz7lqSmXNQnax61v5uNHWVK9w==
+
+"@valiantlynx/tsconfig@^0.0.2":
   version "0.0.2"
-  resolved "https://registry.yarnpkg.com/@valiantlynx/svelte-rich-text/-/svelte-rich-text-0.0.2.tgz#c332d358103829be0a80ec34b367b21a6dca6ad7"
-  integrity sha512-sPomKXsRjX6QVTjivZedCOP6AFHEhUrHAwyf0p1NcnfyB0qdhVsAsusU3GyLuUhZEVKq1MzI2NEEMpGxQ/5C3g==
+  resolved "https://registry.yarnpkg.com/@valiantlynx/tsconfig/-/tsconfig-0.0.2.tgz#570b580f8ba31feb15954f87e4b3e5ad2d213a6c"
+  integrity sha512-Qo9Utq/BOnsZwNcvGtsJPC86a2dpFvLMPNXH2jERU/oZFVPilsSF3kci5LZf7VqGYsf3OnEKHu1DdsdUiC94uA==
   dependencies:
-    short-uuid "^4.2.2"
-    svelte-highlight "^7.4.1"
-    svelte-select "^5.7.0"
+    "@changesets/cli" "^2.26.2"
+
+"@valiantlynx/tsconfig@^0.0.4":
+  version "0.0.4"
+  resolved "https://registry.yarnpkg.com/@valiantlynx/tsconfig/-/tsconfig-0.0.4.tgz#3430b28f8ceb21d85c99a3bf528cf4a43f6705ec"
+  integrity sha512-uAmxRHzxpW73jS+TI9+MgAMDEz8rXcFwOUmg183gGXxst+njKgxWte5KmZoprRBXWCFk13RtuQQDBnWaaQLbQg==
 
 "@vercel/nft@^0.23.0":
   version "0.23.1"
@@ -5638,7 +5651,7 @@ strip-json-comments@^3.1.1:
 
 strip-json-comments@~2.0.1:
   version "2.0.1"
-  resolved "https://registry.npmjs.org/strip-json-comments/-/strip-json-comments-2.0.1.tgz"
+  resolved "https://registry.yarnpkg.com/strip-json-comments/-/strip-json-comments-2.0.1.tgz#3c531942e908c2697c0ec344858c286c7ca0a60a"
   integrity sha512-4gB8na07fecVVkOI6Rs4e7T6NOTki5EmL7TUduTs6bu3EdnSycntVJ4re8kgZA+wx9IueI2Y11bfbgwtzuE0KQ==
 
 strip-literal@^1.0.1:
@@ -5796,7 +5809,7 @@ synckit@0.8.5:
     "@pkgr/utils" "^2.3.1"
     tslib "^2.5.0"
 
-tailwindcss@^3.1, tailwindcss@^3.2.4, tailwindcss@^3.3.2:
+tailwindcss@^3.1, tailwindcss@^3.2.4:
   version "3.3.5"
   resolved "https://registry.yarnpkg.com/tailwindcss/-/tailwindcss-3.3.5.tgz#22a59e2fbe0ecb6660809d9cc5f3976b077be3b8"
   integrity sha512-5SEZU4J7pxZgSkv7FP1zY8i2TIAOooNZ1e/OGtxIEv6GltpoiXUqWvLy89+a10qYTB1N5Ifkuw9lqQkN9sscvA==
@@ -5904,10 +5917,10 @@ thenify-all@^1.0.0:
   dependencies:
     any-promise "^1.0.0"
 
-three@^0.158.0:
-  version "0.158.0"
-  resolved "https://registry.yarnpkg.com/three/-/three-0.158.0.tgz#03ddd5b60ce9c31be8fb69f27a6d9efd49908ac3"
-  integrity sha512-TALj4EOpdDPF1henk2Q+s17K61uEAAWQ7TJB68nr7FKxqwyDr3msOt5IWdbGm4TaWKjrtWS8DJJWe9JnvsWOhQ==
+three@^0.155.0:
+  version "0.155.0"
+  resolved "https://registry.yarnpkg.com/three/-/three-0.155.0.tgz#cca9b8ad817830c8b4fdd8f0d9a12a2e413a2672"
+  integrity sha512-sNgCYmDijnIqkD/bMfk+1pHg3YzsxW7V2ChpuP6HCQ8NiZr3RufsXQr8M3SSUMjW4hG+sUk7YbyuY0DncaDTJQ==
 
 tiny-glob@^0.2.9:
   version "0.2.9"
@@ -6175,7 +6188,7 @@ typed-array-length@^1.0.4:
 
 typescript@^5.0.3, typescript@^5.1.6, typescript@^5.2.2:
   version "5.2.2"
-  resolved "https://registry.npmjs.org/typescript/-/typescript-5.2.2.tgz"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-5.2.2.tgz#5ebb5e5a5b75f085f22bc3f8460fba308310fa78"
   integrity sha512-mI4WrpHsbCIcwT9cF4FZvr80QUeKvsUsUvKDoR+X/7XHQH98xYD8YHZg7ANtz2GtZt/CBq2QJ0thkGJMHfqc1w==
 
 ufo@^1.3.0:
