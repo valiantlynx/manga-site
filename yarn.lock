@@ -1319,11 +1319,6 @@
   resolved "https://registry.npmjs.org/@valiantlynx/image/-/image-0.0.2.tgz"
   integrity sha512-cthhGEd+g4FHfqrszd/cD6ubbJdQdWvHloviWraIifdp/xcmp9KvyTXJQKo4XoFKDFt9hXzsm2DQHy2hbXyWOw==
 
-"@valiantlynx/tsconfig@*":
-  version "0.0.10"
-  resolved "https://registry.yarnpkg.com/@valiantlynx/tsconfig/-/tsconfig-0.0.10.tgz#d9d2fb718a5b14eb2e20f7bc5648d070c4a5672f"
-  integrity sha512-/lnjGEA0GbvdNSJXky8CwqbF7NdQ/FkgGyLjiSg5LonEidxQc7dd8sw5tnXKCWz7lqSmXNQnax61v5uNHWVK9w==
-
 "@valiantlynx/tsconfig@^0.0.2":
   version "0.0.2"
   resolved "https://registry.yarnpkg.com/@valiantlynx/tsconfig/-/tsconfig-0.0.2.tgz#570b580f8ba31feb15954f87e4b3e5ad2d213a6c"
