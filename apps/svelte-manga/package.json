@@ -40,7 +40,7 @@
 		"svelte-routing": "^1.11.0",
 		"@valiantlynx/tailwind-config": "*",
 		"three": "^0.155.0",
-		"@valiantlynx/tsconfig": "*",
+		"@valiantlynx/tsconfig": "0.0.21",
 		"tslib": "^2.4.1",
 		"typescript": "^5.2.2",
 		"vite": "^4.3.6"

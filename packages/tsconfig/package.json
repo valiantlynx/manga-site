@@ -1,6 +1,6 @@
 {
   "name": "@valiantlynx/tsconfig",
-  "version": "0.0.17",
+  "version": "0.0.21",
   "license": "MIT",
   "files": [
     "dist"
@@ -10,7 +10,7 @@
     "changeset": "changeset",
     "publish:packages": "changeset publish",
     "version:packages": "changeset version",
-    "release": "yarn version:packages && yarn publish:packages"
+    "release": "yarn build && yarn publish:packages"
   },
   "publishConfig": {
     "access": "public"

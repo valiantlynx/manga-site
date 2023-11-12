@@ -1,5 +1,29 @@
 # @valiantlynx/general-config
 
+## 0.0.7
+
+### Patch Changes
+
+- nothing
+
+## 0.0.6
+
+### Patch Changes
+
+- nothing
+
+## 0.0.5
+
+### Patch Changes
+
+- nothing
+
+## 0.0.4
+
+### Patch Changes
+
+- nothing
+
 ## 0.0.3
 
 ### Patch Changes
