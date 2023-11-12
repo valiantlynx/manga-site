@@ -30,7 +30,7 @@
 		"svelte": "^4.0.5",
 		"svelte-check": "^3.4.3",
 		"svelte-french-toast": "^1.2.0",
-		"@valiantlynx/tailwind-config": "*",
+		"@valiantlynx/tailwind-config": "0.0.5",
 		"@valiantlynx/tsconfig": "0.0.21",
 		"tslib": "^2.4.1",
 		"typescript": "^5.2.2",

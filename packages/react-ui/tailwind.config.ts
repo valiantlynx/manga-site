@@ -1,5 +1,5 @@
 // tailwind config is required for editor support
-import sharedConfig from "@valiantlynx/tailwind-config/tailwind.config";
+import sharedConfig from "@valiantlynx/tailwind-config/dist/tailwind.config";
 
 const config = {
   prefix: "ui-",
