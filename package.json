@@ -8,9 +8,8 @@
   "scripts": {
     "build": "rm -rf dist && mkdir dist && cp base.json nextjs.json react-library.json ts-library.json svelte.json noentry.js dist/",
     "changeset": "changeset",
-    "publish:packages": "changeset publish",
     "version:packages": "changeset version",
-    "release": "yarn publish:packages && yarn version:packages"
+    "release": "changeset publish"
   },
   "publishConfig": {
     "access": "public"
