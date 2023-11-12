@@ -1,0 +1,23 @@
+{
+  "name": "@valiantlynx/tailwind-config",
+  "version": "0.0.5",
+  "private": true,
+  "main": "index.ts",
+  "types": "index.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "rm -rf dist && mkdir dist && cp tailwind.config.ts noentry.js dist/",
+    "changeset": "changeset",
+    "publish:packages": "changeset publish",
+    "version:packages": "changeset version",
+    "release": "yarn build && yarn publish:packages"
+  },
+  "devDependencies": {
+    "@changesets/cli": "^2.26.2",
+    "@valiantlynx/general-config": "^0.0.8",
+    "daisyui": "^3.6.1",
+    "tailwindcss": "^3.2.4"
+  }
+}
