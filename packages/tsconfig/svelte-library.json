@@ -1,6 +1,6 @@
 {
     "$schema": "https://json.schemastore.org/tsconfig",
-    "display": "Svelte",
+    "display": "svelte-library",
 	"compilerOptions": {
 		"allowJs": true,
 		"checkJs": true,
