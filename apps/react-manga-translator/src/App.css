@@ -1,0 +1,30 @@
+@import '~antd/dist/antd.css';
+
+.translator-container {
+  padding: 16px;
+}
+.translator-container .steps {
+  margin-bottom: 16px;
+}
+.translator-container .current-step {}
+.translator-container .current-step .images {
+  display: flex;
+  background: red;
+  height: 800px;
+  overflow-x: auto;
+}
+.translator-container .current-step .images .images-item {
+  margin: 0 10px;
+  background: green;
+  width: 423px;
+  flex-shrink: 0;
+}
+.translator-container .current-step .images .images-item .image-content .image {
+  background: pink;
+  width: 423px;
+  height: 600px;
+}
+.translator-container .current-step .upload-file {}
+.translator-container .current-step .images .images-item .image-result {
+  margin-top: 8px;
+}
