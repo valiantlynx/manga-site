@@ -40,5 +40,7 @@
 		"vite": "^4.4.2"
 	},
 	"type": "module",
-	"dependencies": {}
+	"dependencies": {
+		"@valiantlynx/svelte-ui": "^0.0.7"
+	}
 }

@@ -708,6 +708,11 @@
     globby "^11.0.0"
     read-yaml-file "^1.1.0"
 
+"@mapbox/corslite@0.0.7":
+  version "0.0.7"
+  resolved "https://registry.yarnpkg.com/@mapbox/corslite/-/corslite-0.0.7.tgz#29f5b6a188ba946e514bdf0b6401ed4fbe13a39e"
+  integrity sha512-w/uS474VFjmqQ7fFWIMZINQM1BAQxDLuoJaZZIPES1BmeYpCtlh9MtbFxKGGDAsfvut8/HircIsVvEYRjQ+iMg==
+
 "@mapbox/node-pre-gyp@^1.0.5":
   version "1.0.11"
   resolved "https://registry.yarnpkg.com/@mapbox/node-pre-gyp/-/node-pre-gyp-1.0.11.tgz#417db42b7f5323d79e93b34a6d7a2a12c0df43fa"
@@ -722,6 +727,11 @@
     rimraf "^3.0.2"
     semver "^7.3.5"
     tar "^6.1.11"
+
+"@mapbox/polyline@^0.2.0":
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/@mapbox/polyline/-/polyline-0.2.0.tgz#6e25980744aa22331f94b645a542c02d3fcfee97"
+  integrity sha512-GCddO0iw6AzOQqZgBmjEQI9Pgo40/yRgkTkikGctE01kNBN0ThWYuAnTD+hRWrAWMV6QJ0rNm4m8DAsaAXE7Pg==
 
 "@microsoft/tsdoc-config@0.16.2":
   version "0.16.2"
@@ -4020,6 +4030,15 @@ language-tags@=1.0.5:
   dependencies:
     language-subtag-registry "~0.3.2"
 
+leaflet-routing-machine@^3.2.12:
+  version "3.2.12"
+  resolved "https://registry.yarnpkg.com/leaflet-routing-machine/-/leaflet-routing-machine-3.2.12.tgz#9e4aef008321b0227cf894d829c3b4c1f13e4e13"
+  integrity sha512-HLde58G1YtD9xSIzZavJ6BPABZaV1hHeGst8ouhzuxmSC3s32NVtADT+njbIUMW1maHRCrsgTk/E4hz5QH7FrA==
+  dependencies:
+    "@mapbox/corslite" "0.0.7"
+    "@mapbox/polyline" "^0.2.0"
+    osrm-text-instructions "^0.13.2"
+
 leaflet@^1.9.4:
   version "1.9.4"
   resolved "https://registry.yarnpkg.com/leaflet/-/leaflet-1.9.4.tgz#23fae724e282fa25745aff82ca4d394748db7d8d"
@@ -4626,6 +4645,11 @@ os-tmpdir@~1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/os-tmpdir/-/os-tmpdir-1.0.2.tgz#bbe67406c79aa85c5cfec766fe5734555dfa1274"
   integrity sha512-D2FR03Vir7FIu45XBY20mTb+/ZSWB00sjU9jdQXt83gDrI4Ztz5Fs7/yy74g2N5SVQY4xY1qDr4rNddwYRVX0g==
+
+osrm-text-instructions@^0.13.2:
+  version "0.13.4"
+  resolved "https://registry.yarnpkg.com/osrm-text-instructions/-/osrm-text-instructions-0.13.4.tgz#78bedabd84cbcabce9c9fd0fbb6b0fd9f06c7f9f"
+  integrity sha512-ge4ZTIetMQKAHKq2MwWf83ntzdJN20ndRKRaVNoZ3SkDkBNO99Qddz7r6+hrVx38I+ih6Rk5T1yslczAB6Q9Pg==
 
 outdent@^0.5.0:
   version "0.5.0"
