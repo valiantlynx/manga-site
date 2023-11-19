@@ -15,6 +15,7 @@ export const actions = {
 	popular: async (event) => {
 		const data = await event.request.formData();
 		const page = data.get('page');
+		console.log('page popular', page);
 		try {
 			const popularMangas = await Popular(event.locals, page);  
 			return {
@@ -30,7 +31,7 @@ export const actions = {
 		const data = await event.request.formData();
 		const page = data.get('page');
 
-		console.log('page latest', event);
+		console.log('page latest', page);
 		try {
 			const latestMangas = await Latest(event, page);
 			return {
@@ -62,7 +63,6 @@ const Popular = async (locals, pageNo) => {
 
 const Latest = async (event, pageNo) => {
 	const url = event.url.origin + "/api/manga?page=" + pageNo
-	console.log('url', url);
 	const res = await event.fetch(url);
 	const data = await res.json();
 	
