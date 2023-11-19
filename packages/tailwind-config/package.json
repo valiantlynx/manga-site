@@ -20,7 +20,7 @@
     "@changesets/cli": "^2.26.2"
   },
   "dependencies": {
-    "@valiantlynx/general-config": "^0.0.14",
+    "@valiantlynx/general-config": "^0.0.18",
     "daisyui": "^3.6.1",
     "tailwindcss": "^3.2.4"
   }
