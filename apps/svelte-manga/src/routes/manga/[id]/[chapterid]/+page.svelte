@@ -67,8 +67,8 @@
 	let authorIds: any = [];
 	async function createOrUpdateReadingProgress(mangaId: string, chapterId: string) {
 		// Check if the user is logged in
-		if (pb.authStore.isValid) {
-			const userId = pb.authStore.model?.id;
+		if ($page.data.user) {
+			const userId = $page.data.user?.id;
 
 			// Check if the manga already exists in the user record
 			const existingProgressList = await getPocketbase('reading_progress', {
@@ -100,7 +100,7 @@
 
 	async function createRecord() {
 		// if the user is logged in, send the chapter data to pocketbase
-		if (pb.authStore.isValid) {
+		if ($page.data.user) {
 			// Check if the manga already exists using some unique identifier, for example, the title
 			const existingChapterList = await getPocketbase('Chapters', {
 				filter: `src="${$page.url.href}"`

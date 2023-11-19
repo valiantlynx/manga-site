@@ -1,5 +1,5 @@
 <script>
-	import SideBarIcon from './SideBarIcon.svelte';
+	import SideBarIcon  from '$lib/components/SideBarIcon.svelte';
 	import { page } from '$app/stores';
 </script>
 

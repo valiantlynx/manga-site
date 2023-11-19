@@ -1,12 +1,13 @@
 <script lang="ts">
 	import { pb, getPocketbase, postPocketbase } from '$lib/utils/api'; // Update the import for posting reading progress
 	import { addedReadingProgress } from '$lib/utils/stores'; // Import your writable store
+	import { page } from '$app/stores';
 
 	let uploaded: boolean;
 	let jsonData: string | null = null; // Store the JSON data from the file
 
 	async function updateReadingProgress() {
-		if (pb.authStore.isValid) {
+		if ($page.data.user) {
 			if (jsonData) {
 				try {
 					const progressData = JSON.parse(jsonData);
@@ -49,8 +50,8 @@
 			completed: string
 		) {
 			// Check if the user is logged in
-			if (pb.authStore.isValid) {
-				const userId = pb.authStore.model?.id;
+			if ($page.data.user) {
+				const userId = $page.data.user?.id;
 
 				// Check if the manga already exists in the user record
 				const existingProgressList = await getPocketbase('reading_progress', {
@@ -125,7 +126,7 @@
 		async function createRecord(entry: any) {
 			const manga = await search(entry);
 			// if the user is logged in, send the chapter data to pocketbase
-			if (pb.authStore.isValid) {
+			if ($page.data.user) {
 				// Check if the manga already exists using some unique identifier, for example, the title
 				const existingChapterList = await getPocketbase('Chapters', {
 					filter: `src="${manga?.src}"`

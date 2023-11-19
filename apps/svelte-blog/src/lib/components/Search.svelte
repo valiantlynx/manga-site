@@ -13,9 +13,9 @@
 	let searchResults = [];
 	let searchTerm = '';
 	let selectedOption = 'Drivstoffpris';
-	let selectedSearchFunction = searchDrivstoffPriser; // Initialize with the default search function
+	let selectedSearchFunction = searchBlogs; // Initialize with the default search function
 
-	async function searchDrivstoffPriser() {
+	async function searchBlogs() {
 		if (searchTerm.trim() === '') {
 			searchResults = [];
 			return;
@@ -32,7 +32,7 @@
 		}
 	}
 
-	async function searchBensinStasjoner() {
+	async function searchProjects() {
 		if (searchTerm.trim() === '') {
 			searchResults = [];
 			return;
@@ -44,120 +44,6 @@
 			};
 			const drivstoffpriser = await getPocketbase('norway_stations', dataPb);
 			searchResults = drivstoffpriser.items;
-		} catch (error) {
-			console.error(error);
-		}
-	}
-
-	async function searchDagligvarerPriser() {
-		if (searchTerm.trim() === '') {
-			searchResults = [];
-			return;
-		}
-
-		try {
-			const dataPb = {
-				filter: `name_norwegian~'${searchTerm}'||name_english~'${searchTerm}'`
-			};
-
-			const dagligvarepriser = await getPocketbase('norway_products', dataPb);
-
-			searchResults = dagligvarepriser.items;
-		} catch (error) {
-			console.error(error);
-		}
-	}
-
-	async function searchDigitaltKjøleskap() {
-		if (searchTerm.trim() === '') {
-			searchResults = [];
-			return;
-		}
-
-		try {
-			const dataPb = {
-				filter: `name~'${searchTerm}'`
-			};
-
-			const digitaltKjøleskap = await getPocketbase('shopping_list', dataPb);
-
-			searchResults = digitaltKjøleskap.items;
-		} catch (error) {
-			console.error(error);
-		}
-	}
-
-	async function searchHandlelista() {
-		if (searchTerm.trim() === '') {
-			searchResults = [];
-			return;
-		}
-
-		try {
-			const dataPb = {
-				filter: `name~'${searchTerm}'`
-			};
-
-			const Handlelista = await getPocketbase('shopping_list', dataPb);
-
-			searchResults = Handlelista.items;
-		} catch (error) {
-			console.error(error);
-		}
-	}
-
-	async function searchMiddagsplanlegger() {
-		if (searchTerm.trim() === '') {
-			searchResults = [];
-			return;
-		}
-
-		try {
-			const dataPb = {
-				filter: `recipe_name~'${searchTerm}'`
-			};
-
-			const middagsplanlegger = await getPocketbase('recipes', dataPb);
-
-			searchResults = middagsplanlegger.items;
-		} catch (error) {
-			console.error(error);
-		}
-	}
-
-	async function searchBompengekalkulator() {
-		if (searchTerm.trim() === '') {
-			searchResults = [];
-			return;
-		}
-
-		try {
-			const dataPb = {
-				filter: `NAVN_BOMSTASJON~'${searchTerm}'`
-			};
-
-			const bompengekalkulator = await getPocketbase('norway_toll', dataPb);
-
-			searchResults = bompengekalkulator.items;
-		} catch (error) {
-			console.error(error);
-		}
-	}
-
-	async function searchAltlokalt() {
-		if (searchTerm.trim() === '') {
-			searchResults = [];
-			return;
-		}
-
-		try {
-			const dataPb = {
-				filter: `name~'${searchTerm}'`
-			};
-
-			const altlokalt = await getPocketbase('norway_companies', dataPb);
-
-			searchResults = altlokalt.items;
 		} catch (error) {
 			console.error(error);
 		}
@@ -211,33 +97,14 @@
 
 		try {
 			switch (selectedOption) {
-				case 'Drivstoffpris':
-					selectedSearchFunction = searchDrivstoffPriser;
+				case 'Blogs':
+					selectedSearchFunction = searchBlogs;
 					break;
-				case 'Bensinstasjoner':
-					selectedSearchFunction = searchBensinStasjoner;
-					break;
-				case 'Dagligvarer pris':
-					selectedSearchFunction = searchDagligvarerPriser;
-					break;
-				case 'Digitalt kjøleskap':
-					selectedSearchFunction = searchDigitaltKjøleskap;
-					break;
-				case 'Handlelista':
-					selectedSearchFunction = searchHandlelista;
-					break;
-				case 'Middagsplanlegger':
-					selectedSearchFunction = searchMiddagsplanlegger;
-					break;
-				case 'Bompengekalkulator':
-					selectedSearchFunction = searchBompengekalkulator;
-					break;
-				case 'Altlokalt':
-					selectedSearchFunction = searchAltlokalt;
-					break;
+				case 'Projects':
+					selectedSearchFunction = searchProjects;
 
 				default:
-					selectedSearchFunction = searchDrivstoffPriser; // Default to 'Drivstoffpris'
+					selectedSearchFunction = searchBlogs; // Default to 'searchBlogs'
 					break;
 			}
 
@@ -263,22 +130,17 @@
 		<select
 			class="select select-bordered select-primary join-item w-1/3"
 			bind:value={selectedOption}
+			
 		>
-			<option value="Drivstoffpris">Drivstoffpris</option>
-			<option value="Bensinstasjoner">Bensinstasjoner</option>
-			<option value="Dagligvarer pris">Dagligvarer pris</option>
-			<option value="Digitalt kjøleskap">Digitalt kjøleskap</option>
-			<option value="Handlelista">Handlelista</option>
-			<option value="Middagsplanlegger" disabled>Middagsplanlegger</option>
-			<option value="Bompengekalkulator">Bompengekalkulator</option>
-			<option value="Altlokalt">Altlokalt</option>
+			<option value="Blogs">Blogs</option>
+			<option value="Projects">Projects</option>
 		</select>
 
 		<a href="/search" class="btn join-item btn-primary w-1/5">Search</a>
 	</div>
 
 	{#if type === 'small'}
-		<SmallSearchResults {searchResults} {handleClick} bind:selectedOption />
+		<SmallSearchResults {searchResults} {handleClick}  />
 	{:else if type === 'big'}
 		<BigSearchResults {searchResults} {handleClick} />
 	{/if}

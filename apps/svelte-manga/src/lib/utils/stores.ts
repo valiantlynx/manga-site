@@ -64,3 +64,8 @@ export const popular: any = writable(popularmanga);
 const latestmanga: any[] = [{}];
 
 export const latest: any = writable(latestmanga);
+
+
+// oauth
+export const state = writable(null);
+export const verifier = writable(null);

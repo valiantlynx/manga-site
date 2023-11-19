@@ -4,6 +4,7 @@
 	import { pb } from '$lib/utils/api';
 	import { onMount, setContext } from 'svelte';
 	import { writable } from 'svelte/store';
+	import { page } from '$app/stores';
 	import ImportReadingProgress from '$lib/components/ImportReadingProgress.svelte';
 
 	// Create a writable store to hold readingProgress data
@@ -16,7 +17,7 @@
 	setContext('readingProgress', readingProgressStore);
 
 	onMount(async () => {
-		if (pb.authStore.isValid) {
+		if ($page.data.user) {
 			loadReadingProgress();
 		}
 	});
@@ -35,7 +36,7 @@
 	async function loadReadingProgress() {
 		const data = {
 			sort: '-updated',
-			filter: `user="${pb.authStore.model?.id}"`,
+			filter: `user="${$page.data.user?.id}"`,
 			expand: 'manga, currentChapter, user',
 			page: pageNo
 		};
@@ -67,7 +68,7 @@
 			<h2 class="text-3xl font-semibold text-center mb-8">Your Reading Progress</h2>
 
 			<div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-6">
-				{#if pb.authStore.isValid}
+				{#if $page.data.user}
 					{#if $readingProgressStore.length != 0}
 						<!-- Individual Chapters -->
 						{#each $readingProgressStore as chapter (chapter.id)}

@@ -1,7 +1,6 @@
 <script lang="ts">
 	import ChatMessage from './ChatMessage.svelte';
 	import { onMount, onDestroy } from 'svelte';
-	import { authData } from '$lib/utils/stores';
 	import { pb } from '$lib/utils/api';
 	import { page } from '$app/stores';
 
@@ -48,7 +47,7 @@
 				record.expand = { sender };
 				messages = [...messages, record];
 
-				if ($authData.id !== record.receiver) {
+				if ($page.data.user?.id !== record.receiver) {
 					unreadMessages = true;
 				}
 			}
@@ -72,10 +71,10 @@
 	async function sendMessage() {
 		const data = {
 			message: newMessage,
-			sender: pb.authStore.model?.id,
+			sender: $page.data.user?.id,
 			chapterid: $page.params.chapterid,
 			mangaid: $page.params.id,
-			receiver: pb.authStore.model?.id
+			receiver: $page.data.user?.id
 		};
 		await pb.collection('chat_animevariant').create(data);
 		newMessage = '';
@@ -89,7 +88,7 @@
 
 	<main class="overflow-y-auto max-h-[60vh]" on:scroll={watchScroll}>
 		{#each messages as message (message.id)}
-			<ChatMessage {message} sender={$authData.username} />
+			<ChatMessage {message} sender={$page.data.user?.username} />
 		{/each}
 		<div class="dummy" bind:this={scrollBottom} />
 	</main>
@@ -109,12 +108,12 @@
 		<form on:submit|preventDefault={sendMessage} class="space-x-2 flex items-center">
 			<input
 				type="text"
-				placeholder={pb.authStore.isValid ? 'Type a message...' : 'Login to chat... ------>'}
+				placeholder={$page.data.user ? 'Type a message...' : 'Login to chat... ------>'}
 				bind:value={newMessage}
 				maxlength="100"
 				class="input input-bordered input-primary flex-grow animate-pulse"
 			/>
-			{#if pb.authStore.isValid}
+			{#if $page.data.user}
 				<button type="submit" disabled={!newMessage} class="btn btn-primary"> Send </button>
 			{:else}
 				<a href="/login" type="submit" class="btn btn-primary"> Login </a>

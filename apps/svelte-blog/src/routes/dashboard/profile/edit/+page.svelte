@@ -1,5 +1,5 @@
 <script>
-	import Input from '$lib/components/Input.svelte';
+		import {Input} from '@valiantlynx/svelte-ui';
 	import { enhance, applyAction } from '$app/forms';
 	import { invalidateAll } from '$app/navigation';
 	import { page } from '$app/stores';

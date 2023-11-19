@@ -34,8 +34,8 @@
 
 	async function createOrUpdateReadingProgress(mangaId: string, chapterId: string) {
 		// Check if the user is logged in
-		if (pb.authStore.isValid) {
-			const userId = pb.authStore.model?.id;
+		if ($page.data.user) {
+			const userId = $page.data.user?.id;
 
 			// First, check if a reading progress record already exists for this manga and user
 			const existingProgressList = await getPocketbase('reading_progress', {
@@ -63,7 +63,7 @@
 
 	async function createRecord() {
 		// if the user is logged in, send the manga data to pocketbase
-		if (pb.authStore.isValid) {
+		if ($page.data.user) {
 			// Check if the manga already exists using some unique identifier, for example, the title
 			const existingMangaList = await getPocketbase('mangas', {
 				filter: `title="${data.title}"`
@@ -126,8 +126,8 @@
 		});
 		pbMangaData = existingMangaList.items[0];
 
-		if (pb.authStore.isValid) {
-			const userId = pb.authStore.model?.id;
+		if ($page.data.user) {
+			const userId = $page.data.user?.id;
 
 			// First, check if a reading progress record already exists for this manga and user
 			const existingProgressList: any = await getPocketbase('reading_progress', {
@@ -176,7 +176,7 @@
 			<button on:click={createRecord}>Read Latest</button>
 		</a>
 		<div class="relative">
-			{#if !pb.authStore.isValid}
+			{#if !$page.data.user}
 				<!-- Not logged in overlay -->
 				<div class="absolute inset-0 flex items-center justify-center bg-primary">
 					<div class="bg-base-100 z-10 p-4 rounded-lg shadow-md text-center">
@@ -187,10 +187,10 @@
 					</div>
 				</div>
 			{/if}
-			{#if pb.authStore.isValid}
+			{#if $page.data.user}
 				<!-- logged in stats -->
 				<div class="mt-4 p-4 border border-primary rounded-lg shadow-md">
-					<h2 class="text-xl font-bold mb-2">Logged in as {pb.authStore.model?.username}</h2>
+					<h2 class="text-xl font-bold mb-2">Logged in as {$page.data.user?.username}</h2>
 					<div class="grid grid-cols-2 gap-4">
 						{#if continueFromLastReading}
 							<a class="btn btn-primary animate-bounce" href={`${continueReadingUrl}`}>
@@ -230,7 +230,7 @@
 				<div
 					class="mt-4 p-4 border border-primary rounded-lg shadow-md text-success bg-opacity-50 blur-sm"
 				>
-					<h2 class="text-xl font-bold mb-2">Logged in as {pb.authStore.model?.username}</h2>
+					<h2 class="text-xl font-bold mb-2">Logged in as {$page.data.user?.username}</h2>
 					<div class="grid grid-cols-2 gap-4">
 						{#if continueFromLastReading}
 							<a class="btn btn-primary animate-bounce" href={`${continueReadingUrl}`}>

@@ -1,6 +1,6 @@
 <script>
 	import { enhance } from '$app/forms';
-	import Input from '$lib/components/Input.svelte';
+	import {Input} from '@valiantlynx/svelte-ui';
 	import { getImageURL } from '$lib/utils/api';
 	import { page } from '$app/stores';
 	import toast from 'svelte-french-toast';

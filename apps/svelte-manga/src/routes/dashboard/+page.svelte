@@ -5,7 +5,7 @@
 	<title>Dashboard</title>
 </svelte:head>
 
-<!-- simple tailwind dashboard while the actual one is being built. infor users as well -->
+<!-- simple tailwind dashboard while the actual one is being built. info users as well -->
 <div class="flex">
-	<h5>Dashboard</h5>
+	<h1>Dashboard</h1>
 </div>
