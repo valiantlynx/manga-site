@@ -1,91 +1,75 @@
-<script lang="ts">
-	import { authPocketbase, pb } from '$lib/utils/api';
+<script>
+	import { enhance } from '$app/forms';
+	import {Input} from '@valiantlynx/svelte-ui';
+	import Oauth2 from '$lib/components/oauth/Oauth2.svelte';
+	import { page } from '$app/stores';
+	import toast from 'svelte-french-toast';
+	let loading = false;
 
-	let username: string;
-	let password: string;
-	let Error: boolean;
-	let errorMessage: string;
-
-	async function login() {
-		if (Error) {
-			Error = false;
-
-			return;
-		}
-
-		try {
-			await authPocketbase(username, password);
-			window.location.reload();
-		} catch (err: any) {
-			Error = true;
-
-			errorMessage = err.originalError.data.message;
-
-			return { error: err, status: err.status };
-		}
-	}
+	
+	const submitLogin = () => {
+		loading = true;
+		return async ({ result, update }) => {
+			switch (result.type) {
+				case 'success':
+					await update();
+					break;
+				case 'invalid':
+					toast.error('Invalid credentials');
+					await update();
+					break;
+				case 'error':
+					toast.error(result.error.message);
+					break;
+				default:
+					await update();
+			}
+			loading = false;
+		};
+	};
 </script>
 
-{#if pb.authStore.isValid}
-	<div class="relative flex flex-col items-center justify-center h-screen overflow-hidden">
-		<div class="w-full p-6 bg-base-200 border-t-4 rounded-md shadow-md border-top lg:max-w-lg">
-			<h1 class="text-3xl font-semibold text-center">You are already logged in</h1>
-			<form class="space-y-4">
-				<button on:click={() => window.history.back()} class="btn btn-block btn-neutral"
-					>Go back</button
+<div class="relative flex flex-col items-center justify-center h-auto overflow-hidden mt-10 mx-6">
+	<div class="w-full p-6 border-t-4 rounded-md shadow-md border-top border-primary lg:max-w-lg">
+		<h1 class="text-3xl font-semibold text-center">Animevariant | login</h1>
+		<form
+			action="/login?/login"
+			method="POST"
+			class="flex flex-col items-center space-y-2 w-full pt-4"
+			use:enhance={submitLogin}
+		>
+			<Input
+				type="email"
+				id="email"
+				label="Email"
+				value={$page.form?.data?.email ?? ''}
+				errors={$page.form?.errors?.email}
+				disabled={loading}
+			/>
+			<Input
+				type="password"
+				id="password"
+				minlength="8"
+				label="Password"
+				errors={$page.form?.errors?.password}
+				disabled={loading}
+			/>
+
+			<div class="flex flex-row justify-between w-full max-w-lg">
+				<a href="/signup" class=" justify-start link-primary link-hover my-2"
+					>Not registered? Signup</a
 				>
-			</form>
-		</div>
-	</div>
-{:else}
-	<div class="relative flex flex-col items-center justify-center h-screen overflow-hidden">
-		<div class="w-full p-6 bg-base-200 border-t-4 rounded-md shadow-md border-top lg:max-w-lg">
-			<h1 class="text-3xl font-semibold text-center">AnimeVariant</h1>
-			<form class="space-y-4">
-				<div>
-					<label class="label" for="username">
-						<span class="text-base label-text">Username</span>
-					</label>
-					<input
-						type="text"
-						placeholder="Username"
-						bind:value={username}
-						on:input={() => (Error = false)}
-						minlength="3"
-						class="w-full input input-bordered"
-					/>
-				</div>
-				<div>
-					<label class="label" for="password">
-						<span class="text-base label-text">Password</span>
-					</label>
+				<a href="/forgot-password" class="justify-end items-end link-secondary link-hover my-2"
+					>Forgot password</a
+				>
+			</div>
 
-					<input
-						name="password"
-						bind:value={password}
-						placeholder="Enter Password"
-						minlength="8"
-						type="password"
-						on:input={() => (Error = false)}
-						class="w-full input input-bordered {Error ? 'input-error' : ''}"
-					/>
-					<label class="label" for="password">
-						<span class="label-text-alt {Error ? 'text-error' : 'hidden'}"
-							>password or username incorrect</span
-						>
-						<span class="label-text-alt {Error ? 'text-error' : 'hidden'}"
-							>are you sure your registered?</span
-						>
-					</label>
-				</div>
-				<h2 class=" {Error ? 'text-error' : 'hidden'}">{errorMessage}</h2>
-				<br />
-				<a href="/signup" class=" link link-hover my-2">Not registered? Signup</a>
+			<div class="w-full max-w-lg pt-2">
+				<button type="submit" class="btn btn-primary w-full" disabled={loading}>Login</button>
+			</div>
 
-				<div>
-					<button on:click={login} class="btn btn-block" disabled={Error}>Login</button>
-				</div>
-			</form>
-		</div>
+		</form>
+		<center class="text-center my-4"> or </center>
+		<Oauth2 />
 	</div>
-{/if}
+</div>
