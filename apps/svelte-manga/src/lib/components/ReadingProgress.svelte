@@ -1,7 +1,7 @@
 <!-- ReadingProgress.svelte -->
 
 <script lang="ts">
-	import { pb, getPocketbase } from '$lib/utils/api';
+	import { getPocketbase } from '$lib/utils/api';
 	import { onMount } from 'svelte';
 	import Icon from '@iconify/svelte';
 	import { page } from '$app/stores';

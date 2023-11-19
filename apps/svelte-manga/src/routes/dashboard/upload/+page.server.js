@@ -7,7 +7,7 @@ export const load = ({ locals }) => {
 		throw redirect(303, '/login');
 	}
 
-	if (!locals.user.role.includes('editor')) {
+	if (!locals.user.role.includes('creator')) {
 		throw redirect(303, '/pricing');
 	}
 
