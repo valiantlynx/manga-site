@@ -2,6 +2,10 @@ import type { ThemeConfig, DateConfig } from '../types/general';
 
 export const theme: ThemeConfig = [
 	{
+		name: 'christmas',
+		text: '🎄 Christmas'
+	},
+	{
 		name: 'dracula',
 		text: '🧛 Dracula'
 	},

@@ -1,5 +1,19 @@
 # @valiantlynx/tailwind-config
 
+## 0.0.11
+
+### Patch Changes
+
+- Updated dependencies
+  - @valiantlynx/general-config@0.0.14
+
+## 0.0.10
+
+### Patch Changes
+
+- Updated dependencies
+  - @valiantlynx/general-config@0.0.13
+
 ## 0.0.8
 
 ### Patch Changes
