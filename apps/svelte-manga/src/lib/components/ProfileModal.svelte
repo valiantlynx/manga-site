@@ -49,6 +49,12 @@
 					<span class="badge">New</span>
 				</a>
 			</li>
+			<li aria-current={$page.url.pathname === '/dashboard/reading-progress' ? 'page' : undefined}>
+				<a class="justify-between" href="/dashboard">
+					Reading Progress
+					<span class="badge">New</span>
+				</a>
+			</li>
 			<li>
 				<form
 					action="/api/logout"

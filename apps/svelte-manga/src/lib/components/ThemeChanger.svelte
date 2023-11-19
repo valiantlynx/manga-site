@@ -1,8 +1,10 @@
 <script lang="ts">
 	import { browser, dev } from '$app/environment';
-	import { theme } from '$lib/config/general';
+	import { general } from '@valiantlynx/general-config';
 	import { hslToHex } from '$lib/utils/color';
 	import Icon from '@iconify/svelte';
+
+	const { theme } = general;
 
 	let currentTheme: string;
 	let currentThemeColor: string;
@@ -44,7 +46,7 @@
 				: theme[0].name ?? theme[0].name);
 </script>
 
-<div id="change-theme" class="dropdown dropdown-end">
+<div id="change-theme" class="dropdown">
 	<!-- svelte-ignore a11y-no-noninteractive-tabindex -->
 	<!-- reference: https://github.com/saadeghi/daisyui/issues/1285 -->
 	<div tabindex="0" class="btn btn-circle btn-ghost">
