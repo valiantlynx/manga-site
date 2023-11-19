@@ -1,29 +1,70 @@
-import { error, redirect } from '@sveltejs/kit';
+import { error } from '@sveltejs/kit';
+import { serializeNonPOJOs } from '$lib/utils/api';
 
-export const load = ({ locals }) => {
-
+export const load = async (event) => {
+	const popularMangas = await Popular(event.locals, 1);
+	const latestMangas = await Latest(event, 1);
+	return {
+		popularMangas,
+		latestMangas
+	};
 };
 
 /** @type {import('./$types').Actions} */
 export const actions = {
-	manga: async (event) => {
+	popular: async (event) => {
 		const data = await event.request.formData();
-		const email = data.get('email');
-		const password = data.get('password');
+		const page = data.get('page');
+		console.log('page popular', page);
 		try {
-			// Authenticate the user and get the token from the server
-			await event.locals.pb.collection('users').authWithPassword(email, password);
-			// get their IP address
-			// console.log('event', event.getClientAddress());
+			const popularMangas = await Popular(event.locals, page);  
+			return {
+				popularMangas
+			};
 		} catch (err) {
-			if (err.data?.data?.identity?.message) {
-				throw error(err.status, `Your email ${err.data?.data?.identity?.message}`);
-			} else if (err.data?.data?.password?.message) {
-				throw error(err.status, `Your password ${err.data?.data?.password?.message}`);
-			} else {
-				throw error(err.status, err.message);
-			}
+			console.log('err', err);
+			throw error(err.status, err.message);
 		}
-		throw redirect(303, '/dashboard');
+		
+	},
+	latest: async (event) => {
+		const data = await event.request.formData();
+		const page = data.get('page');
+
+		console.log('page latest', page);
+		try {
+			const latestMangas = await Latest(event, page);
+			return {
+				latestMangas
+			};
+		} catch (err) {
+			console.log('err', err);
+			throw error(err.status, err.message);
+		}
+		
 	}
+};
+
+// function to get the data from the url
+const Popular = async (locals, pageNo) => {
+	const resultList = serializeNonPOJOs(
+		await locals.pb.collection('reading_progress').getList(1, 20, {
+			filter: 'user = "77760erf1db6qql"',
+			expand: ['manga', 'currentChapter'],
+			perPage: 20,
+			sort: '-rating',
+			page: pageNo
+		})
+	);
+
+	const mangas = resultList.items.map((manga) => manga.expand?.manga);
+	return mangas;
+};
+
+const Latest = async (event, pageNo) => {
+	const url = event.url.origin + "/api/manga?page=" + pageNo
+	const res = await event.fetch(url);
+	const data = await res.json();
+	
+	return data.mangas;
 };

@@ -4,6 +4,7 @@
 	import Popular from '$lib/components/Popular.svelte';
 	import ReadingProgress from '$lib/components/ReadingProgress.svelte';
 	import ResponsiveBannerAd from '$lib/components/ResponsiveBannerAd.svelte';
+	import Feedback from '$lib/components/feedback/Feedback.svelte';
 </script>
 
 <h1 class="text-2xl font-bold text-center mb-6">Home</h1>
@@ -19,6 +20,7 @@
 		<ReadingProgress />
 	</div>
 </div>
+<Feedback />
 
 <svelte:head>
 	<title>AnimeVariant</title>

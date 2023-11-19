@@ -10,6 +10,7 @@
 	import ReadingProgress from '$lib/components/ReadingProgress.svelte';
 	import Chat from '$lib/components/Chat.svelte';
 	import ResponsiveBannerAd from '$lib/components/ResponsiveBannerAd.svelte';
+	import Feedback from '$lib/components/feedback/Feedback.svelte';
 
 	export let data: any;
 
@@ -131,3 +132,4 @@
 	<ReadingProgress />
 	<ResponsiveBannerAd />
 </main>
+<Feedback />
