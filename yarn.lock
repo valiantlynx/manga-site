@@ -2672,10 +2672,29 @@
   resolved "https://registry.yarnpkg.com/@ungap/structured-clone/-/structured-clone-1.2.0.tgz#756641adb587851b5ccb3e095daf27ae581c8406"
   integrity sha512-zuVdFrMJiuCDQUMCzQaD6KL28MjnqqN8XnAqiEq9PNm/hCPTSGfrXCOfwj1ow4LFb/tNymJPwsNbVePc1xFqrQ==
 
+"@valiantlynx/general-config@^0.0.12":
+  version "0.0.12"
+  resolved "https://registry.yarnpkg.com/@valiantlynx/general-config/-/general-config-0.0.12.tgz#90ba37c2a8c5ac31e55d0be41798c1c59861758c"
+  integrity sha512-KCVSl6OUFJ92q9CvvgZ8FjWqQ9tkPw93TNON32axcdNC7ksidAwlOZ3GBR6DqF5JdoJmgf1YwHXCdnsz62lrAg==
+
 "@valiantlynx/image@^0.0.2":
   version "0.0.2"
   resolved "https://registry.npmjs.org/@valiantlynx/image/-/image-0.0.2.tgz"
   integrity sha512-cthhGEd+g4FHfqrszd/cD6ubbJdQdWvHloviWraIifdp/xcmp9KvyTXJQKo4XoFKDFt9hXzsm2DQHy2hbXyWOw==
+
+"@valiantlynx/tailwind-config@0.0.8":
+  version "0.0.8"
+  resolved "https://registry.yarnpkg.com/@valiantlynx/tailwind-config/-/tailwind-config-0.0.8.tgz#686b830add304f5a42371c753b603ee6d805f891"
+  integrity sha512-fFJ/oCaIk6fnP3laERblPo4tTgvoVL1kHltxbi+x0p+F0bUMo1F2r7YQXN1KinMS62IOFXqge7vDRCgHxZoJbA==
+  dependencies:
+    "@valiantlynx/general-config" "^0.0.12"
+    daisyui "^3.6.1"
+    tailwindcss "^3.2.4"
+
+"@valiantlynx/tsconfig@0.0.25":
+  version "0.0.25"
+  resolved "https://registry.yarnpkg.com/@valiantlynx/tsconfig/-/tsconfig-0.0.25.tgz#119e5bae0361a11fc210580ed09869fb4c78a2f8"
+  integrity sha512-mg6nH+EGQ6WZWwF4jKoj4vsMjnARGvQmBwvMtMlGU+oHLp3r3NCB05dYUqaLvVV30ZDjQfmMuKybul5XjPVCcA==
 
 "@vercel/nft@^0.23.0":
   version "0.23.1"
