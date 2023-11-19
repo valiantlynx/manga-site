@@ -1,10 +1,12 @@
 import { error } from '@sveltejs/kit';
 import { serializeNonPOJOs } from '$lib/utils/api';
 
-export const load = async ({ locals }) => {
-	const mangas = await Popular(locals, 1);
+export const load = async (event) => {
+	const popularMangas = await Popular(event.locals, 1);
+	const latestMangas = await Latest(event, 1);
 	return {
-		mangas
+		popularMangas,
+		latestMangas
 	};
 };
 
@@ -13,12 +15,26 @@ export const actions = {
 	popular: async (event) => {
 		const data = await event.request.formData();
 		const page = data.get('page');
-
-		console.log('page', page);
 		try {
-			const mangas = await Popular(event.locals, page);  
+			const popularMangas = await Popular(event.locals, page);  
 			return {
-				mangas
+				popularMangas
+			};
+		} catch (err) {
+			console.log('err', err);
+			throw error(err.status, err.message);
+		}
+		
+	},
+	latest: async (event) => {
+		const data = await event.request.formData();
+		const page = data.get('page');
+
+		console.log('page latest', event);
+		try {
+			const latestMangas = await Latest(event, page);
+			return {
+				latestMangas
 			};
 		} catch (err) {
 			console.log('err', err);
@@ -42,4 +58,13 @@ const Popular = async (locals, pageNo) => {
 
 	const mangas = resultList.items.map((manga) => manga.expand?.manga);
 	return mangas;
+};
+
+const Latest = async (event, pageNo) => {
+	const url = event.url.origin + "/api/manga?page=" + pageNo
+	console.log('url', url);
+	const res = await event.fetch(url);
+	const data = await res.json();
+	
+	return data.mangas;
 };

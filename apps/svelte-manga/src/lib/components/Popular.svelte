@@ -3,25 +3,21 @@
 	import AnimevariantGridAds from './AnimevariantGridAds.svelte';
 	import PaginationSimple from './PaginationSimple.svelte';
 	import { page } from '$app/stores';
-
-	console.log($page);
-
-
 </script>
 
 <main class="bg-base-100 mx-4">
 	<h2 class="text-2xl font-bold text-center mb-6 bg-primary rounded-lg text-primary-content">
 		Popular
 	</h2>
-	<PaginationSimple />
+	<PaginationSimple action="?/popular" />
 
 	<div class="mx-auto container gap-y-6 gap-x-4">
-		{#each ( $page.form?.mangas ? $page.form?.mangas : $page.data.mangas) as manga}
+		{#each ( $page.form?.popularMangas ? $page.form?.popularMangas : $page.data.popularMangas) as manga}
 			<MangaCardPb {manga} />
 		{/each}
 	</div>
 
-	<PaginationSimple />
+	<PaginationSimple  action="?/popular" />
 	<AnimevariantGridAds />
 </main>
 

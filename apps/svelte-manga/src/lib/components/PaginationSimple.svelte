@@ -2,6 +2,8 @@
 	import { enhance } from '$app/forms';
 	import { page } from '$app/stores';
 	import toast from 'svelte-french-toast';
+
+	export let action = "?/popular";
 	let loading = false;
 
 	const submitPageNo = () => {
@@ -28,7 +30,7 @@
 	let pageNo = 1;
 </script>
 <form
-					action="?/popular"
+					action={action}
 					method="POST"
 					class="flex justify-center my-2"
 					use:enhance={submitPageNo}
@@ -49,7 +51,7 @@
 						type="submit"
 						class="join-item btn btn-primary border-secondary animate-pulse"
 						on:click={() => pageNo++}
-						disabled={!$page.data.mangas}
+						disabled={!$page.data.popularMangas}
 						value={pageNo}
 						name="page"
 					>
