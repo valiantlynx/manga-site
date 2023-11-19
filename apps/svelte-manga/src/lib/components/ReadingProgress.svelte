@@ -9,7 +9,7 @@
 	let readingProgress: any = [];
 
 	onMount(async () => {
-		if (pb.authStore.isValid) {
+		if ($page.data.user) {
 			const data = {
 				sort: '-updated',
 				filter: `user="${$page.data.user?.id}"`,
@@ -36,7 +36,7 @@
 		Your Reading Progress
 	</h2>
 
-	{#if pb.authStore.isValid}
+	{#if $page.data.user}
 		{#if readingProgress.length != 0}
 			<!-- Individual Chapters -->
 			<ul class="grid grid-cols-1 gap-4">

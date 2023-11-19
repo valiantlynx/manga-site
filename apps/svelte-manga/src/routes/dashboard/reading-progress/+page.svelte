@@ -17,7 +17,7 @@
 	setContext('readingProgress', readingProgressStore);
 
 	onMount(async () => {
-		if (pb.authStore.isValid) {
+		if ($page.data.user) {
 			loadReadingProgress();
 		}
 	});
@@ -68,7 +68,7 @@
 			<h2 class="text-3xl font-semibold text-center mb-8">Your Reading Progress</h2>
 
 			<div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-6">
-				{#if pb.authStore.isValid}
+				{#if $page.data.user}
 					{#if $readingProgressStore.length != 0}
 						<!-- Individual Chapters -->
 						{#each $readingProgressStore as chapter (chapter.id)}

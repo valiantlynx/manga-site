@@ -1,5 +1,5 @@
 <script>
-		import {Input} from '@valiantlynx/svelte-ui';
+	import {Input} from '@valiantlynx/svelte-ui';
 	import { enhance, applyAction } from '$app/forms';
 	import { invalidateAll } from '$app/navigation';
 	import { page } from '$app/stores';
@@ -51,33 +51,48 @@
 		enctype="multipart/form-data"
 		use:enhance={submitUpdateProfile}
 	>
-		<div class="md:w-1/2">
-			<div class="form-control">
-				<label for="avatar" class="label font-medium">
-					<span class="label-text">Profile Picture</span>
-				</label>
-				<label for="avatar" class="avatar w-32 rounded-full hover:cursor-pointer relative">
-					<span
-						class="btn btn-circle btn-sm btn-secondary absolute -bottom-2 -right-2 hover:cursor-pointer"
-					>
-						<i class="fa fa-pencil-alt" />
-					</span>
-					<div class="w-32 h-32 rounded-full overflow-hidden">
-						<img src={avatar} alt="user avatar" id="avatar-preview" />
-					</div>
-				</label>
-				<input
-					type="file"
-					name="avatar"
-					id="avatar"
-					value=""
-					accept="image/*"
-					hidden
-					on:change={showPreview}
-					disabled={loading}
-				/>
-			</div>
+	<div class="md:w-1/2">
+		<div class="form-control">
+			<label for="avatar" class="label font-medium">
+				<span class="label-text">Profile Picture</span>
+			</label>
+			<label for="avatar" class="avatar w-32 rounded-full hover:cursor-pointer relative">
+				<span
+					class="btn btn-circle btn-sm btn-secondary absolute -bottom-2 -right-2 hover:cursor-pointer"
+				>
+					<i class="fa fa-pencil-alt" />
+				</span>
+				<div class="w-32 h-32 rounded-full overflow-hidden">
+					<img src={avatar} alt="user avatar" id="avatar-preview" />
+				</div>
+			</label>
+			<input
+				type="file"
+				name="avatar"
+				id="avatar"
+				value=""
+				accept="image/*"
+				hidden
+				on:change={showPreview}
+				disabled={loading}
+			/>
 		</div>
+
+		<!-- The users information not editable -->
+		<h3 class="text-2xl font-medium pt-4">User Information</h3>
+		<p class="text-base">
+			<span class="font-semibold text-primary">Username:</span> {$page.data?.user?.username}
+		</p>
+		<p class="text-base">
+			<span class="font-semibold text-primary">Email:</span> {$page.data?.user?.email}
+		</p>
+		<p class="text-base">
+			<span class="font-semibold text-primary">Title:</span> {$page.data?.user?.title}
+		</p>
+		<p class="text-base">
+			<span class="font-semibold text-primary">Language:</span> {$page.data?.user?.language}
+		</p>
+	</div>
 
 		<div class="md:w-1/2">
 			<h3 class="text-2xl font-medium">Update Profile</h3>

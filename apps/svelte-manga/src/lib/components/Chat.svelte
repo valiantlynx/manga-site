@@ -108,12 +108,12 @@
 		<form on:submit|preventDefault={sendMessage} class="space-x-2 flex items-center">
 			<input
 				type="text"
-				placeholder={pb.authStore.isValid ? 'Type a message...' : 'Login to chat... ------>'}
+				placeholder={$page.data.user ? 'Type a message...' : 'Login to chat... ------>'}
 				bind:value={newMessage}
 				maxlength="100"
 				class="input input-bordered input-primary flex-grow animate-pulse"
 			/>
-			{#if pb.authStore.isValid}
+			{#if $page.data.user}
 				<button type="submit" disabled={!newMessage} class="btn btn-primary"> Send </button>
 			{:else}
 				<a href="/login" type="submit" class="btn btn-primary"> Login </a>
