@@ -35,7 +35,7 @@
 	async function createOrUpdateReadingProgress(mangaId: string, chapterId: string) {
 		// Check if the user is logged in
 		if (pb.authStore.isValid) {
-			const userId = pb.authStore.model?.id;
+			const userId = $page.data.user?.id;
 
 			// First, check if a reading progress record already exists for this manga and user
 			const existingProgressList = await getPocketbase('reading_progress', {
@@ -127,7 +127,7 @@
 		pbMangaData = existingMangaList.items[0];
 
 		if (pb.authStore.isValid) {
-			const userId = pb.authStore.model?.id;
+			const userId = $page.data.user?.id;
 
 			// First, check if a reading progress record already exists for this manga and user
 			const existingProgressList: any = await getPocketbase('reading_progress', {
@@ -190,7 +190,7 @@
 			{#if pb.authStore.isValid}
 				<!-- logged in stats -->
 				<div class="mt-4 p-4 border border-primary rounded-lg shadow-md">
-					<h2 class="text-xl font-bold mb-2">Logged in as {pb.authStore.model?.username}</h2>
+					<h2 class="text-xl font-bold mb-2">Logged in as {$page.data.user?.username}</h2>
 					<div class="grid grid-cols-2 gap-4">
 						{#if continueFromLastReading}
 							<a class="btn btn-primary animate-bounce" href={`${continueReadingUrl}`}>
@@ -230,7 +230,7 @@
 				<div
 					class="mt-4 p-4 border border-primary rounded-lg shadow-md text-success bg-opacity-50 blur-sm"
 				>
-					<h2 class="text-xl font-bold mb-2">Logged in as {pb.authStore.model?.username}</h2>
+					<h2 class="text-xl font-bold mb-2">Logged in as {$page.data.user?.username}</h2>
 					<div class="grid grid-cols-2 gap-4">
 						{#if continueFromLastReading}
 							<a class="btn btn-primary animate-bounce" href={`${continueReadingUrl}`}>

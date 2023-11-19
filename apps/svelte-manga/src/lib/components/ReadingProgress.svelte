@@ -4,6 +4,7 @@
 	import { pb, getPocketbase } from '$lib/utils/api';
 	import { onMount } from 'svelte';
 	import Icon from '@iconify/svelte';
+	import { page } from '$app/stores';
 
 	let readingProgress: any = [];
 
@@ -11,7 +12,7 @@
 		if (pb.authStore.isValid) {
 			const data = {
 				sort: '-updated',
-				filter: `user="${pb.authStore.model?.id}"`,
+				filter: `user="${$page.data.user?.id}"`,
 				expand: 'manga, currentChapter, user'
 			};
 			const res = await getPocketbase('reading_progress', data);

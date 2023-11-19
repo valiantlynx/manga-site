@@ -68,7 +68,7 @@
 	async function createOrUpdateReadingProgress(mangaId: string, chapterId: string) {
 		// Check if the user is logged in
 		if (pb.authStore.isValid) {
-			const userId = pb.authStore.model?.id;
+			const userId = $page.data.user?.id;
 
 			// Check if the manga already exists in the user record
 			const existingProgressList = await getPocketbase('reading_progress', {
