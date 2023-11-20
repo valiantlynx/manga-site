@@ -11,8 +11,9 @@
 	import Chat from '$lib/components/Chat.svelte';
 	import ResponsiveBannerAd from '$lib/components/ResponsiveBannerAd.svelte';
 	import Feedback from '$lib/components/feedback/Feedback.svelte';
+	console.log('page bb', $page);
 
-	export let data: any;
+	let data = $page.data.manga;
 
 	let { id } = $page.params;
 	let chaptersPerPage = 12;
