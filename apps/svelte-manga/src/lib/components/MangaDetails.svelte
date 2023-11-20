@@ -2,7 +2,7 @@
 	import { page } from '$app/stores';
 	import { postPocketbase, pb, getPocketbase } from '$lib/utils/api';
 	import PersonalRating from './PersonalRating.svelte';
-	export let data: any;
+	let data = $page.data.manga;
 
 	const imageSrc = `${import.meta.env.VITE_HOST_URL}/api${data.img}?width=200&height=300`;
 
