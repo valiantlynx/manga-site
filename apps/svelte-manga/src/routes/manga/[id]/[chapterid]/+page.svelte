@@ -8,39 +8,29 @@
 	import Chat from '$lib/components/Chat.svelte';
 	import { goto } from '$app/navigation';
 	import Breadcrumbs from '$lib/components/Breadcrumbs.svelte';
-	import { site } from '@valiantlynx/general-config';
 	import { postPocketbase, pb, getPocketbase } from '$lib/utils/api';
 	import { onMount } from 'svelte';
 
-	export let data: any;
+	let data = $page.data.manga;
+
+	console.log('page ----->', data);
+
 	let readingMode = 'longstrip'; // Default reading mode
 
 	let currentPage = writable(0);
 
-	// filter  all hte data.chapters.value that starts with '\n
+	// filter  all the data.chapters.value that starts with '\n
 	data.chapters = data.chapters?.filter((chapter: any) => chapter.value.startsWith('/'));
 
-	const currentChapterIndex = data.chapters.findIndex(
-		(chapter: any) => chapter.value === $page.url.pathname?.replace('/manga', '')
+	let currentChapterIndex = data.chapters?.findIndex(
+		(chapter: any) => {
+			return chapter.value === $page.url.pathname?.replace('/manga', '')
+		}
 	);
 
 	function setReadingMode(mode: string) {
 		readingMode = mode;
 		currentPage.set(0); // Reset current page when switching reading modes
-	}
-
-	function goToPreviousChapter() {
-		if (currentChapterIndex < data.chapters.length - 1) {
-			const url = $page.url.origin + '/manga' + data.chapters[currentChapterIndex + 1].value;
-			window.location.href = url;
-		}
-	}
-
-	function goToNextChapter() {
-		if (currentChapterIndex > 0) {
-			const url = $page.url.origin + '/manga' + data.chapters[currentChapterIndex - 1].value;
-			window.location.href = url;
-		}
 	}
 
 	const crumbs = [
@@ -192,10 +182,10 @@
 </script>
 
 <svelte:head>
-	<title>{data.title + ' - ' + $page.params.chapterid + ' - ' + site.site.title}</title>
+	<title>{data.title + ' - ' + $page.params.chapterid + ' - ' + $page.url.hostname}</title>
 	<meta
 		name="description"
-		content={`${data.title} ${$page.params.chapterid} ${site.site.title}, read ${data.title} ${$page.params.chapterid} ${site.site.title} online, ${data.title} ${$page.params.chapterid} ${site.site.title} free online, ${data.title} ${$page.params.chapterid} ${site.site.title} free online, ${data.title} ${$page.params.chapterid} ${site.site.title} high quality, ${data.title} ${$page.params.chapterid} ${site.site.title} manga scans, ${data.title} ${$page.params.chapterid} ${site.site.title} manga scan`}
+		content={`${data.title} ${$page.params.chapterid} ${$page.url.hostname}, read ${data.title} ${$page.params.chapterid} ${$page.url.hostname} online, ${data.title} ${$page.params.chapterid} ${$page.url.hostname} free online, ${data.title} ${$page.params.chapterid} ${$page.url.hostname} free online, ${data.title} ${$page.params.chapterid} ${$page.url.hostname} high quality, ${data.title} ${$page.params.chapterid} ${$page.url.hostname} manga scans, ${data.title} ${$page.params.chapterid} ${$page.url.hostname} manga scan`}
 	/>
 	<meta
 		name="keywords"
@@ -209,17 +199,17 @@
 			' ' +
 			$page.params.chapterid +
 			' ' +
-			site.site.title +
+			$page.url.hostname +
 			',' +
-			`${data.title} ${$page.params.chapterid} ${site.site.title}, read ${data.title} ${$page.params.chapterid} ${site.site.title} online, ${data.title} ${$page.params.chapterid} ${site.site.title} free online, ${data.title} ${$page.params.chapterid} ${site.site.title} free online, ${data.title} ${$page.params.chapterid} ${site.site.title} high quality, ${data.title} ${$page.params.chapterid} ${site.site.title} manga scans, ${data.title} ${$page.params.chapterid} ${site.site.title} manga scan`}
+			`${data.title} ${$page.params.chapterid} ${$page.url.hostname}, read ${data.title} ${$page.params.chapterid} ${$page.url.hostname} online, ${data.title} ${$page.params.chapterid} ${$page.url.hostname} free online, ${data.title} ${$page.params.chapterid} ${$page.url.hostname} free online, ${data.title} ${$page.params.chapterid} ${$page.url.hostname} high quality, ${data.title} ${$page.params.chapterid} ${$page.url.hostname} manga scans, ${data.title} ${$page.params.chapterid} ${$page.url.hostname} manga scan`}
 	/>
 	<meta
 		property="og:title"
-		content={data.title + ' ' + $page.params.chapterid + ' ' + site.site.title}
+		content={data.title + ' ' + $page.params.chapterid + ' ' + $page.url.hostname}
 	/>
 	<meta
 		property="og:description"
-		content={`${data.title} ${$page.params.chapterid} ${site.site.title}, read ${data.title} ${$page.params.chapterid} ${site.site.title} online, ${data.title} ${$page.params.chapterid} ${site.site.title} free online, ${data.title} ${$page.params.chapterid} ${site.site.title} free online, ${data.title} ${$page.params.chapterid} ${site.site.title} high quality, ${data.title} ${$page.params.chapterid} ${site.site.title} manga scans, ${data.title} ${$page.params.chapterid} ${site.site.title} manga scan`}
+		content={`${data.title} ${$page.params.chapterid} ${$page.url.hostname}, read ${data.title} ${$page.params.chapterid} ${$page.url.hostname} online, ${data.title} ${$page.params.chapterid} ${$page.url.hostname} free online, ${data.title} ${$page.params.chapterid} ${$page.url.hostname} free online, ${data.title} ${$page.params.chapterid} ${$page.url.hostname} high quality, ${data.title} ${$page.params.chapterid} ${$page.url.hostname} manga scans, ${data.title} ${$page.params.chapterid} ${$page.url.hostname} manga scan`}
 	/>
 	<meta property="og:image" content={data?.images[0].imageUrl} />
 	<meta property="og:url" content={$page.url.href} />
@@ -227,11 +217,11 @@
 	<meta name="twitter:site" content="@animevariant" />
 	<meta
 		name="twitter:title"
-		content={data.title + ' ' + $page.params.chapterid + ' ' + site.site.title}
+		content={data.title + ' ' + $page.params.chapterid + ' ' + $page.url.hostname}
 	/>
 	<meta
 		name="twitter:description"
-		content={`${data.title} ${$page.params.chapterid} ${site.site.title}, read ${data.title} ${$page.params.chapterid} ${site.site.title} online, ${data.title} ${$page.params.chapterid} ${site.site.title} free online, ${data.title} ${$page.params.chapterid} ${site.site.title} free online, ${data.title} ${$page.params.chapterid} ${site.site.title} high quality, ${data.title} ${$page.params.chapterid} ${site.site.title} manga scans, ${data.title} ${$page.params.chapterid} ${site.site.title} manga scan`}
+		content={`${data.title} ${$page.params.chapterid} ${$page.url.hostname}, read ${data.title} ${$page.params.chapterid} ${$page.url.hostname} online, ${data.title} ${$page.params.chapterid} ${$page.url.hostname} free online, ${data.title} ${$page.params.chapterid} ${$page.url.hostname} free online, ${data.title} ${$page.params.chapterid} ${$page.url.hostname} high quality, ${data.title} ${$page.params.chapterid} ${$page.url.hostname} manga scans, ${data.title} ${$page.params.chapterid} ${$page.url.hostname} manga scan`}
 	/>
 	<meta name="twitter:image" content={data?.images[0].imageUrl} />
 	<meta name="twitter:url" content={$page.url.href} />
@@ -239,12 +229,12 @@
 	<meta name="twitter:creator" content="@animevariant" />
 	<meta
 		name="twitter:image:alt"
-		content={data.title + ' ' + $page.params.chapterid + ' ' + site.site.title}
+		content={data.title + ' ' + $page.params.chapterid + ' ' + $page.url.hostname}
 	/>
 	<meta name="twitter:label4" content="Total Pages" />
 	<meta name="twitter:data4" content={data.images.length} />
 	<meta name="twitter:label5" content="Total Chapters" />
-	<meta name="twitter:data5" content={data.chapters.length} />
+	<meta name="twitter:data5" content={data.chapters?.length} />
 </svelte:head>
 
 <main class="bg-base-100">
@@ -290,31 +280,31 @@
 	{/if}
 
 	<!-- Previous and Next Chapter Buttons -->
-	<div class="flex justify-center space-x-4 m-4">
-		<button
+	<form class="flex justify-end space-x-4 m-4">
+		<a
+			href={`/manga${data.chapters[currentChapterIndex]?.value}`}
 			class="px-4 py-2 rounded-lg btn btn-primary"
-			disabled={currentChapterIndex === data.chapters.length - 1}
-			on:click={goToPreviousChapter}
+			on:click={() => currentChapterIndex++}
 		>
 			Previous Chapter
-		</button>
+		</a>
 		{#if currentChapterIndex === 0}
 			<button
 				class="px-4 py-2 rounded-lg btn btn-secondary"
-				on:click={() => goto(`/manga/${$page.params.id}`)}
+				on:click={() => goto(`${$page.url.origin}/manga/${$page.params.id}`)}
 			>
 				Manga Details
 			</button>
 		{:else}
-			<button
+			<a
+				href={`/manga${data.chapters[currentChapterIndex]?.value}`}
 				class="px-4 py-2 rounded-lg btn btn-primary"
-				disabled={currentChapterIndex === 0}
-				on:click={goToNextChapter}
+				on:click={() => currentChapterIndex--}
 			>
 				Next Chapter
-			</button>
+			</a>
 		{/if}
-	</div>
+	</form>
 	<ScrollToTop />
 	<Chat />
 </main>

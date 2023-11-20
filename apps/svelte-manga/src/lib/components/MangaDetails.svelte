@@ -10,10 +10,10 @@
 	let views = data.views;
 
 	// remove the commas
-	views = views.replace(/,/g, '');
+	views = views?.replace(/,/g, '');
 
 	// check if the last character is a k or m
-	const lastChar = views[views.length - 1];
+	const lastChar = views[views?.length - 1];
 
 	// if the last character is a k then multiply the number by 1000
 	if (lastChar === 'K') {

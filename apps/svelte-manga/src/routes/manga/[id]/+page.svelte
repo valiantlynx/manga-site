@@ -50,14 +50,14 @@
 	}
 
 	// if the last sentence is longer than 50 characters, split it into two sentences
-	if (descriptionArray[descriptionArray.length - 1].length > 50) {
+	if (descriptionArray[descriptionArray.length - 1]?.length > 50) {
 		let lastSentence = descriptionArray[descriptionArray.length - 1];
 		descriptionArray[descriptionArray.length - 1] = lastSentence.slice(0, 50);
 		descriptionArray.push(lastSentence.slice(50));
 	}
 
 	// if the last sentence is shorter than 50 characters, add the next sentence to it
-	if (descriptionArray[descriptionArray.length - 1].length < 50) {
+	if (descriptionArray[descriptionArray.length - 1]?.length < 50) {
 		let lastSentence = descriptionArray[descriptionArray.length - 1];
 		descriptionArray[descriptionArray.length - 1] =
 			lastSentence + descriptionArray[descriptionArray.length];
