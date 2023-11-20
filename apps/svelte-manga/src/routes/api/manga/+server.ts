@@ -51,8 +51,8 @@ export const GET: RequestHandler = async ({ url }) => {
 
 			const content = {
 				title: titleElement.text(),
-				img: imgElement.attr('src'),
-				latestChapter: chaptersElement.text(),
+				img: url.origin + "/api" + imgElement.attr('src') + "?width=200&height=300",
+ 				latestChapter: chaptersElement.text(),
 				rating: ratingElement.text(),
 				src,
 				id,
@@ -62,6 +62,7 @@ export const GET: RequestHandler = async ({ url }) => {
 					? [authorElement.text(), authorElement.find('a').attr('href')]
 					: null
 			};
+
 			scrapedData.push(content);
 		});
 

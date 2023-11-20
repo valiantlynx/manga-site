@@ -1,8 +1,6 @@
 <script lang="ts">
 	import { page } from '$app/stores';
 	export let manga: any;
-
-	const imageSrc = `${import.meta.env.VITE_HOST_URL}/api${manga.img}?width=200&height=300`;
 </script>
 
 <div
@@ -11,7 +9,7 @@
 	<a class=" w-full" href={$page.url.origin + '/manga/' + manga.id}>
 		<img
 			class=" w-full group-hover:opacity-75 overflow-hidden rounded-t-xl"
-			src={imageSrc}
+			src={manga.img}
 			alt={manga.title}
 		/>
 

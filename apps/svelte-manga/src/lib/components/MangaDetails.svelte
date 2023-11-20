@@ -2,7 +2,7 @@
 	import { page } from '$app/stores';
 	import { postPocketbase, pb, getPocketbase } from '$lib/utils/api';
 	import PersonalRating from './PersonalRating.svelte';
-	export let data: any;
+	let data = $page.data.manga;
 
 	const imageSrc = `${import.meta.env.VITE_HOST_URL}/api${data.img}?width=200&height=300`;
 
@@ -10,10 +10,10 @@
 	let views = data.views;
 
 	// remove the commas
-	views = views.replace(/,/g, '');
+	views = views?.replace(/,/g, '');
 
 	// check if the last character is a k or m
-	const lastChar = views[views.length - 1];
+	const lastChar = views[views?.length - 1];
 
 	// if the last character is a k then multiply the number by 1000
 	if (lastChar === 'K') {
