@@ -9,7 +9,10 @@
 	<h2 class="text-2xl font-bold text-center mb-6 bg-primary rounded-lg text-primary-content">
 		Popular
 	</h2>
-	<PaginationSimple action="?/popular" />
+
+	<div class="col-span-full flex justify-end w-full">
+		<PaginationSimple action="?/popular" disabled={!$page.data.popularMangas} />
+	</div>
 
 	<div class="mx-auto container gap-y-6 gap-x-4">
 		{#each ( $page.form?.popularMangas ? $page.form?.popularMangas : $page.data.popularMangas) as manga}
@@ -17,7 +20,9 @@
 		{/each}
 	</div>
 
-	<PaginationSimple  action="?/popular" />
+	<div class="col-span-full flex justify-end w-full">
+		<PaginationSimple action="?/popular" disabled={!$page.data.popularMangas} />
+	</div>
 	<AnimevariantGridAds />
 </main>
 
