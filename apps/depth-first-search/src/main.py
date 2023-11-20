@@ -1,7 +1,7 @@
 from typing import List, Tuple
 from fastapi import FastAPI, Request
 from fastapi.responses import HTMLResponse, JSONResponse
-from src.bfs import bfs
+from src.dfs import dfs
 import random
 import json
 
@@ -53,7 +53,7 @@ def generate_maze(request: Request):
     
     visited = set()
     path = [start]
-    bfs(maze, start, end, visited, path, path_history)
+    dfs(maze, start, end, visited, path, path_history)
     
     # Return the maze and path history as JSON
     return {

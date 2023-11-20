@@ -1,18 +1,18 @@
-from collections import deque
+from queue import Queue
 
-def dfs(maze, start, end, visited, path, path_history):
-    stack = deque()
-    stack.append(start)
-
-    while stack:
-        current = stack.pop()
+def bfs(maze, start, end, visited, path, path_history):
+    queue = Queue()
+    queue.put(start)
+    
+    while not queue.empty():
+        current = queue.get()
         if current == end:
             break
         visited.add(current)
         
         for neighbor in get_neighbors(maze, current):
             if neighbor not in visited:
-                stack.append(neighbor)
+                queue.put(neighbor)
                 path.append(neighbor)
                 path_history.append(list(path))  # Store the path history
 
@@ -31,4 +31,5 @@ def get_neighbors(maze, current):
             if maze[neighbor[0]][neighbor[1]] != 1:
                 if maze[neighbor[0]][neighbor[1]] == 0 or maze[neighbor[0]][neighbor[1]] == 3:
                     neighbors.append(neighbor)
+        
     return neighbors
