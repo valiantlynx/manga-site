@@ -4,6 +4,7 @@
 	import toast from 'svelte-french-toast';
 
 	export let action = "?/popular";
+	export let disabled = !$page.data.popularMangas;
 	let loading = false;
 
 	const submitPageNo = () => {
@@ -12,6 +13,7 @@
 			switch (result.type) {
 				case 'success':
 					await update();
+					console.log($page.form.readingProgress);
 					break;
 				case 'invalid':
 					toast.error('Invalid credentials');
@@ -36,7 +38,7 @@
 	class="flex justify-center my-2"
 	use:enhance={submitPageNo}
 >
-<div class="join grid grid-cols-2 sm:w-1/4">
+<div class="join grid grid-cols-2  w-full">
 	<button
 		type="submit"
 		class="join-item btn btn-primary border-secondary"
@@ -52,7 +54,7 @@
 		type="submit"
 		class="join-item btn btn-primary border-secondary animate-pulse"
 		on:click={() => pageNo++}
-		disabled={!$page.data.popularMangas}
+		disabled={disabled}
 		value={pageNo}
 		name="page"
 	>
