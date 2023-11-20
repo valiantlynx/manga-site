@@ -25,462 +25,402 @@
 	],
 	"icons": [
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/maskable_icon.png",
+			"src": "https://www.animevariant.com/api/logo?width=280&height=280&color=black",
 			"sizes": "280x280",
 			"type": "image/png",
 			"purpose": "any maskable"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/SmallTile.scale-100.png",
+			"src": "https://www.animevariant.com/api/logo?width=71&height=71&color=black",
 			"sizes": "71x71"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/SmallTile.scale-125.png",
+			"src": "https://www.animevariant.com/api/logo?width=89&height=89&color=black",
 			"sizes": "89x89"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/SmallTile.scale-150.png",
+			"src": "https://www.animevariant.com/api/logo?width=107&height=107&color=black",
 			"sizes": "107x107"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/SmallTile.scale-200.png",
+			"src": "https://www.animevariant.com/api/logo?width=142&height=142&color=black",
 			"sizes": "142x142"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/SmallTile.scale-400.png",
+			"src": "https://www.animevariant.com/api/logo?width=284&height=284&color=black",
 			"sizes": "284x284"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Square150x150Logo.scale-100.png",
+			"src": "https://www.animevariant.com/api/logo?width=150&height=150&color=black",
 			"sizes": "150x150"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Square150x150Logo.scale-125.png",
+			"src": "https://www.animevariant.com/api/logo?width=188&height=188&color=black",
 			"sizes": "188x188"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Square150x150Logo.scale-150.png",
+			"src": "https://www.animevariant.com/api/logo?width=225&height=225&color=black",
 			"sizes": "225x225"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Square150x150Logo.scale-200.png",
+			"src": "https://www.animevariant.com/api/logo?width=300&height=300&color=black",
 			"sizes": "300x300"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Square150x150Logo.scale-400.png",
+			"src": "https://www.animevariant.com/api/logo?width=600&height=600&color=black",
 			"sizes": "600x600"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Wide310x150Logo.scale-100.png",
+			"src": "https://www.animevariant.com/api/logo?width=310&height=150&color=black",
 			"sizes": "310x150"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Wide310x150Logo.scale-125.png",
+			"src": "https://www.animevariant.com/api/logo?width=388&height=188&color=black",
 			"sizes": "388x188"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Wide310x150Logo.scale-150.png",
+			"src": "https://www.animevariant.com/api/logo?width=465&height=225&color=black",
 			"sizes": "465x225"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Wide310x150Logo.scale-200.png",
+			"src": "https://www.animevariant.com/api/logo?width=620&height=300&color=black",
 			"sizes": "620x300"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Wide310x150Logo.scale-400.png",
+			"src": "https://www.animevariant.com/api/logo?width=1240&height=600&color=black",
 			"sizes": "1240x600"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/LargeTile.scale-100.png",
+			"src": "https://www.animevariant.com/api/logo?width=310&height=310&color=black",
 			"sizes": "310x310"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/LargeTile.scale-125.png",
+			"src": "https://www.animevariant.com/api/logo?width=388&height=388&color=black",
 			"sizes": "388x388"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/LargeTile.scale-150.png",
+			"src": "https://www.animevariant.com/api/logo?width=465&height=465&color=black",
 			"sizes": "465x465"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/LargeTile.scale-200.png",
+			"src": "https://www.animevariant.com/api/logo?width=620&height=620&color=black",
 			"sizes": "620x620"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/LargeTile.scale-400.png",
+			"src": "https://www.animevariant.com/api/logo?width=1240&height=1240&color=black",
 			"sizes": "1240x1240"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Square44x44Logo.scale-100.png",
+			"src": "https://www.animevariant.com/api/logo?width=44&height=44&color=black",
 			"sizes": "44x44"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Square44x44Logo.scale-125.png",
+			"src": "https://www.animevariant.com/api/logo?width=55&height=55&color=black",
 			"sizes": "55x55"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Square44x44Logo.scale-150.png",
+			"src": "https://www.animevariant.com/api/logo?width=66&height=66&color=black",
 			"sizes": "66x66"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Square44x44Logo.scale-200.png",
+			"src": "https://www.animevariant.com/api/logo?width=88&height=88&color=black",
 			"sizes": "88x88"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Square44x44Logo.scale-400.png",
+			"src": "https://www.animevariant.com/api/logo?width=176&height=176&color=black",
 			"sizes": "176x176"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/StoreLogo.scale-100.png",
+			"src": "https://www.animevariant.com/api/logo?width=50&height=50&color=black",
 			"sizes": "50x50"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/StoreLogo.scale-125.png",
+			"src": "https://www.animevariant.com/api/logo?width=63&height=63&color=black",
 			"sizes": "63x63"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/StoreLogo.scale-150.png",
+			"src": "https://www.animevariant.com/api/logo?width=75&height=75&color=black",
 			"sizes": "75x75"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/StoreLogo.scale-200.png",
+			"src": "https://www.animevariant.com/api/logo?width=100&height=100&color=black",
 			"sizes": "100x100"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/StoreLogo.scale-400.png",
+			"src": "https://www.animevariant.com/api/logo?width=200&height=200&color=black",
 			"sizes": "200x200"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/SplashScreen.scale-100.png",
+			"src": "https://www.animevariant.com/api/logo?width=620&height=300&color=black",
 			"sizes": "620x300"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/SplashScreen.scale-125.png",
+			"src": "https://www.animevariant.com/api/logo?width=775&height=375&color=black",
 			"sizes": "775x375"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/SplashScreen.scale-150.png",
+			"src": "https://www.animevariant.com/api/logo?width=930&height=450&color=black",
 			"sizes": "930x450"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/SplashScreen.scale-200.png",
+			"src": "https://www.animevariant.com/api/logo?width=1240&height=600&color=black",
 			"sizes": "1240x600"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/SplashScreen.scale-400.png",
+			"src": "https://www.animevariant.com/api/logo?width=2480&height=1200&color=black",
 			"sizes": "2480x1200"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Square44x44Logo.targetsize-16.png",
+			"src": "https://www.animevariant.com/api/logo?width=16&height=16&color=black",
 			"sizes": "16x16"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Square44x44Logo.targetsize-20.png",
+			"src": "https://www.animevariant.com/api/logo?width=20&height=20&color=black",
 			"sizes": "20x20"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Square44x44Logo.targetsize-24.png",
+			"src": "https://www.animevariant.com/api/logo?width=24&height=24&color=black",
 			"sizes": "24x24"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Square44x44Logo.targetsize-30.png",
+			"src": "https://www.animevariant.com/api/logo?width=30&height=30&color=black",
 			"sizes": "30x30"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Square44x44Logo.targetsize-32.png",
+			"src": "https://www.animevariant.com/api/logo?width=32&height=32&color=black",
 			"sizes": "32x32"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Square44x44Logo.targetsize-36.png",
+			"src": "https://www.animevariant.com/api/logo?width=36&height=36&color=black",
 			"sizes": "36x36"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Square44x44Logo.targetsize-40.png",
+			"src": "https://www.animevariant.com/api/logo?width=40&height=40&color=black",
 			"sizes": "40x40"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Square44x44Logo.targetsize-44.png",
+			"src": "https://www.animevariant.com/api/logo?width=44&height=44&color=black",
 			"sizes": "44x44"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Square44x44Logo.targetsize-48.png",
+			"src": "https://www.animevariant.com/api/logo?width=48&height=48&color=black",
 			"sizes": "48x48"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Square44x44Logo.targetsize-60.png",
+			"src": "https://www.animevariant.com/api/logo?width=60&height=60&color=black",
 			"sizes": "60x60"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Square44x44Logo.targetsize-64.png",
+			"src": "https://www.animevariant.com/api/logo?width=64&height=64&color=black",
 			"sizes": "64x64"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Square44x44Logo.targetsize-72.png",
+			"src": "https://www.animevariant.com/api/logo?width=72&height=72&color=black",
 			"sizes": "72x72"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Square44x44Logo.targetsize-80.png",
+			"src": "https://www.animevariant.com/api/logo?width=80&height=80&color=black",
 			"sizes": "80x80"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Square44x44Logo.targetsize-96.png",
+			"src": "https://www.animevariant.com/api/logo?width=96&height=96&color=black",
 			"sizes": "96x96"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Square44x44Logo.targetsize-256.png",
+			"src": "https://www.animevariant.com/api/logo?width=256&height=256&color=black",
 			"sizes": "256x256"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Square44x44Logo.altform-unplated_targetsize-16.png",
+			"src": "https://www.animevariant.com/api/logo?width=16&height=16&color=black",
 			"sizes": "16x16"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Square44x44Logo.altform-unplated_targetsize-20.png",
+			"src": "https://www.animevariant.com/api/logo?width=20&height=20&color=black",
 			"sizes": "20x20"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Square44x44Logo.altform-unplated_targetsize-24.png",
+			"src": "https://www.animevariant.com/api/logo?width=24&height=24&color=black",
 			"sizes": "24x24"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Square44x44Logo.altform-unplated_targetsize-30.png",
+			"src": "https://www.animevariant.com/api/logo?width=30&height=30&color=black",
 			"sizes": "30x30"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Square44x44Logo.altform-unplated_targetsize-32.png",
+			"src": "https://www.animevariant.com/api/logo?width=32&height=32&color=black",
 			"sizes": "32x32"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Square44x44Logo.altform-unplated_targetsize-36.png",
+			"src": "https://www.animevariant.com/api/logo?width=36&height=36&color=black",
 			"sizes": "36x36"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Square44x44Logo.altform-unplated_targetsize-40.png",
+			"src": "https://www.animevariant.com/api/logo?width=40&height=40&color=black",
 			"sizes": "40x40"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Square44x44Logo.altform-unplated_targetsize-44.png",
+			"src": "https://www.animevariant.com/api/logo?width=44&height=44&color=black",
 			"sizes": "44x44"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Square44x44Logo.altform-unplated_targetsize-48.png",
+			"src": "https://www.animevariant.com/api/logo?width=48&height=48&color=black",
 			"sizes": "48x48"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Square44x44Logo.altform-unplated_targetsize-60.png",
+			"src": "https://www.animevariant.com/api/logo?width=60&height=60&color=black",
 			"sizes": "60x60"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Square44x44Logo.altform-unplated_targetsize-64.png",
+			"src": "https://www.animevariant.com/api/logo?width=64&height=64&color=black",
 			"sizes": "64x64"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Square44x44Logo.altform-unplated_targetsize-72.png",
+			"src": "https://www.animevariant.com/api/logo?width=72&height=72&color=black",
 			"sizes": "72x72"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Square44x44Logo.altform-unplated_targetsize-80.png",
+			"src": "https://www.animevariant.com/api/logo?width=80&height=80&color=black",
 			"sizes": "80x80"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Square44x44Logo.altform-unplated_targetsize-96.png",
+			"src": "https://www.animevariant.com/api/logo?width=96&height=96&color=black",
 			"sizes": "96x96"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Square44x44Logo.altform-unplated_targetsize-256.png",
+			"src": "https://www.animevariant.com/api/logo?width=256&height=256&color=black",
 			"sizes": "256x256"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Square44x44Logo.altform-lightunplated_targetsize-16.png",
-			"sizes": "16x16"
-		},
-		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Square44x44Logo.altform-lightunplated_targetsize-20.png",
-			"sizes": "20x20"
-		},
-		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Square44x44Logo.altform-lightunplated_targetsize-24.png",
-			"sizes": "24x24"
-		},
-		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Square44x44Logo.altform-lightunplated_targetsize-30.png",
-			"sizes": "30x30"
-		},
-		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Square44x44Logo.altform-lightunplated_targetsize-32.png",
-			"sizes": "32x32"
-		},
-		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Square44x44Logo.altform-lightunplated_targetsize-36.png",
-			"sizes": "36x36"
-		},
-		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Square44x44Logo.altform-lightunplated_targetsize-40.png",
-			"sizes": "40x40"
-		},
-		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Square44x44Logo.altform-lightunplated_targetsize-44.png",
-			"sizes": "44x44"
-		},
-		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Square44x44Logo.altform-lightunplated_targetsize-48.png",
-			"sizes": "48x48"
-		},
-		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Square44x44Logo.altform-lightunplated_targetsize-60.png",
-			"sizes": "60x60"
-		},
-		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Square44x44Logo.altform-lightunplated_targetsize-64.png",
-			"sizes": "64x64"
-		},
-		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Square44x44Logo.altform-lightunplated_targetsize-72.png",
-			"sizes": "72x72"
-		},
-		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Square44x44Logo.altform-lightunplated_targetsize-80.png",
-			"sizes": "80x80"
-		},
-		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Square44x44Logo.altform-lightunplated_targetsize-96.png",
-			"sizes": "96x96"
-		},
-		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/windows11/Square44x44Logo.altform-lightunplated_targetsize-256.png",
-			"sizes": "256x256"
-		},
-		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/android/android-launchericon-512-512.png",
+			"src": "https://www.animevariant.com/api/logo?width=512&height=512&color=black",
 			"sizes": "512x512"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/android/android-launchericon-192-192.png",
+			"src": "https://www.animevariant.com/api/logo?width=192&height=192&color=black",
 			"sizes": "192x192"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/android/android-launchericon-144-144.png",
+			"src": "https://www.animevariant.com/api/logo?width=144&height=144&color=black",
 			"sizes": "144x144"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/android/android-launchericon-96-96.png",
+			"src": "https://www.animevariant.com/api/logo?width=96&height=96&color=black",
 			"sizes": "96x96"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/android/android-launchericon-72-72.png",
+			"src": "https://www.animevariant.com/api/logo?width=72&height=72&color=black",
 			"sizes": "72x72"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/android/android-launchericon-48-48.png",
+			"src": "https://www.animevariant.com/api/logo?width=48&height=48&color=black",
 			"sizes": "48x48"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/ios/16.png",
+			"src": "https://www.animevariant.com/api/logo?width=16&height=16&color=black",
 			"sizes": "16x16"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/ios/20.png",
+			"src": "https://www.animevariant.com/api/logo?width=20&height=20&color=black",
 			"sizes": "20x20"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/ios/29.png",
+			"src": "https://www.animevariant.com/api/logo?width=29&height=29&color=black",
 			"sizes": "29x29"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/ios/32.png",
+			"src": "https://www.animevariant.com/api/logo?width=32&height=32&color=black",
 			"sizes": "32x32"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/ios/40.png",
+			"src": "https://www.animevariant.com/api/logo?width=40&height=40&color=black",
 			"sizes": "40x40"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/ios/50.png",
+			"src": "https://www.animevariant.com/api/logo?width=50&height=50&color=black",
 			"sizes": "50x50"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/ios/57.png",
+			"src": "https://www.animevariant.com/api/logo?width=57&height=57&color=black",
 			"sizes": "57x57"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/ios/58.png",
+			"src": "https://www.animevariant.com/api/logo?width=58&height=58&color=black",
 			"sizes": "58x58"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/ios/60.png",
+			"src": "https://www.animevariant.com/api/logo?width=60&height=60&color=black",
 			"sizes": "60x60"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/ios/64.png",
+			"src": "https://www.animevariant.com/api/logo?width=64&height=64&color=black",
 			"sizes": "64x64"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/ios/72.png",
+			"src": "https://www.animevariant.com/api/logo?width=72&height=72&color=black",
 			"sizes": "72x72"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/ios/76.png",
+			"src": "https://www.animevariant.com/api/logo?width=76&height=76&color=black",
 			"sizes": "76x76"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/ios/80.png",
+			"src": "https://www.animevariant.com/api/logo?width=80&height=80&color=black",
 			"sizes": "80x80"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/ios/87.png",
+			"src": "https://www.animevariant.com/api/logo?width=87&height=87&color=black",
 			"sizes": "87x87"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/ios/100.png",
+			"src": "https://www.animevariant.com/api/logo?width=100&height=100&color=black",
 			"sizes": "100x100"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/ios/114.png",
+			"src": "https://www.animevariant.com/api/logo?width=114&height=114&color=black",
 			"sizes": "114x114"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/ios/120.png",
+			"src": "https://www.animevariant.com/api/logo?width=120&height=120&color=black",
 			"sizes": "120x120"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/ios/128.png",
+			"src": "https://www.animevariant.com/api/logo?width=128&height=128&color=black",
 			"sizes": "128x128"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/ios/144.png",
+			"src": "https://www.animevariant.com/api/logo?width=144&height=144&color=black",
 			"sizes": "144x144"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/ios/152.png",
+			"src": "https://www.animevariant.com/api/logo?width=152&height=152&color=black",
 			"sizes": "152x152"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/ios/167.png",
+			"src": "https://www.animevariant.com/api/logo?width=167&height=167&color=black",
 			"sizes": "167x167"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/ios/180.png",
+			"src": "https://www.animevariant.com/api/logo?width=180&height=180&color=black",
 			"sizes": "180x180"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/ios/192.png",
+			"src": "https://www.animevariant.com/api/logo?width=192&height=192&color=black",
 			"sizes": "192x192"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/ios/256.png",
+			"src": "https://www.animevariant.com/api/logo?width=256&height=256&color=black",
 			"sizes": "256x256"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/ios/512.png",
+			"src": "https://www.animevariant.com/api/logo?width=512&height=512&color=black",
 			"sizes": "512x512"
 		},
 		{
-			"src": "https://raw.githubusercontent.com/Animevariant/Animevariant/main/ios/1024.png",
+			"src": "https://www.animevariant.com/api/logo?width=1024&height=1024&color=black",
 			"sizes": "1024x1024"
 		}
 	],
 	"dir": "auto",
-	"lang": "nb",
+	"lang": "en",
 	"categories": [
 		"books",
 		"business",
