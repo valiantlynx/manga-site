@@ -1,5 +1,4 @@
 export const load = async (event) => {
-	console.log('event', event);
 	const { id } = event.params;
 
 	const url = `/manga/${id}`;

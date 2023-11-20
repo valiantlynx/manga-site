@@ -50,7 +50,7 @@
 				</a>
 			</li>
 			<li aria-current={$page.url.pathname === '/dashboard/reading-progress' ? 'page' : undefined}>
-				<a class="justify-between" href="/dashboard">
+				<a class="justify-between" href="/dashboard/reading-progress">
 					Reading Progress
 					<span class="badge">New</span>
 				</a>
