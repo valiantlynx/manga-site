@@ -15,7 +15,6 @@ export const actions = {
 	popular: async (event) => {
 		const data = await event.request.formData();
 		const page = data.get('page');
-		console.log('page popular', page);
 		try {
 			const popularMangas = await Popular(event.locals, page);  
 			return {
@@ -30,8 +29,6 @@ export const actions = {
 	latest: async (event) => {
 		const data = await event.request.formData();
 		const page = data.get('page');
-
-		console.log('page latest', page);
 		try {
 			const latestMangas = await Latest(event, page);
 			return {

@@ -34,7 +34,7 @@
 	let sentence = '';
 
 	// loop through the description array and add each word to the sentence
-	for (let i = 0; i < description.length; i++) {
+	for (let i = 0; i < description?.length; i++) {
 		sentence += description[i] + ' ';
 
 		// if the sentence is longer than 50 characters, add it to the array and reset the sentence
@@ -95,7 +95,7 @@
 		<MangaDetails />
 		<ResponsiveBannerAd />
 		<Chapters />
-		<Pagination  action="?/chapters" />
+		<Pagination />
 	</div>
 	<ResponsiveBannerAd />
 	<Chat />

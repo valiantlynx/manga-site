@@ -3,7 +3,6 @@
 	import { page } from '$app/stores';
 	import toast from 'svelte-french-toast';
 
-	export let action = "?/chapters";
 	let loading = false;
 
 	const submitPageNo = () => {
@@ -31,7 +30,7 @@
 </script>
 
 <form
-	action={action}
+	action="?/chapters"
 	method="POST"
 	class="flex justify-center my-2"
 	use:enhance={submitPageNo}
