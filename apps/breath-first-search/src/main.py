@@ -4,6 +4,7 @@ from fastapi.responses import HTMLResponse, JSONResponse
 from src.bfs import bfs
 import random
 import json
+from collections import deque
 
 app = FastAPI()
  
@@ -14,30 +15,38 @@ debugpy.listen(("0.0.0.0", 5678))
 path_history: List[Tuple[int, int]] = []
 
 def create_maze(rows, cols, start, end):
-    # Initialize maze with walls (1)
     maze = [[1] * cols for _ in range(rows)]
+    visited = set()
 
     def is_valid(x, y):
-        return 0 <= x < rows and 0 <= y < cols and maze[x][y] == 1
+        # Adjust the probability for walls (e.g., 0.2 means 20% chance of being a wall)
+        return 0 <= x < rows and 0 <= y < cols and (x, y) not in visited and random.random() < 0.8
 
-    def dfs(x, y):
-        maze[x][y] = 0  # Mark the current cell as a path (0)
-        directions = [(0, 1), (1, 0), (0, -1), (-1, 0)]
-        random.shuffle(directions)
-        for dx, dy in directions:
-            new_x, new_y = x + 2 * dx, y + 2 * dy
-            if is_valid(new_x, new_y):
-                maze[x + dx][y + dy] = 0
-                dfs(new_x, new_y)
+    def bfs(x, y):
+        queue = deque([(x, y)])
+        visited.add((x, y))
 
-    dfs(start[0], start[1])
+        while queue:
+            current_x, current_y = queue.popleft()
+            maze[current_x][current_y] = 0  # Mark the current cell as a path (0)
+
+            directions = [(0, 1), (1, 0), (0, -1), (-1, 0)]
+            random.shuffle(directions)
+
+            for dx, dy in directions:
+                new_x, new_y = current_x + 2 * dx, current_y + 2 * dy
+                if is_valid(new_x, new_y):
+                    maze[current_x + dx][current_y + dy] = 0
+                    visited.add((new_x, new_y))
+                    queue.append((new_x, new_y))
+
+    bfs(start[0], start[1])
 
     # Set the start and end positions
     maze[start[0]][start[1]] = 2
     maze[end[0]][end[1]] = 3
 
     return maze
-
 
 @app.get("/generate_maze", response_class=JSONResponse)
 def generate_maze(request: Request):

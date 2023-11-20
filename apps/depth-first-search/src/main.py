@@ -13,12 +13,13 @@ debugpy.listen(("0.0.0.0", 5678))
 # Store the path history
 path_history: List[Tuple[int, int]] = []
 
-def create_maze(rows, cols, start, end):
+def create_dfs_maze(rows, cols, start, end):
     # Initialize maze with walls (1)
     maze = [[1] * cols for _ in range(rows)]
-
+    
     def is_valid(x, y):
-        return 0 <= x < rows and 0 <= y < cols and maze[x][y] == 1
+        return 0 <= x < rows and 0 <= y < cols and maze[x][y] == 1 and random.random() < 0.9
+
 
     def dfs(x, y):
         maze[x][y] = 0  # Mark the current cell as a path (0)
@@ -38,6 +39,25 @@ def create_maze(rows, cols, start, end):
 
     return maze
 
+def create_maze(rows, cols, start, end, density=0.4):
+    # Initialize the maze with zeros
+    maze = [[0] * cols for _ in range(rows)]
+
+    # Set the start and end positions
+    maze[start[0]][start[1]] = 2
+    maze[end[0]][end[1]] = 3
+
+    # Populate the maze sparsely with walls (1s)
+    for row in range(rows):
+        for col in range(cols):
+            if maze[row][col] == 0 and random.random() < density:
+                maze[row][col] = 1
+    # Set the start and end positions
+    maze[start[0]][start[1]] = 2
+    maze[end[0]][end[1]] = 3
+    
+    return maze
+
 
 @app.get("/generate_maze", response_class=JSONResponse)
 def generate_maze(request: Request):
@@ -49,7 +69,7 @@ def generate_maze(request: Request):
     start = (random.randint(0, (rows - 1)), random.randint(0, (cols - 1)))
     end = (random.randint(0, (rows - 1)), random.randint(0, (cols - 1)))
     
-    maze = create_maze(rows, cols, start, end)
+    maze = create_dfs_maze(rows, cols, start, end)
     
     visited = set()
     path = [start]
