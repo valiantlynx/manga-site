@@ -9,13 +9,17 @@
 	<h2 class="text-2xl font-bold text-center mb-6 bg-primary rounded-lg text-primary-content">
 		Latest Manga
 	</h2>
-	<PaginationSimple  action="?/latest" />
+	<div class="col-span-full flex justify-end w-full">
+		<PaginationSimple action="?/latest" disabled={!$page.data.latestMangas} />
+	</div>
 	<div class="mx-auto container gap-y-6 gap-x-4">
 		{#each ($page.form?.latestMangas ? $page.form?.latestMangas : $page.data.latestMangas) as manga}
 			<MangaCard {manga} />
 		{/each}
 	</div>
-	<PaginationSimple action="?/latest" />
+	<div class="col-span-full flex justify-end w-full">
+		<PaginationSimple action="?/latest" disabled={!$page.data.latestMangas} />
+	</div>
 	<AnimevariantGridAds />
 </main>
 

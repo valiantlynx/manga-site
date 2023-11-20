@@ -1,26 +1,13 @@
 <!-- ReadingProgress.svelte -->
 
 <script lang="ts">
-	import { pb } from '$lib/utils/api';
-	import { onMount, setContext } from 'svelte';
-	import { writable } from 'svelte/store';
 	import { page } from '$app/stores';
 	import ImportReadingProgress from '$lib/components/ImportReadingProgress.svelte';
-
-	// Create a writable store to hold readingProgress data
-	const readingProgressStore: any = writable([]);
-
+	import PaginationSimple from '$lib/components/PaginationSimple.svelte';
+	console.log('page,,,,', $page);
+	
 	let pageNo = 1;
 	const itemsPerPage = 20;
-
-	// Set the context to make the store available to child components
-	setContext('readingProgress', readingProgressStore);
-
-	onMount(async () => {
-		if ($page.data.user) {
-			loadReadingProgress();
-		}
-	});
 
 	// Calculate the progress percentage for each manga
 	function calculateProgressPercentage(chapter: any) {
@@ -31,35 +18,6 @@
 		// Ensure the progress percentage is within the range [0, 100]
 		return Math.min(100, Math.max(0, progressPercentage));
 	}
-
-	// Function to load reading progress based on pageNo
-	async function loadReadingProgress() {
-		const data = {
-			sort: '-updated',
-			filter: `user="${$page.data.user?.id}"`,
-			expand: 'manga, currentChapter, user',
-			page: pageNo
-		};
-
-		try {
-			const res: any = await pb.collection('reading_progress').getList(1, itemsPerPage, data);
-			readingProgressStore.set(res.items);
-		} catch (error) {
-			console.error('Error fetching reading progress:', error);
-		}
-	}
-
-	// Function to go to the next page
-	function nextPage() {
-		pageNo++;
-		loadReadingProgress();
-	}
-
-	// Function to go to the previous page
-	function prevPage() {
-		pageNo--;
-		loadReadingProgress();
-	}
 </script>
 
 <div class="flex flex-wrap justify-center">
@@ -69,9 +27,13 @@
 
 			<div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-6">
 				{#if $page.data.user}
-					{#if $readingProgressStore.length != 0}
+					{#if $page.data.readingProgress.length != 0}
+					<!-- Pagination -->
+					<div class="col-span-full flex justify-end w-full">
+						<PaginationSimple action="?/readingProgress" disabled={!$page.data.readingProgress} />
+					</div>
 						<!-- Individual Chapters -->
-						{#each $readingProgressStore as chapter (chapter.id)}
+						{#each ( $page.form?.readingProgress ? $page.form?.readingProgress : $page.data.readingProgress) as chapter (chapter.id)}
 							<!-- Manga Card -->
 							<div class="bg-base-300 text-base-content rounded-lg shadow-md">
 								<a href={`/manga/${chapter.expand?.manga?.sourceid}`} class="hover:underline">
@@ -176,17 +138,8 @@
 							</div>
 						{/each}
 						<!-- Pagination -->
-						<div class="col-span-full flex justify-center mt-8">
-							{#if pageNo > 1}
-								<button class="btn-primary btn mx-4" on:click={prevPage}>
-									Previous - {pageNo - 1}
-								</button>
-							{/if}
-							{#if $readingProgressStore.length === itemsPerPage}
-								<button class="btn-primary btn" on:click={nextPage}>
-									Next - {pageNo + 1}
-								</button>
-							{/if}
+						<div class="col-span-full flex justify-end mt-8 w-full">
+							<PaginationSimple action="?/readingProgress" disabled={!$page.data.readingProgress} />
 						</div>
 					{:else}
 						<p class="text-center text-base-content text-xl mt-4">You have no reading progress.</p>
