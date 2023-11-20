@@ -29,7 +29,6 @@ export const actions = {
 			const response = await fetch(event.url.origin + `/api/manga/${id}?url=${url}`);
 			const manga = await response.json();
 			const chaptersToShow = updateChaptersToShow(page, manga);
-			console.log('chaptersToShow', chaptersToShow);
 			return {
 				chaptersToShow
 			};

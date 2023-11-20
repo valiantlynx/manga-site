@@ -4,7 +4,6 @@
 	import Chapters from '$lib/components/Chapters.svelte';
 	import MangaDetails from '$lib/components/MangaDetails.svelte';
 	import Breadcrumbs from '$lib/components/Breadcrumbs.svelte';
-	import { site } from '@valiantlynx/general-config';
 	import ReadingProgress from '$lib/components/ReadingProgress.svelte';
 	import Chat from '$lib/components/Chat.svelte';
 	import ResponsiveBannerAd from '$lib/components/ResponsiveBannerAd.svelte';
@@ -64,6 +63,8 @@
 			lastSentence + descriptionArray[descriptionArray.length];
 		descriptionArray.pop();
 	}
+
+	console.log("descriptionArray", $page);
 </script>
 
 <svelte:head>
@@ -72,15 +73,15 @@
 	<meta name="keywords" content={data.author + ',' + data.title + ',' + descriptionArray} />
 	<meta property="og:title" content={data.title} />
 	<meta property="og:description" content={data.description} />
-	<meta property="og:image" content={site.site.protocol + site.site.domain + '/api' + data.img} />
-	<meta property="og:url" content={site.site.protocol + site.site.domain + '/manga/' + $page.params.id} />
+	<meta property="og:image" content={$page.url.origin + '/api' + data.img} />
+	<meta property="og:url" content={$page.url.origin + '/manga/' + $page.params.id} />
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:site" content="@animevariant" />
 	<meta name="twitter:title" content={data.title} />
 	<meta name="twitter:description" content={data.description} />
-	<meta name="twitter:image" content={site.site.protocol + site.site.domain + '/api' + data.img} />
-	<meta name="twitter:url" content={site.site.protocol + site.site.domain + '/manga/' + $page.params.id} />
-	<meta name="twitter:domain" content={site.site.protocol + site.site.domain + '/manga/' + $page.params.id} />
+	<meta name="twitter:image" content={$page.url.origin + '/api' + data.img} />
+	<meta name="twitter:url" content={$page.url.origin + '/manga/' + $page.params.id} />
+	<meta name="twitter:domain" content={$page.url.origin + '/manga/' + $page.params.id} />
 	<meta name="twitter:creator" content="@animevariant" />
 	<meta name="twitter:image:alt" content={data.title} />
 	<meta name="twitter:label5" content="Total Chapters" />

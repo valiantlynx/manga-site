@@ -7,6 +7,7 @@
 	let loading = false;
 
 	const submitPageNo = () => {
+		console.log('submitPageNo');
 		loading = true;
 		return async ({ result, update }) => {
 			switch (result.type) {
@@ -27,7 +28,6 @@
 		};
 	};
 	let pageNo = 1;
-	let pageNumbers = $page.data.pageNumbers;
 </script>
 
 <form
@@ -48,14 +48,15 @@
 			disabled={pageNo === 1}>«</button
 		>
 
-		<select class="select select-primary w-full max-w-xs" on:change={submitPageNo}>
-			<option disabled selected>{pageNo}</option>
-			{#each pageNumbers as pageNumber}
-				{#if pageNumber !== pageNo}
-					<option value={pageNo}>{pageNumber}</option>
-				{/if}
-			{/each}
-		</select>
+		<select
+        class="select select-primary w-full max-w-xs"
+        bind:value={pageNo}
+        on:change={submitPageNo}
+      >
+        {#each $page.data.pageNumbers as pageNumber}
+          <option value={pageNumber} >{pageNumber}</option>
+        {/each}
+      </select>
 
 		<button
 			type="submit"
@@ -63,9 +64,8 @@
 			value={pageNo + 1}
 			name="page"
 			on:click={() => pageNo++}
-			disabled={pageNo === pageNumbers.length}>»</button
+			disabled={pageNo === $page.data.pageNumbers.length}>»</button
 		>
-		<!--for some reason, $currentPage is a string for the last button, so I have to convert it to a number-->
 	</div>
 </div>
 </form>
