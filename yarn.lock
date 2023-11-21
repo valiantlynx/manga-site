@@ -1329,6 +1329,11 @@
   resolved "https://registry.npmjs.org/@valiantlynx/image/-/image-0.0.2.tgz"
   integrity sha512-cthhGEd+g4FHfqrszd/cD6ubbJdQdWvHloviWraIifdp/xcmp9KvyTXJQKo4XoFKDFt9hXzsm2DQHy2hbXyWOw==
 
+"@valiantlynx/svelte-ui@^0.0.9":
+  version "0.0.9"
+  resolved "https://registry.yarnpkg.com/@valiantlynx/svelte-ui/-/svelte-ui-0.0.9.tgz#8742a86027983b2f401edccc1d0fb2078fc5c01c"
+  integrity sha512-+Vy1t/6fdxEogtsC/Im+Cagxm0jSuS6ByA557dkd46J6GU0psRnCpiVs9IiExFUDL6PkeIKzOrUvk//Rm5zL4g==
+
 "@vercel/nft@^0.23.0":
   version "0.23.1"
   resolved "https://registry.yarnpkg.com/@vercel/nft/-/nft-0.23.1.tgz#f17c5f9d3f3a0178ea25eb7397a14618c00529bf"

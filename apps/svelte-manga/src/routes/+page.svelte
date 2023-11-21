@@ -1,10 +1,10 @@
 <script lang="ts">
-	import JoinDiscord from '$lib/components/JoinDiscord.svelte';
 	import MangaGrid from '$lib/components/MangaGrid.svelte';
 	import Popular from '$lib/components/Popular.svelte';
 	import ReadingProgress from '$lib/components/ReadingProgress.svelte';
 	import ResponsiveBannerAd from '$lib/components/ResponsiveBannerAd.svelte';
 	import Feedback from '$lib/components/feedback/Feedback.svelte';
+	import {CardWithCustomColor} from '@valiantlynx/svelte-ui';
 </script>
 
 <h1 class="text-2xl font-bold text-center mb-6">Home</h1>
@@ -16,7 +16,7 @@
 	</div>
 	<div class="mt-4 w-full lg:w-1/4">
 		<ResponsiveBannerAd />
-		<JoinDiscord>
+		<CardWithCustomColor>
 			<h2 slot="heading" class="card-title">Join Our Discord!</h2>
 			<p class="">
 				Be a part of our manga community and discuss your favorite manga series with others.
@@ -29,7 +29,7 @@
 			>
 				Join Discord
 			</a>
-		</JoinDiscord>
+		</CardWithCustomColor>
 		<ReadingProgress />
 	</div>
 </div>
