@@ -64,7 +64,6 @@
 		descriptionArray.pop();
 	}
 
-	console.log("descriptionArray", $page);
 </script>
 
 <svelte:head>

@@ -33,7 +33,8 @@
 		currentPage.set(0); // Reset current page when switching reading modes
 	}
 
-	const crumbs = [
+	let crumbs;
+	$: crumbs = [
 		{
 			name: 'Home',
 			url: '/'
