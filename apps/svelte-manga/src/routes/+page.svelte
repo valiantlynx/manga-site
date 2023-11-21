@@ -22,6 +22,7 @@
 </div>
 <Feedback />
 
+
 <svelte:head>
 	<title>AnimeVariant</title>
 	<!-- Canonical Link -->
