@@ -1,8 +1,8 @@
 <script lang="ts">
-	import MangaCardPb from '$lib/components/MangaCardPb.svelte';
 	import AnimevariantGridAds from './AnimevariantGridAds.svelte';
 	import PaginationSimple from './PaginationSimple.svelte';
 	import { page } from '$app/stores';
+	import MangaCard from '$lib/components/MangaCard.svelte';
 </script>
 
 <main class="bg-base-100 mx-4">
@@ -16,7 +16,17 @@
 
 	<div class="mx-auto container gap-y-6 gap-x-4">
 		{#each ( $page.form?.popularMangas ? $page.form?.popularMangas : $page.data.popularMangas) as manga}
-			<MangaCardPb {manga} />
+
+			<MangaCard 
+			link={'/manga/' + manga.sourceid}
+			img={manga.img}
+			alt={manga.title}
+			label1={manga.title}
+			label2={manga.latestChapter}
+			title={manga.title}
+			 >
+			 <label class="cursor-auto text-secondary" for="rating-8">{manga.views}</label>
+			</MangaCard>
 		{/each}
 	</div>
 

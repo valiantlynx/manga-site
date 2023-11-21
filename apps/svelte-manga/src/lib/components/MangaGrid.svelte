@@ -14,7 +14,20 @@
 	</div>
 	<div class="mx-auto container gap-y-6 gap-x-4">
 		{#each ($page.form?.latestMangas ? $page.form?.latestMangas : $page.data.latestMangas) as manga}
-			<MangaCard {manga} />
+		
+			<MangaCard 
+			link={$page.url.origin + '/manga/' + manga.id}
+			img={manga.img}
+			alt={manga.title}
+			label1={manga.author[0]}
+			label2={manga.latestChapter}
+			title={manga.title}
+			 >
+				<div class="rating rating-sm">
+					<label class="cursor-auto text-secondary" for="rating-8">{manga.rating}</label>
+					<input type="radio" name="rating-8" class="mt-1 mask mask-star-2 bg-info" checked />
+				</div>
+			</MangaCard>
 		{/each}
 	</div>
 	<div class="col-span-full flex justify-end w-full">

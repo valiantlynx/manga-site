@@ -4,3 +4,4 @@ export { default as Load } from './components/Load.svelte';
 export { default as Modal } from './components/Modal.svelte';
 export { default as CardWithCustomColor } from './components/CardWithCustomColor.svelte';
 export { default as Loader } from './components/Loader.svelte';
+export { default as ContentCardImage } from './components/ContentCardImage.svelte';
