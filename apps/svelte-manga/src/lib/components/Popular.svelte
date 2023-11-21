@@ -2,7 +2,7 @@
 	import AnimevariantGridAds from './AnimevariantGridAds.svelte';
 	import PaginationSimple from './PaginationSimple.svelte';
 	import { page } from '$app/stores';
-	import MangaCard from '$lib/components/MangaCard.svelte';
+	import {ContentCardImage} from '@valiantlynx/svelte-ui';
 </script>
 
 <main class="bg-base-100 mx-4">
@@ -17,7 +17,7 @@
 	<div class="mx-auto container gap-y-6 gap-x-4">
 		{#each ( $page.form?.popularMangas ? $page.form?.popularMangas : $page.data.popularMangas) as manga}
 
-			<MangaCard 
+			<ContentCardImage 
 			link={'/manga/' + manga.sourceid}
 			img={manga.img}
 			alt={manga.title}
@@ -26,7 +26,7 @@
 			title={manga.title}
 			 >
 			 <label class="cursor-auto text-secondary" for="rating-8">{manga.views}</label>
-			</MangaCard>
+			</ContentCardImage>
 		{/each}
 	</div>
 
