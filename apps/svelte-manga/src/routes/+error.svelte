@@ -4,6 +4,10 @@
 	function goBack() {
 		window.history.back();
 	}
+
+	function reload() {
+		window.location.reload();
+	}
 </script>
 
 <div class="grid h-screen px-4 bg-secondary place-content-center text-secondary-content">
@@ -44,6 +48,8 @@
 		</h1>
 
 		<p class="my-4">{$page.error?.message}</p>
+		<h2 class="text-xl flex mb-4 text-warning">Please try reloading the page or go back to the previous page.</h2>
+		<button class="btn btn-primary font-bold py-2 px-4 rounded" on:click={reload}> Reload </button>
 		<button class="btn btn-primary font-bold py-2 px-4 rounded" on:click={goBack}> Go back </button>
 	</div>
 </div>

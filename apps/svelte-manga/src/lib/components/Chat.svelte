@@ -11,6 +11,7 @@
 	let lastScrollTop: number;
 	let canAutoScroll = true;
 	let unreadMessages = false;
+	let loading = false;
 
 	function autoScroll() {
 		setTimeout(() => scrollBottom?.scrollIntoView({ behavior: 'smooth' }), 50);
@@ -24,11 +25,12 @@
 	}
 
 	async function getInitialMessages() {
+
 		try {
 			const resultList = await pb.collection('chat_animevariant').getList(1, 50, {
 				sort: 'created',
 				filter: $page.params.chapterid
-					? `mangaid="${$page.params.id}"&&chapterid="${$page.params.chapterid}"`
+					? `mangaid="${$page.params.id}" && chapterid="${$page.params.chapterid}"`
 					: `mangaid="${$page.params.id}"`,
 				expand: 'sender'
 			});
@@ -66,9 +68,11 @@
 
 	onDestroy(() => {
 		unsubscribe?.();
+		messages = [];
 	});
 
 	async function sendMessage() {
+		loading = true;
 		const data = {
 			message: newMessage,
 			sender: $page.data.user?.id,
@@ -80,10 +84,11 @@
 		newMessage = '';
 		canAutoScroll = true;
 		autoScroll();
+		loading = false;
 	}
 </script>
 
-<div class="container p-4 space-y-4">
+<div class="p-4 space-y-4 w-full px-4">
 	<h2 class="text-2xl font-bold mb-4">Join the Discussion</h2>
 
 	<main class="overflow-y-auto max-h-[60vh]" on:scroll={watchScroll}>
@@ -107,17 +112,22 @@
 	<div class="border-t border-primary pt-4">
 		<form on:submit|preventDefault={sendMessage} class="space-x-2 flex items-center">
 			<input
-				type="text"
-				placeholder={$page.data.user ? 'Type a message...' : 'Login to chat... ------>'}
-				bind:value={newMessage}
-				maxlength="100"
-				class="input input-bordered input-primary flex-grow animate-pulse"
+			type="text"
+			placeholder={$page.data.user ? 'Type a message...' : 'Login to chat... ------>'}
+			id="comment"
+			required
+			minlength="1"
+			bind:value={newMessage}
+			disabled={loading}
+			class="input input-bordered input-primary flex-grow animate-pulse"
+			
 			/>
 			{#if $page.data.user}
-				<button type="submit" disabled={!newMessage} class="btn btn-primary"> Send </button>
+				<button type="submit" disabled={loading} class="btn btn-primary"> Send </button>
 			{:else}
 				<a href="/login" type="submit" class="btn btn-primary"> Login </a>
 			{/if}
 		</form>
 	</div>
 </div>
+
