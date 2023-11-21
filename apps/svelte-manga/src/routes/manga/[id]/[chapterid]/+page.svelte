@@ -179,6 +179,8 @@
 	onMount(async () => {
 		await createRecord();
 	});
+
+	
 </script>
 
 <svelte:head>
@@ -268,21 +270,21 @@
 
 	<!-- Images Display -->
 	{#if readingMode === 'longstrip'}
-		<LongstripReadingMode {data} {currentPage} />
+		<LongstripReadingMode {currentPage} />
 	{/if}
 
 	{#if readingMode === 'grid'}
-		<GridReadingMode {data} />
+		<GridReadingMode />
 	{/if}
 
 	{#if readingMode === 'paginated'}
-		<PaginatedReadingMode {data} />
+		<PaginatedReadingMode />
 	{/if}
 
 	<!-- Previous and Next Chapter Buttons -->
 	<form class="flex justify-end space-x-4 m-4">
 		<a
-			href={`/manga${data.chapters[currentChapterIndex]?.value}`}
+			href={`${$page.url.origin}/manga${data.chapters[currentChapterIndex]?.value}`}
 			class="px-4 py-2 rounded-lg btn btn-primary"
 			on:click={() => currentChapterIndex++}
 		>
@@ -297,7 +299,7 @@
 			</button>
 		{:else}
 			<a
-				href={`/manga${data.chapters[currentChapterIndex]?.value}`}
+				href={`${$page.url.origin}/manga${data.chapters[currentChapterIndex]?.value}`}
 				class="px-4 py-2 rounded-lg btn btn-primary"
 				on:click={() => currentChapterIndex--}
 			>

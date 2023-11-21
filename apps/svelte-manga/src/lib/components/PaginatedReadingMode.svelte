@@ -1,7 +1,9 @@
 <script lang="ts">
 	import { page } from '$app/stores';
 	import { currentPage } from '$lib/utils/stores';
-	export let data: any;
+	let data: any;
+
+	$: data = $page.data.manga;
 </script>
 
 <div class="flex items-center justify-center mb-4">

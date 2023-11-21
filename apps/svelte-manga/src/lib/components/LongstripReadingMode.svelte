@@ -1,7 +1,8 @@
 <script lang="ts">
 	import { page } from '$app/stores';
 	import { onMount } from 'svelte';
-	export let data: any;
+	let data: any;
+	$: data = $page.data.manga;
 	export let currentPage: any;
 	let imageWidth: string;
 

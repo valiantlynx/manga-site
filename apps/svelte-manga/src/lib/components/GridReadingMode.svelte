@@ -1,6 +1,8 @@
 <script lang="ts">
 	import { page } from '$app/stores';
-	export let data: any;
+	let data: any;
+
+	$: data = $page.data.manga;
 </script>
 
 <div class="flex flex-wrap justify-center gap-4 max-w-full mx-auto">
