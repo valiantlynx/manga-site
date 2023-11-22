@@ -6,3 +6,4 @@ export { default as CardWithCustomColor } from './components/CardWithCustomColor
 export { default as Loader } from './components/Loader.svelte';
 export { default as ContentCardImage } from './components/ContentCardImage.svelte';
 export { default as ThemeChanger } from './components/ThemeChanger.svelte';
+export { default as ScrollToTop } from './components/ScrollToTop.svelte';
