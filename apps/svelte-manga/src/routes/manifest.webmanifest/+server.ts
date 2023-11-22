@@ -1,17 +1,18 @@
 import type { RequestHandler } from './$types';
 import { site } from '@valiantlynx/general-config';
 import { icon } from '@valiantlynx/general-config';
+
 export const prerender = true;
 export const trailingSlash = 'never';
-export const GET: RequestHandler = () =>
+export const GET: RequestHandler = (event) =>
 	new Response(
 		JSON.stringify(
 			{
-				name: site.site.title,
-				short_name: site.site.title,
+				name: event.url.hostname,
+				short_name: event.url.hostname,
 				lang: site.site.lang,
 				description: site.site.description,
-				id: site.site.protocol + site.site.domain + '/',
+				id: event.url.href + '/',
 				start_url: '/',
 				scope: '/',
 				display: 'standalone',

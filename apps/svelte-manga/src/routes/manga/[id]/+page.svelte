@@ -3,7 +3,7 @@
 	import Pagination from '$lib/components/Pagination.svelte';
 	import Chapters from '$lib/components/Chapters.svelte';
 	import MangaDetails from '$lib/components/MangaDetails.svelte';
-	import Breadcrumbs from '$lib/components/Breadcrumbs.svelte';
+	import {Breadcrumbs} from '@valiantlynx/svelte-ui';
 	import ReadingProgress from '$lib/components/ReadingProgress.svelte';
 	import Chat from '$lib/components/Chat.svelte';
 	import ResponsiveBannerAd from '$lib/components/ResponsiveBannerAd.svelte';
@@ -64,7 +64,6 @@
 		descriptionArray.pop();
 	}
 
-	console.log("descriptionArray", $page);
 </script>
 
 <svelte:head>

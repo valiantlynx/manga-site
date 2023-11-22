@@ -22,9 +22,7 @@
 			<div class="w-10 rounded-full">
 				<img
 					src={avatar}
-					alt={`${$page.data.user.username} profile picture on ${site.site.title}, ${
-						site.site.protocol + site.site.domain
-					}`}
+					alt={`${$page.data.user.username} profile picture on ${$page.url.hostname}, ${$page.url.href}`}
 				/>
 			</div>
 		</label>

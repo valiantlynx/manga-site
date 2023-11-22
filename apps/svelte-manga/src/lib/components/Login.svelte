@@ -45,6 +45,7 @@
 				value={$page.form?.data?.email ?? ''}
 				errors={$page.form?.errors?.email}
 				disabled={loading}
+				required
 			/>
 			<Input
 				type="password"
@@ -53,6 +54,7 @@
 				label="Password"
 				errors={$page.form?.errors?.password}
 				disabled={loading}
+				required
 			/>
 
 			<div class="flex flex-row justify-between w-full max-w-lg">
