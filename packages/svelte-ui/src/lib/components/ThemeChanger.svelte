@@ -1,7 +1,7 @@
 <script lang="ts">
 	import { browser, dev } from '$app/environment';
 	import { general } from '@valiantlynx/general-config';
-	import { hslToHex } from '$lib/utils/color';
+	import { hslToHex } from '../utils/color';
 	import Icon from '@iconify/svelte';
 
 	const { theme } = general;
@@ -57,7 +57,7 @@
 	<!-- reference: https://github.com/saadeghi/daisyui/issues/1285 -->
 	<ul
 		tabindex="0"
-		class="flex z-[1] flex-nowrap shadow-2xl menu dropdown-content bg-base-100 text-base-content rounded-box w-52 p-2 gap-2 overflow-y-auto max-h-[21.5rem]"
+		class="z-[1] flex-nowrap shadow-2xl menu dropdown-content bg-base-100 text-base-content rounded-box w-52 p-2 gap-2 overflow"
 		class:hidden={!pin}
 	>
 		{#each theme as { name, text }}
@@ -69,7 +69,7 @@
 				}}
 				class:border-2={currentTheme === name}
 				class:border-primary={currentTheme === name}
-				class="btn btn-ghost w-full hover:bg-primary group rounded-lg flex bg-base-100 p-2 transition-all"
+				class="btn btn-ghost w-full hover:bg-primary group rounded-lg flex bg-base-100  transition-all"
 			>
 				<p
 					class="flex-1 text-left text-base-content group-hover:text-primary-content transition-color"
@@ -85,3 +85,28 @@
 		{/each}
 	</ul>
 </div>
+
+
+<style>
+	.overflow {
+  max-height: 21.5rem;
+  overflow-y: auto;
+}
+	.flex-1 {
+		flex: 1;
+	}
+
+	.transition-all {
+		transition: all 0.2s ease-in-out;
+	}
+
+	.flex-nowrap {
+		flex-wrap: nowrap;
+		flex-direction: column;
+		display: flex;
+	}
+
+	.transition-color {
+		transition: color 0.2s ease-in-out;
+	}
+	</style>

@@ -2,14 +2,14 @@
 	import Search from './Search.svelte';
 	import ProfileModal from './ProfileModal.svelte';
 	import { page } from '$app/stores';
-	import ThemeChanger from './ThemeChanger.svelte';
+	import {ThemeChanger} from '@valiantlynx/svelte-ui';
 </script>
 
 <!-- Small Devices Layout -->
 <div>
 	<div class="navbar bg-base-300 max-w-full sm:hidden">
 		<div class="flex-1">
-			<a class="btn btn-ghost normal-case text-xl" href="/">AnimeVariant</a>
+			<a class="btn btn-ghost normal-case text-xl" href="/">{$page.url.hostname}</a>
 			<ThemeChanger />
 		</div>
 		<ProfileModal />
@@ -27,7 +27,7 @@
 <!-- Large Devices Layout -->
 <div class="navbar bg-base-300 hidden sm:flex">
 	<div class="flex-1">
-		<a class="btn btn-ghost normal-case text-xl" href="/">AnimeVariant</a>
+		<a class="btn btn-ghost normal-case text-xl" href="/">{$page.url.hostname}</a>
 		<ThemeChanger />
 	</div>
 	<div class="flex-none gap-2">
