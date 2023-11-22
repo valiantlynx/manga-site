@@ -4,6 +4,8 @@
 	import { Toaster } from 'svelte-french-toast';
 	import '../app.css';
 	import { page } from '$app/stores';
+
+	console.log('layout page', $page);
 </script>
 
 <Toaster />
