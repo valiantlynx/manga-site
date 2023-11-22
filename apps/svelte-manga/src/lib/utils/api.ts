@@ -324,7 +324,7 @@ export const render = async (page: number, url: string): Promise<string> =>
   </urlset>`.trim();
 
   // for pages 1 - 53 make a main sitemap that shows the pages of the sitemap
-export const renderMainSitemap = async (url: string): Promise<string> => {
+export const renderMainSitemap = (url: string) => {
 	const mainSitemapContent = `<?xml version='1.0' encoding='UTF-8'?>
 
 	<sitemapindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
