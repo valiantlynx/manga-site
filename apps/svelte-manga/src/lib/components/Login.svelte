@@ -31,7 +31,7 @@
 
 <div class="relative flex flex-col items-center justify-center h-auto overflow-hidden mt-10 mx-6">
 	<div class="w-full p-6 border-t-4 rounded-md shadow-md border-top border-primary lg:max-w-lg">
-		<h1 class="text-3xl font-semibold text-center">{$page.url.hostname} | login</h1>
+		<h1 class="text-3xl font-semibold text-center">{$page.data.siteName} | login</h1>
 		<form
 			action="/login?/login"
 			method="POST"

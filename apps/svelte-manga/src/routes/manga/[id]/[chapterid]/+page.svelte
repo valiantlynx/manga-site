@@ -187,7 +187,7 @@
 	<title>{data.title + ' - ' + $page.params.chapterid + ' - ' + $page.url.hostname}</title>
 	<meta
 		name="description"
-		content={`${data.title} ${$page.params.chapterid} ${$page.url.hostname}, read ${data.title} ${$page.params.chapterid} ${$page.url.hostname} online, ${data.title} ${$page.params.chapterid} ${$page.url.hostname} free online, ${data.title} ${$page.params.chapterid} ${$page.url.hostname} free online, ${data.title} ${$page.params.chapterid} ${$page.url.hostname} high quality, ${data.title} ${$page.params.chapterid} ${$page.url.hostname} manga scans, ${data.title} ${$page.params.chapterid} ${$page.url.hostname} manga scan`}
+		content={`${data.title} ${$page.params.chapterid} ${$page.data.siteName}, read ${data.title} ${$page.params.chapterid} ${$page.data.siteName} online, ${data.title} ${$page.params.chapterid} ${$page.data.siteName} free online, ${data.title} ${$page.params.chapterid} ${$page.data.siteName} free online, ${data.title} ${$page.params.chapterid} ${$page.data.siteName} high quality, ${data.title} ${$page.params.chapterid} ${$page.data.siteName} manga scans, ${data.title} ${$page.params.chapterid} ${$page.data.siteName} manga scan`}
 	/>
 	<meta
 		name="keywords"
@@ -203,7 +203,7 @@
 			' ' +
 			$page.url.hostname +
 			',' +
-			`${data.title} ${$page.params.chapterid} ${$page.url.hostname}, read ${data.title} ${$page.params.chapterid} ${$page.url.hostname} online, ${data.title} ${$page.params.chapterid} ${$page.url.hostname} free online, ${data.title} ${$page.params.chapterid} ${$page.url.hostname} free online, ${data.title} ${$page.params.chapterid} ${$page.url.hostname} high quality, ${data.title} ${$page.params.chapterid} ${$page.url.hostname} manga scans, ${data.title} ${$page.params.chapterid} ${$page.url.hostname} manga scan`}
+			`${data.title} ${$page.params.chapterid} ${$page.data.siteName}, read ${data.title} ${$page.params.chapterid} ${$page.data.siteName} online, ${data.title} ${$page.params.chapterid} ${$page.data.siteName} free online, ${data.title} ${$page.params.chapterid} ${$page.data.siteName} free online, ${data.title} ${$page.params.chapterid} ${$page.data.siteName} high quality, ${data.title} ${$page.params.chapterid} ${$page.data.siteName} manga scans, ${data.title} ${$page.params.chapterid} ${$page.data.siteName} manga scan`}
 	/>
 	<meta
 		property="og:title"
@@ -211,7 +211,7 @@
 	/>
 	<meta
 		property="og:description"
-		content={`${data.title} ${$page.params.chapterid} ${$page.url.hostname}, read ${data.title} ${$page.params.chapterid} ${$page.url.hostname} online, ${data.title} ${$page.params.chapterid} ${$page.url.hostname} free online, ${data.title} ${$page.params.chapterid} ${$page.url.hostname} free online, ${data.title} ${$page.params.chapterid} ${$page.url.hostname} high quality, ${data.title} ${$page.params.chapterid} ${$page.url.hostname} manga scans, ${data.title} ${$page.params.chapterid} ${$page.url.hostname} manga scan`}
+		content={`${data.title} ${$page.params.chapterid} ${$page.data.siteName}, read ${data.title} ${$page.params.chapterid} ${$page.data.siteName} online, ${data.title} ${$page.params.chapterid} ${$page.data.siteName} free online, ${data.title} ${$page.params.chapterid} ${$page.data.siteName} free online, ${data.title} ${$page.params.chapterid} ${$page.data.siteName} high quality, ${data.title} ${$page.params.chapterid} ${$page.data.siteName} manga scans, ${data.title} ${$page.params.chapterid} ${$page.data.siteName} manga scan`}
 	/>
 	<meta property="og:image" content={data?.images[0].imageUrl} />
 	<meta property="og:url" content={$page.url.href} />
@@ -223,7 +223,7 @@
 	/>
 	<meta
 		name="twitter:description"
-		content={`${data.title} ${$page.params.chapterid} ${$page.url.hostname}, read ${data.title} ${$page.params.chapterid} ${$page.url.hostname} online, ${data.title} ${$page.params.chapterid} ${$page.url.hostname} free online, ${data.title} ${$page.params.chapterid} ${$page.url.hostname} free online, ${data.title} ${$page.params.chapterid} ${$page.url.hostname} high quality, ${data.title} ${$page.params.chapterid} ${$page.url.hostname} manga scans, ${data.title} ${$page.params.chapterid} ${$page.url.hostname} manga scan`}
+		content={`${data.title} ${$page.params.chapterid} ${$page.data.siteName}, read ${data.title} ${$page.params.chapterid} ${$page.data.siteName} online, ${data.title} ${$page.params.chapterid} ${$page.data.siteName} free online, ${data.title} ${$page.params.chapterid} ${$page.data.siteName} free online, ${data.title} ${$page.params.chapterid} ${$page.data.siteName} high quality, ${data.title} ${$page.params.chapterid} ${$page.data.siteName} manga scans, ${data.title} ${$page.params.chapterid} ${$page.data.siteName} manga scan`}
 	/>
 	<meta name="twitter:image" content={data?.images[0].imageUrl} />
 	<meta name="twitter:url" content={$page.url.href} />
