@@ -7,14 +7,19 @@
 	import {CardWithCustomColor} from '@valiantlynx/svelte-ui';
 </script>
 
-<h1 class="text-2xl font-bold text-center mb-6">Home</h1>
-
-<div class="flex flex-wrap justify-center">
-	<div class="mt-4 w-full lg:w-3/4">
-		<Popular />
-		<MangaGrid />
+<Feedback />
+<div class="flex flex-wrap">
+	<div class="left-content mt-4 w-full lg:w-3/4 p-4 order-2 md:order-1">
+		<div class="container flex flex-wrap">
+			<div class="w-full p-4">
+				<Popular />
+				<MangaGrid />
+			</div>
+		</div>
 	</div>
-	<div class="mt-4 w-full lg:w-1/4">
+
+	<div class="right-content w-full lg:w-1/4 p-4 order-1 md:order-2">
+		<ReadingProgress />
 		<ResponsiveBannerAd />
 		<CardWithCustomColor>
 			<h2 slot="heading" class="card-title">Join Our Discord!</h2>
@@ -30,10 +35,8 @@
 				Join Discord
 			</a>
 		</CardWithCustomColor>
-		<ReadingProgress />
 	</div>
 </div>
-<Feedback />
 
 
 <svelte:head>

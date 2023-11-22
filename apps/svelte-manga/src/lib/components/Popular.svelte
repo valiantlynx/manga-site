@@ -39,6 +39,6 @@
 <style>
 	.container {
 		display: grid;
-		grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+		grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
 	}
 </style>
