@@ -2,12 +2,12 @@ import { renderMainSitemap } from '$lib/utils/api';
 
 export const trailingSlash = 'never';
 
-export const GET = ({ url, fetch }) => {
+export const GET = async ({ url, fetch }) => {
 
-    const res = fetch(`/api/create-sitemap`)
+    const res = fetch(`/api/create-sitemap`, { method: 'GET' })
 	.then(res => res.json())
 	.then(res => {
-		console.log('res------>', res);
+		console.log('fgfgfg------>',res);
 	})
 	.catch(err => {
 		console.log('err------>',err);
