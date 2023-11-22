@@ -28,12 +28,12 @@
 				t.src = 'https://www.clarity.ms/tag/' + i;
 				y = l.getElementsByTagName(r)[0];
 				y.parentNode.insertBefore(t, y);
-			})(window, document, 'clarity', 'script', '${$page.data.sites?.clarity_tag}');
+			})(window, document, 'clarity', 'script', '${$page.data.sites.clarity_tag}');
 		</script>`}
 		
 
 		<!-- Google tag (gtag.js) there is abug in svelte where inside the svript tags i cannot access the variables //! https://stackoverflow.com/questions/63419284/svelte-substitution-in-script-within-sveltehead --> 
-		<script async src="https://www.googletagmanager.com/gtag/js?id={$page.data.sites?.google_tag}"></script>
+		<script async src="https://www.googletagmanager.com/gtag/js?id={$page.data.sites.google_tag}"></script>
 		{@html `<script>
 			window.dataLayer = window.dataLayer || [];
 			function gtag() {
@@ -41,14 +41,14 @@
 			}
 			gtag('js', new Date());
 
-			gtag('config', '${$page.data.sites?.google_tag}');
+			gtag('config', '${$page.data.sites.google_tag}');
 		</script>`}
 		
 
 		<!-- Google Adsense -->
 		<script
 			async
-			src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={$page.data.sites?.google_ads_client}"
+			src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={$page.data.sites.google_ads_client}"
 			crossorigin="anonymous"
 		></script>
 	{/if}
