@@ -1,0 +1,237 @@
+<?xml version='1.0' encoding='utf-8'?>
+  <urlset
+    xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="https://www.w3.org/1999/xhtml"
+    xmlns:news="https://www.google.com/schemas/sitemap-news/0.9"
+    xmlns:image="https://www.google.com/schemas/sitemap-image/1.1"
+    xmlns:video="https://www.google.com/schemas/sitemap-video/1.1">
+    <url>
+      <loc>http://localhost:5173</loc>
+    </url>
+    
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-pc992737</loc>
+                <lastmod>2023-11-22T16:55:02.179Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-pc992737.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20I'm%20Really%20Not%20Targeting%20The%20Magicians%20manhua%2C%20Luo%20jie%2C%20who%20accidentally%20traveled%20to%20the%20wasteland%20game%20world%2C%20spent%20ten%20years%20in%20Beginner%20Village%20because%20he%20was%20too%20cautious.%20After%20killing%20more%20than%20100%2C000%20magic%20frogs%20in%20ten%20years%2C%20his%20spell%20resistance%20has%20finally%20reached%20100%25%20Now%2C%20Luo%20jie%20stepped%20out%20of%20the%20novice%20village%2C%20but%20he%20just%20wanted%20to%20say%20to%20the%20world%3A%20I%20am%20not%20targeting%20mages%2C%20What%20I%20meant%20is%2C%20everyone%20here%20is%20just%20trash.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>From%20Now%20On%2C%20I%20Will%20Be%20The%20Father%20Of%20The%20Mage</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-pe993161</loc>
+                <lastmod>2023-11-22T16:55:02.179Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-pe993161.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Commissioned%20in%20death%20to%20save%20a%20world%20in%20peril%2C%20a%20tabletop%20RPG%20fanatic%20is%20reborn%20as%20a%20humble%20farm%20boy%20with%20the%20rulebook%20for%20the%20universe%20at%20his%20fingertips!%20Young%20Erich%E2%80%99s%20quest%20for%20an%20invincible%20character%20build%20will%20require%20more%20than%20his%20decades%20as%20a%20number-crunching%20munchkin%2C%20though.%20Even%20with%20power-leveled%20skills%2C%20feudal%20life%20is%20no%20cakewalk%E2%80%94especially%20when%20you%20keep%20drawing%20more%20attention%20than%20you%20can%20handle%E2%80%A6%20Can%20Erich%20adapt%20to%20his%20strange%20new%20world%20before%20his%20worst%20impulses%20take%20the%20campaign%20of%20a%20lifetime%20completely%20off%20the%20rails%3F%20Let%20the%20dice%20fall%20where%20they%20may!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Min-Maxing%20My%20Trpg%20Build%20In%20Another%20World</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-rx994632</loc>
+                <lastmod>2023-11-22T16:55:02.179Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-rx994632.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20A%20girl%20who%20grew%20up%20as%20the%20granddaughter%20of%20a%20gangster%20family%20was%20reincarnated%20in%20a%20otome%20game%2C%20where%20the%20early%20modern%20mafia%20makes%20a%20secret%20move.%20She%20was%20the%20beloved%20daughter%20of%20the%20five%20major%20families%20that%20support%20the%20monarchy%20from%20behind%20the%20scenes!%20A%20dangerous%20love%20game%20between%20a%20former%20gangster's%20granddaughter%20and%20a%20villainous%20fianc%C3%A9%20begins!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Akutou%20Ikka%20No%20Mana%20Musume%2C%20Tensei%20Saki%20Mo%20Otome%20Game%20No%20Gokudou%20Reijou%20Deshita.%20-%20Saijoukyuu%20Rank%20No%20Akuyaku-Sama%2C%20Sono%20Dekiai%20Wa%20Fuyou%20Desu!</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-ry994981</loc>
+                <lastmod>2023-11-22T16:55:02.179Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-ry994981.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Arata%2C%20a%20black%20employee%2C%20is%20reincarnated%20in%20another%20world%20with%20the%20privilege%20of%20a%20healthy%20body%20and%20a%20place%20where%20he%20doesn't%20have%20to%20deal%20with%20people.%20On%20the%20island%20where%20he%20is%20reincarnated%2C%20there%20are%20only%20monsters%20-%20divine%20beasts%2C%20true%20ancestor%20vampires%2C%20ancient%20dragons%2C%20and%20so%20on.%20No%2C%20there%20are%20certainly%20no%20%22people%2C%22%20but%20.......The%20first%20time%20you%20reincarnate%2C%20you're%20in%20desperate%20straits!%20--I%20thought%20I%20was%20in%20a%20desperate%20situation%2C%20but%20it%20seems%20that%20my%20%22healthy%20body%22%20is%20%22invincible%22%20and%20I%20don't%20have%20to%20worry%20about%20it.While%20lightly%20accepting%20his%20mythical%20power%2C%20he%20is%20living%20a%20comfortable%20and%20leisurely%20life%2C%20cooking%20and%20walking%20together%2C%20living%20in%20a%20tent%20with%20a%20beautiful%20girl%2C%20and%20holding%20a%20party%20with%20everyone%20on%20the%20island....%22Brother%2C%20let's%20eat%20dinner%20together!%20Master%2C%20play%20with%20me!A%20heartwarming%20island%20life%20with%20the%20%22strongest%22%20will%20begin.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>I%20Was%20Reincarnated%20On%20An%20Island%20Where%20The%20Strongest%20Species%20Live%20So%20I%20Will%20Enjoy%20A%20Peaceful%20Life%20On%20This%20Island</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-sg995463</loc>
+                <lastmod>2023-11-22T16:55:02.179Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-sg995463.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20When%20I%20came%20to%2C%20I%20was%20a%20goblin.I%20was%20reincarnated%20as%20the%20lowest%20rank%20monster%20in%20a%20state-of-the-art%20VRMMO%20game.%20After%20persevering%20through%20the%20tumultuous%20life%20of%20a%20goblin%20with%20my%20little%20goblin%20sister%20Lily%2C%20I%20was%20killed%20in%20an%20invasion%20conducted%20by%20the%20hero.Why%20did%20I%20have%20to%20die%20such%20a%20pitiful%20death%20after%20I%E2%80%99d%20been%20reincarnated%E2%80%A6%3F%E2%80%A6%20No%2C%20you%20must%20not%20die%20yet.At%20the%20brink%20of%20death%2C%20I%20was%20brought%20back%20to%20life%20by%20the%20Goblin%20Goddess.She%20revived%20me%20because%20she%20had%20chosen%20me%20to%20be%20the%20%E2%80%9CStrongest%2C%20Unparalleled%20Goblin%E2%80%9D.She%20gifted%20me%20with%20the%20skills%20%E2%80%9CDark%20Element%20MAX%E2%80%9D%2C%20%E2%80%9CAbility%20to%20Cast%20All%20Dark%20Spells%E2%80%9D%20and%20%E2%80%9CAbility%20to%20Summon%20All%20Great%20Goblin%20Spirits%20of%20the%20Past%E2%80%9D.They%E2%80%99re%20like%2C%20SSS-rank%20skills%2C%20right%3F!The%20power%20to%20destroy%20all%20the%20high-rank%20demons%20who%20had%20discriminated%20against%20me%20and%20all%20the%20giant%20monsters%20who%20treated%20me%20like%20trash.I%E2%80%99ll%20also%20kick%20the%20demon%20lord%E2%80%99s%20and%20the%20hero%E2%80%99s%20asses%20and%20become%20the%20goblin%20messiah!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>I%20Reincarnated%20As%20An%20Sss-Ranked%20Goblin</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-qj993818</loc>
+                <lastmod>2023-11-22T16:55:02.179Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-qj993818.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Sana%2C%20the%20daughter%20of%20a%20tool%20shop%20in%20a%20corner%20of%20the%20castle%20town%2C%20went%20out%20to%20the%20forest%20to%20pick%20medicinal%20herbs%20as%20usual%20in%20order%20to%20make%20recovery%20potions%20for%20the%20store's%20products.There%2C%20Sana%20picks%20up%20her%20mysterious%20book.Because%20she%20read%20the%20strategy%20book%2C%20the%20daughter%20of%20the%20tool%20shop%2C%20who%20shouldn't%20have%20anything%20to%20do%20with%20the%20story%2C%20is%20greatly%20involved%20in%20the%20story%20of%20the%20game...!%3FAnother%20world%20romantic%20comedy%20adventure%20fantasy!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>I%20Picked%20Up%20This%20World's%20Strategy%20Guide!</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-qx993832</loc>
+                <lastmod>2023-11-22T16:55:02.179Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-qx993832.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Etois%20has%20been%20reincarnated%20into%20a%20duke's%20family%20in%20another%20world%2C%20but%20she%20was%20born%20with%20little%20magic%20power.%20Because%20of%20this%2C%20she%20has%20been%20branded%20with%20a%20%22Disqualified%22%20writing%20on%20her%20forehead!One%20day%2C%20five%20children%20are%20gathered%20from%20a%20branch%20family.%20They%20are%20to%20serve%20as%20Etois'%20bodyguards%20until%20she%20turns%20fifteen%2C%20and%20the%20best%20of%20them%20will%20become%20the%20heir%20to%20the%20duke's%20family.%20But%20Etois%20has%20an%20amazing%20ability%20that%20she%20had%20forgotten%20about%2C%20but%20which%20was%20granted%20to%20her%20by%20the%20gods...%3F%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>I%20Reincarnated%20Into%20A%20Ducal%20House%20And%20Was%20Immediately%20Branded%20As%20Disqualified%20To%20Be%20The%20Heir%2C%20But%20I'm%20Continuing%20On%20With%20My%20Life!</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-ts996453</loc>
+                <lastmod>2023-11-22T16:55:02.179Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-ts996453.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Wimme%20Strauss%20is%20an%20adjunct%20sorcerer%20who%20provides%20support%20and%20does%20odd%20jobs.%20However%2C%20after%20defeating%20the%20master%20of%20the%20hierarchy%2C%20he%20is%20expelled%20from%20the%20party%20by%20the%20leader%2C%20whose%20pride%20is%20hurt.%20Wimme%20is%20at%20a%20loss%2C%20but%20his%20childhood%20friend%20(and%20Wimme's's%20stalker)%2C%20Heidemarie%2C%20finds%20him%20and%20recruits%20him%20for%20the%20biggest%20party%2C%20the%20Wings%20of%20the%20Dragon.%20%22It's%20like%20a%20miracle%20......%20fuhehe.%22%20He%20claims%20that%20his%20achievement%20is%20a%20coincidence%2C%20but%20it's%20only%20a%20matter%20of%20time%20before%20everyone%20around%20him%20realizes%20what%20he's%20capable%20of.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Zatsuyou%20Fuyojutsushi%20Ga%20Jibun%20No%20Saikyou%20Ni%20Kizuku%20Made</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-ov991504</loc>
+                <lastmod>2023-11-22T16:55:02.179Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-ov991504.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Shinobu%20Iijima%20lost%20his%20life%20along%20with%20his%20beloved%20sister%20and%20prickly%20stepfather%20in%20a%20mysterious%20disaster.When%20he%20woke%20up%2C%20he%20was%20reborn%20in%20the%20world%20of%20the%20game%20he%20had%20been%20playing.Shinobu%20was%20in%20despair%20as%20his%20stepfather%20erased%20his%20game%20data%20and%20he%20had%20to%20start%20from%20the%20tutorial%2C%20but%20he%20learned%20that%20his%20sister%20would%20soon%20be%20reincarnated%20into%20this%20world%20as%20well.In%20order%20to%20stop%20his%20father-in-law%2C%20a%20top%20player%20who%20was%20after%20his%20sister's%20body%2C%20he%20embarks%20on%20a%20painful%20path%20to%20become%20the%20strongest...!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Level%201%20Kara%20Hajimaru%20Shoukan%20Musou</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-nv990830</loc>
+                <lastmod>2023-11-22T16:55:02.179Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-nv990830.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20On%20the%20verge%20of%20death%20from%20the%20betrayal%20of%20his%20trusted%20colleague%2C%20'Lee%20Yoo%20Shin'%20sees%20a%20ray%20of%20light%20moments%20before%20dying.%20%22Do%20you%20want%20to%20start%20a%20new%20life%20again%3F%22%20When%20he%20came%20to%20his%20senses%2C%20there%20was%20a%20vast%20reservoir%20in%20front%20of%20him%20and%20his%20body%20had%20turned%20into%20a%20fish.%20Will%20he%20be%20able%20to%20overcome%20all%20the%20hardships%20and%20return%20to%20his%20family's%20arms%3F%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Surviving%20As%20A%20Fish</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-pv992830</loc>
+                <lastmod>2023-11-22T16:55:02.179Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-pv992830.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20When%20Minato%20died%20in%20an%20unfortunate%20accident%2C%20he%20was%20reincarnated%20in%20a%20different%20world%20where%20magic%20was%20woefully%20underdeveloped.%20Superfluous%20magic%20circles.%20Barely%20working%20attack%20magics.%20%22What's%20with%20these%20inefficient%20magic%22%20By%20getting%20rid%20of%20the%20excesses%20in%20the%20magic%20circle%2C%20the%20destructive%20capabilities%20of%20the%20magic%20can%20be%20multiplied!%20Furthermore%2C%20he%20creates%20the%20flawless%20Extreme%20magic%20by%20his%20own%20hands!%20With%20his%20boundless%20wisdom%2C%20Minato%20enhances%20magic%20beyond%20wonder.%20In%20no%20time%2C%20his%20magical%20powers%20and%20techniques%20outclassed%20that%20anyone%20else's!!%20In%20a%20world%20where%20magic%20was%20lost%20to%20the%20people%2C%20Minato%20is%20praised%20as%20an%20omnipotent%20wise%20man%20who%20controls%20all%20of%20the%20elements!%20The%20tale%20of%20a%20wise%20man%20commanding%20the%20lost%20magic%20with%20overwhelming%20power%20starts%20now!!!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Isekai%20Tensei%20De%20Kenja%20Ni%20Natte%20Boukensha%20Seikatsu</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-qv993378</loc>
+                <lastmod>2023-11-22T16:55:02.179Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-qv993378.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20An%20anthology%20of%20separate%20stories%20threaded%20together%20by%20fantasy%20isekai%20and%20boobs.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>I%20Can't%20Take%20My%20Eyes%20Off%20Boobs%20Even%20In%20Another%20World!</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-sp995950</loc>
+                <lastmod>2023-11-22T16:55:02.179Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-sp995950.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Amakawa%20Keisuke%2C%20a%20hapless%20corporate%20slave%20who%20suddenly%20dies%2C%20wakes%20up%20in%20a%20different%20world!%20He%20tries%20his%20best%20to%20enjoy%20life%20in%20another%20world%2C%20but%20he%20has%20only%20been%20given%20the%20bottom-tier%20skill%20%22Translation%22%20and%20on%20top%20of%20that%2C%20the%20most%20powerful%20monster%20was%20in%20front%20of%20him...!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Monmusugo!%20%E3%80%9CLiving%20In%20Another%20World%20With%20The%20Strongest%20Monster%20Girls%20With%20Translation%20Skills%E3%80%9C</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-to996771</loc>
+                <lastmod>2023-11-22T16:55:02.179Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-to996771.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%E2%80%9CPlease%20write%20your%20resignation%2C%20Mr.%20Mincheol.%E2%80%9D%20He%20was%20fired%20overnight%20from%20the%20job%20he%20devoted%20his%20youth%20to%20for%20opposing%20the%20management's%20policy%20to%20add%20a%20payment%20system%20in%20the%20game.%20That's%20how%20his%20life%20as%20the%20Development%20Director%20of%20Wings%20Online%20came%20to%20an%20end.%20It's%20a%20game%20I%20made%20and%20a%20world%20I%20made%2C%20so...%20I'm%20the%20only%20one%20who%20finishes%20this%20world.%20I%20will%20become%20the%20final%20boss%20myself%20and%20end%20this%20game%20with%20my%20own%20hands!%20%22Now%20I'll%20show%20you%20what%20a%20bad%20ending%20is.%22%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Bad%20Ending%20Maker</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-gr983574</loc>
+                <lastmod>2023-11-22T16:55:02.179Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-gr983574.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20The%20Mushoku%20Tensei%204Koma.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Mushoku%20Tensei%3A%20Even%20If%20It's%20A%204-Koma%2C%20I'll%20Get%20Serious</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-ov992004</loc>
+                <lastmod>2023-11-22T16:55:02.179Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-ov992004.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Bng%20Jio%20Bo%20Jn%20Gi%20N%20Lch%20Jbn%20%2F%20The%20Sickly%20Loveable%20Tyrant%20Changed%20to%20Take%20the%20Green%20Tea%20Script%20%2F%20Yandere%20Tyrant%20Transforms%20to%20Take%20the%20Green%20Tea%20Script%20%2F%20Fu%20Xin%2C%20a%20powerful%20president%20of%20her%20company%20in%20the%20modern%20age%2C%20finds%20that%20she%20had%20travelled%20to%20the%20past%20and%20transmigrated%20into%20the%20body%20of%20the%20village%20girl%20Fu%20Qibao%20along%20with%20her%20Merit%20System.%20Now%2C%20not%20only%20did%20she%20have%20to%20suffer%20the%20consequences%20of%20the%20original%20host's%20cruelty%20to%20other%20people%2C%20but%20she%20had%20also%20earned%20herself%20a%20betrothed.%20No%20one%20had%20foreseen%20this%20exceptional%20teen%20who%20the%20original%20host%20had%20brutally%20beaten%20up%20to%20one%20day%20become%20a%20merciless%20tyrant%20of%20an%20emperor%20that%20ruled%20the%20world.%20He%20was%20going%20to%20kill%20everyone%20who%20hurt%20him%20before%20Hold%20on%2C%20why%20does%20this%20sickly%20tyrant%20have%20two%20sets%20of%20personalities%3F%20Wait%2C%20is%20he%20acting%20innocent%20in%20front%20of%20Fu%20Qibao%20to%20gain%20her%20affections%3F!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>The%20Sickly%20Tyrant%20With%20An%20Innocent%20Facade</image:title>
+                </image:image>
+              </url>
+              
+    
+  </urlset>

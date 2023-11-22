@@ -1,0 +1,237 @@
+<?xml version='1.0' encoding='utf-8'?>
+  <urlset
+    xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="https://www.w3.org/1999/xhtml"
+    xmlns:news="https://www.google.com/schemas/sitemap-news/0.9"
+    xmlns:image="https://www.google.com/schemas/sitemap-image/1.1"
+    xmlns:video="https://www.google.com/schemas/sitemap-video/1.1">
+    <url>
+      <loc>http://localhost:5173</loc>
+    </url>
+    
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-ft982876</loc>
+                <lastmod>2023-11-22T16:55:03.843Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-ft982876.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Jeanne%2C%20a%20prostitute%20at%20address%2074%2C%20took%20care%20of%20the%20fallen%20Janet.%20Jeanne%20wants%20to%20be%20friends%20with%20Janet%2C%20but%20Janet%20tries%20to%20get%20information%20out%20of%20her.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Living%20Will</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-ek982219</loc>
+                <lastmod>2023-11-22T16:55:03.843Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-ek982219.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20The%20strongest%20demon%20of%20the%20magical%20world%20challenges%20the%20cooking%20of%20the%20human%20world.%20%E2%80%9CKuh%2C%20why%20is%20it%20so%20deliciouuuus!%E2%80%9D%20The%20strongest%20demon%20princess%20of%20the%20magical%20world%2C%20Valalice%20has%20come%20to%20destroy%20humanity%20starting%20with%20Tokyo.%20However%2C%20what%20was%20waiting%20for%20her%20was%20the%20too%20delicious%20cooking%20of%20humanity%20such%20as%20curry%2C%20ramen%2C%20and%20pancake!%3F%20Can%20Valalice%20beat%20the%20temptation%20of%20food!%3F%20Valalice's%20cuteness%20%C3%97%20delicious%20food%20nyan%20nya%2C%20the%20strongest%20gourmet%20battle%20just%20doesn't%20stop.%20The%20comic%20adaption%20has%20finally%20arrived%20%E2%98%86%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Ryuu%20Majin%20Hime%20Valalice%20No%20Haiboku%20%EF%BD%9E%20Makai%20Saikyou%20No%20Hime%20Ga%20Jinrui%20No%20Gurume%20Ni%20Makeru%20Hazu%20Ga%20Nai</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-or992052</loc>
+                <lastmod>2023-11-22T16:55:03.843Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-or992052.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%22The%20boy%20I%20saved%20before%20becomes%20an%20older%20and%20a%20highly%20talented%20knight!%22One%20day%2C%20Sara%20was%20transported%20to%20another%20world%20and%20saved%20a%20boy%20named%20Luke%20who%20was%20pursued%20and%20collapsed%20in%20the%20forest%20for%20some%20reason%2C%20and%20decided%20to%20live%20together%20with%20him.%20However%2C%20just%20as%20Luke%20was%20beginning%20to%20recover%20from%20his%20wounds%2C%20Sara%20was%20abruptly%20sent%20back%20to%20her%20own%20world.%20Three%20years%20later%2C%20Sarah%20returned%20to%20the%20other%20world%20again%20and%20reunited%20with%20a%2025-year-old%20Luke%2C%20the%20finest%20ice%20magician%20in%20the%20country%20and%20a%20knight%20who%20earned%20baronetcy%20for%20his%20achievements!%20He%20used%20to%20be%2010%20years%20younger%20than%20her%2C%20but%20now%20he's%20two%20years%20older%20and%20a%20romantic%20interest.%22I'll%20reward%20you%20with%20my%20entire%20life%2C%22%20he%20said%20as%20he%20began%20to%20dote%20on%20Sara.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Nidome%20No%20Isekai%20Shounen%20Datta%20Kare%20Wa%20Toshiue%20Kishi%20Ni%20Nari%20Dekiai%20Shitekuru</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-pt992654</loc>
+                <lastmod>2023-11-22T16:55:03.843Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-pt992654.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Takio%20Asakawa%20is%20an%20ordinary%20salaryman%20who%20-%20surprise%2C%20surprise%20-%20dies%20and%20gets%20reincarnated%20into%20another%20world.%20A%20big%20fan%20of%20isekai%20stories%2C%20Takio%20is%20immediately%20ready%20for%20his%20OP%20slow%20life%20adventure.However%2C%20when%20he%20enters%20the%20other%20world%2C%20he%20discovers%20that%20not%20all%20is%20as%20it%20seems.%20Adventure%20guilds%20are%20a%20relic%20of%20the%20past%2C%20and%20income%20inequality%20has%20plagued%20the%20country.%20Technology%20has%20also%20progressed%20to%20the%20point%20that%20guns%20exist%2C%20making%20swords%20and%20sorcery%20fairly%20useless.However%2C%20Takio%20discovers%20that%20he%20has%20a%20special%20skill%20-%20with%20slight%20of%20hand%2C%20he%20can%20steal%20from%20others%20as%20easily%20as%20breathing%20air.%20After%20recovering%20a%20woman%20who%20claims%20herself%20to%20be%20the%20reincarnation%20of%20the%20legendary%20thief%20Goemon%20Ishikawa%2C%20Takio%20realizes%20that%20he%20was%20brought%20to%20this%20world%20for%20a%20specific%20reason%3A%20to%20enact%20justice%20by%20stealing%20from%20the%20rich%20and%20giving%20to%20the%20poor.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Isekai%20Robin%20Hood</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-pv992756</loc>
+                <lastmod>2023-11-22T16:55:03.843Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-pv992756.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20A%20mobster%2C%20who%20had%20no%20morals%20to%20speak%20of%2C%20was%20reincarnated%20in%20a%20parallel%20world%20as%20a%20detective%20in%20the%20Major%20Crimes%20Department%20by%20accident.%20With%20the%20help%20of%20a%20strange%20system%2C%20he%20solves%20cases%20time%20and%20again%2C%20eventually%20becoming%20a%20brash%20godly%20detective.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Mad%20Detective</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-pf992814</loc>
+                <lastmod>2023-11-22T16:55:03.843Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-pf992814.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20The%20%22former%22%20savior%2C%20Takeru%20Yamato%2C%20was%20summoned%20to%20another%20world%20and%20executed%20because%20of%20his%20strength.%20When%20he%20wakes%20up%2C%20he%20finds%20himself%20in%20Japan%2C%20where%20he%20spent%20time%20before%20being%20summoned.%20However%2C%20in%20the%20city%2C%20demons%20appearing%20from%20%22gates%22%20rampage%2C%20and%20those%20called%20hunters%20fight%20using%20magic.%20Returning%20from%20another%20world%2C%20Takeru%20decides%20to%20hide%20his%20powers%20and%20live%2C%20but...%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>The%20Savior%20%3E%20~The%20Former%20Hero%20Who%20Saved%20Another%20World%20Beats%20The%20Real%20World%20Full%20Of%20Monsters~</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-pf992914</loc>
+                <lastmod>2023-11-22T16:55:03.843Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-pf992914.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Water%20Magician%20manga%2C%20Mizu%20Zokusei%20no%20Mahoutsukai%20%40COMIC%20This%20is%20the%20story%20of%20Ryo%2C%20who%20was%20reincarnated%20in%20the%20world%20of%20swords%20and%20magic.It%20is%20a%20story%20of%20the%20royal%20road%20to%20survive%20using%20the%20magic%20of%20water%20attribute.What%20is%20magic%3F%20What%20is%20swordsmanship%3FHow%20does%20it%20relate%20to%20the%20laws%20of%20physics%20that%20we%20know%3FOr%20what%20is%20politics%3F%20What%20is%20a%20nation%3FWhy%20are%20there%20many%20kingdoms%20in%20reincarnation%20stories%3F%20Will%20republics%20not%20work%3FCan%20it%20be%20written%20%3FSince%20it%20is%20a%20water-based%20magician%2C%20so%20it%20shall%20start%20with%20Hydrogen%20bond!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Water%20Magician</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-pv993056</loc>
+                <lastmod>2023-11-22T16:55:03.843Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-pv993056.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Hiroki%2C%20an%20office%20worker%20who%20works%20for%20a%20black%20company%2C%20likes%20anime%20and%20manga%20about%20being%20reincarnated%20into%20another%20world.%20One%20night%2C%20he%20hated%20his%20job%20so%20much%20that%20he%20said%2C%20%22If%20there%20is%20a%20different%20world%2C%20I%20want%20to%20go%20there...!%22.%20To%20be%20summoned%20as%20a%20mage...!%20The%20days%20with%20the%20elf%20Millia%2C%20who%20is%20the%20owner%20of%20the%20heavenly%20voice%2C%20and%20the%20dragon%20Sophie%2C%20are%20completely%20different%20from%20what%20he%20imagined%20them%20to%20be.%20A%20different%20world%20comedy%20starts%20now!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Hiroki%2C%20Too%2C%20Gets%20Summoned%20Into%20Another%20World</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-qf993488</loc>
+                <lastmod>2023-11-22T16:55:03.843Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-qf993488.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20The%20Princess%20of%20Blue%20Roses%20manga%2C%20Ao%20Bara%20no%20Hime%20%2C%20On%20the%20day%20of%20her%20execution%2C%20Vyaria%20wakes%20up%20to%20find%20time%20has%20reversed%20itself%2C%20making%20her%20seven%20years%20old%20again.%20Thinking%20of%20the%20events%20of%20her%20future%2C%20she%20is%20truly%20traumatized.%20Her%20first%20marriage%20to%20King%20Cain%20had%20been%20a%20cold%20and%20unhappy%20one.%20Each%20time%20she%20made%20an%20attempt%20to%20get%20closer%20to%20him%2C%20she%20had%20been%20faced%20with%20rejection%2C%20and%20the%20sudden%20appearance%20of%20a%20girl%20from%20another%20dimension%20had%20only%20increased%20Cain's%20hostility%20towards%20Vyaria.%20Behind%20her%20back%2C%20everyone%20had%20called%20her%20the%20%22Princess%20of%20Blue%20Roses%2C%22%20after%20the%20flower%20that%20symbolizes%20unattainable%20wishes.Knowing%20she%20would%20eventually%20be%20sentenced%20to%20death%20by%20her%20own%20husband%2C%20Vyaria%20is%20terrified%20when%20she%20is%20once%20again%20united%20with%20the%20young%20Cain.%20Is%20everything%20going%20to%20repeat%20itself%3F%20Is%20there%20really%20nothing%20she%20could%20do%20to%20change%20the%20future%3FAs%20scared%20as%20she%20is%2C%20Vyaria%20vows%20to%20fight%20against%20her%20cruel%20fate%20in%20this%20second%20chance%20at%20life!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>The%20Princess%20Of%20Blue%20Roses</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-ri995043</loc>
+                <lastmod>2023-11-22T16:55:03.843Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-ri995043.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Melody%20reincarnates%20into%20the%20world%20of%20an%20otome%20game%20and%20works%20as%20a%20maid.%20As%20someone%20who%20has%20never%20played%20an%20otome%20game%2C%20what%20she%20hasn't%20realized%20is%20that%20she's%20actually%20the%20saint%2C%20the%20heroine%20of%20the%20game.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Heroine%3F%20Saint%3F%20No%2C%20I'm%20An%20All-Works%20Maid</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-su996277</loc>
+                <lastmod>2023-11-22T16:55:03.843Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-su996277.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%22No%2C%20I%20don't%20want%20to.%22%20I%20flatly%20rejected%20my%20ex-boyfriend's%20proposal%20to%20have%20an%20affair%20with%20him.%20%22The%20Young%20Master%20is%20not%20my%20taste.%20If%20I%20must%20say%2C%20your%20younger%20brother%20is%20much%20preferable.%22%20%22What%3F%20You%20prefer%20my%20younger%20brother%3F%22%20Yeah.%20Not%20you%2C%20but%20your%20brother.%20***%20That%20younger%20brother'%20came%20back%20to%20me%20as%20a%20beast%20with%20a%20decadent%20beauty.%20%22I've%20never%20forgotten%20you%20for%20a%20moment.%20Please%20marry%20me%2C%20noona.%22%20On%20top%20of%20that%2C%20he's%20even%20holding%20the%20engagement%20document%20that%20I%20signed%20as%20a%20joke%20during%20childhood.%20No%2C%20weren't%20we%20only%20playing%20house%3F%20%22Could%20it%20be%20that%20your%20tastes%20changed%20while%20I%20was%20away%3F%22%20Lexion's%20eyes%20were%20full%20of%20life%20as%20he%20asked.%20It%20was%20as%20if%20he%20would%20kill%20someone%20right%20away%20if%20he%20were%20to%20find%20out%20they%20were%20my%20type.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>I%20Accidentally%20Seduced%20The%20Male%20Lead%E2%80%99S%20Younger%20Brother</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-tx996806</loc>
+                <lastmod>2023-11-22T16:55:03.843Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-tx996806.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%E2%80%9CLorella%20Mayred%2C%20our%20sincere%20congratulations%20on%20becoming%20a%20main%20character%20candidate.%E2%80%9D%20It%20was%20an%20infuriating%20game%20world%20where%20after%20transmigrating%2C%20a%20wedding%20ceremony%20took%20place%20and%20right%20after%20getting%20married%2C%20my%20husband%20went%20off%20to%20war.%20I%20thought%20about%20getting%20a%20divorce%20and%20living%20a%20peaceful%20life%20afterward%E2%80%A6%20but%20what%3F%20Obsession%3F%20That%E2%80%99s%20only%20fun%20when%20reading%20about%20it%20in%20novels!%E2%80%A6%20At%20that%20moment%2C%20a%20system%20window%20appeared%20before%20me.%20The%20possessed%20%E2%80%9CLorella%20Mayred%E2%80%9D%20became%20a%20main%20character%20candidate.%20Will%20she%20be%20able%20to%20surpass%20her%20rivals%20and%20become%20the%20main%20character%3F%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>I%20Am%20Selling%20The%20Main%20Character's%20Shares</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-uq997499</loc>
+                <lastmod>2023-11-22T16:55:03.843Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-uq997499.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Toshinori%20Dokuraba%2C%2035%20years%20old.%20A%20so-called%20single%20aristocrat%20in%20Japan%20who%20enjoyed%20a%20single%20life%20without%20wife%20and%20children%2C%20even%20though%20he%20was%20tall%2C%20handsome%2C%20highly%20educated%20and%20had%20a%20high%20income.%20One%20day%2C%20he%20died%20alone%20at%20home.However%2C%20he%20was%20liked%20by%20Hitorigami%2C%20the%20God%20of%20another%20world%2C%20and%20was%20able%20to%20reincarnate%20in%20that%20world.%20Reborn%20as%20Zirc%20Louren%20with%20skills%20and%20blessings%20from%20the%20God%2C%20he%20lived%20a%20new%20rosy%20life%20in%20a%20different%20world%20-%20then%20he%20turned%2028%20years%20old%20and%20enjoyed%20the%20single%20life%20again...This%20is%20a%20story%20about%20the%20life%20of%20a%20single%20aristocrat%20who%20never%20gets%20married%20even%20if%20he%20reincarnates%20in%20another%20world.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>A%20Single%20Aristocrat%20Enjoys%20A%20Different%20World%3A%20The%20Graceful%20Life%20Of%20A%20Man%20Who%20Never%20Gets%20Married</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-le988987</loc>
+                <lastmod>2023-11-22T16:55:03.843Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-le988987.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20When%20corporate%20worker%20Rei%20Ohashi%20finds%20herself%20reborn%20as%20the%20protagonist%20of%20her%20favorite%20dating%20sim%2C%20it's%20the%20perfect%20opportunity%20to%20do%20what%20she's%20always%20wanted%E2%80%94seduce%20the%20villainess!%20In%20her%20previous%20life%2C%20Rei%20had%20no%20interest%20in%20the%20princes%20the%20game%20had%20to%20offer.%20She%20only%20had%20eyes%20for%20Claire%20Fran%C3%A7ois%2C%20her%20nemesis.%20Now%2C%20armed%20with%20her%20extensive%20knowledge%20of%20the%20game%2C%20and%20her%20undying%20love%20for%20Claire%2C%20will%20Rei%20finally%20be%20able%20to%20win%20over%20the%20woman%20of%20her%20dreams%3F%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Watashi%20No%20Oshi%20Wa%20Akuyaku%20Reijou</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-oo991697</loc>
+                <lastmod>2023-11-22T16:55:03.843Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-oo991697.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Lu%20Yao%2C%20a%20terminally%20ill%20patient%2C%20accidentally%20got%20a%20mysterious%20account%20and%20traveled%20to%20a%20different%20world%20called%20%22Extremely%20Evil%20Game%22%20to%20forcibly%20continue%20his%20life.%20As%20soon%20as%20he%20arrived%20at%20the%20scene%2C%20he%20became%20the%20No.%201%20in%20the%20extremely%20evil%20list%20and%20was%20publicly%20wanted.%20As%20a%20rookie%2C%20the%20first%20time%20I%20have%20to%20face%20is%20the%20most%20dangerous%20%22fierce%22%20level%20trial%20-%20an%20extreme%20pull%20with%20the%20extremely%20evil%20monster%20girl%20group...%20Come%20here%2C%20it's%20better%20to%20play%20a%20big%20one!%20Isn't%20that%20the%20joy%20of%20living%3F%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Extremely%20Evil%20Game</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-od991960</loc>
+                <lastmod>2023-11-22T16:55:03.843Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-od991960.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20A%20comedy%20spin-off%20based%20around%20the%20characters%20of%20the%20main%20series.%20The%20series%20is%20based%20on%20the%20Bonus%20Short-Story%20%22Arifureta%20Magic%20Academy%22%20which%20was%20released%20along%20with%20the%20Light%20Novel%20volumes%20as%20Store%20Exclusives.Special%20student%20Hajime%20Nagumo%20enters%20the%20largest%20magic%20school%20of%20Tortus%20to%20meet%20new%20friends%2C%20enemies%20and%20fall%20in%20love%20with%20the%20most%20powerful%20vampire%20in%20this%20world%2C%20Yue.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Arifureta%20Gakuen%20De%20Sekai%20Saikyou</image:title>
+                </image:image>
+              </url>
+              
+    
+  </urlset>

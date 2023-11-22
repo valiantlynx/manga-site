@@ -1,0 +1,237 @@
+<?xml version='1.0' encoding='utf-8'?>
+  <urlset
+    xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="https://www.w3.org/1999/xhtml"
+    xmlns:news="https://www.google.com/schemas/sitemap-news/0.9"
+    xmlns:image="https://www.google.com/schemas/sitemap-image/1.1"
+    xmlns:video="https://www.google.com/schemas/sitemap-video/1.1">
+    <url>
+      <loc>http://localhost:5173</loc>
+    </url>
+    
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-th996864</loc>
+                <lastmod>2023-11-22T16:55:00.725Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-th996864.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20I%20used%20a%20cheat%20to%20create%20a%20character%20in%20the%20game.%20When%20I%20came%20to%20my%20senses%20after%20pressing%20the%20play%20button%2C%20I%20had%20possessed%20the%20%E2%80%9CPriest%20of%20Corruption%E2%80%9D%20character%20I%20had%20created.%20It%20had%20to%20be%20a%20character%20who%20had%20bad%20stats%20and%20was%20hated%20by%20all!%20All%20I%20had%20on%20me%20is%20a%20woman%E2%80%99s%20dried%20up%20hand%2C%20but%20that%20hand%20was%20a%20goddess%E2%80%99s%3F!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>The%20Priest%20Of%20Corruption</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-oj991392</loc>
+                <lastmod>2023-11-22T16:55:00.725Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-oj991392.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%22Your%20Highness!%20The%20papers%20have%20piled%20up%20like%20this!%22%20I%20reincarnated%20as%20Irene%20Weber%2C%20the%20younger%20sister%20of%20an%20aide%20who%20is%20suffering%20from%20overtime%20because%20of%20the%20prince%20who%20is%20in%20love%20and%20neglects%20his%20work.%20Irene%2C%20who%20was%20buried%20in%20work%20before%20the%20reincarnation%20and%20died%20of%20overwork%2C%20intends%20to%20protect%20her%20beloved%20brother%20from%20such%20a%20terrible%20thing.%20No%20overtime!%20No%20call%20after%20work!%20Evil%20boss%2C%20go%20away!%20Work%20less%20and%20earn%20more%2C%20brother!%20To%20the%20end%2C%20Irene%20tries%20to%20separate%20the%20prince%20from%20her%20brother.%20A%20method%20to%20win%20by%20knowing%20your%20enemy%20and%20knowing%20yourself.%20Irene%20scraps%20a%20little%20record%20without%20leaving%20any%20details%2C%20of%20the%20Prince%20whose%20face%20she%20doesn't%20even%20know%20about%2C%20for%20the%20future.%20Somehow%2C%20her%20brother's%20face%2C%20looking%20at%20such%20Irene%2C%20is%20dark%20%22Brother%2C%20if%20you're%20meeting%20the%20Crown%20Prince%20today%2C%20I'll%20go%20with..%22%20%22Absolutely%20not.%22%20Do%20you%20want%20to%20meet%20him%20alone%20so%20much%3F'%20***%20%22Before%20that%2C%20Benjamin%20Weber%2C%20when%20can%20I%20meet%20your%20sister%3F%22%20%22Not%20for%20the%20rest%20of%20your%20life.%22%20The%20most%20affectionate%20brother%20and%20sister%20of%20the%20continent.%20Will%20the%20day%20come%20when%20these%20two%20siblings%20can%20resolve%20their%20growing%20misunderstanding%3F%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Don't%20Hire%20My%20Brother%2C%20Your%20Highness!</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-nw991131</loc>
+                <lastmod>2023-11-22T16:55:00.725Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-nw991131.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Even%20a%20graze%20from%20her%20is%20a%20Critical%20Hit!%20The%20tormented%20goddess%20who%20can%E2%80%99t%20land%20a%20weak%20hit%20has%20descended!A%20stress-free%20fantasy%20adventure%20romance%20between%20a%20girl%20who%20fell%20into%20a%20world%20inside%20a%20game%20and%20a%20mysterious%20and%20virtuous%20man!She%20was%20summoned%20to%20the%20Otherworld%20after%20she%20mistakenly%20clicked%20a%20quest%20window%20of%20%2C%20a%20game%20that%20provided%20a%20reality-like%20fantasy.%20Nicknamed%20%E2%80%98Chaos%20Demon%20King%E2%80%99%2C%20Ju%20Sae-Young%20fell%20into%20the%20Otherworld%20%E2%80%98Arcadia%E2%80%99.%20Her%20confusion%20was%20only%20momentary%2C%20and%20clearing%20the%20Otherworld%20was%20easy%20as%20pie%20for%20a%20max-leveled%20user%20like%20her.She%20collected%20cute%20party%20members%2C%20destroyed%20dungeons%20to%20obtain%20treasures%2C%20and%20even%20got%20to%20date%20the%20dreamy%20and%20virtuous%20man%2C%20%E2%80%98Callad%E2%80%99.%20But%20the%20Quest%20of%20the%20%E2%80%98Supreme%20God%E2%80%99%20that%20would%20grant%20her%20a%20return%20to%20her%20original%20world%20entangles%20Sae-Young%20and%20her%20comrades%20into%20a%20grand%20and%20dark%20conspiracy!And%20to%20clear%20the%20quest%2C%20she%20has%20no%20choice%20but%20to%20sacrifice%20Callad%E2%80%A6%3FWill%20she%20be%20able%20to%20break%20through%20this%20series%20of%20legendary%20difficulties%3F%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>How%20To%20Live%20At%20The%20Max%20Level</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-qk994245</loc>
+                <lastmod>2023-11-22T16:55:00.725Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-qk994245.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20A%20detested%20villainess%20and%20a%20proper%20prince%20are%20instinctually%20drawn%20to%20each%20other's%20bodies%20before%20they%20have%20a%20chance%20to%20develop%20feelings.%20What%20will%20their%20destiny%20be!%3FI%20was%20reincarnated%20into%20the%20world%20of%20the%20otome%20game%20%22Prince%20of%20Prince%22%20as%20Rose%2C%20the%20hated%20villainess.%20Originally%2C%20the%20heroine%20and%20the%20prince%20were%20supposed%20to%20be%20attracted%20to%20each%20other%2C%20and%20due%20to%20the%20influence%20of%20a%20special%20pheromone%2C%20they%20were%20supposed%20to%20go%20into%20heat%2C%20but%20for%20some%20reason%2C%20now%20the%20pheromone%20works%20on%20the%20villainess%20and%20the%20prince...%3F!%20%22It's%20different%20from%20the%20game%20I%20know...!%22%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>The%20Heat%20Of%20The%20Reincarnated%20Villainess</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-kf987888</loc>
+                <lastmod>2023-11-22T16:55:00.725Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-kf987888.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20I%20possessed%20a%20supporting%20character%20in%20a%20reverse%20harem%20novel.%C2%A0%20As%20a%20young%20concubine%20who%20gained%20the%20interest%20of%20the%20emperor.%20The%20concubines%2C%20the%20male%20lords%2C%20eventually%20killed%20her%20for%20treason.%C2%A0%20Fortunately%2C%20I%20possessed%20her%20just%20as%20she%20was%20entering%20the%20Imperial%20Palace.%20Everyone%20in%20the%20Imperial%20Palace%20was%20wary%20of%20me%2C%20but%20didn%E2%80%99t%20hate%20me%20yet.%20I%20don%E2%80%99t%20need%2C%20nor%20do%20I%20want%20to%20be%20loved%20by%20the%20emperor.%C2%A0%20%E2%80%9CCome%20to%20my%20room%20tonight.%20I%E2%80%99ll%20read%20you%20a%20fairy%20tale!%E2%80%9D%20%E2%80%98Woo%2C%20don%E2%80%99t%20cry.%20I%E2%80%99ll%20give%20you%20this.%E2%80%9D%20But%20why%20is%20everyone%20so%20soft%20towards%20me%3F%20I%20couldn%E2%80%99t%20understand.%20NOTE%3A%20This%20is%20a%20promo%20manhwa%20for%20the%20novel%20of%20the%20same%20name.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>The%20Baby%20Concubine%20Wants%20To%20Live%20Quietly</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-ee951361</loc>
+                <lastmod>2023-11-22T16:55:00.725Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-ee951361.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Ayasaki%20Hayate%20is%20only%2016%20years%20old%20when%20he%E2%80%99s%20abandoned%2C%20leaving%20him%20to%20fend%20for%20himself%20against%20the%20yakuza%2C%20who%20are%20after%20his%20organs%20to%20settle%20his%20parents%E2%80%99%20massive%20gambling%20debt.%20Looking%20for%20a%20way%20to%20somehow%20acquire%20157%20million%20yen%20before%20he%20is%20cut%20up%20by%20gangsters%2C%20he%20stumbles%20upon%20a%20rich%20girl%20whom%20he%20can%20kidnap%20and%20ransom.%20The%20only%20problem%3A%20he%E2%80%99s%20a%20terrible%20criminal%2C%20and%20ends%20up%20saving%20her%20life%20from%20other%20would-be%20kidnappers%20and%20apparently%20confesses%20his%20love%20for%20her.%20In%20order%20to%20work%20off%20his%20debt%2C%20the%20girl%2C%20Nagi%20(who%20is%20convinced%20that%20Hayate%20is%20in%20love%20with%20her)%2C%20and%20her%20maid%20Maria%20(who%20knows%20otherwise)%2C%20allow%20him%20to%20work%20as%20a%20butler%20at%20their%20mansion.%20Hayate%E2%80%99s%20tenure%20as%20a%20butler%20is%20not%20easy%2C%20however%2C%20and%20is%20filled%20with%20talking%20tigers%2C%20homicidal%20robots%2C%20jealous%20relatives%2C%20and%20overarching%20hilarity.%20Serialized%20in%20Weekly%20Shonen%20Sunday%2B%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Hayate%20No%20Gotoku!</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-mw989679</loc>
+                <lastmod>2023-11-22T16:55:00.725Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-mw989679.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20The%20Demon%20King%2C%20Kaon%20broke%20the%20taboo%20and%20tried%20to%20revive%20his%20dead%20lover.%20However%2C%20the%20magic%20went%20beyond%20his%20expectations%20and%20created%20a%20new%20existence%2C%20a%20little%20girl%20who%20looked%20exactly%20like%20his%20dead%20lover.%20However%2C%20her%20soul%20was%20that%20of%20a%20Korean%20woman%2C%20%22Lee%20Eun%22.The%20Demon%20King%20tried%20to%20kill%20the%20child%20and%20failed.%20Hence%2C%20he%20thought%20that%20it%20was%20related%20to%20the%20will%20of%20his%20deceased%20lover.%20As%20such%2C%20he%20made%20her%20a%20princess.%20And%20that%20was%20how%20%22Luciana%20Road%20Moon%20Bloodlane%22%2C%20a%20combination%20of%20the%20power%20of%20mankind's%20greatest%20magician%2C%20%22Asela%22%2C%20and%20the%20Demon%20KIng%2C%20Kaon%2C%20was%20born.But%20that%20was%20the%20Demon%20King's%20position!Lee%20Eun%20had%20suddenly%20fallen%20into%20another%20world%20on%20the%20very%20day%20she%20had%20won%20the%20lottery!%22Send%20me%20back!%20I%20could've%20been%20happy%20in%20the%20modern%20world!%22But%20why%20am%20I%20liking%20this%20place%20more%20and%20more%3FWhat%20is%20the%20prophecy%20of%20destruction%3FIn%20a%20world%20full%20of%20secrets%2C%20you'll%20meet%20friends%20and%20family%2C%20forging%20friendship%20and%20love%20that%20didn't%20exists%20in%20the%20modern%20world.%20A%20new%20world%20unfolds%20and%20the%20even%20the%20pain%20of%20the%20past%20is%20healed.%22Asela%2C%20tell%20me%20why.%22Tell%20me%20why%20we%20met.%ED%8C%8C%EB%A9%B8%EC%9D%98%20%EA%B3%B5%EC%A3%BC%EB%8B%98%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Princess%20Of%20Doom</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-pe992813</loc>
+                <lastmod>2023-11-22T16:55:00.725Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-pe992813.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20He%20clearly%20transmigrated%20into%20the%20body%20of%20the%20young%20master%20of%20a%20powerful%20aristocratic%20family%20in%20the%20fantasy%20world%2C%20but%20was%20sent%20out%20of%20his%20ancestral%20home%20and%20made%20to%20live%20in%20a%20remote%20courtyard!%3F%20But%20Chu%20Xuan%20doesn't%20care%20at%20all%2C%20because%20he%20has%20a%20system%20that%20will%20help%20him%20get%20stronger!%20As%20long%20as%20he%20stay%20at%20home%20long%20enough%2C%20he%20can%20become%20strong!%20Ding~%20Stayed%20at%20home%20for%20a%20day%2C%20reward-%20Indestructible%20Body%20Technique...%20Ding~%20Stayed%20at%20home%20for%20a%20year%2C%20reward-%20Yuxu%20Celestial%20Scripture%20and%20100%20years%20of%20cultivation...%20Ding~%20Stayed%20at%20home%20for%20ten%20years%2C...%20Since%20no%20one%20wants%20me%20to%20go%20out%2C%20I%2C%20Chu%20Xuan%2C%20I'm%20going%20to%20stay%20at%20home!I%20Stayed%20at%20Home%20for%20a%20Century%2C%20When%20I%20Emerged%20I%20Was%20InvincibleI've%20Been%20Home%20for%20a%20Hundred%20Years%20and%20I'm%20Invincible%20When%20I%20Go%20OutInvincible%20After%20a%20Hundred%20Years%20of%20SeclusionW%20Zhi%20Lio%20Binin%20Chmn%20Y%20Wd%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Invincible%20After%20A%20Hundred%20Years%20Of%20Seclusion</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-mr989626</loc>
+                <lastmod>2023-11-22T16:55:00.725Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-mr989626.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Don't%20do%20that%20too%20much.%20Poor%20maidThe%20day%20after%20I%20commented%20on%20the%20pity%20of%20the%20extra%20maid%2C%20who%20even%20the%20author%20had%20forgotten.He%20has%20possessed%20that%20poor%20maid%2C%20Maria%20Mayer.Due%20to%20the%20convergence%20of%20its%20presence%20to%200%2C%20it%20even%20acquired%20the%20title%20of%20ghost.Still%2C%20I%20thought%20that%20Icould%20do%20my%20job%20with%20sincerity%2C%20but%20people%20who%20were%20interested%20in%20her%20began%20to%20appear.Even%20the%20future%20princes%20and%20grand%20dukes!%22Can't%20you%20feel%20the%20presence%3F%20What%20the%20hell%20is%20your%20identity%3F%22With%20the%20Crown%20Prince%20Elias%20who%20was%20half%20interested%20and%20half%20wary%20about%20Maria's%20identity%2C%20he%20wanted%20to%20keep%20him%20by%20my%20side.%22It%20doesn't%20matter%20that%20I%20don't%20remember.%20In%20the%20future%2C%20you%20can%20make%20sure%20you%20don't%20forget%20me.%22Archduke%20Dietrich%20approached%20with%20a%20smile%20as%20if%20he%20knew%20it%20even%20though%20it%20was%20the%20first%20time%20he%20had%20seen%20it.me%2C%20i%20I'm%20just%20an%20ordinary%20maid%201%20(Special%3A%20Ghost)!*%22Where%20are%20you%20looking%3F%22A%20black%20shadow%20slowly%20appeared%20behind%20the%20man's%20back.%22It's%20just%20my%20afterimage.%22nice.%20it%20was%20famous%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>I%E2%80%99Ve%20Been%20Here%20From%20The%20Beginning</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-sj995392</loc>
+                <lastmod>2023-11-22T16:55:00.725Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-sj995392.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20I%20was%20once%20the%20legendary%20red%20dragon%20who%20stood%20at%20the%20top%20of%20the%20world.%20For%20thousands%20of%20years%2C%20my%20brethren%20have%20been%20murdered%20by%20humans%20and%20the%20desire%20for%20revenge%20slowly%20turned%20into%20my%20only%20mission%20in%20this%20world!%20However%2C%20I%20failed.%20On%20the%20day%20of%20the%20decisive%20battle%20against%20human%20beings%2C%20I%20died%20with%20hatred%20in%20my%20heart...%20if%20there%20is%20an%20afterlife%2C%20I%20will%20definitely%20avenge%20my%20kind.%20If%20there%20is%20an%20afterlife%2C%20I%20will%20make%20these%20filthy%20humans%20pay%20with%20their%20blood!%20If%20there%20is%20an%20afterlife%E2%80%94hmm%3F%20I%20was%20reincarnated%20as%20a%20weak%20human%20baby%3F!!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>My%20Dragon%20System</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-fl983246</loc>
+                <lastmod>2023-11-22T16:55:00.725Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-fl983246.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20When%20Lee%20Shana%20accidentally%20crossed%20into%20another%20world%20full%20of%20fantasy%20and%20beauty%2C%20sadly%20she%20had%20become%20a%20witch%20in%20the%20midst%20of%20an%20execution.%20Dying%20at%20such%20a%20wonderful%20age%3F!%20She%20couldn't%20let%20that%20happen!%20She%20had%20to%20escape%20no%20matter%20what!%20But%20after%20her%20escape%20she%20offended%20none%20other%20than%20the%20crown%20prince%20Luther!%20What%20else%20could%20go%20wrong%3F%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>The%20Moon%20Witch%20And%20The%20Sun%20King%3A%20My%20Salvation</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-qi993843</loc>
+                <lastmod>2023-11-22T16:55:00.725Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-qi993843.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Branded%20as%20a%20cursed%20child%2C%20Princess%20Osiria%20spent%20most%20of%20her%20life%20locked%20in%20an%20attic.%20In%20actuality%2C%20Osiria%20is%20the%20divinely%20chosen%2C%20the%20one%20who%20could%E2%80%99ve%20saved%20the%20empire%20of%20Trionfo.%20Instead%2C%20she%20was%20sold%20to%20a%20neighboring%20kingdom%20and%20left%20in%20the%20care%20of%20Sir%20Fedelius%2C%20a%20handsome%20young%20knight.%20Although%20her%20heart%20beats%20faster%20when%20Fedelius%20is%20around%2C%20she%20doesn%E2%80%99t%20plan%20on%20staying%20for%20long.%20She%20wants%20only%20one%20thing...to%20get%20revenge%20on%20those%20who%20abused%20her%20and%20killed%20her%20mother.%20Will%20her%20heart%20soften%20with%20love%20or%20will%20she%20seek%20vengeance%20to%20the%20very%20end%3F%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>The%20Princess%20Of%20The%20Attic</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-om991369</loc>
+                <lastmod>2023-11-22T16:55:00.725Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-om991369.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Without%20possessing%20the%20unique%20skill%20blessed%20by%20the%20goddess%2C%20a%20boy%20named%20Kujou%20Kyouya%20failed%20to%20save%20the%20world.%20He%20was%20ridiculed%20as%20a%20%E2%80%9Cfailed%20hero%E2%80%9D%20at%20the%20interdimensional-level%20academy%20where%20returned%20heroes%20who%20had%20saved%20many%20worlds%20gathered.%20However%2C%20he%20became%20the%20strongest%20and%20most%20unique%20hero%2C%20having%20trained%20for%2030%2C000%20years%20in%20another%20world%20with%20the%20most%20evil%20demon%20king%2C%20Felice%2C%20who%20has%20destroyed%203%2C000%20worlds!%20Now%20Kyouya%E2%80%99s%20unique%20skill%20is%20so%20powerful%20that%20he%20cannot%20even%20be%20defeated%20by%20the%20strongest%20heroes!%20The%20legend%20of%20a%20boy%20trained%20by%20the%20most%20evil%20demon%20king%2C%20begins!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>A%20Hero%20Trained%20By%20The%20Most%20Evil%20Demon%20King%20Is%20Unrivaled%20In%20The%20Academy%20Of%20Returnees%20From%20Another%20World</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-ps993153</loc>
+                <lastmod>2023-11-22T16:55:00.725Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-ps993153.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Soma%2C%20who%20reincarnated%20with%20the%20memory%20of%20the%20previous%20life%2C%20was%20awakened%20to%20the%20rare%20ability%20%22trial%20and%20error%22%20that%20can%20confirm%20the%20skill%20level%20numerically%2C%20and%20thanks%20to%20that%2C%20he%20was%20able%20to%20raise%20various%20levels%20evenly.%20At%20the%20entrance%20ceremony%20at%20the%20knight%20training%20school%20that%20I%20admired%2C%20the%20student's%20skill%20level%20and%20skill%20level%20are%20judged%20and%20classified%2C%20and%20the%20top%20class%20%22Soryu(Blue%20Dragon)%22%20is%20certain%20if%20it%20exceeds%20the%20total%20skill%20level%20%22200%22.%20The%20thing%20is%20however%2C%20the%20total%20level%20of%20Soma%20at%20this%20time%20was%20%221012%22%2C%20which%20should%20have%20been%20far%20above%20the%20margin%20%2C%20but%20the%20judgment%20machine%20was%20a%20specification%20that%20could%20not%20measure%20the%204-digit%20level%20!!%20As%20a%20result%2C%20it%20was%20wrong%20even%20though%20it%20was%20the%20academic%20ability%20of%20the%20top%20grade.%20Soma%20enters%20the%20problem%20child%20class%20by%20judgment%2C%20but%20with%20the%20skill%20of%20%22trial%20and%20error%22%2C%20Soma%20causes%20a%20big%20revolution%20in%20the%20aristocratic%20school%20!!%20The%20school%20fantasy%20presented%20by%20the%20strongest%20reincarnated%20person%20in%20the%20dropout%20class%20opens%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Gakuen%20Kishi%20No%20Level%20Up!</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-cy979833</loc>
+                <lastmod>2023-11-22T16:55:00.725Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-cy979833.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Pro-wrestler%20Shibata%20Genzo%20who's%20maniac%20pet%20animals%20suddenly%20was%20summoned%20to%20a%20different%20world.%20Genzo%20was%20asking%20by%20the%20princess%20to%20get%20rid%20of%20the%20evil%20beasts%20called%20monsters%20roaming%20in%20this%20world.%20Outraged%20that%20he%20was%20asked%20to%20kill%20monsters%2C%20he%20german%20suplexed%20the%20princess.%20Unable%20to%20get%20back%20to%20earth%2C%20he%20decided%20to%20live%20a%20slow%20peaceful%20life%20in%20this%20world.%20This%20is%20a%20story%20about%20an%20eccentric%20Japanese%20man%20who%20was%20a%20former%20pro%20wrestler%20and%20manages%20a%20%22Monster%20Pet%22%20shop.%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Kemono%20Michi%20(Natsume%20Akatsuki)</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-oe991561</loc>
+                <lastmod>2023-11-22T16:55:00.725Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-oe991561.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Sweat%20Taro%2C%20who%20has%20ascended%20to%20heaven%20because%20he%20is%20too%20sick%2C%20reincarnates%20in%20a%20different%20world.%20Sweat%20Taro%2C%20who%20is%20distorted%20in%20character%20and%20is%20a%20kimodebu%2C%20is%20disliked%20even%20after%20reincarnating%2C%20but%20notices%20that%20a%20cloudy%20potion%20that%20cures%20anything%20from%20his%20crotch%20appears.%20Moreover%2C%20it%20also%20has%20the%20effect%20of%20powering%20up%20the%20demons%2C%20and%20it%20will%20be%20loved%20by%20the%20demons%20...!%3F%20A%20different%20world%20reincarnation%20fantasy%20that%20is%20unmatched%20in%20the%20crotch%20!!!%20(Google%20Translate)%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Kokan%20Musou%20~Kiraware%20Yuusha%20Wa%20Mazoku%20Ni%20Aisareru~</image:title>
+                </image:image>
+              </url>
+              
+    
+  </urlset>
