@@ -4,14 +4,7 @@ import { serializeNonPOJOs } from '$lib/utils/api';
 export const load = async (event) => {
 	const popularMangas = await Popular(event.locals, 1);
 	const latestMangas = await Latest(event, 1);
-	const res = event.fetch(`/api/create-sitemap`)
-	.then(res => res.json())
-	.then(res => {
-		console.log('fgfgfg------>',res);
-	})
-	.catch(err => {
-		console.log('err------>',err);
-	});
+
 	return {
 		popularMangas,
 		latestMangas
