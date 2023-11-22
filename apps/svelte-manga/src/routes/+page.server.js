@@ -65,3 +65,4 @@ const Latest = async (event, pageNo) => {
 	
 	return data.mangas;
 };
+
