@@ -1,13 +1,12 @@
 <script lang="ts">
 	import { writable } from 'svelte/store';
 	import { page } from '$app/stores';
-	import {ScrollToTop} from '@valiantlynx/svelte-ui';
+	import {ScrollToTop, Breadcrumbs} from '@valiantlynx/svelte-ui';
 	import LongstripReadingMode from '$lib/components/LongstripReadingMode.svelte';
 	import GridReadingMode from '$lib/components/GridReadingMode.svelte';
 	import PaginatedReadingMode from '$lib/components/PaginatedReadingMode.svelte';
 	import Chat from '$lib/components/Chat.svelte';
 	import { goto } from '$app/navigation';
-	import Breadcrumbs from '$lib/components/Breadcrumbs.svelte';
 	import { postPocketbase, pb, getPocketbase } from '$lib/utils/api';
 	import { onMount } from 'svelte';
 
