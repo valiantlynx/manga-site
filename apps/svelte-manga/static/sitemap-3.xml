@@ -1,0 +1,237 @@
+<?xml version='1.0' encoding='utf-8'?>
+  <urlset
+    xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="https://www.w3.org/1999/xhtml"
+    xmlns:news="https://www.google.com/schemas/sitemap-news/0.9"
+    xmlns:image="https://www.google.com/schemas/sitemap-image/1.1"
+    xmlns:video="https://www.google.com/schemas/sitemap-video/1.1">
+    <url>
+      <loc>http://localhost:5173</loc>
+    </url>
+    
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-ia985383</loc>
+                <lastmod>2023-11-22T16:53:00.377Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-ia985383.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20.Ji-Woo%20Lee%2C%20an%20author%20gets%20reincarnated%20into%20her%20novel%20as%20Tara%20Elias%2C%20the%205th%20daughter%20of%20the%20Elias%20family.%20However%2C%20the%20family%20is%20supposed%20to%20fall%20soon%2C%20and%20everyone%20in%20it%20will%20be%20executed.%20Ji-Woo%20insists%20that%20she%20will%20escape%20her%20fate.%22I%20thought%20everything%20was%20going%20smoothly.%22That%20is%2C%20until%20she%20meets%20the%20second%20prince.%20Prince%20Kyle%20Amur.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>I'll%20Save%20A%20Decent%20Family</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-uf998140</loc>
+                <lastmod>2023-11-22T16:53:00.377Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-uf998140.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20This%20is%20the%20story%20of%20Ryousuke%20Kurakami%2C%20a%20teenager%20with%20a%20delinquent%20past%2C%20who%20wants%20to%20make%20amends%20for%20his%20past%20mistakes.%20leading%20an%20ordinary%20life%20in%20a%20place%20far%20from%20the%20city%2C%20but%20little%20does%20he%20know%2C%20that%20in%20this%20quiet%20place%20where%20he%20moved%20It%20will%20be%20where%20your%20life%20will%20change%20and%20your%20view%20of%20the%20normal%20world%20will%20be%20totally%20different.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Keyholder</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-os991475</loc>
+                <lastmod>2023-11-22T16:53:00.377Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-os991475.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Reincarnated%20as%20a%20mob%20villainess!%20But%20isn%E2%80%99t%20there%20something%20off%20about%20this%20situation%3F!I%20was%20reincarnated%20into%20an%20otome%20game%20as%20a%20count%E2%80%99s%20villainous%20daughter%2C%20Pia.%20But%20fearing%20my%20fate%20of%20banishment%20from%20the%20kingdom%2C%20I%20became%20extremely%20timid.%20After%20the%20annulment%20of%20my%20engagement%20and%20becoming%20a%20curator%2C%20the%20Prime%20Minister%E2%80%99s%20son%20steps%20forth%20and%20I%E2%80%99m%20thrown%20into%20an%20unexpected%20plot%20twist%E2%80%A6%3F!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Yowaki%20Max%20Reijou%20Nanoni%2C%20Ratsuwan%20Konyakusha-Sama%20No%20Kake%20Ni%20Notte%20Shimatta</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-pj992966</loc>
+                <lastmod>2023-11-22T16:53:00.377Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-pj992966.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20I%20Picked%20a%20Mobile%20From%20Another%20World%20manhwa%2C%20In%20the%20midst%20of%20the%20devastation%2C%20only%20the%20soldiers'%20bones%20remained.%20It's%20only%20a%20matter%20of%20time%20before%20the%20entire%20world%20is%20annihilated.%20To%20avoid%20this%2C%20Kyung-Hoon%20began%20searching%20for%20clues%20in%20another%20universe%20with%20the%20help%20of%20a%20ten-year-old%20phone%20he%20discovered%20in%20an%20abandoned%20building.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>I%20Picked%20A%20Mobile%20From%20Another%20World</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-pl993046</loc>
+                <lastmod>2023-11-22T16:53:00.377Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-pl993046.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20As%20a%20loyal%20fan%20of%20%22The%20Duchess%20of%20Duchess%22%2C%20Zhu%20Xue%20traveled%20to%20the%20book%20when%20she%20was%20accidentally%20drunk%20and%20traveled%20to%20the%20childhood%20of%20this%20vicious%20female%20character.%20This%20time%2C%20she%20not%20only%20wanted%20to%20%22change%20evil%20and%20return%20to%20righteousness%22%2C%20she%20also%20wanted%20to%20cherish%20her%20brothers%3B%20reject%20the%20young%20duke%3B%20stay%20away%20from%20the%20crown%20prince%20and%20avoid%20all%20of%20them%20from%20chasing%20her%2C%20but%20she%20did%20not%20expect%20that%20the%20life%20experience%20of%20her%20and%20her%20brothers%20actually%20hides%20the%20great%20secret...%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>The%20Counterattack%20Of%20The%20Villain</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-gx983632</loc>
+                <lastmod>2023-11-22T16:53:00.377Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-gx983632.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Past%20the%20dreams%20there%20is%20a%20special%20world%2C%20where%20monsters%20and%20demons%20fight%20for%20supremacy%2C%20it%20so%20happens%20those%20same%20monsters%20and%20demons%20are%20also%20the%20objects%20of%20cult%20for%20religions%20in%20the%20real%20world.%20A%20victory%20in%20the%20monster%20world%2C%20means%20the%20success%20of%20a%20religion%20in%20the%20real%20world.Wahowaho%20is%20a%20new%20religion%2C%20aiming%20to%20the%20top%2C%20and%20while%20searching%20for%20their%20god%20they%20have%20summoned%20a%20clueless%20human%20boy.Toda%20Yuu%20was%20visiting%20a%20fan%20convention%20with%20his%20sister%2C%20he%20was%20looking%20forward%20the%20event%20for%20his%20favourite%20game%2C%20a%20phone%20gacha%20game%20with%20deities%2C%20but%20once%20he%20fell%20asleep%20things%20started%20to%20change%20in%20the%20real%20world.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Welcome%20To%20Religion%20In%20Another%20World</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-me952261</loc>
+                <lastmod>2023-11-22T16:53:00.377Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-me952261.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Guutara%20Renai%20no%20Seihou%20summary%20is%20updating.%20Come%20visit%20MangaNato.com%20sometime%20to%20read%20the%20latest%20chapter%20of%20Guutara%20Renai%20no%20Seihou.%20If%20you%20have%20any%20question%20about%20this%20manga%2C%20Please%20don't%20hesitate%20to%20contact%20us%20or%20translate%20team.%20Hope%20you%20enjoy%20it.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Guutara%20Renai%20No%20Seihou</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-ux997806</loc>
+                <lastmod>2023-11-22T16:53:00.377Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-ux997806.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Kentaro%20Yamada%2C%20a%20salaryman%20who%20lives%20peacefully%20with%20his%20dog%2C%20Max%2C%20and%20cat%2C%20Nini.One%20day%2C%20while%20taking%20them%20out%20for%20a%20walk%2C%20he%20got%20into%20an%20accident%20and%20woke%20up%20to%20find%20himself%20surrounded%20by%20a%20spectacular%20natural%20landscape...Suddenly%2C%20a%20squirrel-like%20creature%20claiming%20to%20be%20the%20'Creator'%20of%20this%20world%20appears%20and%20informs%20him%20that%20this%20is%20a%20different%20world.It%20said%20%22Thanks%20to%20your%20arrival%2C%20this%20world%20has%20been%20saved%22%2C%20and%20allowed%20him%20to%20live%20freely%20here...Encountering%20Max%20and%20Nini%2C%20who%20have%20grown%20huge%20and%20gained%20the%20ability%20to%20speak%2C%20as%20well%20as%20new%20companions%2C%20he%20wanders%20carefreely%20in%20another%20world%20surrounded%20by%20fluffy%20things%20and%20delicious%20food!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Mofumofu%20To%20Mukumuku%20To%20Isekai%20Hyouryuu%20Seikatsu</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-su995377</loc>
+                <lastmod>2023-11-22T16:53:00.377Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-su995377.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Great%20duke%20of%20hell's%20son%20was%20summoned%20from%20the%20hell%20and%20now%20he%20has%20become%20a%20superhero.%20He%20has%20to%20eradicate%20crime%20from%20city.%20But%20who%20was%20the%20summoner%3F!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Akuma%20No%20Yuusha</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-lc952485</loc>
+                <lastmod>2023-11-22T16:53:00.377Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-lc952485.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Balud%20Cornelius%20is%20the%20son%20of%20a%20noble%20of%20the%20Mauricia%20kingdom%20and%20inside%20him%20also%20dwell%20the%20souls%20of%20the%20niggardly%20warring%20states%20commander%20Oka%20Sadatoshi%20and%20animal%20ear%20otaku%20high%20schooler%20Oka%20Masaharu.%20With%20these%203%20souls%20in%20a%20single%20body%2C%20he%20can%20exhibit%20extraordinary%20abilities%20when%20it%20comes%20to%20combat%20or%20managing%20the%20domain.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Isekai%20Tensei%20Soudouki</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-uk998245</loc>
+                <lastmod>2023-11-22T16:53:00.377Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-uk998245.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Yuna%2C%20a%20withdrawn%20gamer%20girl%20is%20suddenly%20blown%20into%20another%20world!%20Now%20she%20enjoys%20life%20in%20a%20different%20world%20with%20overpowered%20and%20cute%20bear%20equipment%20%E2%99%AA%22Kuma%20Kuma%20Bear%22%20official%20spin-off%20manga%20has%20finally%20started!Yuna%20and%20Fina's%20daily%20life%20full%20of%20laughs%2C%20healing%20and%20bears%2C%20presented%20in%20a%204-koma%20%26%20story%20format%2C%20begins!!!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Kuma%20Kuma%20Bear%3A%20Kyou%20Mo%20Kuma%20Kuma%20Biyori</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-tv997130</loc>
+                <lastmod>2023-11-22T16:53:00.377Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-tv997130.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20I%20thought%20that%20if%20I%20reincarnated%2C%20I%20would%20be%20able%20to%20build%20a%20happy%20harem%20and%20be%20peerless%20in%20another%20world...!%20!%20The%20guild%20that%20was%20created%20on%20a%20whim%20has%20become%20the%20pinnacle%20guild%20of%20strong%20men.%20Moreover%2C%20except%20for%20me%2C%20everyone%20is%20handsome%20and%20beautiful.%20I'm%20the%20weakest%20in%20the%20guild...%20can%20I%20quit%20the%20guild%20now%3F%20The%20opening%20of%20the%20dark%20fantasy%20of%20the%20lethargic%20hero%20and%20the%20guild%20members%20who%20adore%20him%20at%20the%20level%20of%20worship%E2%80%95%E2%80%95%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Another%20World's%20Highest%20Guild%20Leader%20~I'm%20The%20Weakest%20In%20The%20Guild%2C%20But%20I%20Can't%20Quit%20The%20Guild%20Because%20Of%20The%20Heavy%20Love%20Of%20All%20The%20Guild%20Members~</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-rp995298</loc>
+                <lastmod>2023-11-22T16:53:00.377Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-rp995298.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Hiroshi%20Yamada%20(42%20years%20old)%2C%20a%20dull%20salaryman%2C%20was%20chosen%20to%20be%20a%20brave%20warrior%20which%20should%20have%20been%20limited%20to%20young%20people.%20Then%20he%20was%20suddenly%20sent%20to%20another%20world%20full%20of%20monsters%20and%20as%20a%20promised%20gift%20of%20his%20summoning%2C%20Hiroshi%20was%20given%20three%20strong%20skills%20by%20God%3A%20%5BOne-shot%20K.O.%5D%2C%20%5BAll%20Magic%20Creation%5D%2C%20and%20the%20ultimate%20physical%20strengthening%20ability%20%5BTranscendence%5D.And%20so%20Hiroshi%20must%20defeat%20the%20monsters%20one%20after%20another%20by%20making%20full%20use%20of%20the%20given%20skills.%20However%2C%20he's%20extremely%20clumsy%20and%20can%E2%80%99t%20control%20his%20skills%2C%20so%20they%20always%20go%20out%20of%20control.%20Because%20of%20that%2C%20Hiroshi%20meets%20a%20cute%20female%20fairy%20and%20a%20muscular%20old%20warrior%20to%20go%20on%20his%20adventures%20with%20him.%20See%20what%20happens%20to%20Hiroshi%20as%20he%20experiences%20a%20different%20world%20fighting%20against%20monsters%20and%20sometimes%20annoying%20the%20townspeople%20with%20outrageous%20acts%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>The%20Salaryman%20Traveling%20Another%20World%20At%20His%20Own%20Pace</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-ql994294</loc>
+                <lastmod>2023-11-22T16:53:00.377Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-ql994294.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Chen%20Daolin%20was%20only%20trying%20to%20enjoy%20his%20noodles%2C%20but%20he%20suddenly%20found%20himself%20in%20another%20worldExcited%20about%20the%20dangerous%20new%20world%2C%20he%20decided%20to%20become%20its%20unparalleled%20heroFollow%20Chen%20Daolin's%20journey%20as%20he%20discovers%20the%20secret%20of%20the%20Tulip%20family's%20descendant%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Unparalleled</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-gg984163</loc>
+                <lastmod>2023-11-22T16:53:00.377Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-gg984163.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20While%20on%20a%20regular%20school%20day%2C%20Tsukuru%20along%20with%20his%20classmates%20got%20transported%20to%20another%20world.%20However%2C%20at%20the%20other%20side%20of%20the%20summoning%20there%20was%20a%20hero's%20auction%2C%20where%20each%20nation%20would%20bid%20for%20the%20heroes%20to%20defeat%20the%20demon%20kings%20of%20each%20territory.%20While%20his%20classmates%20received%20cheat%20jobs%20and%20got%20auctioned%20quickly%20Tsukuru%20got%20the%20useless%20job%20%22Chef%22%2C%20as%20no%20nation%20bid%20for%20him%2C%20he%20got%20thrown%20out%20through%20a%20transfer%20gate.%20At%20the%20other%20side%20of%20the%20gate%20was%20a%20territory%20dominated%20by%20strong%20monsters...As%20he%20manages%20to%20survive%20the%20monster's%20attacks%20while%20nearly%20dying%2C%20Tsukuru%20goes%20forward%20on%20the%20path%20of%20becoming%20the%20strongest!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Garbage%20Hero%3A%20A%20Revenge%20Story%20Of%20A%20Hero%20Who%20Got%20Summoned%20To%20Another%20World</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-vo998771</loc>
+                <lastmod>2023-11-22T16:53:00.377Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-vo998771.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Ding%20dong!%22%20%22Welcome%20to%20the%20All-Intelligent%20Cultivation%20System!%22%20%22Important%20heads-up%3A%20While%20using%20the%20system%20to%20cultivate%2C%20you'll%20lose%20control%20of%20your%20body...%22%20After%20getting%20the%20Intelligent%20Cultivation%20System%2C%20Pei%20Ling%20planned%20to%20quietly%20level%20up%20and%20become%20a%20boss%20without%20drawing%20attention.%20But%20one%20day...%20%22Ding%20dong!%22%20%22You've%20selected%20the%20'Nameless%20Technique'%20for%20cultivation%2C%20but%20the%20system%20says%20you're%20missing%20some%20requirements.%20It's%20working%20on%20fixing%20that%20for%20you..%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>I%20Just%20Want%20To%20Live%20A%20Simple%20Life</image:title>
+                </image:image>
+              </url>
+              
+    
+  </urlset>

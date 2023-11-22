@@ -1,0 +1,237 @@
+<?xml version='1.0' encoding='utf-8'?>
+  <urlset
+    xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="https://www.w3.org/1999/xhtml"
+    xmlns:news="https://www.google.com/schemas/sitemap-news/0.9"
+    xmlns:image="https://www.google.com/schemas/sitemap-image/1.1"
+    xmlns:video="https://www.google.com/schemas/sitemap-video/1.1">
+    <url>
+      <loc>http://localhost:5173</loc>
+    </url>
+    
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-or992152</loc>
+                <lastmod>2023-11-22T16:53:00.644Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-or992152.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Cardinal%2C%20a%20researcher%20who%20loves%20light%20novels%2C%20had%20been%20reincarnated%20as%20the%20villainous%20daughter%20of%20an%20otome%20game.%20Her%20banishment%20flag%20is%20raised%2C%20but%20oblivious%20to%20the%20game's%20storyline%2C%20she%20doesn't%20know%20how%20to%20overcome%20or%20avoid%20it.%20She%20makes%20the%20critical%20decision%20to%20live%20on%20her%20own%20and%20become%20a%20villainess%20until%20the%20very%20end!%20She'll%20rise%20up%20in%20this%20unknown%20world%20embracing%20her%20new%20role.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>What%20Should%20A%20Villainess%20Do%3F</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-uq997873</loc>
+                <lastmod>2023-11-22T16:53:00.644Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-uq997873.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Jun%20Xiaoyao%20was%20transported%20to%20a%20mystical%20world%20and%20became%20the%20divine%20child%20of%20a%20Clan%20of%20the%20Ancients.%20He%20came%20to%20possess%20an%20invincible%20background%2C%20unparalleled%20talents%20and%20even%20a%20check-in%20system%2C%20enabling%20him%20to%20acquire%20an%20Accomplished%20Sacred%20Body%20of%20the%20Ancients%20at%20the%20very%20beginning%20of%20his%20new%20life.He%20acquired%20the%20Divine%20Elephant%20Overpowering%20Force%2C%20a%20six-star%20reward%2C%20checking%20in%20at%20the%20Old%20Tablet%20of%20Taiyue.He%20acquired%20the%20Bones%20of%20Supremacy%2C%20a%20seven-star%20reward%2C%20checking%20in%20at%20his%20Ten%20Years%20Old%20Banquet.He%20acquired%20the%20Cauldron%20of%20Maternal%20Qi%20of%20All%20Beings%2C%20an%20eight-star%20reward%2C%20checking%20in%20at%20the%20Bronze%20Mystical%20Hall.He%20acquired%20the%20Grand%20Method%20of%20Freedom%20Melding%2C%20a%20ten-star%20reward%2C%20checking%20in%20at%20the%20Borderless%20Ocean.He%20sat%20on%20the%20clouds%20countless%20years%20later%2C%20with%20his%20sword%20pointing%20at%20the%20heavens%2C%20saying%2C%20%E2%80%9CI%20alone%20shall%20rule%20over%20the%20heavens%20and%20the%20earth.%20I%20shall%20become%20the%20pinnacle%20at%20the%20very%20end%20of%20the%20mystic%20path!%E2%80%9D%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Scoring%20The%20Sacred%20Body%20Of%20The%20Ancients%20From%20The%20Get-Go</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-ua998157</loc>
+                <lastmod>2023-11-22T16:53:00.644Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-ua998157.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20In%20the%20final%20battle%20against%20the%20evil%20Exterminators%2C%20Asagaki%20Tougo%2C%20a%20power%20ranger%2C%20traded%20his%20life%20for%20the%20enemy's.%20It%20seemed%20like%20everything%20was%20over%2C%20but%20suddenly%20he%20found%20himself%20in%20another%20world!%20He%20becomes%20an%20adventurer%2C%20transforming%20into%20Kizuna%20Red%2C%20and%20continues%20fighting%20to%20save%20people%20in%20trouble!%20Here%20he%20meets%20a%20young%20Wizard%20named%20Idola%20and%20his%20journey%20in%20this%20new%20world%20begins!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>The%20Red%20Ranger%20Becomes%20An%20Adventurer%20In%20Another%20Word</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-lz989334</loc>
+                <lastmod>2023-11-22T16:53:00.644Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-lz989334.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Park%20Sooho%20returned%20to%20Earth%20after%20disappearing%20to%20another%20world%20for%20a%20thousand%20years.%20During%20that%20time%2C%20Earth%20had%20changed%20into%20a%20world%20of%20the%20survival%20of%20the%20fittest%20thanks%20to%20the%20appearance%20of%20monsters.%20Druid%2C%20the%20king%20of%20the%20animals%2C%20who%20had%20managed%20to%20survive%20for%20a%20thousand%20years%20is%20now%20off%20to%20conquer%20the%20world.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Seoul%20Station%20Druid</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-kp987798</loc>
+                <lastmod>2023-11-22T16:53:00.644Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-kp987798.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20I%20had%20been%20abroad%20to%20do%20medical%20volunteer%20work%2C%20when%20I%20was%20swept%20up%20in%20a%20civil%20war.%20I%20was%20killed%20by%20a%20rebel%20soldier%2C%20while%20taking%20a%20bullet%20for%20a%20patient.%20But%20when%20I%20finally%20woke%20up%2C%20I%20had%20become%20a%20child%3F!%3F%20And%20in%20front%20of%20me%20stood%20a%20destroyed%20carriage%20and%20a%20group%20of%20oddly%20dressed%20people%2C%20who%20were%20unconscious!%20%22It's%20just%20like%20a%20Murim%20world.%22%20As%20I%20hurry%20to%20perform%20first%20aid%20in%20an%20attempt%20to%20save%20even%20one%20person%2C%20I%20realize%20that%20this%20world%20is%20that%20of%20%5BThe%20Supreme%20Demon%20King%5D%2C%20a%20Murim%20novel%20I've%20enjoyed%20reading.%20After%20meeting%20the%20rescue%20team%20of%20the%20Three%20Great%20Doctors'%2C%20I%20found%20out%20that%20one%20of%20the%20person%20I%20saved%20was%20the%20protagonist%20of%20this%20novel%2C%20the%20future%20Demon%20King%20Yeoharyun'!%20%22Hey%2C%20since%20I'm%20indebted%20to%20you%20for%20saving%20me%2C%20call%20me%20hyung'.%22%20For%20saving%20his%20life%2C%20I%20become%20sworn%20brothers%20with%20the%20future%20Demon%20King%2C%20and%20Baekrineuison%2C%20one%20of%20the%20most%20knowledgeable%20people%20around%2C%20recognized%20my%20potential%20and%20took%20me%20in%20as%20his%20disciple.%20This%20is%20the%20story%20of%20how%20I%20became%20the%20greatest%20physician%20in%20Gangho!%20Rsum%20franais%20%3A%20J'tais%20l'tranger%20pour%20faire%20du%20bnvolat%20mdical%2C%20lorsque%20la%20guerre%20civile%20a%20clat.%20J'ai%20t%20tu%20par%20un%20soldat%20rebelle%2C%20alors%20que%20je%20prenais%20une%20balle%20pour%20un%20patient.%20Mais%20quand%20je%20me%20suis%20finalement%20rveill%2C%20j'tais%20devenu%20un%20enfant%20!%20Et%20devant%20moi%20se%20tenait%20une%20charrette%20dtruite%20et%20un%20groupe%20de%20personnes%20bizarrement%20vtues%2C%20qui%20taient%20inconscientes%20!%20%22C'est%20exactement%20comme%20un%20monde%20de%20Murim.%22%20Alors%20que%20je%20m'empresse%20de%20prodiguer%20les%20premiers%20soins%20pour%20tenter%20de%20sauver%20ne%20serait-ce%20qu'une%20personne%2C%20je%20ralise%20que%20ce%20monde%20est%20celui%20du%20%5BRoi%20Dmon%20Suprme%5D%2C%20un%20roman%20de%20Murim%20que%20j'ai%20pris%20plaisir%20lire.%20Aprs%20avoir%20rencontr%20l'quipe%20de%20secours%20des%20%22Trois%20Grands%20Docteurs%22%2C%20j'ai%20dcouvert%20qu'une%20des%20personnes%20que%20j'ai%20sauves%20tait%20le%20protagoniste%20de%20ce%20roman%2C%20le%20futur%20Roi%20Dmon%20%22Yeoharyun%22%20!%20%22H%2C%20puisque%20je%20te%20suis%20redevable%20de%20m'avoir%20sauv%2C%20appelle-moi%20%22hyung%22.%22%20Pour%20lui%20avoir%20sauv%20la%20vie%2C%20je%20suis%20devenu%20frre%20de%20sang%20du%20futur%20Roi%20Dmon%2C%20et%20Baekrineuison%2C%20l'une%20des%20personnes%20les%20mieux%20informes%2C%20a%20reconnu%20mon%20potentiel%20et%20m'a%20pris%20comme%20disciple.%20C'est%20ainsi%20que%20je%20suis%20devenu%20le%20plus%20grand%20mdecin%20de%20Gangho%20!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Doctor%E2%80%99S%20Rebirth</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-rq995151</loc>
+                <lastmod>2023-11-22T16:53:00.644Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-rq995151.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20The%20Amusement%20Club%20gets%20transported%20to%20another%20world%E2%80%A6%20and%20Akari%20turns%20into%20a%20slime.%20A%20new%20Yuru%20Yuri%20isekai%20spinoff.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>That%20Time%20Only%20Akari%20Got%20Reincarnated%20As%20A%20Slime</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-sr995426</loc>
+                <lastmod>2023-11-22T16:53:00.644Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-sr995426.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Princess%20Dia%20of%20the%20Freige%20Empire%20was%20killed%20by%20her%20father%2C%20the%20emperor%2C%20on%20her%2017th%20birthday.%20Afterward%2C%20the%20emperor%20embraces%20her%20daughter's%20corpse%20and%20freezes%20the%20world%20to%20destruction.Anna%2C%20an%20office%20worker%20of%20a%20black%20company%2C%20was%20reading%20a%20novel%20with%20a%20tragic%20ending%20before%20she%20went%20to%20bed.When%20she%20wakes%20up%20the%20next%20morning%2C%20she%20has%20become%20Dia%20in%20her%20novel!%20%3FOf%20course%2C%20her%20father%20is%20the%20Ice%20Emperor%2C%20who%20is%20feared%20for%20his%20cruelty%20and%20ruthlessness.Just%20like%20in%20the%20original%2C%20the%20Ice%20Emperor%20mercilessly%20directs%20his%20bloodlust%20toward%20his%20young%20daughter.%22At%20this%20rate%2C%20she%20will%20really%20die%20on%20her%2017th%20birthday...%20no%2C%20she%20will%20be%20killed%20before%20that.%22%20trying%20to%20change...%22Why%20did%20the%20Ice%20Emperor%20destroy%20the%20world%20while%20crying%20after%20killing%20his%20daughter%3F%22%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>It's%20Not%20Easy%20Being%20The%20Ice%20Emperor's%20Daughter</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-nd991212</loc>
+                <lastmod>2023-11-22T16:53:00.644Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-nd991212.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Late%2C%20an%20assassin%20with%20a%20mission%20completion%20rate%20of%2099.9%25%2C%20suddenly%20receives%20a%20request%20for%20assassination%20from%20an%20unfamiliar%20client.Surprisingly%2C%20the%20client%20was%20the%20goddess%20of%20another%20world%2C%20%22Mises%2C%22%20who%20had%20lost%20the%20battle%20and%20was%20being%20destroyed.The%20content%20of%20the%20request%20from%20Mises%20is%20the%20assassination%20of%20%22Masla%20Zul%2C%20the%20god%20of%20another%20world%22.The%20next%20assassination%20target%20of%20the%20strongest%20assassin%20Late%20is%20%22God%20of%20another%20world%22!%20%3F%3F%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>The%20Strongest%20In%20Another%20World%20With%20Assassination%20Skills%20~%20I%2C%20Who%20Has%20Mastered%20Alchemy%20And%20Assassination%2C%20Dominate%20The%20World%20From%20Behind%20~</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-sc995811</loc>
+                <lastmod>2023-11-22T16:53:00.644Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-sc995811.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20A%20young%20man%20full%20of%20vigor%20transmigrated%20to%20a%20world%20similar%20to%20a%20cultivation%20game.%20join%20our%20main%20character%20as%20he%20travel%20and%20dominate%20the%20word%20with%20the%20ultimate%20leveling%20up%20system.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>The%20Ultimate%20Leveling%20Up%20System</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-iq985899</loc>
+                <lastmod>2023-11-22T16:53:00.644Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-iq985899.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20After%20being%20reincarnated%2C%20Ars%20Louvent%20is%20supposed%20to%20live%20in%20a%20different%20world%20as%20a%20weak%20aristocrat.%20Both%20his%20physical%20strength%20and%20intelligence%20were%20mediocre%20in%20both%20worlds%2C%20but%20here%20he%20naturally%20possessed%20a%20skill%20called%20%22Appraisal%22%20that%20allowed%20him%20to%20see%20the%20potential%20of%20any%20person.%20By%20gathering%20talented%20people%20by%20his%20side%2C%20Ars%20uses%20this%20%22Appraisal%22%20skill%20to%20transform%20his%20weak%20territory%20into%20the%20strongest%20one!%20But%20the%20road%20ahead%20of%20him%20won't%20be%20so%20simple.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Reincarnated%20As%20An%20Aristocrat%20With%20An%20Appraisal%20Skill</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-qm993595</loc>
+                <lastmod>2023-11-22T16:53:00.644Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-qm993595.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Young%20Kana%20stresses%20over%20being%20single%2C%20school%20problems%20and%20her%20underdeveloped%20body.%20When%20she%20meets%20an%20elf%20boy%20Tien%2C%20he%20brings%20her%20into%20a%20strange%20fantasy%20world%20called%20Sokora.%20Chaos%20breaks%20and%20their%20salvation%20is%20only%20on%20Kana%E2%80%99s%20hands%20--%20only%20if%20she%20can%20stop%20being%20so%20lazy!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Sokora%20Refugees</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-ph992690</loc>
+                <lastmod>2023-11-22T16:53:00.644Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-ph992690.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20This%20Reincarnated%20Countess%20Is%20Trying%20To%20Escape%20From%20Her%20Prince%20MANGA%2C%20Tensei%20Hakushaku%20Reijou%20ha%20Oujisama%20kara%20Nigedashitai%2C%20Countess%20Sherazade%20of%20the%20Holy%20Kingdom%20of%20Florentino%20is%20hit%20with%20a%20flood%20of%20memories.%20Memories%20of%20a%20past%20life%2C%20in%20which%20her%20current%20life%20is%20just%20a%20Teen%20Love%20novel%20called%2C%20%22The%20World%20that%20Surrounds%20Me%2C%22%20or%20%22My%20World%22%20for%20short.%20Her%20life%20is%20about%20to%20go%20from%20tragic%20to%20downright%20traumatic%20and%20she's%20not%20about%20to%20sit%20around%20and%20let%20it%20happen.%20In%20order%20to%20do%20that%2C%20she%20can%20never%2C%20ever%20marry%20the%20prince!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>This%20Reincarnated%20Countess%20Is%20Trying%20To%20Escape%20From%20Her%20Prince</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-ty996833</loc>
+                <lastmod>2023-11-22T16:53:00.644Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-ty996833.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20This%20is%20a%20story%20about%20the%20life%20of%20a%20%E2%80%9Cgirl%20with%20jewels%E2%80%9D%2C%20trapped%20in%20a%20death%20trap.%20Ingrid%2C%20crying%20beautiful%20precious%20tears%2C%20is%20abused%2C%20to%20ensure%20the%20prosperity%20of%20her%20family.%20In%20the%20end%2C%20she%20was%20killed%2C%20because%20%E2%80%9Ctears%20of%20death%20are%20the%20most%20powerful%20gems%E2%80%9D.%20But%20the%20power%20of%20the%20last%20jewel%20turns%20back%20time%20for%20her.%20During%20the%20period%20of%20her%20return%2C%20she%20was%20repeatedly%20killed%20until%20she%20was%20told%2C%20%E2%80%9CDie%20for%20my%20happiness%2C%20you%20hate%20me%2C%20sister.%20Ingrid%20discovers%20that%20she%20is%20being%20killed%20because%20of%20her%20sister's%20selfishness%2C%20and%20says%3A%20%E2%80%9CI%20don't%20want%20any%20more%20unwanted%20tears%E2%80%9D...%20using%20the%20true%20power%20of%20the%20gemstone%2C%20Ingrid%20enters%20her%20final%20reincarnation.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Houseki%20Shoujo%20Wa%20Namida%20O%20Nagasanai</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-vx951832</loc>
+                <lastmod>2023-11-22T16:53:00.644Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-vx951832.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Dame%20Ijiwaru%20H%20summary%20is%20updating.%20Come%20visit%20MangaNato.com%20sometime%20to%20read%20the%20latest%20chapter%20of%20Dame%20Ijiwaru%20H.%20If%20you%20have%20any%20question%20about%20this%20manga%2C%20Please%20don't%20hesitate%20to%20contact%20us%20or%20translate%20team.%20Hope%20you%20enjoy%20it.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Dame%20Ijiwaru%20H</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-gd983738</loc>
+                <lastmod>2023-11-22T16:53:00.644Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-gd983738.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Like%20in%20the%20famous%20Osamu%20Dazai's%20book%20%22No%20Longer%20Human%22%2F%20%22Disqualified%20From%20Being%20Human%22%20(Ningen%20Shikkaku)%20%2C%20the%20protagonist%20of%20this%20story%20attempts%20a%20double%20suicide%20with%20his%20lover%E2%80%A6%20except%20he%20gets%20hit%20by%20a%20truck%20and%20summoned%20to%20another%20world%20instead.%20Now%20he%20wants%20to%20find%20his%20lover%2C%20so%20he%20can%20commit%20suicide%20with%20her.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Isekai%20Shikkaku</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-on992048</loc>
+                <lastmod>2023-11-22T16:53:00.644Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-on992048.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Archduke%20Rahan%20El%20Kanox%2C%20who%20has%20been%20criticized%20for%20saying%2C%20'It%20must%20be%20a%20demon%20sent%20by%20God%20to%20wreak%20havoc%20on%20this%20world.%20A%20young%20woman%20who%20grew%20up%20beloved%20in%20her%20family%20due%20to%20the%20wounds%20of%20her%20childhood%2C%20one%20day%20receives%20a%20proposal%20from%20the%20fearsome%20Archduke%20Kanox%2C%20whom%20she%20had%20only%20heard%20of%20through%20rumors.%20Despite%20his%20family's%20opposition%2C%20Isel%20decides%20to%20marry%20Archduke%20Kanox%20for%20the%20sake%20of%20the%20family.%20The%20person%20who%20appeared%20before%20her%20was%20a%20kind%20and%20wonderful%20gentleman%20who%20helped%20Isel%20in%20danger%20in%20the%20village.%20Then%20Isel%20could%20not%20understand%20the%20infamy%20of%20the%20many%20who%20followed%20Prince%20Canox.%20'For%20a%20person%20who%20is%20so%20kind%20and%20kind...%20Why%20is%20everyone%20doing%20this%3F'%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Overprotective%20Lady</image:title>
+                </image:image>
+              </url>
+              
+    
+  </urlset>

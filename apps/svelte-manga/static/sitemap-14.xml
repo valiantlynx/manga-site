@@ -1,0 +1,237 @@
+<?xml version='1.0' encoding='utf-8'?>
+  <urlset
+    xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="https://www.w3.org/1999/xhtml"
+    xmlns:news="https://www.google.com/schemas/sitemap-news/0.9"
+    xmlns:image="https://www.google.com/schemas/sitemap-image/1.1"
+    xmlns:video="https://www.google.com/schemas/sitemap-video/1.1">
+    <url>
+      <loc>http://localhost:5173</loc>
+    </url>
+    
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-od991760</loc>
+                <lastmod>2023-11-22T16:53:01.312Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-od991760.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Shirokawa%20Sasane%20(30)%20is%20a%20former%20trading%20company%20employee%20and%20a%20huge%20fan%20of%20Romance%20of%20the%20Three%20Kingdoms.%20One%20day%2C%20after%20losing%20consciousness%20in%20Chinatown%2C%20he%20wakes%20up%20to%20find%20himself%20in%20the%20form%20of%20a%20little%20girl.%20However%2C%20the%20new%20body%20he%20finds%20himself%20in%20isn't%20just%20any%20little%20girl%2C%20but%20the%20granddaughter%20of%20the%20infamous%20tyrannical%20Dong%20Zhuo%2C%20Dong%20Bai.%20In%20order%20to%20avoid%20the%20fate%20of%20being%20executed%20alongside%20Dong%20Zhuo%2C%20Dong%20Bai%20will%20have%20to%20use%20both%20experience%20as%20a%20Japanese%20businessman%20as%20well%20as%20knowledge%20of%20the%20era!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Awakening%20In%20The%20Three%20Kingdoms%20As%20The%20Demon's%20Granddaughter%20~The%20Legend%20Of%20Dong%20Bai~</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-sl952320</loc>
+                <lastmod>2023-11-22T16:53:01.312Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-sl952320.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20D'arc%20-%20Jeanne%20D'arc%20Den%20summary%20is%20updating.%20Come%20visit%20MangaNato.com%20sometime%20to%20read%20the%20latest%20chapter%20of%20D'arc%20-%20Jeanne%20D'arc%20Den.%20If%20you%20have%20any%20question%20about%20this%20manga%2C%20Please%20don't%20hesitate%20to%20contact%20us%20or%20translate%20team.%20Hope%20you%20enjoy%20it.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>D'arc%20-%20Jeanne%20D'arc%20Den</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-go983471</loc>
+                <lastmod>2023-11-22T16:53:01.312Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-go983471.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Suddenly%20appearing%20in%20a%20different%20world%2C%20it%20looks%20like%20I%20got%20caught%20up%20in%20a%20Hero%20Summoning.%20And%20of%20course%2C%20I%E2%80%99m%20not%20the%20Hero%2C%20but%20it%E2%80%99s%20another%20guy%E2%80%A6%E2%80%A6and%20while%20being%20very%20cautious%20and%20scared%20of%20the%20cliche%20of%20the%20cliche-like%20development%2C%20I%20was%20thrown%20into%20the%20maelstrom%20of%20war%E2%80%A6%E2%80%A6or%20not.The%20Demon%20Lord%3F%20It%20was%20defeated%20a%20thousand%20years%20ago.%20Hero%3F%20He%E2%80%99s%20just%20the%20main%20actor%20in%20a%20festival.%20Nobles%3F%20They%E2%80%99re%20kindly%20taking%20care%20of%20us.%20The%20Demon%20Race%3F%20They%20have%20good%20relationships%20with%20Humans.%20Wars%3F%20It%E2%80%99s%20already%20800%20years%20since%20the%20last%20one.%20Monsters%3F%20The%20Guild%20and%20Order%20of%20Knight%20are%20taking%20care%20of%20them.%20Return%20to%20Earth%3F%20It%20is%20eventually%20No-Risk.What%20I%E2%80%99m%20planning%20after%20being%20caught%20up%20into%20this%3F%20I%E2%80%99m%20gonna%20enjoy%20the%20life%20in%20a%20different%20world%20as%20much%20as%20I%20want%20to%2C%20go%20on%20a%20cultural%20exchange%20and%20sightseeing%2C%20and%20after%20experiencing%20the%20festival%20that%20is%20only%20held%20once%20every%20ten%20years%E2%80%A6%20I%20shall%20go%20home%20safely.The%20other%20world%20was%20at%20Peace.A%20kind%20world%20where%20the%20three%20races%2C%20the%20Spirit%20World%E2%80%99s%20Magical%20Races%2C%20the%20Celestial%20World%E2%80%99s%20Divine%20Races%2C%20the%20Human%20World%E2%80%99s%20Human%20Races%2C%20they%20are%20kind%20neighbors%20to%20each%20other%2C%20with%20everyone%20living%20a%20peaceful%20and%20fulfilling%20life.But%20although%20I%20wished%20to%20peacefully%20spend%20a%20year%20before%20my%20return%2C%20for%20some%20reason%2C%20the%20heavyweights%20of%20this%20world%20keeps%20gathering%20around%20me%2C%20and%E2%80%A6%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>I%20Was%20Caught%20Up%20In%20A%20Hero%20Summoning%2C%20But%20That%20World%20Is%20At%20Peace</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-gh983716</loc>
+                <lastmod>2023-11-22T16:53:01.312Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-gh983716.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20As%20our%20humble%20corporatist%20Itonami%20Norio%20is%20suddenly%20summoned%20to%20another%20world%2C%20it%20would%20look%20as%20if%20he'll%20be%20sent%20to%20a%20battlefield--%20he%2C%20however%2C%20holds%20no%20skill%20to%20speak%20of%2C%20and%20as%20he%20is%20deemed%20to%20be%20useless.%20He%20negotiates%20with%20The%20King%20and%20receives%20a%20plot%20of%20land%20--%20an%20empty%2C%20deserted%20plot%20of%20land%2C%20with%20no%20inhabitant%20in%20sight.%20Norio%20holds%20something%20he%20couldn't%20bring%20himself%20to%20tell%20anyone%3A%20The%20Master%20of%20Supremacy%2C%20a%20gift%20which%20will%20grant%20him%20the%20most%20comfortable%20of%20lives%20in%20this%20world.%20Hereby%20begins%20the%20Norio's%20colorful%20story%20--%20having%20a%20mermaid%20he%20fishes%20declare%20herself%20his%20wife%2C%20becoming%20neighbors%20with%20the%20Undead%20King%2C%20this%20is%20his%20busy%20but%20enjoyable%20life%20--%20and%20now%20a%20dragon%20appears%20%3F!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Let's%20Buy%20The%20Land%20And%20Cultivate%20In%20Different%20World</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-vc998585</loc>
+                <lastmod>2023-11-22T16:53:01.312Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-vc998585.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20**Warning%3A**%20This%20Spinoff%20manga%20has%20spoilers%20from%20the%20Light%20Novel.After%20successfully%20completing%20the%20Founding%20Festival%2C%20which%20includes%20meetings%20with%20the%20leaders%20of%20various%20countries%2C%20a%20martial%20arts%20tournament%2C%20technology%20presentations%2C%20and%20the%20unveiling%20of%20the%20underground%20labyrinth%2C%20the%20peaceful%20daily%20life%20in%20Tempest%20has%20returned.%20Then%2C%20Veldora%20begins%20to%20say%2C%20%22I'm%20also%20thinking%20of%20developing%20magic%20beasts%22%2C%20and%20the%20three%20of%20them%2C%20including%20Rimuru%20and%20Hinata%2C%20who%20are%20interested%20in%20developing%20new%20magic%2C%20head%20for%20the%20Magic%20Tower%2C%20the%20sacred%20place%20of%20magic...%3FThis%20work%20is%20based%20on%20the%20Light%20Novel%2C%20and%20the%20timeline%20is%20from%20the%20end%20of%20Volume%209%20to%20the%20beginning%20of%20Volume%2010.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Tensei%20Shitara%20Slime%20Datta%20Ken%3A%20Bangaihen%20-%20Toaru%20Kyuuka%20No%20Sugoshikata</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-ri995291</loc>
+                <lastmod>2023-11-22T16:53:01.312Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-ri995291.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20More%20than%20ten%20years%20have%20passed%20since%20a%20means%20of%20transporting%20individuals%20from%20Earth%20to%20another%20world%20was%20developed.%20High%20school%20student%20Kakeru%20Satomi%20was%20taught%20survival%20techniques%20and%20wisdom%20by%20his%20mountain-dwelling%20grandfather.%20Kakeru%20was%20sent%20to%20another%20world%20together%20with%20100%20other%20adventurers%20of%20the%20same%20age%20in%20order%20to%20take%20part%20in%20a%20training%20program%20to%20become%20an%20adventurer%2C%20but%20the%20portal%20device%20that%20linked%20Earth%20and%20the%20other%20world%20vanished%20right%20after%20their%20transfer...!With%20the%20way%20back%20to%20Earth%20blocked%2C%20thus%20began%20a%20dangerous%20life%20of%20survival%20on%20an%20uninhabited%20island%20in%20another%20world!!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Easy%20Survival%20In%20Another%20World</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-pd993112</loc>
+                <lastmod>2023-11-22T16:53:01.312Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-pd993112.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20I%20transmigrated%20into%20a%20novel%20and%20became%20an%20aide%20to%20the%20final%20boss%20of%20the%20story.The%20final%20boss%20dies%20in%20the%20novel%2C%20but%20only%20after%20the%20world%20falls%20to%20ruin.What%20if%20the%20final%20boss%20doesn't%20go%20down%20the%20wrong%20path%3FI%20have%20no%20choice%20but%20to%20try%20to%20redeem%20the%20soon-to-be%20final%20boss%20before%20it's%20too%20late!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>The%20Duke%E2%80%99S%20Redemption</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-fd982360</loc>
+                <lastmod>2023-11-22T16:53:01.312Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-fd982360.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20A%2019-year-old%20girl%20named%20Qing%20Tian%20was%20suddenly%20transported%20in%20time%20to%20an%20unknown%20dynasty.%20At%20first%2C%20she%20thought%20she%20could%20slowly%20enter%20the%20battles%20of%20the%20harem%2C%20but%20she%E2%80%99s%20surprised%20to%20find%20out%20that%20she's%20actually%20the%20Queen!%20How%20did%20this%20messy%20story%20come%20to%20be%3F%3F%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>The%20Queen%20Is%20Busy</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-vy998981</loc>
+                <lastmod>2023-11-22T16:53:01.312Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-vy998981.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Digimon%202023%20Oneshot%20Contest%20summary%20is%20updating.%20Come%20visit%20MangaNato.com%20sometime%20to%20read%20the%20latest%20chapter%20of%20Digimon%202023%20Oneshot%20Contest.%20If%20you%20have%20any%20question%20about%20this%20manga%2C%20Please%20don't%20hesitate%20to%20contact%20us%20or%20translate%20team.%20Hope%20you%20enjoy%20it.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Digimon%202023%20Oneshot%20Contest</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-ng991315</loc>
+                <lastmod>2023-11-22T16:53:01.312Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-ng991315.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20He%20stepped%20into%20Li%20Jing%E2%80%99s%20mansion%20as%20a%20poor%20man%20and%20became%20the%20son-in-law%20of%20Li%E2%80%99s%20mansion.%20After%2015%20years%2C%20I%20finally%20got%20to%20the%20day%20when%20the%20system%20was%20activated%2C%20and%20the%20Wu%20shen%20chat%20group%20was%20launched~%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Martial%20God%20Chat%20Group</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-lj989266</loc>
+                <lastmod>2023-11-22T16:53:01.312Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-lj989266.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Transmigrating%20as%20the%20villainess%20of%20a%20clich%C3%A9%20imperial%20manhua%20isn't%20scary%2C%20what's%20scary%20is%20that%20the%20male%20leads%20are%20all%20children!%20Not%20only%20do%20I%20have%20to%20take%20care%20of%20children%2C%20but%20I'm%20also%20being%20courted%20by%20one%20of%20them%20and%20being%20called%20%22wife%22!%20Ms.%20Hong%20would%20like%20to%20say%3A%20%22Fuck%20you%2C%20god!%22%20%E5%87%B8(%EF%BD%80%E2%8C%92%C2%B4%E3%83%A1)%E5%87%B8%E6%81%B6%E5%A5%B3%E6%8B%92%E7%BB%9D%E6%B3%A1%E7%94%B7%E4%B8%BB%20%2F%20The%20Villainess%20Refuses%20to%20Court%20the%20Male%20Lead%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>The%20Villainess%20Refuses%20To%20Flirt%20With%20The%20Male%20Lead</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-lv989156</loc>
+                <lastmod>2023-11-22T16:53:01.312Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-lv989156.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Zhou%20Ming%2C%20an%20ordinary%20office%20worker%2C%20has%20a%20rough%20life%2C%20aside%20from%20being%20oppressed%20by%20his%20higher%20%E2%80%93%20ups%2C%20he%20also%20is%20poor.%20But%20due%20to%20this%20unexpected%20opportunity%2C%20Zhou%20Yuan%20gained%20a%20system.%20And%20now%2C%20his%20life%20takes%20a%20complete%20360%C2%B0%20turn.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>In%20A%20Post%20%E2%80%93%20Apocalyptic%20World%2C%20I%E2%80%99Ll%20Become%20The%20Richest%20Man%20Ever!</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-eh982216</loc>
+                <lastmod>2023-11-22T16:53:01.312Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-eh982216.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Wu%20Sheyue%20is%20a%20cosmetic%20specialist%2Fassassin.%20One%20day%2C%20her%20organization%20decides%20to%20kill%20her.%20Though%20she%20was%20stabbed%20by%20a%20knife%2C%20she%20didn%E2%80%99t%20die%2C%20and%20instead%20traveled%20back%20to%20the%20past%2C%20into%20body%20of%20a%20%E2%80%9Ccrazy%E2%80%9D%20girl.%20There%2C%20she%20uses%20her%20wits%20and%20skills%20to%20become%20the%20Empress.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>The%20Empress'%20Poor-Quality%20Special%20Effects</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-gp983472</loc>
+                <lastmod>2023-11-22T16:53:01.312Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-gp983472.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20As%20she%20was%20busy%20bullying%20the%20honour%20student%20with%20the%20power%20of%20light%20magic%2C%20Maria%20Campbell%2C%20along%20with%20her%20friends%2C%20the%20fifteen-year-old%20daughter%20of%20a%20Duke%20Katarina%20Claes%20suddenly%20hit%20her%20head%20and%20remembered%20her%20previous%20life.Thanks%20to%20those%20memories%2C%20Katarina%20realized%20that%20she%20was%20actually%20the%20villainess%20of%20an%20otome%20game%20that%20she%20had%20played%20in%20her%20previous%20life%2C%20with%20a%20struggle%20to%20avoid%20the%20destruction%20flags%20that%20would%20lead%20to%20her%20doom%20awaiting%20her...Except%2C%20there's%20not%20even%20a%20year%20left%20before%20her%20destruction%20end!%3F%20The%20story%20of%20Katarina%2C%20who%20is%20on%20the%20verge%20of%20her%20demise%2C%20begins%20now...!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>I%20Reincarnated%20Into%20An%20Otome%20Game%20As%20A%20Villainess%20With%20Only%20Destruction%20Flags...%20In%20A%20Dire%20Situation!%3F%20Verge%20Of%20Destruction%20Arc</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-pc992485</loc>
+                <lastmod>2023-11-22T16:53:01.312Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-pc992485.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Having%20lived%20a%20useless%2030%20years%20of%20his%20life%2C%20the%20main%20character%20(Saito%20Jinkuro)%20is%20hit%20by%20a%20truck.%20When%20he%20wakes%20up%2C%20he%20enters%20the%20body%20of%20%22Dzink%20Norland%22%2C%20the%2014-year-old%20son%20of%20an%20aristocrat%20who%20served%20as%20his%20Highness'%20escort.%20But%20due%20to%20the%20lack%20of%20skills%20with%20a%20spear%2C%20which%20were%20inherent%20in%20all%20members%20of%20his%20family%2C%20and%20terrible%20behavior%2C%20he%20was%20kicked%20out%20of%20the%20guard%20post%2C%20and%20then%20completely%20deported%20from%20the%20country...%20In%20addition%20to%20these%20problems%2C%20a%20window%20pops%20up%20before%20the%20eyes%20of%20the%20protagonist%20with%20information%20about%20%22Elsa%22%2C%20his%20nanny.%20Another%20world%2C%20deportation%20from%20the%20country%20and%20windows%20like%20in%20video%20games%3F%20What%20will%20the%20main%20character%20do%3F(https%3A%2F%2Fncode.syosetu.com%2Fn9677fw%2F)%20(jp)%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Ochikobore%20Kuni%20O%20Deru%20~%20Jitsuwa%20Sekai%20De%204%20Hitome%20No%20Fuyo-Jutsu-Shidatta%20Kudan%20Ni%20Tsuite%20~</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-qn994170</loc>
+                <lastmod>2023-11-22T16:53:01.312Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-qn994170.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Crow%2C%20the%20loyal%20butler%20of%20a%20villainess%2C%20realizes%20through%20a%20series%20of%20chance%20events%20that%20he%20has%20in%20fact%20been%20reincarnated%20into%20another%20world.With%20a%20new%20perspective%20on%20life%2C%20he%20realizes%20just%20how%20badly%20he's%20been%20treated%20by%20this%20haughty%2C%20egotistical%20and%20prideful%20noble%20lady%20he%20calls%20his%20mistress%20until%20now%2C%20and%20boils%20with%20rage%20at%20the%20injustice.However%2C%20after%20deciding%20to%20take%20revenge%20on%20her%20in%20a%20risque%20way%2C%20he%20comes%20to%20realize%20that%20she's%20a%20lot%20easier%20than%20she%20looks...This%20is%20a%20story%20of%20how%20a%20reincarnated%20butler%20tames%20his%20villainous%20mistress%20in%20lustful%20ways%2C%20but%20ends%20up%20making%20her%20truly%20happy.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Listen%20To%20My%20Lady's%20Story%20%E2%80%95Villainess%20Conquest%20Record%E2%80%95</image:title>
+                </image:image>
+              </url>
+              
+    
+  </urlset>

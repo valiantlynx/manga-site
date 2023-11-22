@@ -1,0 +1,237 @@
+<?xml version='1.0' encoding='utf-8'?>
+  <urlset
+    xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="https://www.w3.org/1999/xhtml"
+    xmlns:news="https://www.google.com/schemas/sitemap-news/0.9"
+    xmlns:image="https://www.google.com/schemas/sitemap-image/1.1"
+    xmlns:video="https://www.google.com/schemas/sitemap-video/1.1">
+    <url>
+      <loc>http://localhost:5173</loc>
+    </url>
+    
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-vo999197</loc>
+                <lastmod>2023-11-22T16:53:00.164Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-vo999197.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20I've%20reincarnated%20in%20the%20world%20of%20fiction%2C%20where%20characters%20are%20decapitated%20at%20the%20hands%20of%20villains.I%20read%20the%20famous%20gothic%20novels%20to%20cure%20my%20timidity%20and%20build%20my%20courage!%20Before%20the%20real%20story%20can%20begin%2C%20I%20have%20to%20get%20away%20from%20the%20dreaded%20capital%20society.%20So%20I%20married%20a%20poor%20baron%20in%20the%20countryside...%22Don't%20make%20me%20pay%20your%20bills.%20Do%20you%20understand%3F%22This%20man%2C%20who%20shows%20up%20at%20the%20wedding%20covered%20in%20blood%2C%20must%20be%20the%20dreaded%20villain%20who%20kills%20everyone!%20Did%20I%2C%20in%20an%20attempt%20to%20avoid%20being%20a%20villain%2C%20marry%20a%20man%20who%20would%20be%20a%20villain%3F%20I'm%20definitely%20screwed.%20I%20must%20have%20married%20the%20wrong%20person!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>I've%20Probably%20Made%20A%20Mistake%20In%20Getting%20Married</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-rx995032</loc>
+                <lastmod>2023-11-22T16:53:00.164Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-rx995032.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20An%20ordinary%20salesman%20transmigrated%20to%20a%20Xianxia%20world%20and%20is%20known%20as%20the%20good-looking%20Lu%20Changsheng.%20Due%20to%20his%20godly%20looks%2C%20people%20think%20he's%20a%20genius%2C%20but%20he%20actually%20has%20mediocre%20talent.%20His%20master%20wants%20him%20to%20be%20Elder%20Senior%20Brother%2C%20but%20will%20he%20be%20able%20to%20pull%20it%20off%20with%20just%20looks%3F%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>A%20Mediocre%20Senior%20Brother</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-tg996515</loc>
+                <lastmod>2023-11-22T16:53:00.164Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-tg996515.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Ryuuou%20Heika%20no%20Gekirin-sama%20~Hon%20Suki%20Nezumi%20Himedesuga%20Naze%20ka%20Ryuuou%20no%20Saiai%20ni%20Narimashita%20manga%2C%20Princess%20Ruiying%20of%20the%20Rat%20Clan%2C%20the%20weakest%20of%20the%20thirteen%20animal%20clans%2C%20was%20summoned%20to%20the%20palace%20of%20the%20Dragon%20Clan%2C%20as%20the%20Dragon%20King%20sought%20a%20bride.%20But%20instead%20of%20competing%20with%20the%20other%20princesses%2C%20her%20goal%20is%20to%20check%20out%20the%20dragon%20palace's%20library%2C%20the%20largest%20in%20the%20world.%20Seven%20days%20after%20arriving%2C%20Ruying%20was%20reading%20alone%20in%20the%20library%20when%20she%20was%20caught%20by%20a%20handsome%20man%20of%20the%20Dragon%20Clan.%20He%20suddenly%20kisses%20her%20and%20says%2C%20%22I've%20finally%20found%20you%2C%22%20and%20her%20future%20is%20about%20to%20change%20forever.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Ryuuou%20Heika%20No%20Gekirin-Sama%20~Hon%20Suki%20Nezumi%20Himedesuga%2C%20Naze%20Ka%20Ryuuou%20No%20Saiai%20Ni%20Narimashita~</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-pe992839</loc>
+                <lastmod>2023-11-22T16:53:00.164Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-pe992839.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20I%20was%20reborn%20as%20a%20web%20novel%20character%20and%20found%20out%20that%20I%20was%20destined%20to%20be%20assassinated%20by%20my%20rivals!%20My%20name%20is%20Moyong%20Ah-rin%2C%20a%20girl%20who%20just%20lost%20her%20parents%20and%20joined%20the%20Moyong%20sect%2C%20one%20of%20the%20strongest%20groups%20in%20Murim.%20To%20avoid%20the%20inevitable%2C%20I%20disguised%20myself%20as%20a%20boy%20and%20changed%20my%20name%20to%20Moyong%20Ah-hyun.%20But%20there's%20one%20problem%2C%20my%20brother-in-arms%20and%20distant%20relative%2C%20Moyong%20Chun%2C%20is%20taking%20an%20interest%20in%20me%20Stop%20obsessing%20over%20me%2C%20Brother%20Chun!%20If%20you%20love%20me%2C%20my%20fate%20won't%20change!%20%2C%20I'm%20Actually%20a%20Womanmangabuddy%20is%20a%20website%20dedicated%20to%20fans%20of%20anime%2C%20%2C%20%2C%20%2C%20video%20games%2C%20and%20cosplay.%20Where%20you%20may%20find%20all%20of%20your%20anime-related%20memes%2C%20recommendations%2C%20reviews%2C%20manga%20recommendations%2C%20character%20fanfiction%2C%20favorite%20quotations%2C%20and%20simply%20those%20ordinary%20anime%20things%20that%20you%20enjoy%2C%20particularly%20memes.You%20can%20%2C%20online%20for%20free%20at%20mangabuddy.%20Chapters%20are%20updated%20hourly%20with%20high-quality%20graphics%20and%20a%20full%20English%20translation.%20Find%20free%20translations%20of%20your%20favorite%20%2C%20and%20.%20The%20latest%20updated%20content%20on%20mangabuddy%20is%20now%20available.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Love%20And%20Blade%3A%20Girl%20In%20Peril</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-jj951366</loc>
+                <lastmod>2023-11-22T16:53:00.164Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-jj951366.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20From%20TokyoPop%20(based%20on%20volume%201)%3AThe%20World%20at%20the%20Brink%20of%20Self-AnnihilationThe%20nuclear%20age%20has%20brought%20with%20it%20the%20arms%20race%2C%20which%20has%20led%20to%20the%20advent%20of%20weapons%20powerful%20enough%20to%20destroy%20the%20world%20itself%20several%20times%20over.%20Unwilling%20to%20take%20the%20plunge%20into%20Armageddon%2C%20the%20world%20powers%2C%20in%20league%20with%20a%20group%20known%20only%20as%20the%20Black%20Ghost%2C%20have%20developed%20super%20soldiers%20known%20as%20the%20Cyborgs%2C%20designed%20to%20fight%20the%20wars%20of%20the%20world%20in%20space.%20Unfortunately%2C%20the%20Black%20Ghost%20didn't%20ask%20the%20Cyborgs%20how%20they%20felt%20about%20their%20role%20in%20the%20new%20world%20order.This%20classic%20work%20from%20manga%20legend%20Shotaro%20Ishinomori%20(Masked%20Rider)%20not%20only%20told%20a%20thrilling%20tale%20set%20against%20a%20backdrop%20of%20Cold%20War%20tensions%2C%20but%20it%20also%20helped%20define%20the%20genre%20of%20super%20team%20stories%20such%20as%20Battle%20of%20the%20Planets%2C%20Voltron%2C%20and%20The%20Power%20Rangers.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Cyborg%20009</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-pz993282</loc>
+                <lastmod>2023-11-22T16:53:00.164Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-pz993282.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Maeve%2C%20a%20succubus-in-training%2C%20is%20sent%20to%20the%20human%20world%20by%20her%20mentor%2C%20Veril%2C%20to%20learn%20how%20to%20blend%20in%20and%20hone%20her%20skills%20of%20seduction.%20However%2C%20things%20get%20a%20little%20complicated%20after%20she%20meets%20Aiden%2C%20a%20smart%2C%20but%20unmotivated%20student%20at%20her%20new%20high%20school.%20Unfortunately%20for%20her%2C%20Sylne%2C%20the%20head%20succubus%20of%20the%20Demon%20World%20has%20sent%20a%20spy%20to%20catch%20any%20missteps%20her%20former%20protege.%20Between%20Aiden's%20witchy%20girlfriend%2C%20his%20nutty%20best%20friend%2C%20biology%20class%2C%20and%20Demon%20World%20conspiracies%2C%20Maeve%20is%20going%20to%20be%20lucky%20to%20make%20it%20out%20of%20high%20school%20alive!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Mark%20Of%20The%20Succubus</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-um997895</loc>
+                <lastmod>2023-11-22T16:53:00.164Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-um997895.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20The%20eternally%20young%20and%20immortal%20transmigrator%20Lin%20Ze%20summoned%20the%20tentacled%20eldritch%20god%20as%20a%20wife%20for%20companionship%20throughout%20an%20endless%20life..%20but%20will%20how%20their%20own%20motives%20impact%20this%20supposed%20life%20of%20serendipity%3F%2CBlo%20Bs%20De%20W%20Qle%20G%20Xishn%20Lop%2CI%20Who%20Has%20Perennial%20Youth%20and%20Can't%20Die%2C%20Married%20the%20Evil%20God%20Wifemangabuddy%20is%20a%20website%20dedicated%20to%20fans%20of%20anime%2C%20%2C%20%2C%20%2C%20video%20games%2C%20and%20cosplay.%20Where%20you%20may%20find%20all%20of%20your%20anime-related%20memes%2C%20recommendations%2C%20reviews%2C%20manga%20recommendations%2C%20character%20fanfiction%2C%20favorite%20quotations%2C%20and%20simply%20those%20ordinary%20anime%20things%20that%20you%20enjoy%2C%20particularly%20memes.You%20can%20%2C%20online%20for%20free%20at%20mangabuddy.%20Chapters%20are%20updated%20hourly%20with%20high-quality%20graphics%20and%20a%20full%20English%20translation.%20Find%20free%20translations%20of%20your%20favorite%20%2C%20and%20.%20The%20latest%20updated%20content%20on%20mangabuddy%20is%20now%20available.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Immortal%20Me%20And%20Eldritch%20Wife</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-ma990335</loc>
+                <lastmod>2023-11-22T16:53:00.164Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-ma990335.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20I%20treated%20you%20like%20a%20brother%2C%20but%20you%20treated%20me%20like%20a%20love%20rival!%20You%20stole%20every%20girlfriend%20I%20ever%20had!%20I%20just%20wanted%20to%20get%20married%20and%20have%20a%20baby%2C%20why%20is%20that%20so%20difficult%3F!%20A%20black-hearted%20white%20lotus%20vs.%20straight%20guy.%20A%20wild%20omegaverse%20fantasy%2C%20that's%20both%20sweet%20and%20seductive~~%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Sorry%20My%20Husband%2C%20I%20Just%20See%20You%20As%20My%20Brother.</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-qd994086</loc>
+                <lastmod>2023-11-22T16:53:00.164Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-qd994086.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20The%20Rotten%20Lady%20Rosa%20Wants%20to%20Watch%20Over%20Love%20from%20the%20Shadows%20manga%2C%20%2C%20kifunin'%20rozawa%20kagekara%20aio%20mimamoritaiThe%20daughter%20of%20the%20Earl%2C%20Rosa%2C%20was%20known%20for%20her%20beauty%20and%20compassion.%20But%20in%20reality%2C%20she%20was%20a%20rotten%20lady%20who%20pursued%20her%20moe'%20by%20making%20delusions%20of%20rose%20love'%2C%20the%20romance%20between%20men.Her%20dream%20was%20to%20become%20a%20nun%20and%20write%20down%20a%20bible'%2C%20spreading%20the%20rose%20love%20throughout%20the%20continent.As%20the%20preparation%20of%20entering%20the%20priesthood%2C%20she%20donated%20to%20the%20monastery%20(as%20a%20bribe)%2C%20strived%20to%20improve%20literacy%20(to%20prepare%20for%20her%20missionary%20work)%2C%20and%20made%20humus%20for%20her%20territory%20(as%20the%20symbol%20of%20rottenness).%20One%20day%2C%20she%20met%20her%20half-brother%2C%20Bernard%2C%20a%20fourteen%20years%20old%20boy.Concluding%20that%20Bernard%20was%20the%20ideal%20uke'%2C%20a%20talented%20person%20that%20only%20appeared%20once%20every%20a%20thousand%20years%2C%20Rose%20devoted%20herself%20to%20Bell-tan's%20Harem%20Plan'.%20However%2C%20her%20rotten%20behavior%20was%20mistaken%20for%20noble%20deeds.%20The%20princes%2C%20princesses%2C%20and%20even%20the%20foreign%20princes%20started%20to%20get%20involved%2C%20and%20she%20began%20to%20spread%20her%20influence%20all%20over%20the%20country%3FThis%20was%20the%20story%20of%20Rosa%20von%20Langheim%2C%20nicknamed%20the%20%22Rose%20Angel%22%20as%20the%20symbol%20of%20her%20nobility%20and%20charity%2C%20who%20was%20the%20most%20rotten%20lady%20of%20all.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>The%20Rotten%20Lady%20Rosa%20Wants%20To%20Watch%20Over%20Love%20From%20The%20Shadows</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-tj996366</loc>
+                <lastmod>2023-11-22T16:53:00.164Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-tj996366.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Slow%20paced%20isekai%20where%20a%20male%20doctor%20was%20sent%20to%20a%20fantasy%20world%20as%20a%20little%20girl.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>The%20Little%20Healer</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-rp994924</loc>
+                <lastmod>2023-11-22T16:53:00.164Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-rp994924.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%22Ding!%20There%20are%20still%20ten%20years%20left%20before%20the%20recovery%20of%20the%20monsters!%22%20Su%20Yang%20listened%20to%20the%20voice%20in%20his%20ear%20with%20a%20very%20serious%20expression.%20He%20knew%20that%20there%20were%20only%20ten%20years%20left%20before%20the%20monsters%20invaded%2C%20but%20now%2C%20the%20whole%20world%20is%20full%20of%20ordinary%20people.%20There%20is%20no%20power%20to%20bind%20chickens.%20Ten%20years%20later%2C%20human%20beings%20can't%20prevent%20the%20recovery%20of%20demons%20at%20all.%20Fortunately%2C%20he%20awakened%20the%20system%3A%20%22Popularize%20the%20method%20of%20cultivating%20immortals%20to%20the%20whole%20world!%22%20He%20opened%20a%20small%20shop%20where%20he%20sold%20various%20methods%20of%20cultivating%20immortals.%20%22Tathagata%20God's%20Palm%22%2C%20%22Prajna%20Divine%20Art%22%2C%20%22Red%20Dust%20Sword%20Jue%22...%20The%20store%20also%20sells%20various%20elixir%20and%20elixir%2C%20'Building%20Foundation%20Pill'%2C%20'Longevity%20Pill'%2C%20'Sura%20Pill'...%20The%20store%20also%20sells%20countless%20engraved%20formations%2C%20'Big%20Zhou%20Tianzhen'%2C%20'Little%20Star%20Douzhen'%2C%20'Eighteen%20Arhats'...%20But%20the%20point%20is%2C%20there%20are%20no%20customers%20in%20his%20shop!%20!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>I%20Spread%20Immortality%20All%20Over%20The%20World</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-tk996645</loc>
+                <lastmod>2023-11-22T16:53:00.164Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-tk996645.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Jin%20reincarnates%20into%20the%20most%20hated%20and%20worst%20character%20in%20the%20game%20he%20played%20before%20he%20died.%20If%20the%20same%20scenario%20is%20followed%2C%20he%20will%20fall%20into%20darkness%20after%20three%20years...%20In%20an%20attempt%20to%20avoid%20such%20a%20fate%2C%20Jin%20begins%20a%20life%20as%20an%20adventurer%E2%80%94%3F%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>I%20Was%20Reincarnated%20As%20The%20Lowest%20Character%2C%20And%20I%20Want%20To%20Survive</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-ue998161</loc>
+                <lastmod>2023-11-22T16:53:00.164Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-ue998161.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20When%20Daisy%20wakes%20up%20in%20the%20novel%20In%20Love%20With%20a%20Monster%20Prince%20as%20the%20daughter%20of%20the%20witch%20who%20torments%20the%20male%20lead%2C%20Dionel%2C%20she%20must%20do%20whatever%20she%20can%20to%20prevent%20Dionel%20from%20killing%20her%20alongside%20her%20foster%20mother%20when%20he%20comes%20to%20seek%20vengeance%20in%20the%20future.%2013%20years%20pass%2C%20and%20Daisy%20is%20confident%20that%20she%20has%20achieved%20this%20goal%20until%20she%20realizes%20the%20original%20story%20has%20changed.%20Where%20is%20the%20female%20lead%20who's%20supposed%20to%20lift%20Dionel's%20curse%20with%20a%20kiss%3F%20And%20why%20is%20Dionel%20under%20the%20impression%20that%20Daisy%20abandoned%20him%3F%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>When%20The%20Witch%E2%80%99S%20Daughter%20Lifts%20The%20Male%20Lead%E2%80%99S%20Curse</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-gc983811</loc>
+                <lastmod>2023-11-22T16:53:00.164Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-gc983811.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20The%20previous%20life%20was%20a%20peerless%20genius%20in%20the%20world%20of%20immortality.%20He%20was%20killed%20by%203%20celestial%20beings.%20He%20was%20accidentally%20reborn%20to%20his%2020s%20by%20the%20book%20of%20heaven.%20All%20he%20wanted%20to%20do%20was%20to%20become%20an%20immortal%20and%20return%20to%20the%20immortal%20world%2C%20and%20he%20became%20the%20strongest%20man%20on%20the%20earth%2C%20turning%20his%20hands%20into%20clouds%20and%20covering%20his%20hands%20with%20rain%2C%20provoking%20anyone%20who%20defies%20him!%20He%20is%20the%20venerable%20one!%20The%20ruler%20of%203000%20worlds!%20The%20guy%20who%20is%2010%20000%20times%20better%20than%20Thanos!%20He%20is%20Taixuan%20Taizun!%20The%20Great%20Immortal!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>I'm%20The%20Great%20Immortal</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-uc998111</loc>
+                <lastmod>2023-11-22T16:53:00.164Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-uc998111.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20After%20opening%20the%20last%20route%20of%20a%20certain%20FPS%20game%2C%20the%20protagonist%20jumps%20for%20joy%2C%20slips%20and%20dies.%20However%2C%20due%20to%20God%20(a%20game%20lover)%20feeling%20sorry%20for%20him%2C%20he%20decides%20to%20continue%20his%20life%20in%20a%20different%20world%20as%20the%20boy%20Wayne%20(although%20he%20seems%20to%20have%20no%20memory%20of%20his%20previous%20life).%20Life%20at%20military%20school%20in%20a%20world%20where%20magic%20and%20adventure%20are%20commonplace%2C%20and%20meeting%20heroines%20who%20truly%20love%20him.%20This%20is%20the%20second%20life%20of%20a%20gamer%20down%20the%20harem%20route!%3F%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Gamer%20Ga%20Isekai%20Konten%20Shite%20Harem%20Jinsei%20E%20Continue%20Suru%20Sou%20Desu%20The%20Comic</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-ol991746</loc>
+                <lastmod>2023-11-22T16:53:00.164Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-ol991746.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Awakening%20in%20the%20Three%20Kingdoms%20as%20the%20Demon's%20Daughter%20~The%20Legend%20of%20Dong%20Bai%20manga%2C%20Maou%20Reijou%20kara%20Hajimeru%20Sangokushi%20~Touhaku%20Den%2C%20Shirokawa%20Sasane%20(30)%20is%20a%20former%20trading%20company%20employee%20and%20a%20huge%20fan%20of%20Romance%20of%20the%20Three%20Kingdoms.%20One%20day%2C%20after%20losing%20consciousness%20in%20Chinatown%2C%20he%20wakes%20up%20to%20find%20himself%20in%20the%20form%20of%20a%20little%20girl.%20However%2C%20the%20new%20body%20he%20finds%20himself%20in%20isn't%20just%20any%20little%20girl%2C%20but%20the%20granddaughter%20of%20the%20infamous%20tyrannical%20Dong%20Zhuo%2C%20Dong%20Bai.%20In%20order%20to%20avoid%20the%20fate%20of%20being%20executed%20alongside%20Dong%20Zhuo%2C%20Dong%20Bai%20will%20have%20to%20use%20both%20experience%20as%20a%20Japanese%20businessman%20as%20well%20as%20knowledge%20of%20the%20era!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Awakening%20In%20The%20Three%20Kingdoms%20As%20The%20Demon%E2%80%99S%20Daughter%20~The%20Legend%20Of%20Dong%20Bai~</image:title>
+                </image:image>
+              </url>
+              
+    
+  </urlset>

@@ -1,0 +1,237 @@
+<?xml version='1.0' encoding='utf-8'?>
+  <urlset
+    xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="https://www.w3.org/1999/xhtml"
+    xmlns:news="https://www.google.com/schemas/sitemap-news/0.9"
+    xmlns:image="https://www.google.com/schemas/sitemap-image/1.1"
+    xmlns:video="https://www.google.com/schemas/sitemap-video/1.1">
+    <url>
+      <loc>http://localhost:5173</loc>
+    </url>
+    
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-nd991338</loc>
+                <lastmod>2023-11-22T16:53:03.133Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-nd991338.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20I%20remember%20the%20memory%20of%20my%20previous%20life%20when%20I%20was%20abused%20by%20my%20father%20for%20the%20experiment.%20Then%20I%20realized.%20According%20to%20my%20previous%20life%2C%20this%20is%20the%20world%20of%20fantasy%20fiction%20I%E2%80%99ve%20read.%20That%20she%20was%20born%20with%20a%20minor%20role%20and%20died%20before%20the%20novel%20even%20started.%20Ariadne%20thought%20calmly%2C%20%E2%80%98I%20am%20screwed%E2%80%99.She%20was%20also%20screwed%20on%20a%20global%20basis%2C%20this%20novel%20has%20a%20bad%20ending.%20The%20end%20of%20this%2010-volume%20Munchkin%20(overpowered)%20fantasy%20novel%20is%20it%20was%20the%20failure%20of%20the%20protagonist%20and%20the%20destruction%20of%20the%20world.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>It's%20My%20Destiny%20To%20Be%20Hero's%20Savior</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-of991362</loc>
+                <lastmod>2023-11-22T16:53:03.133Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-of991362.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20I%20entered%20my%20favorite%20romantic%20fantasy%20novel!%20I%20may%20be%20a%20commoner%2C%20but%20I'm%20rich%20beyond%20belief.%20I%20quietly%20watched%20the%20romance%20of%20the%20main%20characters%20in%20the%20original%20novel%2C%20assuming%20I%20would%20go%20back%20to%20reality%20after%20reaching%20the%20novel's%20ending...%20However%2C%20even%20after%20the%20ending%2C%20I%20am%20still%20stuck%20in%20this%20world!%20As%20a%20result%2C%20I%20learned%20the%20behind-the-scenes%20stories%20that%20I%20didn't%20want%20to%20know.%20My%20favorite%20second%20male%20lead%2C%20Kaelus%2C%20died.%20Living%20in%20poverty%20without%20him%2C%20I%20eventually%20became%20ill%20and%20died%20as%20well.%20I%20thought%20I%20would%20return%20to%20reality%2C%20but%20I%20went%20back%20in%20time%20instead.%20This%20is%20definitely...%20This%20means%20I%20have%20to%20save%20my%20beloved%2C%20right%3F---**Notes%3A***%20The%20novel%20of%20this%20series%20was%20originally%20released%20as%20R15%2C%207%20months%20after%20being%20completed%20the%20book%2Febook%20was%20later%20re-released%20as%20R19.%20The%20webtoon%20will%20follow%20how%20the%20novel%20was%20originally%20released%20which%20is%20R15.*%20*For%20My%20Derelict%20Favorite*%20is%20the%20official%20English%20name%20on%20the%20Korean%20novel.---**Original%20Webtoon%3A**%20(https%3A%2F%2Fseries.naver.com%2Fcomic%2Fdetail.series%3FproductNo%3D8423030)%2C%20(https%3A%2F%2Fcomic.naver.com%2Fwebtoon%2Flist%3FtitleId%3D794155)%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>For%20My%20Derelict%20Beloved</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-oc991537</loc>
+                <lastmod>2023-11-22T16:53:03.133Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-oc991537.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20I%E2%80%99ve%20been%20reincarnated%20into%20a%20world%20of%20strategic%20gaming%20where%20I%20acquired%20number%201%20Rank!I%20thought%20I%20would%20be%20reincarnated%20as%20a%20warrior%20in%20a%20gaming%20world%20that%20I%20know%20of%2C%20but%20I%20found%20myself%20to%20be%20a%20rogue%20lord%20who%20dies%20in%20the%20prologue!%20And%20I%20only%20have%20one%20day%20left%20before%20I%20die%20due%20to%20another%20country%E2%80%99s%20invasion..!Use%20all%20your%20wits%2C%20courage%2C%20and%20gaming%20knowledge%20to%20face%20your%20destiny!It%E2%80%99s%20a%20strategic%20fantasy%20where%20you%20risk%20your%20life%20to%20turn%20the%20tables!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>I%E2%80%99Ve%20Become%20A%20Rogue%20Lord%20In%20A%20World%20Where%20Only%20I%20Can%20Level%20Up</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-ow991579</loc>
+                <lastmod>2023-11-22T16:53:03.133Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-ow991579.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Kashumir%20grew%20up%20working%20as%20a%20mercenary%20to%20buy%20medicine%20for%20her%20precious%20younger%20half-sister%2C%20Aria.On%20her%20way%20home%2C%20after%20completing%20a%20mission%20as%20usual%2C%20she%20tripped%20and%20hit%20her%20head%2C%20causing%20her%20to%20remember%20her%20past%20life%3B%20thus%20she%20realized%20she%20had%20been%20reborn%20in%20the%20world%20of%20the%20novel%20*The%20Night%20of%20the%20Fairy*.%20Her%20sister%20was%20the%20main%20character%20of%20this%20reverse-harem%20romance%20while%20she%20was%20one%20of%20the%20villains%20causing%20Aria%20to%20suffer%20hardships.Since%20there%20is%20no%20way%20Kashumir%20would%20let%20her%20precious%20sister%20suffer%2C%20she%20vowed%20to%20protect%20Aria%20until%20her%20adoption%20into%20the%20count's%20family%2C%20just%20like%20in%20the%20novel.But%20things%20turned%20out%20differently%2C%20and%20even%20the%20male%20lead%20candidates%2C%20who%20should've%20been%20fish%20in%20Aria's%20pond%2C%20all%20ended%20up%20becoming%20obsessed%20with%20Kashumir%20instead%2C%20when%20all%20she%20wanted%20was%20to%20protect%20her%20lovely%20sister.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>I%20Was%20Planning%20To%20Become%20A%20Loyal%20Sword</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-lk988993</loc>
+                <lastmod>2023-11-22T16:53:03.133Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-lk988993.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20I've%20become%20the%20empress%20Amelia%20in%20the%20tragic%20novel!I%20thought%20that%20I%20would%20not%20be%20noticed%20by%20the%20male%20protagonist%2C%20my%20uncle%2C%20and%20the%20tyrant%20Tessa%20Illuminas%20even%20by%20mistake.%20But%20why%20is%20Aunt%20Lucinda%2C%20who%20struggled%20to%20raise%20me%20when%20I%20was%20younger%2C%20almost%20like%20an%20angel%3F%22Auntie%2C%20just%20put%20your%20faith%20in%20me!%20I'm%20going%20to%20make%20you%20to%20walk%20down%20a%20flowery%20path!%22%20Ariel%20just%20goes%20to%20the%20imperial%20palace%20for%20her%20auntie's%20sake.%20But%20this%20uncle%20in%20the%20novel%20doesn't%20seem%20to%20be%20like%20in%20the%20novel%20at%20all%3F%20Instead%2C%20it%20seems%20that%20there%20is%20a%20lack%20of%20affection%3F%20%22I%20can't%20help%20myself!%20Ariel%20will%20bring%20joy%20to%20everyone!%22%20Isn't%20it%20true%20that%20nowadays%2C%20children%20can%20engage%20in%20matchmaking%20as%20a%20pastime%3F%20I'll%20give%20it%20a%20shot.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>The%20Matchmaking%20Baby%20Princess</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-sg996089</loc>
+                <lastmod>2023-11-22T16:53:03.133Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-sg996089.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Washing%20up%20on%20the%20shores%20of%20an%20unknown%20land%2C%20Benedict%20Arnold%20is%20plagued%20by%20voices%20detailing%20his%20life%20and%20all%20that%20has%20been%20said%20of%20him%20since%20his%20act%20of%20treason%2C%20true%20or%20otherwise.%20%E2%80%98THE%20ODYSSEY%20OF%20BENEDICT%20ARNOLD%E2%80%99%20is%20an%20ongoing%20adventure%20tale%20following%20the%20infamous%20traitor%2C%20Benedict%20Arnold.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>The%20Odyssey%20Of%20Benedict%20Arnold</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-up998050</loc>
+                <lastmod>2023-11-22T16:53:03.133Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-up998050.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20An%20abandoned%20high%20school%20girl%20becomes%20an%20Oiran%20in%20a%20strange%20world%E2%80%94Esora%2C%20a%20high%20school%20girl%20who%20lost%20her%20place%2C%20found%20herself%20in%20an%20unknown%20red%20light%20district.She%20was%20sold%20to%20a%20slave%20buyer%20at%20the%20Yukaku%20%22Sagamiya%22.The%20owner%2C%20Sagami%2C%20told%20her%20that%20Ishe%20could%20be%20the%20number%20one%20Oiran%20there.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Minikui%20Yuukaku%20No%20Ko</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-vc998937</loc>
+                <lastmod>2023-11-22T16:53:03.133Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-vc998937.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Sung%20Suwoo%20has%20it%20all%20he's%20handsome%2C%20strong%2C%20and%20popular.%20His%20only%20problem%20is%20he%20can't%20grow%20abs%20no%20matter%20how%20much%20he%20trains!%20After%20being%20dumped%20by%20his%20girlfriend%20for%20having%20a%20flabby%20tummy%2C%20he%20gets%20isekai'd%20into%20a%20webcomic%20universe!%20Can%20he%20successfully%20return%20if%20his%20only%20ticket%20back%20home%20is%20by%20becoming%20the%20hottest%20male%20character%20of%20the%20romance%20genre%20with%20S-rank%20abs%3F%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Leveling%20Up%20My%20Isekai'd%20Abs</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-tk997145</loc>
+                <lastmod>2023-11-22T16:53:03.133Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-tk997145.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20A%20hero%20with%20the%20power%20of%20a%20demon%20king%20lives%20together%20with%20a%20beautiful%20alchemist%20in%20a%20sweet%20%22lovey-dovey%22%20life!A%20hero%20and%20an%20alchemist%20are%20living%20a%20sweet%20and%20fun%20lovey-dovey%20life%20together!Isaiah%2C%20the%20hero%20who%20defeated%20the%20Demon%20King%20in%20the%20past%2C%20has%20been%20living%20alone%2C%20hiding%20the%20enormous%20amount%20of%20magical%20power%20he%20inherited%20from%20the%20Demon%20King.%20One%20day%2C%20Isaiah%20rescued%20an%20alchemist%20girl%20named%20Yomeria%20(Yome)%2C%20who%20noticed%20his%20enormous%20magical%20power%20and%20asked%20him%20to%20live%20with%20her.She%20asks%20him%20to%20share%20his%20magical%20power%20with%20her%2C%20but%20the%20only%20way%20he%20can%20give%20it%20to%20her%20is%20through%20repeated%20skinship...%22The%20only%20way%20to%20give%20away%20your%20magic%20is%20to%20repeat%20the%20process%20of%20skinship!%3F%22The%20two%20of%20them%20are%20in%20the%20process%20of%20creating%20a%20new%20relationship!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Maou%20Wo%20Taoshita%20Ore%20Ni%20Matteita%20No%20Wa%2C%20Sewazuki%20Na%20Yome%20To%20No%20Ichaicha%20Renkin%20Seikatsu%20Datta.</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-ui997917</loc>
+                <lastmod>2023-11-22T16:53:03.133Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-ui997917.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20In%20the%20Frontier%20County%20of%20Aulanthia%20of%20the%20Livitium%20Imperial%20Kingdom%2C%20there%20lives%20Princess%20Syltianna%20who%20is%E2%80%A6%20%E2%80%A6so%20ugly%2C%20both%20in%20her%20face%20and%20in%20her%20personality.One%20day%2C%20Princess%20Syltianna%2C%20widely%20known%20with%20the%20name%20the%20Ragweed%20Princess%20of%20the%20Livitium%20Imperial%20Kingdom%2C%20is%20evicted%20by%20the%20First%20Queen%20Consort%20and%20killed%20in%20a%20dark%20forest%20inhabited%20by%20demon%20beasts.%20She%20is%20then%20saved%20by%20a%20passing%20witch%2C%20and%20upon%20her%20revival%2C%20she%20regains%20her%20memory%20of%20her%20previous%20life%20as%20a%20high%20school%20boy%20on%20Earth%2C%20and%20decides%20to%20live%20in%20the%20forest%20as%20the%20witch%E2%80%99s%20apprentice.-Re%3A%20Library%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>The%20Ragweed%20Princess%20From%20The%20Empire%20Of%20Livitium</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-sv996156</loc>
+                <lastmod>2023-11-22T16:53:03.133Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-sv996156.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20One%20day%2C%20Ritsu%20Kodo%2C%20a%20country%20boy%2C%20is%20sent%20into%20the%20world%20of%20the%20game%20he%20is%20playing%2C%20the%20Digital%20World!%20There%2C%20he%20meets%20the%20Digimon%20Pulsemon%20he%20created%20in%20the%20game!!%20Ritsu%20was%20baffled%20by%20the%20sudden%20turn%20of%20events%2C%20but%20when%20he%20learned%20that%20his%20partner%20Pulsemon%20had%20summoned%20him%20as%20his%20Tamer%20to%20break%20the%20'cannot%20evolve'%20curse%2C%20he%20promised%20cooperation%20in%20evolution...!!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Digimon%20Dreamers</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-vx999132</loc>
+                <lastmod>2023-11-22T16:53:03.133Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-vx999132.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Richii's%20parents%20died%20in%20an%20accident%20when%20he%20was%20in%20junior%20high%20school%2C%20leaving%20him%20alone%20with%20his%20doting%20sister%20Towa.%20Three%20years%20later%2C%20his%20sister%20also%20disappears%2C%20and%20even%20Riichi%20is%20summoned%20to%20another%20world%20where%20he%20is%20reunited%20with%20his%20sister.%20In%20the%20other%20world%2C%20Towa%20has%20become%20the%20most%20powerful%20hero!This%20is%20an%20erotic%20love%20comedy%20in%20another%20world%20where%20beautiful%20women%20are%20always%20pestering%20our%20protagonist!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Welcome%20To%20The%20Isekai%20Hotel!</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-vh998416</loc>
+                <lastmod>2023-11-22T16:53:03.133Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-vh998416.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Oh%20look%20another%20isekai!%20You%20know%2C%20a%20guy%20gets%20transported%20to%20a%20fantasy%20world%20where%E2%80%99s%20he%E2%80%99s%20OP%2C%20surrounded%20by%20hot%20girls%20and%20he%E2%80%99ll%20save%20the%20world.%20Except%20he%E2%80%99s%20transformed%20into%20a%20dragon%20where%20he%20doesn%E2%80%99t%20understand%20anybody%20or%20what%E2%80%99s%20going%20on.%20Well%2C%20maybe%20not%20just%20another%20isekai.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Huff</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-nd991312</loc>
+                <lastmod>2023-11-22T16:53:03.133Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-nd991312.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Shen%20Shi%20felt%20very%20sad.%20He%20didn%E2%80%99t%20understand%20why%20he%20transmigrated%20into%20the%20book%20he%20wrote%20and%20was%20not%20the%20protagonist.%20He%20also%20didn%E2%80%99t%20understand%20why%20immortal%20male%20protagonist%20became%20a%20female%3F%20He%20didn%E2%80%99t%20understand%20even%20more.%20It%20was%20obvious%20that%20he%20wanted%20to%20be%20a%20cultivator%20apprentices%2C%20so%20why%20everyone%20wanted%20to%20become%20his%20apprentice%20The%20protagonist%3A%20%E2%80%9CMaster!%20Are%20you%20going%20to%20eat%20me%20first%20today%2C%20or%20do%20you%20want%20to%20eat%20me%20after%20I%20kill%20all%20the%20senior%20sisters%3F%E2%80%9D%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>I%2C%20The%20Invincible%20Villain%20Master%20With%20My%20Apprentices</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-ni991065</loc>
+                <lastmod>2023-11-22T16:53:03.133Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-ni991065.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Akira%20Kamishiro%20was%20a%20very%20successful%20manga%20author%2C%20who%20was%20diagnosed%20with%20blood%20cancer%20one%20day.%20He%20regretted%20the%20way%20he%20lived%2C%20where%20he%20could%20only%20build%20up%20empty%20relationships.%20Angry%20at%20his%20mother%20for%20asking%20him%20to%20send%20her%20some%20money%2C%20he%20died%20in%20a%20car%20accident.%20He%20was%20given%20a%20chance%20to%20choose%20his%20new%20mother%20and%20reincarnate%20in%20another%20world.Akira%2C%20not%20wanting%20to%20have%20a%20repeat%20of%20his%20past%20life%2C%20decided%20to%20choose%20an%20ordinary%20but%20safe%20life..%20He%20was%20reincarnated%20as%20Akira%2C%20the%20only%20son%20of%20a%20magic%20store%2C%20with%20his%20previous%20life's%20memories.%20He%20had%20no%20talent%20for%20swordsmanship%20or%20magic%2C%20but%20he%20didn%E2%80%99t%20care%20as%20he%20was%20still%20loved%20by%20his%20family.%20At%20one%20point%2C%20he%20realized%20that%20he%20can%20embody%20various%20things%20by%20%22drawing%20a%20picture%22.%20That's%20when%20he%20noticed%20his%20cheat%20ability...!%3FThis%20is%20a%20story%20of%20Akira%20who%20wanted%20to%20live%20a%20mediocre%20life%20in%20another%20world%20and%20his%20adventures%20to%20protect%20his%20peaceful%20place!!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Drawing%3A%20The%20Greatest%20Mangaka%20Becomes%20A%20Skilled%20%E2%80%9CMartial%20Artist%E2%80%9D%20In%20Another%20World</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-nv991356</loc>
+                <lastmod>2023-11-22T16:53:03.133Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-nv991356.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20I%20possessed%20a%20character%20in%20the%20novel%20I%20had%20been%20writing%20roughly%20for%20a%20year%3A%20A%20wicked%20woman%20who%20was%20destined%20to%20die%20horribly%20within%20the%20next%20two%20years.%20%20%E2%80%98Is%20this%20the%20price%20for%20making%20the%20readers%20suffer%3F%E2%80%99%20%20Anyway%2C%20the%20male%20lead%20was%20suffering%20from%20rolling%20over%20like%20a%20hoop.%20For%20the%20welfare%20of%20my%20creation%2C%20the%20poor%20male%20lead%2C%20and%20for%20my%20survival%2C%20I%20got%20a%20job%20at%20the%20mansion%20as%20a%20maid.%20And%20now%E2%80%A6%20%20%E2%80%9CLady%20Laria%20is%20the%20best%2C%20after%20all.%20I%20want%20you%20to%20be%20the%20mistress%20of%20the%20Blackwell%20Grand%20Duchy.%E2%80%9D%20%20%E2%80%9CLaria%20is%20the%20best!%E2%80%9D%20%20%E2%80%9CLaria%2C%20like%20my%20mother%3F%E2%80%9D%20%20The%20whole%20family%20of%20the%20Grand%20Duke%20likes%20me.%20Even%20the%20Grand%20Duke%20is%20obsessed%20with%20me%2C%20performing%20all%20sorts%20of%20tricks%E2%80%A6%20%20%E2%80%9CThe%20Lady%20and%20I%20are%20engaged.%E2%80%9D%20%20Yes%3F%20Since%20when%3F%20%20%E2%80%9CMy%20children%20and%20I%20need%20Lady%20Sherwood.%20I%20have%20no%20intention%20of%20letting%20her%20go.%E2%80%9D%20%20What%E2%80%99s%20wrong%20with%20everyone%20all%20of%20a%20sudden%3F%20I%20just%20worked%20for%20the%20welfare%20of%20the%20male%20lead.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>I%20Will%20Take%20Responsibility%20For%20The%20Welfare%20Of%20The%20Male%20Lead</image:title>
+                </image:image>
+              </url>
+              
+    
+  </urlset>

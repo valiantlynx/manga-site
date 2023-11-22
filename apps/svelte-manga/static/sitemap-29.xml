@@ -1,0 +1,237 @@
+<?xml version='1.0' encoding='utf-8'?>
+  <urlset
+    xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="https://www.w3.org/1999/xhtml"
+    xmlns:news="https://www.google.com/schemas/sitemap-news/0.9"
+    xmlns:image="https://www.google.com/schemas/sitemap-image/1.1"
+    xmlns:video="https://www.google.com/schemas/sitemap-video/1.1">
+    <url>
+      <loc>http://localhost:5173</loc>
+    </url>
+    
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-qz993982</loc>
+                <lastmod>2023-11-22T16:53:02.637Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-qz993982.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20A%20protagonist%20enjoyed%20his%20Isekai%20life%20by%20stubbornly%20doing%20everything%20at%20his%20own%20pace.%20Abundantly%20surrounded%20by%20misanthropes%2C%20he%20tried%20to%20redo%20his%20life%20and%20have%20an%20amicable%20personality%E2%80%A6Let%E2%80%99s%20leave%20it%20at%20that.%20When%20starting%20over%20with%20life%2C%20returning%20to%20one%E2%80%99s%20mental%20age%20was%20not%20guaranteed.%20Probably.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>I%20Got%20Sent%20To%20Another%20World%2C%20But%20It's%20In%20The%20Mountains.%20In%20Reaction%2C%20I%20Choose%20Comfort%20Over%20Strength</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-rg994689</loc>
+                <lastmod>2023-11-22T16:53:02.637Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-rg994689.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20As%20a%20self-professed%20no-lifer%2C%20Yuri%20idles%20his%20days%20away%20in%20front%20of%20a%20computer.%20This%20all%20changes%20the%20moment%20his%20life%20in%20Japan%20comes%20to%20an%20abrupt%20end%20and%20he%20finds%20himself%20reborn%20in%20the%20strange%20new%20world%20of%20the%20Shiyalta%20Kingdom.%20His%20new%20life%20includes%20everything%20he%20once%20lacked%3A%20loving%20parents%2C%20a%20comfortable%20home%2C%20and%20a%20promising%20future%20breeding%20and%20raising%20birds%20on%20his%20dad%E2%80%99s%20ranch.%20For%20centuries%2C%20the%20kingdom%20he%20now%20calls%20home%20has%20enjoyed%20peace%20and%20prosperity%2C%20shielded%20by%20friendly%20nations%20that%2C%20like%20Shiyalta%20itself%2C%20were%20established%20with%20the%20collapse%20of%20a%20once-great%20empire.%20War%20is%20a%20distant%20problem%2C%20relevant%20only%20to%20Shiyalta%E2%80%99s%20ruling%20families%20whose%20warriors%20periodically%20set%20out%20to%20join%20the%20fighting%20upon%20massive%20birds%20trained%20by%20Yuri%E2%80%99s%20dad%20and%20others.%20But%20this%20peaceful%20existence%20can%E2%80%99t%20last%20forever.%20Something%20rotten%20lies%20at%20the%20heart%20of%20the%20kingdom%2C%20and%20it%20doesn%E2%80%99t%20take%20someone%20with%20Yuri%E2%80%99s%20exceptional%20intelligence%20to%20realize%20that%20those%20distant%20battles%20will%20only%20remain%20irrelevant%20for%20so%20long%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Conqueror%20Of%20Dying%20Kingdom</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-vg999141</loc>
+                <lastmod>2023-11-22T16:53:02.637Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-vg999141.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Do%20you%20have%20a%20wish%20or%20desire%20you%20want%20to%20come%20true%20at%20all%20costs%3F%20The%20Tower%20of%20Solace%20will%20grant%20you%20that%20if%20you%20can%20make%20it%20to%20the%20top.%20Serena%20wakes%20up%20in%20the%20tower%2C%20coming%20from%20a%20life%20she%20hated.%20Now%20she'll%20climb%20the%20tower%20to%20create%20a%20life%20she%20will%20never%20regret.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Tower%20Of%20Solace</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-vn999196</loc>
+                <lastmod>2023-11-22T16:53:02.637Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-vn999196.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20I%2C%20Anan%20Naoyoshi%2C%20joined%20Last%20Boss%20Korin%2C%20Co.%20in%20pursuit%20of%20Nobu-san%2C%20the%20game%20planner%20I%E2%80%99ve%20long%20admired.%20Things%2C%20however%2C%20are%20sour%20between%20us.%20%20Our%20strained%20relationship%20aside%2C%20the%20two%20of%20us%20went%20on%20an%20overseas%20business%20trip.%20But%20then%20whyyyyy%20are%20we%20on%20a%20desert%20island%3F!%20And%20as%20if%20that%20wasn%E2%80%99t%20bad%20enough%2C%20he%20now%20tells%20me%20we%E2%80%99re%20stuck%20in%20a%20game%20of%20his%20own%20creation.%20Wait%E2%80%94*we%E2%80%99re%20in%20a%20whaaaaat%3F!*%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Game-Ya%20Bl</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-wg999389</loc>
+                <lastmod>2023-11-22T16:53:02.637Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-wg999389.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Jiangyang%20is%20the%20chief%20artist%20of%20a%20game%20company%20who%20fell%20to%20death%20while%20capturing%20scenery%20at%20a%20cliff.%20In%20order%20to%20return%20to%20the%20original%20world%2C%20she%20trained%20very%20hard.%20However%2C%20she%20was%20forced%20into%20a%20magical%20world%20because%20a%20mysterious%20karma%20line%2C%20and%20picked%20up%20the%20heroine%20who%20was%20new%20to%20the%20campus%20and%20was%20being%20bullied%20by%20the%20villainess%20of%20the%20game.%20Jiangyang%20recognised%20that%20this%20was%20the%20exact%20same%20otome%20game%20as%20the%20one%20she%20was%20developing%20in%20her%20past%20life.%20The%20karma%20line%20was%20connected%20between%20herself%20and%20the%20heroine%20Stardew.%20She%20thought%20that%20she%20could%20return%20to%20her%20original%20world%20by%20following%20the%20storyline%20of%20the%20game.%20Nevertheless%2C%20throughout%20the%20game%2C%20she%20remembered%20that%20the%20dumb%20script%20that%20caused%20Stardew%20to%20suffer.%20Jiangyang%2C%20who%20has%20a%20strong%20sense%20of%20responsibility%20decided%20to%20lend%20a%20helping%20hand%20to%20Stardew.%20Not%20only%20did%20she%20help%20her%20remove%20rotten%20flowers%20such%20as%20the%20unfaithful%20prince%2C%20but%20also%20taught%20her%20skills%20to%20protect%20herself.%20As%20the%20two%20get%20closer%2C%20Jiangyang%20realises%20the%20karma%20line%20on%20Stardew%20isn%E2%80%99t%20as%20simple%20as%20she%20thought%E2%80%A6%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Is%20It%20Normal%20To%20Raise%20A%20Yandere%20Heroine%20As%20A%20Villainess%20%3F!</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-oe991961</loc>
+                <lastmod>2023-11-22T16:53:02.637Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-oe991961.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2060-year%20old%20historian%2C%20Jung%20Gwinam.%20On%20the%20day%20of%20her%20retirement%20ceremony%2C%20she%20got%20into%20an%20accident%20while%20attempting%20to%20save%20her%20daughter%2C%20just%20to%20later%20wake%20up%20as%20the%20main%20character%20of%20a%20fantasy%20novel%20written%20by%20her%20daughter%3F!%20Of%20all%20things%2C%20she%20had%20to%20be%20reborn%20as%20an%20orphan%20peasant.%20But%20who%20cares%3F%20This%20is%20the%20start%20of%20Jung%20Gwinam's%20second%20life.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>The%20Crownless%20Queen</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-ol992020</loc>
+                <lastmod>2023-11-22T16:53:02.637Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-ol992020.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20In%20this%20world%2C%20there%20is%20a%20legend%20that%20has%20existed%20for%20many%20years%3A%20One%20day%2C%20the%20demon%20king%20will%20appear%20in%20the%20world%2C%20and%20under%20his%20command%2C%20seven%20terrifying%20demons%20will%20unleash%20darkness%20and%20despair%20upon%20the%20world.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Devil%E2%80%99S%20Advent</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-ox992180</loc>
+                <lastmod>2023-11-22T16:53:02.637Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-ox992180.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Guy%20gets%20transported%20to%20another%20world%20for%20the%20second%20time%20in%20his%20life%2C%20armed%20with%20only%20his%20business%20suit%20and%20glasses.%20This%20is%20the%20adventuring%20tale%20of%20a%20cool%2C%20but%20slightly%20pathetic%2037%20year%20old%20ossan's%20life%20in%20another%20world.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Moto%20Isekai%20Tenisha%20Datta%20Kachou%20No%20Ojisan%2C%20Jinsei%20Ni%20Dome%20No%20Isekai%20Wo%20Kake%20Meguru</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-pn992996</loc>
+                <lastmod>2023-11-22T16:53:02.637Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-pn992996.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Lilia%2C%20a%20generous%20marquess'%20daughter%2C%20can%20not%20only%20use%20magic%2C%20but%20is%20also%20good%20at%20territory%20management.%20Having%20a%20strong%20gamer%20spirit%2C%20Lilia%20finds%20out%20about%20the%20existence%20of%20magic%20in%20the%20world%20where%20she%20was%20reincarnated%20and%20remembers%20her%20previous%20life%20in%20a%20different%20world.%20Even%20though%20she%20was%20still%20a%20newborn%20and%20could%20not%20even%20walk%2C%20she%20started%20to%20actively%20develop%20her%20abilities.%20As%20a%20result%2C%20she%20can%20excersize%20advance%20magic%2C%20control%20high-ranking%20spirits%2C%20and%20actively%20participate%20in%20the%20management%20of%20the%20marquess'%20premises.%20No%20matter%20whether%20this%20world%20is%20a%20RPG%20or%20a%20ranch%20game%2C%20this%20cheat%20is%20unbeatable!%20Lilia%20cannot%20go%20unnoticed%20by%20the%20royal%20family%20who%20invite%20her%20to%20have%20a%20birthday%20party%20at%20the%20court.%20Could%20it%20be%20that%20this%20is%20an%20Otome%20game%20involving%20political%20marriage%20with%20the%20princes%3F!%20Just%20please%20don't%20make%20her%20the%20villainess!!!0%20Saiji%20Start%20Dash%20Monogatari%20%2F%200%20Sai%20Ji%20Start%20Dash%20Monogatari%20%2F%200%20Years%20Old%20Child%20Starting%20Dash%20Story%20%2F%200-sai%20Ji%20Start%20Dash%20Monogatari%20%2F%200%20%2F%20Head%20Start%20at%20Birth%20%2F%20Zero%20Sai%20Ji%20Start%20Dash%20Monogatari%20%2F%20Zero%20Saiji%20Start%20Dash%20Monogatari%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Head%20Start%20At%20Birth</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-rv995230</loc>
+                <lastmod>2023-11-22T16:53:02.637Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-rv995230.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Born%20into%20a%20family%20of%20saints%2C%20Philia%E2%80%99s%20childhood%20was%20filled%20with%20harsh%20education.%20Nevertheless%2C%20it%20formed%20her%20into%20a%20great%20saint%20and%20secured%20her%20engagement%20with%20the%20second%20Prince%2C%20Julius.%20But%20when%20she%20became%20too%20perfect%20and%20thus%20not%20cute%20in%20his%20eyes%2C%20Julius%20broke%20their%20engagement!%20That's%20why%20he%20decided%20to%20make%20her%20leave%20her%20homeland%20and%20make%20her%20a%20saint%20for%20a%20neighboring%20kingdom%20in%20exchange%20for%20money%20and%20resources.%20Philia%20was%20prepared%20to%20be%20treated%20miserably%20but%20what%20awaited%20her%20was%20an%20unexpected%20welcome!%20Confused%20by%20her%20new%20circumstances%2C%20she%20began%20to%20use%20her%20powers%20to%20help%20solve%20the%20citizens'%20problems%20such%20as%20creating%20a%20barrier%20against%20monsters%20and%20creating%20a%20cure%20for%20the%20illness%20that%20wreaked%20havoc%20on%20the%20land.%20With%20her%20new%20found%20position%2C%20Philia%20recollected%20her%20memories%20of%20being%20in%20a%20novel%20and%20the%20future%20outbreak%20of%20monsters%20that%20was%20to%20come.%20She%20used%20her%20knowledge%20and%20with%20the%20help%20of%20the%20people%2C%20they%20quickly%20dealt%20with%20the%20problem!%20But%20at%20the%20same%20time%2C%20the%20very%20same%20country%20that%20sold%20her%20off%20was%20also%20in%20danger-%3F!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>The%20Saint%20Whose%20Engagement%20Was%20Broken%20When%20She%20Became%20Too%20Perfect%20Is%20Sold%20Off%20To%20A%20Neighboring%20Kingdom</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-tl996668</loc>
+                <lastmod>2023-11-22T16:53:02.637Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-tl996668.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Just%20by%20clicking%20the%20wrong%20button%2C%20I%20ended%20up%20possessing%20the%20game's%20princess%20character%2C%20%22Cherise%22!%20Yoon%20Che-ri%2C%20a%20graduate%20of%20a%20pharmaceutical%20university.%20Like%20the%20so-called%20'hardcore%20gamer'%20she%20is%2C%20She%20unexpectedly%20appears%20in%20the%20VR%20game%20she%20plays%20every%20day.%20A%20red%20rabbit%20puts%20her%20in%20debt%20to%20the%20game%2C%20owing%2010%20billion%20gems...If%20she%20doesn't%20repay%20the%20debt%20of%2010%20billion%20gems%2C%20she%20won't%20be%20able%20to%20log%20out%3F%E2%99%A1%20Surprise%20Quest%20Triggered%20%E2%99%A1User's%20ability%20confirmed%20as%20%22Pharmaceuticals%2C%22%20customized%20settings%20have%20been%20completed%20accordingly.%20Future%20quests%20will%20focus%20on%20%22Pharmaceuticals.%22%20%E2%97%80Huh%3F%20Why%20do%20I%20feel%20excessively%20capable...%3F%20If%20things%20go%20on%20like%20this%2C%20I%20might%20be%20able%20to%20return%20soon!Will%20Cherise%20really%20be%20able%20to%20settle%20the%2010%20billion%20gem%20debt%20and%20return%20to%20her%20original%20world%3F%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Baby%20Pharmacist%20Princess</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-ty997007</loc>
+                <lastmod>2023-11-22T16:53:02.637Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-ty997007.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20If%20you're%20an%20adventurer%2C%20it's%20normal%20to%20be%20able%20to%20do%20this%20much...Another%20world%20adventure%20fantasy%20of%20a%20younger%20brother%20raised%20by%20the%20world's%20strongest%20older%20sister!Shifa%2C%20a%20boy%20who%20longs%20to%20be%20an%20adventurer%2C%20is%20told%20by%20his%20respected%20older%20sister%2C%20Rose.Believing%20in%20the%20words%2C%20%22If%20you%20want%20to%20be%20an%20adventurer%2C%20you%20have%20to%20be%20able%20to%20do%20this%2C%22%20he%20continues%20his%20training.Rose's%20special%20training%2C%20which%20provides%20thorough%20gifted%20education%20so%20that%20her%20doting%20younger%20brother%20does%20not%20end%20up%20in%20danger%2CShe%20gradually%20escalates%20and%20becomes%20more%20and%20more%20harsh...After%20overcoming%20such%20intensive%20training%20in%20he**%2C%20Shifa%20stepped%20into%20the%20adventurer%20training%20school%20on%20a%20sunny%20day.There%20she%20was%20waiting%20-%22Your%20ability%20is%20a%20bit%20abnormal!%3F%22Apparently%20my%20beloved%20older%20sister%20wasn't%20normal%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>My%20Younger%20Brother%20Became%20Ridiculously%20Strong%20When%20He%20Trained%20As%20His%20Sister%20Told%20Him</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-nr990974</loc>
+                <lastmod>2023-11-22T16:53:02.637Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-nr990974.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Shirokuro%20Sansui%2C%20a%20Japanese%20student%2C%20was%20accidentally%20killed%20by%20God%2C%20then%20sent%20to%20another%20world%20in%20apology.%20There%2C%20he%20received%20training%20from%20a%20sage%20for%20500%20years%20in%20order%20to%20become%20%E2%80%9Cthe%20strongest.%E2%80%9D%20After%20training%20enough%20to%20be%20considered%20the%20strongest%20by%20the%20world%E2%80%99s%20current%20standards%2C%20he%20happened%20upon%20a%20baby%20near%20his%20training%20grounds%2C%20thus%20beginning%20his%20otherworld%20adventure.%20His%20training%20was%20normal%2C%20his%20moves%20are%20boring%E2%80%A6%20even%20though%20he%E2%80%99s%20the%20strongest%20person%20in%20the%20world%2C%20everything%20else%20about%20him%20is%20just%20plain.%20The%20curtain%20opens%20on%20the%20sword%20saint%20who%20fights%20with%20just%20a%20normal%20wooden%20sword.%20%20Official%20English%20LN%20release%3A%20(https%3A%2F%2Fj-novel.club%2Fs%2Fthe-world-s-least-interesting-master-swordsman)%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Jimi%20Na%20Kensei%20Wa%20Sore%20Demo%20Saikyou%20Desu</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-pv992904</loc>
+                <lastmod>2023-11-22T16:53:02.637Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-pv992904.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Wooyeon%20is%20a%20reclusive%20web%20fiction%20writer.%20Her%20mundane%20life%20is%20changed%20forever%20when%20Princess%20Charlize%20Rod%20Crosel%2C%20a%20minor%20character%20in%20one%20of%20her%20bestselling%20web%20fictions%2C%20decides%20to%20take%20destiny%20into%20her%20own%20hands%20by%20kidnapping%20Wooyeon%20and%20bringing%20her%20into%20the%20fictional%20world.%20Will%20Wooyeon%20and%20Charlize%20be%20given%20the%20opportunity%20to%20change%20the%20future%20and%20find%20their%20happy%20ending%3F%20mangabuddy%20is%20a%20website%20dedicated%20to%20fans%20of%20anime%2C%20%2C%20%2C%20%2C%20video%20games%2C%20and%20cosplay.%20Where%20you%20may%20find%20all%20of%20your%20anime-related%20memes%2C%20recommendations%2C%20reviews%2C%20manga%20recommendations%2C%20character%20fanfiction%2C%20favorite%20quotations%2C%20and%20simply%20those%20ordinary%20anime%20things%20that%20you%20enjoy%2C%20particularly%20memes.You%20can%20%2C%20online%20for%20free%20at%20mangabuddy.%20Chapters%20are%20updated%20hourly%20with%20high-quality%20graphics%20and%20a%20full%20English%20translation.%20Find%20free%20translations%20of%20your%20favorite%20%2C%20and%20.%20The%20latest%20updated%20content%20on%20mangabuddy%20is%20now%20available.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>This%20World%20Is%20Mine</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-pz993134</loc>
+                <lastmod>2023-11-22T16:53:02.637Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-pz993134.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20I%20am%20Owen%20Pepper%2C%20the%20heir%20of%20a%20Noble%20family.%20To%20begin%20with%2C%20there%20are%20two%20kinds%20of%20people%20in%20this%20world.%20The%20aristocracy%2C%20winners%20from%20birth%2C%20and%20the%20rest%20of%20the%20losers%2C%20the%20cattle.%20I%20am%20a%20winner%2C%20of%20course.%20Bwahahaha.%20Livestock%2C%20you%20can%20work%20hard%20for%20me%20today.%20It%20is%20the%20only%20thing%20you%20lot%20are%20good%20for!%20I%20have%20been%20reincarnated%20as%20a%20tr*sh%20aristocrat.%20My%20father%20was%20a%20villainous%20lord.%20And%20his%20son%2C%20Owen%2C%20has%20been%20deeply%20influenced%20by%20his%20father%20and%20has%20grown%20up%20to%20be%20a%20fat%2C%20incompetent%20boy!%20If%20this%20continues%2C%20my%20future%20is%20in%20jeopardy.%20%E2%80%A6%20But%20I%20do%20not%20care%20about%20that!%20%E2%80%9CI%20heard%20that%20there%20is%20magic%20in%20this%20world.%20If%20we%20are%20going%20to%20go%20to%20all%20this%20trouble%2C%20let%20us%20try%20to%20master%20magic!%E2%80%9D%20And%20if%20you%20are%20having%20fun%20learning%20magic%2C%20you%20will%20soon%20be%20able%20to%20break%20the%20stigma!(taken%20of%20NovelUpdates)%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Reincarnated%20As%20The%20Son%20Of%20A%20Vicious%20Lord!%20~When%20I%20Was%20Having%20Fun%20Learning%20Magic%2C%20I%20Had%20To%20Get%20Rid%20Of%20My%20Stigma~!</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-qf993740</loc>
+                <lastmod>2023-11-22T16:53:02.637Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-qf993740.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Arafoo%20Kenja%20no%20Isekai%20Seikatsu%20Nikki%20(Alternate%20story)%20%2C%20The%20Diary%20of%20a%20Sage%20Around%2040%20Living%20in%20Another%20World%20Carefree%20Another%20World%20Teacher%20LifeAn%20alternate%20version%20of%20the%20%22Around%2040%20Kenja%20no%20Isekai%20Seikatsu%20Nikki%22%20story%20with%20a%20different%20artist.Satoshi%20Osako%20was%20a%20player%20of%20the%20VRRPG%20Sword%20and%20Sorcery%20who%20defeated%20the%20Evil%20God%20and%20died%20for%20his%20troubles.%20When%20he%20awoke%20again%20he%20found%20himself%20in%20a%20strange%20unknown%20forest.%20Furthermore%20he%20possessed%20his%20avatar's%20body%20and%20abilities.%20In%20other%20words%2C%20he%20was%20a%20cheat.%20Can%20a%2040%20year%20old%20DT%2C%20live%20peacefully%20in%20this%20world%3FLet%20his%20isekai%20adventure%20begin.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Arafo%20Kenja%20No%20Isekai%20Seikatsu%20Nikki%20-%20Kimamana%20Isekai%20Kyoushi%20Life</image:title>
+                </image:image>
+              </url>
+              
+    
+  </urlset>

@@ -1,0 +1,237 @@
+<?xml version='1.0' encoding='utf-8'?>
+  <urlset
+    xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="https://www.w3.org/1999/xhtml"
+    xmlns:news="https://www.google.com/schemas/sitemap-news/0.9"
+    xmlns:image="https://www.google.com/schemas/sitemap-image/1.1"
+    xmlns:video="https://www.google.com/schemas/sitemap-video/1.1">
+    <url>
+      <loc>http://localhost:5173</loc>
+    </url>
+    
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-hs984853</loc>
+                <lastmod>2023-11-22T16:53:02.718Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-hs984853.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Yu%20Yin%20transmigrated%20twice%2C%20once%20again%20he%20has%20returned%20to%20his%20original%20world%20of%20cultivation%2C%20but%20the%20moment%20he%20gets%20back%20he%20gets%20scammed%20by%20a%20demon%20lord%20he%20doesn%E2%80%99t%20recognize%3F%20Not%20only%20was%20he%20scammed%2C%20he%20even%20bit%20him%20and%20forced%20him%20into%20an%20engagement%3F!%20Yu%20Yin%20was%20very%20shocked%2C%20but%20the%20demon%20lord%20won%E2%80%99t%20let%20him%20go.%20Bei%20Xiao%3A%20We%20already%20have%20a%20very%20close%20relationship%2C%20why%20don%E2%80%99t%20you%20let%20me%20tease%20you%3F%20Yu%20Yin%3A%20%E2%80%A6.You%20don%E2%80%99t%20have%20to%20do%20that.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>The%20Demon%20Lord%20Wants%20To%20Take%20Responsibility%20Of%20Me!</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-ix986006</loc>
+                <lastmod>2023-11-22T16:53:02.718Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-ix986006.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Oliver%2C%20an%20adventurer%20almost%20in%20his%2040's%20received%20a%20certain%20mission%20in%20regard%20of%20his%20earnest%20personality.%20That%20mission%20is%20to%20bind%20a%20contact%20with%20fellow%20deredere%20little%20in%20spirits%20who%20have%20great%20power%20or%20something%20like%20that!%3FThus%2C%20the%20fellow%20spirits%20gathered%20and%20the%20new%20life%20of%20Oliver%20as%20school%20principal%20begins--!!-%20Summary%20from%20Gardo%20Comics%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Opened%20The</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-of991414</loc>
+                <lastmod>2023-11-22T16:53:02.718Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-of991414.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Raphtalia%2C%20a%20demi-human%20girl%2C%20was%20living%20happily%20with%20her%20family%20and%20friends.%20However%2C%20she%20loses%20her%20parents%20to%20a%20monster%20that%20appeared%20during%20a%20phenomenon%20called%20the%20%22Waves%20of%20Calamity%22.%20Her%20village%20that%20was%20on%20the%20brink%20of%20destruction%20then%20got%20plundered%20by%20soldiers%20who%20came%20to%20her%20village%20and%20turned%20her%20into%20a%20slave.%20However%2C%20her%20fate%20made%20a%20drastic%20turn%20when%20she%20meets%20Naofumi%20Iwatani%2C%20a%20hero%20summoned%20from%20another%20world%20to%20save%20this%20world.%20The%20bond%20between%20the%20two%20gradually%20deepen%20as%20they%20live%20together%20while%20fighting%20the%20monsters%20from%20the%20%22Waves%20of%20Calamity%22.A%20retelling%20of%20the%20main%20story%20in%20the%20perspective%20of%20Raphtalia%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Tate%20No%20Yuusha%20No%20Nariagari%20~%20Girl's%20Side%20Story</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-or991426</loc>
+                <lastmod>2023-11-22T16:53:02.718Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-or991426.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20You%20can%20get%20cheat%20skills%20in%20a%20different%20world%2C%20but...Somehow%2C%20she%20has%20no%20clothes%E2%81%89The%20naked%20comedy%20of%20the%20girl%20from%20a%20different%20world%20begins!While%20bathing%20in%20a%20hot%20spring%20Runa%20Hatagami%20is%20mistakenly%20transferred%20to%20another%20world%20as%20a%20hero%20in%20a%20towel...Moreover%2C%20the%20goddess%20only%20gave%20her%20a%20weird%20%22Hot%20Spring%22%20skill%20and%20a%20high%20defensive%20power%3F%20She%20managed%20to%20get%20a%20bath%20towel%20with%20her%20skill%2C%20but%20she%20was%20still%20almost%20completely%20naked...Furthermore%2C%20she%20was%20put%20under%20a%20certain%20%22curse%22%20by%20a%20witch%20who%20is%20planning%20to%20resurrect%20the%20Demon%20King...%20The%20situation%20makes%20it%20impossible%20for%20her%20to%20return%20to%20her%20original%20world%3F!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Don't%20Call%20Me%20A%20Naked%20Hero%20In%20Another%20World</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-ou991977</loc>
+                <lastmod>2023-11-22T16:53:02.718Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-ou991977.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Snow%2C%20a%20failing%20comic%20artist%20whose%20comic%20is%20about%20to%20be%20discontinued%2C%20reincarnates%20into%20his%20own%20comic%20by%20chance.%20In%20his%20comic%2C%20the%20Pante%20Continent%20is%20on%20the%20verge%20of%20ruin%20due%20to%20the%20expansion%20of%20the%20Demon%20King's%20army%2C%20resulting%20in%20Snow%20being%20in%20danger%20as%20well.%20Just%20as%20his%20life%20was%20about%20to%20end%2C%20Snow%20receives%20an%20opportunity%20to%20survive%2C%20with%20the%20condition%20that%20he%20takes%20over%20the%20author's%20role%20and%20rewrites%20the%20entire%20comic's%20storyline.%20If%20he%20fails%20to%20%22%20create%22%20a%20more%20interesting%20story%2C%20then%20Snow%20and%20the%20comic%20world%20would%20be%20destroyed%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>A%20Comic%20Artist%E2%80%99S%20Survival%20Guide</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-oe992313</loc>
+                <lastmod>2023-11-22T16:53:02.718Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-oe992313.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Karma%20na%20Skill%20de%20Musou%20suru%20Isekai%20Harem%20Kaitoudan%20manga%2C%20Isekai%20Phantom%20Thief%2C%20TOGA%20NA%20SKILL%20DE%20MUSOU%20SURU%20ISEKAI%20HAREM%20KAITOUDAN%20%2C%20Isekai%20Robin%20HoodTakio%20Asakawa%20is%20an%20ordinary%20salaryman%20who%20surprise%2C%20surprise%20dies%20and%20gets%20reincarnated%20into%20another%20world.%20A%20big%20fan%20of%20isekai%20stories%2C%20Takio%20is%20immediately%20ready%20for%20his%20OP%20slow%20life%20adventure.However%2C%20when%20he%20enters%20the%20other%20world%2C%20he%20discovers%20that%20not%20all%20is%20as%20it%20seems.%20Adventure%20guilds%20are%20a%20relic%20of%20the%20past%2C%20and%20income%20inequality%20has%20plagued%20the%20country.%20Technology%20has%20also%20progressed%20to%20the%20point%20that%20guns%20exist%2C%20making%20swords%20and%20sorcery%20fairly%20useless.However%2C%20Takio%20discovers%20that%20he%20has%20a%20special%20skill%20with%20slight%20of%20hand%2C%20he%20can%20steal%20from%20others%20as%20easily%20as%20breathing%20air.%20After%20recovering%20a%20woman%20who%20claims%20herself%20to%20be%20the%20reincarnation%20of%20the%20legendary%20thief%20Goemon%20Ishikawa%2C%20Takio%20realizes%20that%20he%20was%20brought%20to%20this%20world%20for%20a%20specific%20reason%3A%20to%20enact%20justice%20by%20stealing%20from%20the%20rich%20and%20giving%20to%20the%20poor.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Karma%20Na%20Skill%20De%20Musou%20Suru%20Isekai%20Harem%20Kaitoudan</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-qn994122</loc>
+                <lastmod>2023-11-22T16:53:02.718Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-qn994122.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Seo%20Jaewoo%20wakes%20up%20to%20find%20himself%20in%20the%20world%20of%20a%20BL%20novel.%20But%20he%20isn%E2%80%99t%20just%20any%20random%20person.%20He%E2%80%99s%20actually%20the%20lousy%20side%20top%20character%20who%E2%80%99s%20meant%20to%20torment%20the%20main%20bottom%2C%20Yoo%20Hyeonjin.%20What%E2%80%99s%20worse%20is%20that%20by%20the%20novel%E2%80%99s%20conclusion%2C%20all%20of%20Jaewoo%E2%80%99s%20despicable%20actions%20catch%20up%20to%20him%2C%20and%20he%20is%20killed%20by%20the%20story%E2%80%99s%20crazy%20main%20top%20and%20Hyeonjin%E2%80%99s%20love%20interest%2C%20Choi%20Mujin.%20In%20order%20to%20avoid%20his%20death%2C%20Jaewoo%20decides%20to%20change%20his%20original%20role%20and%20get%20on%20Hyeonjin%E2%80%99s%20good%20side.%20His%20method%3A%20lure%20him%20in%20with%20food%2C%20of%20course!%20While%20his%20tactic%20proves%20effective%20and%20he%20slowly%20befriends%20Hyeonjin%2C%20that%20doesn%E2%80%99t%20become%20the%20only%20major%20change%20to%20the%20plot.%20After%20an%20unexpected%20encounter%20with%20Mujin%2C%20Jaewoo%E2%80%99s%20position%20as%20the%20%E2%80%9Clousy%20side%20top%E2%80%9D%20gets%20completely%20flipped%20upside%20down%E2%80%A6%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>I%20Became%20The%20Lousy%20Side%20Top</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-sd995912</loc>
+                <lastmod>2023-11-22T16:53:02.718Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-sd995912.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20I%E2%80%99ve%20been%20reincarnated%20into%20a%20side%20character%20of%20a%20novel.On%20top%20of%20that%2C%20I%20am%20the%20character%20who%20is%20like%20a%20magpie%20bridge%20in%20the%20mentally-exhausting%20story%2C%20%22The%20Guys%20Around%20Hestia.%22There%20is%20no%20romance%20in%20store%20for%20me%2C%20and%20it%20absolutely%20horrifies%20me%20to%20think%20that%20my%20family%20is%20destined%20to%20drown%20in%20debt!I%20planned%20on%20becoming%20a%20civil%20servant%2C%20enjoying%20a%20life%20of%20wealth%20and%20honor%20that%20I%20was%20unable%20to%20attain%20in%20my%20previous%20life%20but%E2%80%A6%20why%20are%20the%20guys%20behaving%20out%20of%20character%3FWhy%20are%20you%20blushing%20in%20front%20of%20me%3F%20Why%20do%20you%20keep%20giving%20me%20food%3F%E2%80%9CCan%20you%20Imagine%20Shushu%20being%20shy%20when%20looking%20at%20someone%3F%E2%80%9D%E2%80%9CWhoa%E2%80%A6%20It%E2%80%99d%20be%20amazing%20if%20that%20happens.%E2%80%9DAs%20Cory%20absent-mindedly%20said%20to%20Hiley%2C%20Eve%20frowned%20and%20murmured%20under%20his%20breath.%E2%80%9CShould%20I%20run%20away%20with%20her%E2%80%A6%E2%80%9DSwan%20remained%20silent%20while%20he%20hid%20his%20face%20with%20his%20sleeves.His%20face%20and%20ears%20turned%20red.What%E2%80%99s%20up%20with%20you%20guys%3F%20Why%20are%20you%20guys%20doing%20other%20things%20instead%20of%20being%20obsessed%20with%20the%20female%20lead%3F%20Get%20yourself%20together!This%20is%20the%20survival%20story%20of%20an%20academy%20student%2C%20Schulaina%20West%2C%20who%20wants%20to%20pursue%20a%20wealthy%20future%20in%20a%20reverse%20harem%20novel.%20TL%2FN%3A%20Magpie%20Bridge%20is%20the%20bridge%20made%20by%20a%20flock%20of%20magpies%20that%20connects%20the%20two%20star-crossed%20lovers%20Orihime%20and%20Hikoboshi%20in%20the%20legend%20behind%20the%20Tanabata%20festival.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>I%20Don't%20Want%20To%20Be%20The%20Magpie%20Bridge</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-sm995921</loc>
+                <lastmod>2023-11-22T16:53:02.718Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-sm995921.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Kurono%20Crawford%20(Chrono%20Crawford)%2C%20a%20noble%20of%20Cepheus%20Empire%20had%20a%20secret.%20It%20was%20that%20he%20came%20from%20a%20Different%20world%E2%80%A6%20Modern%20Japan.%20Having%20the%20knowledge%20about%20the%20modern%20weapons%20and%20his%20sense%20of%20values%2C%20he%20was%20an%20existence%20almost%20like%20a%20cheat%2C%20aiming%20to%20be%20the%20%E2%80%9CHarem%20king%E2%80%9D.%20Abandoned%20by%20his%20superiors%2C%20left%20in%20command%20of%20the%20Empire%E2%80%99s%20rejects%20consisting%20of%20demi-humans%20such%20as%20Minotaurs%2C%20Dwarfs%2C%20and%20Elves%2C%20and%20thrust%20into%20a%20position%20as%20head%20of%20a%20poor%20fiefdom%2C%20Chrono%20will%20do%20everything%20he%20can%20to%20rebuild%20and%20strengthen%20his%20forces%20and%20revitalize%20the%20land%2C%20aided%20in%20part%20by%20his%20knowledge%20of%20the%20other%20world.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Kuro%20No%20Senki%20Ii%3A%20Isekai%20Teni%20Shita%20Boku%20Ga%20Saikyou%20Na%20No%20Wa%20Bed%20No%20Ue%20Dake%20No%20You%20Desu</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-tv996530</loc>
+                <lastmod>2023-11-22T16:53:02.718Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-tv996530.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20One%20day%20I%20woke%20up%20and%20I%20was%20six%20years%20old.I%20had%20transmigrated%20into%20the%20main%20character%20of%20a%20tragic%20novel%2C%20Saint%20Priscilla%2C%20who%20walks%20through%20all%20sorts%20of%20thorny%20paths!Since%20I%E2%80%99m%20here%2C%20I%20need%20to%20avoid%20the%20scheduled%20special%20misfortune%20and%20live%20happily%20with%20my%20favorite%20character.%20The%20final%20boss%20of%20the%20story%20and%20the%20villain%2C%20Melchizedek%2C%20the%20tyrant%20of%20the%20Rehel%20Empire%2C%20who%20has%20no%20blood%20or%20tears!A%20happy%20life%20of%20adopting%20my%20father%20and%20becoming%20a%20princess%2C%20with%20my%20favorite%20character.%20I%20also%20saved%20the%20male%20protagonist%2C%20in%20order%20to%20remove%20my%20father%E2%80%99s%20death%20flag.%E2%80%9CIf%20you%20approach%20my%20daughter%2C%20you%20will%20die.%E2%80%9DWhy%20does%20my%20father%20keep%20putting%20up%20death%20flags%3FMoreover%E2%80%A6%20%E2%80%9CIf%20you%20tamed%20me%2C%20you%20have%20to%20take%20responsibility.%E2%80%9DWhy%20is%20the%20male%20lead%20so%20obsessed%20with%20me%3F%20What%E2%80%99s%20going%20on%3F%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>I%20Adopted%20A%20Villainous%20Dad</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-uk997567</loc>
+                <lastmod>2023-11-22T16:53:02.718Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-uk997567.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20When%20Sasahara%20Shinta%20was%20suddenly%20summoned%20to%20another%20world%20with%20the%20objective%20of%20subjugating%20the%20Demon%20Lord%2C%20he%20makes%20full%20use%20of%20his%20cheat%20skill%20that%20sees%20people%E2%80%99s%20status%20and%20tries%20taking%20a%20look%20at%20the%20Princess%20who%20summoned%20him%2C%20but%20when%20he%20did%2C%20it%20says%20that%20the%20Hero%20is%20arranged%20to%20be%20assassinated%20after%20the%20Demon%20Lord%E2%80%99s%20subjugation.That%E2%80%99s%20right%2C%20this%20is%20a%20shitty%20otherworld%20where%20the%20Hero%E2%80%99s%20life%20is%20treated%20like%20dirt.To%20avoid%20being%20assassinated%2C%20Shinta%20pretends%20to%20submit%2C%20but%E2%80%A6%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Hero%20Of%20The%20Rebellion%3A%20Use%20Your%20Skills%20To%20Control%20The%20Mind%20And%20Body%20Of%20The%20Maddened%20Princess</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-uh997890</loc>
+                <lastmod>2023-11-22T16:53:02.718Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-uh997890.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Yes%2C%20everything%20is%20exactly%20as%20you%20expected%20when%20you%20saw%20the%20cover.%22Ryuu%22%2C%20a%20former%20modern%20human%20reincarnated%20in%20another%20world.%20He%20was%20a%20slave%20in%20this%20world.%20However%2C%20once%20the%20knowledge%20of%20his%20previous%20life%20was%20revived%2C%20his%20magic%20power%20was%20also%20awakened.%20He%20gained%20strength%20at%20a%20speed%20that%20was%20incomparable%20to%20other%20slaves%2C%20and%20he%20easily%20defeated%20strong%20opponents%2C%20becoming%20the%20strongest%20gladiator%20among%20slaves.%20Just%20then%2C%20someone%20who%20bought%20Ryuu%20appeared.%20She%20was%20the%20noble%20Juller%2C%20the%20Juller%20Family%2C%20who%20saw%20slaves%20as%20power%2C%20wanted%20to%20own%20a%20great%20slave.%20And%20the%20first%20instruction%20given%20to%20Ryuu%20as%20a%20slave%20was%20to%20%22seed%22%20a%20beautiful%20female%20slave...!I'm%20a%20Slaves%20but%20super%20free!%E3%80%80This%20otherworldly%20fantasy%2C%20which%20starts%20from%20the%20lowest%20class%20but%20has%20an%20unlimited%20future%2C%20start%20with%20a%20BANG!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Dorei%20Senshi%20No%20Isekai%20Taneuma%20Seikatsu</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-vu999029</loc>
+                <lastmod>2023-11-22T16:53:02.718Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-vu999029.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20As%20demons%20start%20creeping%20in%20through%20the%20Witches'%20Quarter%2C%20its%20protector%20must%20rise%20to%20the%20occasion%20and%20stop%20them%20from%20invading%20the%20human%20world.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Witches'%20Quarter</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-qb994284</loc>
+                <lastmod>2023-11-22T16:53:02.718Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-qb994284.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20She%20had%20a%20dream%3A%20the%20world%20was%20brimming%20with%20light.%20Family.%20School.%20Friends.%20Trains.%20Buses.%20Movies.%20Books.%20In%20that%20world%20of%20light%2C%20she%20grew%20into%20adulthood%E2%80%A6%20and%20at%20the%20very%20end%2C%20in%20a%20white%20room%2C%20she%20fell%20into%20darkness.%20She%20awoke%20from%20the%20dream%20to%20find%20that%20she%20had%20become%20a%20demon.%20In%20the%20demon%20world%2C%20she%20lived%20a%20carefree%20life%20until%20she%20encountered%20a%20powerful%20being.After%20such%20a%20long%20time%20spent%20living%20as%20a%20demon%2C%20before%20she%20knew%20it%2C%20spreading%20in%20her%20heart%20was%20a%20yearning%20for%20that%20world%20of%20light.%20She%20plunged%20herself%20into%20a%20summoning%20magic%20circle%20that%20had%20appeared.%20Then%E2%80%A6%20when%20she%20opened%20her%20eyes%20once%20again%2C%20she%20had%20become%20a%20human%20baby.She%20was%20in%20the%20Holy%20Kingdom.%20She%20felt%20fearful%3A%20while%20she%20was%20indeed%20a%20demon%2C%20she%20only%20had%20the%20strength%20of%20a%20baby.%20Her%20being%20a%20demon%2C%20if%20discovered%2C%20would%20be%20terrible.%20Was%20she%20a%20human%20or%20a%20demon%3F%20Would%20she%20be%20able%20to%20survive%20from%20here%20on%20out%3F%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>The%20Devil%20Princess</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-ri994491</loc>
+                <lastmod>2023-11-22T16:53:02.718Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-ri994491.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Two%20girls%2C%20hand-in-hand%2C%20cross%20over%20to%20another%20world%2C%20into%20a%20magical%20academy%20set%20in%20a%20melodramatic%20Western%20fantasy%20novel.%20They%20transform%20into%20two%20people%20completely%20unrecognizable%20to%20each%20other%3A%20One%20is%20a%20rich%20villainess%20who%20is%20incapable%20of%20using%20any%20kind%20of%20magic%2C%20while%20the%20other%20is%20a%20young%20girl%20extremely%20talented%20in%20the%20field%20of%20magic%2C%20who's%20said%20to%20be%20the%20reincarnation%20of%20the%20Demon%20Lord.%20Originally%20set%20to%20save%20the%20world%2C%20the%20two%20of%20them%20unexpectedly%20fall%20in%20love.%22Male%20lead%2C%20female%20lead%2C%20may%20you%20two%20live%20a%20long%20and%20happy%20life%20together%2C%20forever.%20I%2C%20the%20villainess%2C%20am%20going%20to%20elope%20with%20Miss%20Demon%20Lord!%22%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>The%20Daughter%20Of%20Evil%20And%20Miss%20Devil</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-tm996647</loc>
+                <lastmod>2023-11-22T16:53:02.718Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-tm996647.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20On%20the%20day%20of%20the%20empress'%20funeral%2C%20I%20remembered%20the%20disastrous%20ending%20of%20to%20the%20story%20I%20am%20living%20in%3A%20the%20crown%20prince%20killed%20his%20father%20the%20emperor%20along%20with%20his%20father's%20beloved%20mistress.%20I%2C%20his%20half-sister%20and%20the%20beloved%20princess%20of%20the%20empire%2C%20was%20forced%20to%20flee%20but%20eventually%20was%20beheaded%20by%20his%20loyal%20knight%2C%20which%20completed%20the%20prince's%20bloody%20quest%20to%20claim%20the%20throne.%20To%20avoid%20this%20tragedy%2C%20I%20have%20decided%20to%20persuade%20the%20emperor%20to%20finally%20show%20some%20kindness%20to%20my%20half-brother%2C%20and%20to%20gain%20the%20sympathy%20of%20my%20brother's%20loyal%20knight.%20Like%20the%20hunter%20who%20couldn't%20kill%20Snow%20White%20but%20rather%20helped%20her%20escape.%20That's%20how%20I%20thought%20I%20would%20gain%20his%20sympathy%2C%20but...%22Hey%2C%20could%20you%20meet%20my%20eyes%20when%20we%20talk%3F%22%22...Wouldn't%20you%20find%20that%20uncomfortable%3F%22%22It%20isn't%20uncomfortable.%20Your%20eyes%20are%20as%20pretty%20as%20a%20camellia.%22How%20come%20I'm%20the%20one%20who's%20pitying%20you%3F%3D%3D%3D%22If%20I%20ever%20come%20back...%20At%20that%20time%2C%20would%20you%20please%20allow%20me%20to%20stay%20by%20your%20side%3F%22It%20was%20only%20when%20I%20was%20on%20the%20brink%20of%20tears%2C%20with%20a%20lump%20in%20my%20throat%20was%20I%20able%20to%20realize%20it.%20What%20these%20feelings%20were.%20The%20reason%20I%20think%20of%20you%20from%20time%20to%20time%2C%20miss%20the%20memories%20we%20made%20together%2C%20wish%20so%20earnestly%20for%20your%20happiness%2C%20and%20why%20you've%20become%20so%20precious%20to%20me.%20Because%20I've%20fallen%20in%20love%20with%20you.--**Original%20Novel%3A**%20(https%3A%2F%2Fseries.naver.com%2Fnovel%2Fdetail.series%3FproductNo%3D4697418)%2C%20(https%3A%2F%2Fseries.naver.com%2Fnovel%2Fdetail.series%3F)**Original%20Webtoon%3A**%20(https%3A%2F%2Fseries.naver.com%2Fcomic%2Fdetail.series%3FproductNo%3D8991866)%2C%20(https%3A%2F%2Fcomic.naver.com%2Fwebtoon%2Flist%3FtitleId%3D801580)**Official%20Translations%3A***%20(https%3A%2F%2Fmanga.line.me%2Fproduct%2Fperiodic%3Fid%3DZ0002787)%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>For%20Snow%20White</image:title>
+                </image:image>
+              </url>
+              
+    
+  </urlset>

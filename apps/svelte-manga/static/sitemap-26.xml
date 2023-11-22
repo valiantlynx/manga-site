@@ -1,0 +1,237 @@
+<?xml version='1.0' encoding='utf-8'?>
+  <urlset
+    xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="https://www.w3.org/1999/xhtml"
+    xmlns:news="https://www.google.com/schemas/sitemap-news/0.9"
+    xmlns:image="https://www.google.com/schemas/sitemap-image/1.1"
+    xmlns:video="https://www.google.com/schemas/sitemap-video/1.1">
+    <url>
+      <loc>http://localhost:5173</loc>
+    </url>
+    
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-qp994098</loc>
+                <lastmod>2023-11-22T16:53:02.372Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-qp994098.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20After%20my%20previous%20life%20was%20cut%20short%2C%20I%20was%20reincarnated%20in%20a%20world%20of%20early%20modern-style%20warfare%20where%20line%20infantry%20exchanges%20gunfire.%20Being%20a%20commoner%20second%20lieutenant%2C%20I%20was%20shunned%20as%20%22Krombertz%20the%20Grim%20Reaper%22%20because%20of%20the%20many%20deaths%20of%20my%20men%20in%20battle.%20With%20that%2C%20I%20was%20assigned%20to%20the%206th%20Special%20Tasks%20Brigade%2C%20an%20all-female%20unit%2C%20as%20a%20staff%20officer.%20The%20brigade%20commander%2C%20who%20is%20up%20to%20something%2C%20and%20the%20carefree%20non-commissioned%20officer%20are%20women%2C%20while%20the%20foot%20soldiers%20are%20just%20girls%20who%20are%20practically%20amateurs.%20In%20this%20world%2C%20if%20you%20don't%20fight%2C%20you%20will%20be%20killed.%20That%20being%20the%20case%2C%20I%20have%20to%20do%20something%20about%20this...%20but%20how%3F!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Musket%20Girls!%20~Tensei%20Sanbou%20To%20Senretsu%20Otome-Tachi~</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-th996490</loc>
+                <lastmod>2023-11-22T16:53:02.372Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-th996490.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20On%20Haje%2C%20a%20face%20genius%20seen%20only%20once%20every%20thousand%20years!After%20turning%20down%20a%20sponsorship%20offer%20and%20losing%20the%20chance%20to%20debut%2C%20He%20vowed%20never%20to%20set%20foot%20in%20the%20entertainment%20industry%20again.So%20why%20was%20he%20chosen%20by%20an%20idol-nurturing%20game%20system%3F%3F%3FNo%20money%2C%20no%20house%2C%20no%20knowledge.Haje%E2%80%99s%20experienced%20nothing%20but%20toil%20and%20moil%20in%20this%20new%20life%20of%20his.%20From%20finding%20hidden%20talents%20and%20growing%20to%20be%20a%20respectable%20idol%2C%20to%20playing%20mental%20tug%20of%20war%20against%20the%20callous%20system%20and%20even%20Investigating%20the%20past%20of%20the%20possessed%20character.%20Haje%20was%20busy%20running%20around%20doing%20this%20and%20that!%E2%80%9CThis%20is%20no%20good%2C%20I%E2%80%99m%20having%20fun.%E2%80%9DQue%20sera%20sera.Haje%20decides%20to%20just%20charge%20ahead%2C%20overcome%20every%20challenge%2C%20and%20attack%20the%20show%20business%20head-on.This%20is%20the%20genius%20idol%E2%80%99s%20strategy%20to%20conquer%20the%20entertainment%20industry!%23Did_We_Seriously_Call_Him_A_Decorative_Vase%23The_Skilled_Hunk_Is_Actually_A_Genius%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Genius%20Idol's%20Celebrity%20Strategy</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-vg999089</loc>
+                <lastmod>2023-11-22T16:53:02.372Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-vg999089.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20I%2C%20an%20innocent%20office%20worker%2C%20possessed%20the%20devastating%20novel%20.%20On%20top%20of%20that%2C%20I%E2%80%99m%20Giselle%20Lloydsvin%2C%20a%20villainess%20who%20poisons%20herself%20to%20death%20before%20being%20hanged!%20But%20the%20poison%20brought%20by%20the%20assassins%20doesn't%20work%3F%20It%20even%20tastes%20like%20fruit!%E2%80%9CYou%E2%80%99ll%20be%20okay%20since%20it%E2%80%99s%20only%20a%20little%20bit%2C%20so%20hurry%20and%20drink%20it.%E2%80%9D%E2%80%A6Even%20though%20I%20possessed%20someone%2C%20it%20seems%20my%20destiny%20is%20to%20be%20tormented%20by%20a%20crazy%20assassin.%20However%2C%20%E2%80%9CLeniel%E2%80%9D%2C%20who%20I%20thought%20was%20just%20a%20crazy%20assassin%2C%20turns%20out%20to%20be%20the%20frontman%20for%20the%20final%20villain%2C%20%E2%80%9CWayne%20Ayore%E2%80%9D%3F!In%20order%20to%20hold%20onto%20this%20lifeline%2C%20I%20clung%20to%20the%20villain%20in%20.%20%E2%80%9CI%20can%20distinguish%20the%20taste%20of%20poison.%E2%80%9D%E2%80%9CPoison%3F%E2%80%9D%E2%80%9CYes.%E2%80%9D%E2%80%9CWhat%20use%20is%20that%3F%E2%80%9D%E2%80%9CYour%20boss%20is%20going%20to%20be%20poisoned%2C%20so%20I%20can%20be%20his%20poison%20taster.%E2%80%9DAnd%20so%2C%20I%20thought%20I%20could%20survive%20well%20as%20a%20general%20store%20employee%20of%20the%20villain%E2%80%99s%20frontman(%3F)...%20%E2%80%9CMy%20boss%20is%20so%20strong%20to%20the%20point%20that%20there%E2%80%99s%20something%20suspicious%20about%20him!%E2%80%9D%E2%80%A6Why%20does%20it%20feel%20like%20I%E2%80%99m%20doomed%20in%20this%20life%20too%3F%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>I%20Will%20Become%20The%20Villain's%20Poison%20Taster</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-es982201</loc>
+                <lastmod>2023-11-22T16:53:02.372Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-es982201.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Having%20survived%20an%20isekai%20for%2017%20years%2C%2034%20year%20old%20Ojisan%20(uncle)%20returns%20to%20modern%20day%20Japan.%20Takafumi%2C%20Ojisan's%20nephew%2C%20now%20gets%20to%20witness%20what%20throwing%20a%20diehard%20Sega%20fan%20into%20an%20isekai%20for%2017%20years%20does%20to%20various%20things%20and%20people%2C%20both%20past%20and%20present.%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Isekai%20Ojisan</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-ta996635</loc>
+                <lastmod>2023-11-22T16:53:02.372Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-ta996635.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20The%2028-year-old%203D%20modeler%20with%2040%20years%20of%20work%20experience%20was%20reborn%20in%20the%20fantasy%20world%20of%20sword%20cultivation%20and%20mecha%E2%80%A6%20Binding%20the%20sword%20casting%20system%2C%20loaded%20the%20sword%20map%20of%20a%20different%20world%2C%20using%20cheats%20while%20being%20careless.%20No%20way.%20Whether%20the%20world%20casts%20swords%20or%20shapes%2C%20it%20is%20too%20simple%20for%20a%20three-dimensional%20modeler%E2%80%A6%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Sword%20Intent</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-qr993374</loc>
+                <lastmod>2023-11-22T16:53:02.372Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-qr993374.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20In%20the%20mobile%20gacha%20game%20infamous%20for%20its%20atrocious%20difficulty%2C%20the%20Master%20ranked%205th%20in%20the%20world%2C%20'Loki'%2C%20loses%20consciousness%20while%20raiding%20the%20Dungeon.'What%3F%20I'm%20a%20game%20character%20now%3F'After%20waking%20up%2C%20'Loki'%20realizes%20he%20has%20turned%20into%20a%20Level%201%2C%201-Star%20Hero%E2%80%94'Han%20Yslat'.%20To%20return%20to%20Earth%2C%20he%20must%20lead%20the%20newbie%20Master%20and%20heroes%20and%20clear%20the%20100th%20floor%20of%20the%20Dungeon!'You%20messed%20with%20the%20wrong%20guy.'This%20is%20the%20story%20of%20hard%20carrying%20by%20Master%20Loki%20who%20never%20accepts%20even%20a%20single%20defeat.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Pick%20Me%20Up!</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-iy985581</loc>
+                <lastmod>2023-11-22T16:53:02.372Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-iy985581.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20You%E2%80%99re%20flexing%20in%20front%20of%20me%3F%20Watch%20me%20humiliate%20you!%20Women%3F%20I%20have%20nine%20of%20them!%20I%20am%20matchless!%20Yeah%2C%20that%E2%80%99s%20how%20arrogant%20I%20am!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>I%20Have%20Nine%20Female%20Disciples</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-ba978735</loc>
+                <lastmod>2023-11-22T16:53:02.372Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-ba978735.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Oono%20Akira%2C%20a%20working%20adult%20that%20can%20be%20found%20anywhere%20was%20transported%20to%20a%20different%20world%20while%20logged%20into%20a%20character%20known%20as%20the%20%E2%80%9CDemon%20Lord%E2%80%9D%20a%20game%20he%20manages.%20There%20he%20meets%20a%20child%20with%20a%20disabled%20leg%20and%20they%20begin%20to%20travel%20together%2C%20but%20there%20no%20way%20that%20others%20will%20leave%20a%20%E2%80%9Cdemon%20lord%E2%80%9D%20with%20such%20overwhelming%20strength%20alone.%20While%20being%20targeted%20by%20countries%20and%20saints%20that%20are%20trying%20to%20subdue%20the%20demon%20lord%2C%20they%20cause%20turmoil%20wherever%20they%20go.%20Demon%20lord%20on%20the%20outside%2C%20normal%20person%20on%20the%20inside%2C%20a%20misunderstanding%20type%20fantasy!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Maou-Sama%20Retry</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-tb997136</loc>
+                <lastmod>2023-11-22T16:53:02.372Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-tb997136.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20A%20completely%20original%20story%20of%20Kuma%20Kuma%20Kuma%20Bear.%20An%20exciting%20tale%20of%20featuring%20Yuna%2C%20a%20bear%20girl%20dressed%20in%20overpowered%20and%20cute%20bear%20equipment!While%20living%20free-spirited%20in%20another%20world%2C%20there%20are%20incidents%20that%20make%20Yuna%20want%20to%20rest.%20An%20original%20story%20that%20no%20one%20knows%20yet%20begins%20with%20delicious%20food%20in%20hand%20%E2%99%AADuring%20their%20stay%20in%20the%20royal%20capital%2C%20Yuna%20and%20Fina%20hear%20rumors%20of%20a%20phantom%20thief%20who'd%20been%20stealing%20jewels%20from%20nobles%20and%20then%20returning%20them.%20They%20travel%20to%20see%20one%20of%20the%20phantom%20thief's%20latest%20robbery's%20when...%3F%20%22Phantom%20Thief%20of%20the%20Royal%20Capital%22%20Chapter%20start!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Kuma%20Kuma%20Kuma%20Bear%20Gaiden%20-%20Yuna%20No%20Yorimichi%20Techo</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-vd999038</loc>
+                <lastmod>2023-11-22T16:53:02.372Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-vd999038.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Tarou%20Satu%2C%20a%20young%20man%20who%20longed%20for%20an%20otherworldly%20adventure%20since%20a%20child%20and%20devoted%20his%20youth%20to%20finding%20it%2C%20finally%20goes%20to%20another%20world%20on%20his%20own.%20However%2C%20things%20did%20not%20go%20well%20for%20him%2C%20as%20his%20previous%20life's%20memories%20were%20about%20to%20be%20erased%20by%20G**.%20Despite%20that%2C%20he%20almost%20dies%20during%20his%20reincarnation%20process%2C%20which%20allows%20him%20to%20fulfil%20the%20condition%20for%20a%20special%20ability%20and%20luckily%2C%20keep%20his%20old%20memories.%20From%20there%2C%20the%20now%20reincarnated%20Tauro%20Satu%2C%20grows%20up%20by%20using%20his%20brains%20and%20efforts%20while%20gradually%20developing%20his%20mysterious%20skill%2C%20Garbled%20Text%2C%20which%20everyone%20thought%20to%20be%20completely%20useless.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>To%20Another%20World%20On%20My%20Own!</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-dc980937</loc>
+                <lastmod>2023-11-22T16:53:02.372Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-dc980937.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Hinoharu%20Kota%20gets%20stronger%20each%20time%20he%20gets%20summoned%20to%20another%20world%20as%20a%20summoned%20beast.%20A%20troubled%20middle-aged%20office%20worker%20was%20summoned%20as%20a%20summon%20beast%20to%20another%20world.%20Although%20he%20is%20a%20man%20without%20any%20special%20characteristics%2C%20he%20continues%20to%20be%20a%20summoned%20beast%20for%20a%20female%20knight.%20A%20different%20world%20love%20adventure%20fantasy%20that%20depicts%20a%20hero%20who%20obtains%20a%20new%20skill%20every%20time%20he%20is%20summoned%20between%20the%20two%20worlds%20that%20he%20exists%20in.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Sen%20No%20Sukiru%20O%20Motsu%20Otoko</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-tt971228</loc>
+                <lastmod>2023-11-22T16:53:02.372Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-tt971228.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Imagine%20there%20is%20a%20bar%20with%20many%20weird%20kind%20of%20food%20and%20drink%20that%20might%20bring%20you%20to%20another%20world!%20The%20bar%2C%20so-called%20%22Nobu%22%20is%20located%20in%20a%20alley%20of%20the%20old%20city%20Aiteria.%20AT%20the%20very%20first%20step%2C%20diners%20feels%20like%20falling%20into%20another%20completely%20country%2C%20with%20cold%2C%20super%20cool%20beer%2C%20so-called%20%22toriaezu%20Nama%22!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Isekai%20Izakaya</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-pl993346</loc>
+                <lastmod>2023-11-22T16:53:02.372Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-pl993346.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%22Tamaki%20and%20her%20fianc's%20shared%20dream%20was%20to%20open%20a%20caf%20in%20a%20classic%20Japanese%20country%20house.%20They%20decide%20to%20move%20to%20the%20countryside%2C%20dreaming%20of%20a%20slow%20life...%20But%20due%20to%20unexpected%20circumstances%2C%20Tamaki%20finds%20herself%20alone%20and%20homeless.A%20man%20called%20Ichiyo%20helps%20her%20out.%20He's%20foul-mouthed%2C%20arrogant%2C%20and%20a%20sadist%2C%20but%20the%20house%20he%20lets%20her%20live%20in%20is%20the%20country%20house%20of%20her%20dreams!Tamaki%20is%20trying%20hard%20to%20live%20in%20the%20countryside%2C%20but...%3F!Can%20she%20meet%20someone%20there%20who%20can%20help%20lift%20her%20from%20rock%20bottom%3F!%22Country%20House%20With%20Benefits%3F!Ijyuu%2C%20Kominka%2C%20Sefuretsuki!%3F!%3F%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Country%20House%20With%20Benefits%3F!</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-ox991380</loc>
+                <lastmod>2023-11-22T16:53:02.372Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-ox991380.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Often%20tricked%20by%20others%2C%20the%20impoverished%20young%20man%20time-traveled%20into%20the%20*Demon%20Realm*%20and%20was%20assumed%20to%20be%20the%20former%20Queen's%20reincarnation%20and%20was%20brought%20into%20the%20Palace.%20In%20his%20past-life's%20family%2C%20not%20only%20does%20the%20wife-loving%20%22husband%22%20think%20of%20him%20as%20a%20replacement%2C%20but%20the%20%22kids%22%20think%20of%20him%20as%20their%20evil%20step-mother.%20That%20is%2C%20until%20he%20awakened%20a%20**100%20year-old%20infant...**%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Past%20Life%20Family</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-uc997937</loc>
+                <lastmod>2023-11-22T16:53:02.372Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-uc997937.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Bai%20Yifan%20has%20an%20ancient%20ring%20that%20allows%20him%20to%20travel%20freely%20between%20the%20Earth%20and%20the%20fantasy%20world%2C%20and%20he%20has%20discovered%20that%20%22plants%20and%20animals%22%20on%20the%20Earth%20will%20evolve%20into%20treasures%20when%20they%20are%20taken%20to%20the%20fantasy%20world.%20An%20apple%20evolves%20into%20an%20immortal%20fruit%2C%20an%20egg%20will%20hatch%20into%20a%20phoenix%20or%20an%20earth%20dog%20has%20the%20bloodline%20of%20a%20dragon.%20One%20could%20even%20use%20tobacco%20to%20manipulate%20the%20enemy%20to%20their%20advantage.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>I%20Scared%20The%20Divine%20Lord%20As%20I%20Handed%20Over%20The%20Ancient%20Immortal%20Pill</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-rn994748</loc>
+                <lastmod>2023-11-22T16:53:02.372Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-rn994748.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Reincarnating%20from%20a%20fujoshi%20to%20the%20younger%20brother%20of%20a%20BL%20game%20MC!!All%20I%20wanted%20was%20to%20watch%20over%20my%20older%20brothers%2C%20but%20I%20became%20the%20main%20character%3F!A%20working-class%20adult%20fujoshi%20reincarnates%20as%20the%20younger%20brother%20of%20the%20BL%20game%20protagonist%20that%20I%20played%20in%20my%20previous%20life.%20It's%20after%20my%20elder%20brother%20gets%20together%20with%20one%20of%20the%20game%20capture%20targets...%20From%20watching%20the%20%22happy%20ever%20after%22%20of%20the%20%22oshi%20couple%22%2C%20to%20seeing%20how%20the%20other%20brokenhearted%20capture%20targets%20bounce%20back%2C%20this%20position%20is%20just%20too%20delicious!!!%20But%20when%20I%20was%20playing%20the%20game%2C%20there%20was%20no%20%22younger%20brother%22%3F!!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>I%20Realized%20I%20Am%20The%20Younger%20Brother%20Of%20The%20Protagonist%20In%20A%20Bl%20Game</image:title>
+                </image:image>
+              </url>
+              
+    
+  </urlset>

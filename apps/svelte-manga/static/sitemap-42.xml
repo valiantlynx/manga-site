@@ -1,0 +1,237 @@
+<?xml version='1.0' encoding='utf-8'?>
+  <urlset
+    xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="https://www.w3.org/1999/xhtml"
+    xmlns:news="https://www.google.com/schemas/sitemap-news/0.9"
+    xmlns:image="https://www.google.com/schemas/sitemap-image/1.1"
+    xmlns:video="https://www.google.com/schemas/sitemap-video/1.1">
+    <url>
+      <loc>http://localhost:5173</loc>
+    </url>
+    
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-pi992843</loc>
+                <lastmod>2023-11-22T16:53:03.708Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-pi992843.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20.I%20was%20reincarnated...%20Into%20a%20world%20where%20you%20die%20if%20no%20one%20loves%20you!%3F%20A%20fantasy%20world%20romance%20between%20an%20infatuated%20bachelor%20and%20a%20lonely%20boy!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>A%20Near-Death%20Experience%20Is%20A%20Cry%20For%20Love</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-rf994788</loc>
+                <lastmod>2023-11-22T16:53:03.708Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-rf994788.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Mikado%20Hideo%2C%20who%20died%20in%20an%20accident%2C%20was%20reincarnated%20in%20another%20world%20as%20Lars%20Irving%2C%20the%20second%20son%20of%20a%20fallen%20aristocrat.%20Lars%20was%20not%20loved%20by%20his%20family%20in%20his%20previous%20life%2C%20but%20in%20this%20world%20he%20was%20doted%20on%20by%20his%20parents%20and%20older%20brother%20and%20lived%20happily.%20He%20was%20criticized%20for%20his%20%22super%20jack-of-all-trades%22%2C%20which%20he%20received%20at%20the%20age%20of%205%2C%20as%20a%20%22missing%20skill%22%2C%20but%20his%20family%20doesn't%20care%20and%20lives%20a%20carefree%20life.%20One%20day%2C%20he%20learns%20that%20his%20father%20was%20a%20former%20feudal%20lord.%20As%20he%20continued%20to%20investigate%2C%20Lars%20suspected%20that%20the%20current%20lord's%20trap%20had%20ruined%20him%2C%20and%20he%20began%20to%20take%20action%20to%20return%20his%20parents%20to%20the%20lord.%20The%20%22super%20jack-of-all-trades%22%2C%20which%20was%20thought%20to%20be%20a%20lost%20skill%2C%20turned%20out%20to%20be%20a%20cheat%20skill%2C%20and%20Lars%20was%20embroiled%20in%20a%20big%20incident.%20The%20struggle%20of%20the%20ruined%20nobles%20who%20strive%20to%20solve%20the%20case%20with%20the%20failing%20skill%20%22Super%20jack-of-all-trades%22%20now%20begins!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Until%20I%2C%20A%20Fallen%20Nobleman%2C%20Was%20Called%20The%20Great%20Sage%20With%20My%20Failure%20Skill%20%E2%80%9CSuper%20Jack-Of-All-Trades%E2%80%9D</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-sz995408</loc>
+                <lastmod>2023-11-22T16:53:03.708Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-sz995408.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20High%20school%20girl%20Akari%20mourns%20the%20loss%20of%20her%20mother%20who%20died%20when%20she%20shielded%20Akari%20from%20an%20oncoming%20truck%20a%20year%20ago.%20She%20discovers%20an%20adventure%20game%20her%20mother%20had%20gotten%20for%20her%20birthday%20some%20time%20ago%2C%20but%20never%20had%20a%20chance%20to%20finish.%20Suddenly%2C%20she%20is%20summoned%20to%20be%20the%20mother%20of%20the%20Demon%20Lord's%2010%20children%20in%20another%20world%E2%80%A6%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>I%20Guess%20I%20Became%20The%20Mother%20Of%20The%20Great%20Demon%20King's%2010%20Children%20In%20Another%20World</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-se995639</loc>
+                <lastmod>2023-11-22T16:53:03.708Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-se995639.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Spin-off%20Comic%20from%20%22The%20World%20of%20Otome%20Games%20is%20Tough%20for%20Mobs%22%20Starts!%20A%20kindergartener%20mob%20life%20comedy!%20Even%20when%20they're%20tiny%2C%20they're%20still%20female%20chauvinists!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>The%20World%20Of%20Otome%20Games%20Kindergarten%20Is%20Tough%20For%20Mobs</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-uc997737</loc>
+                <lastmod>2023-11-22T16:53:03.708Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-uc997737.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Minhyuk%2C%20a%20bedridden%20man%20in%20Korea%2C%20meticulously%20counts%20his%20waning%20days%20when%20suddenly%2C%20he's%20transmigrated%20to%20another%20world%20where%20he%20gains%20the%20new%20identity%20of%20Levis%2C%20the%20Soul%20Harvester.%20In%20this%20world%2C%20Levis%20must%20claim%20lives%20to%20extend%20his%20own%2C%20a%20haunting%20paradox%20that%20he%20must%20come%20to%20terms%20with.Forced%20to%20grapple%20with%20a%20life%20tethered%20to%20a%20merciless%20ticking%20clock%2C%20Levis%20becomes%20a%20harbinger%20of%20fate%2C%20tasked%20with%20the%20daunting%20responsibility%20of%20ending%20the%20lives%20of%20others%20in%20order%20to%20preserve%20his%20own.How%20far%20does%20the%20will%20to%20survive%20stretch%3F%20Is%20one%20life's%20preservation%20worth%20another's%20demise%3F%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>A%20Knight%20With%20A%20Time%20Limit</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-uh997790</loc>
+                <lastmod>2023-11-22T16:53:03.708Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-uh997790.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Forty%20years%20have%20passed%20since%20his%20reincarnation%2C%20and%20the%20guild%20leader%2C%20Girold%2C%20has%20been%20working%20diligently.%20Looking%20back%20on%20his%20life%2C%20he%20realizes%20that%20he%20hasn't%20been%20able%20to%20get%20married%2C%20so%20he%20tries%20his%20best%20to%20get%20a%20girlfriend%2C%20but%20there%20is%20no%20luck.%20He%20thinks%20he's%20not%20popular%2C%20but%20the%20girls%20around%20him%20are%20trying%20to%20approach%20him%E2%80%A6%20The%20harem%20love%20comedy%20from%20%22Shosetsuka%20ni%20Narou%22%20begins!%20(DeepL)%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Tensei%20Shitekara%2040-Nen.%20Sorosoro%2C%20Ojisan%20Mo%20Koi%20Ga%20Shitai.%20Nidome%20No%20Jinsei%20Wa%20Harem%20Route%3F!</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-ui998265</loc>
+                <lastmod>2023-11-22T16:53:03.708Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-ui998265.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20I%20just%20wanted%20to%20be%20a%20priest%20and%20heal%20others%2C%20so%20why%20did%20I%20become%20the%20strongest%20warrior%20instead%3F!%20I%20just%20wanted%20to%20enjoy%20playing%20the%20game%2C%20but%20why%20have%20I%20crossed%20over%20into%20the%20game%20world%20instead%3F!%20I%20created%20a%20priest%20character%2C%20but%20I'm%20now%20being%20forced%20to%20resolve%20my%20problems%20through%20brute%20force.%20Can't%20you%20just%20let%20me%20focus%20on%20being%20a%20healer%3F!I%20just%20want%20to%20be%20a%20healer%20priest%2C%20why%20should%20I%20be%20the%20strongest%20fighter%3FI%20just%20want%20to%20play%20a%20good%20game%2C%20why%20do%20I%20have%20to%20cross%20into%20the%20game%3FBuild%20a%20priest%20character%2C%20but%20forced%20me%20to%20solve%20the%20problem%20with%20violence%2C%20can%20I%20do%20a%20good%20job%20as%20a%20priest%3F!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>The%20Unrivaled%20Delinquent%20In%20Combat%20Has%20Ended%20Up%20Becoming%20A%20Healer%20Within%20A%20Game</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-fd982412</loc>
+                <lastmod>2023-11-22T16:53:03.708Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-fd982412.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Shen%20Wei%20Lan%20died%20for%20deeply%20loving%20Fu%20Su%20Mian%20in%20her%20last%20life.%20Now%20she%20born%20again%20and%20swore%20that%20she%20would%20stay%20far%20away%20from%20him!%20But%20why%3F!%20She%20racks%20her%20brains%20to%20stay%20far%20away%20from%20him%2C%20but%20he%20who%20hates%20her%20in%20the%20last%20life%20becomes%20strongly%20possessive!%20He%20claims%20arbitrarily%2C%20%E2%80%9CYou%20are%20mine%20forever!%20You%20have%20no%20where%20to%20go!%E2%80%9D%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Mr.%20Fu's%20Favorite</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-oc992011</loc>
+                <lastmod>2023-11-22T16:53:03.708Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-oc992011.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20In%20order%20to%20return%20to%20his%20hometown%2C%20the%20Earth%2C%20Gao%20Miao%20the%20traverser%2C%20journeys%20through%20the%20IP%20worlds%20of%20novels%2C%20comics%2C%20movies%2C%20etc.%20Experiencing%20a%20variety%20of%20different%20lives%2C%20getting%20to%20know%20a%20bunch%20of%20beautiful%20women%2C%20and%20beating%20up%20strong%20enemies.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>I%20Am%20The%20King</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-pp992550</loc>
+                <lastmod>2023-11-22T16:53:03.708Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-pp992550.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Li%20yan%2C%20who%20is%20contracted%20with%20an%20incurable%20disease%2C%20by%20chance%2C%20entered%20a%20bizarre%20and%20motley%20world%20%22%20Yan%20Fu%20%22.%20Relying%20on%20his%20masterly%20skills%2C%20he%20step%20by%20step%20become%20a%20person%20of%20strong%20character.%20And%20in%20the%20process%20of%20walking%20through%20the%20world%20of%20Yanfu%2C%20he%20also%20began%20to%20discover%20the%20true%20mysteries%20of%20this%20world.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Starting%20With%20The%20Guhuo%20Bird</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-ql993420</loc>
+                <lastmod>2023-11-22T16:53:03.708Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-ql993420.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20After%20transmigrating%2C%20the%20male%20protagonist%20who%20obtained%20a%20divine%20physique%20was%20entrusted%20with%20important%20tasks%20by%20various%20forces%20and%20became%20an%20undercover%20agent%3F!%20Jumping%20between%20righteous%20cultivation%2C%20demonic%20cultivation%2C%20demons%2C%20dragons%2C%20and%20collecting%20harem%20members%2C%20he%20will%20become%20the%20king%20of%20the%20world!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Immortal%20World%E2%80%99S%20First%20Undercover%20Agent</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-tl996768</loc>
+                <lastmod>2023-11-22T16:53:03.708Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-tl996768.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20The%20first%20spin-off%20of%20the%20popular%20otherworldly%20manga%20%22Kaminaki%20Sekai%20no%20Kamisama%20Katsudou%22%20(Kamisama%20Activities%20in%20a%20Godless%20World)%2C%20which%20will%20be%20broadcasted%20as%20a%20TV%20anime%20in%202023!%E3%80%80In%20a%20world%20where%20the%20concept%20of%20God%20does%20not%20even%20exist%2C%20a%20woman%20as%20precious%20as%20a%20%22god%22%20has%20been%20reborn!%20In%20search%20of%20her%20beloved%20brother%2C%20Yukito%2C%20the%20strongest%20sister%20goes%20on%20a%20rampage%20in%20another%20world%20-%20the%20myth%20of%20the%20onee-chan%20has%20now%20begun!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Kaminaki%20Sekai%20No%20Onee-Chan%20Katsudou</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-uf997462</loc>
+                <lastmod>2023-11-22T16:53:03.708Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-uf997462.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Toma%20was%20transmigrated%20into%20another%20world%20due%20to%20an%20accident%20caused%20by%20a%20female%20circle%20crusher.%20So%2C%20he%20made%20friends%20in%20the%20new%20world%20and%20rebuilt%20his%20life%20as%20an%20adventurer.%20However%2C%20then%2C%20another%20girl%20joined%20his%20party...%20Will%20his%20life%20collapse%20once%20again%20because%20of%20another%20circle%20crusher%20who%20also%20exists%20in%20this%20new%20world!%3F%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>The%20White%20Mage%20Who%20Joined%20My%20Party%20Is%20A%20Circle%20Crusher%2C%20So%20My%20Isekai%20Life%20Is%20At%20Risk%20Of%20Collapsing%20Once%20Again</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-um997969</loc>
+                <lastmod>2023-11-22T16:53:03.708Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-um997969.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20One%20day%2C%20Sumeragi%20Yuuto%20was%20suddenly%20transferred%20to%20a%20new%20world.%20This%20world%20resembles%20a%20world%20from%20a%20novel%20that%20Yuuto%20recently%20read.%20It%20is%20a%20world%20where%20beauty%20and%20ugliness%20are%20reversed.%20Yuuto%20fell%20and%20was%20carried%20to%20a%20safe%20place.%20The%20girl%20who%20carried%20him%20was%20considered%20ugly%20by%20the%20people%20of%20this%20world.%20This%20is%20the%20story%20of%20making%20a%20harem%20with%20her%20and%20her%20other%20party%20members.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>I%E2%80%99M%20A%20Healer%20In%20The%20Reversed%20World%20Of%20Beauty%20And%20Ugliness</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-kx988306</loc>
+                <lastmod>2023-11-22T16:53:03.708Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-kx988306.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20As%20a%20military%20commander%2C%20I%20crossed%20over%20to%20the%20Sky%20Spirit%20Continent%20due%20to%20an%20accident.%20After%20opening%20my%20eyes%2C%20I%20encountered%20an%20inexplicable%20assassination.%20To%20that%2C%20I%20just%20wanted%20to%20say%2C%20%E2%80%9CYou%20messed%20with%20the%20wrong%20person!%E2%80%9D%20I%20signed%20the%20system%20on%20the%20front%20foot%2C%20awakened%20the%20top%20spiritual%20power%20on%20the%20back%20foot%2C%20carrying%20a%20bazooka%20to%20do%20in%20the%20real%20culprit%2C%20stirring%20him%20up!%20The%20only%20thing%20that%20hurts%20is%20that%20there%20are%20too%20many%20people%20who%20are%20interested%20in%20me%2C%20so%20can%20I%20get%20to%20that%20actual%20perpetrator%2C%20huh%3F%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Military%20Phoenix</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-nf991162</loc>
+                <lastmod>2023-11-22T16:53:03.708Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-nf991162.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20A%20common%20scene.%20A%20person%20dies%2C%20their%20soul%20sent%20to%20the%20great%20beyond.%20A%20goddess%20plucks%20it%20from%20the%20ether%20and%20offers%20a%20deal%20-%20she%20will%20send%20the%20soul%20to%20another%20world%20she%20has%20created.%20She%20will%20also%20bequeath%20the%20human%20with%20skills%20that%20are%20so%20powerful%20they%20could%20be%20considered%20cheats.%20The%20goddess%20only%20asks%20for%20one%20thing%20in%20return%3A%20that%20they%20use%20their%20special%20powers%20to%20save%20her%20world%20from%20destruction.The%20soul%20is%20summoned%20to%20another%20world%20and%20given%20the%20powers%20of%20a%20demigod.%20And%20as%20power%20corrupts%2C%20so%20too%20do%20the%20summoned%20humans%20abuse%20their%20abilities%20for%20wanton%20greed%20and%20violence.Zyzz%20is%20a%20slave%20of%20one%20such%20otherworlder%2C%20who%20voluntarily%20became%20his%20servant%20to%20search%20for%20his%20sister.%20Then%20one%20day%2C%20he%20meets%20Kaina%2C%20a%20woman%20who%20calls%20herself%20the%20%E2%80%9Clast%20summoned%20person%E2%80%9D%2C%20who%20was%20hand-picked%20by%20the%20goddess%20to%20eat%20those%20who%20have%20reneged%20on%20their%20promises%E2%80%A6The%20newest%20work%20from%20the%20author%20of%20Corpse%20Princess.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Cheat%20Eater%3A%20Destroyer%20Of%20Those%20Summoned%20From%20Different%20Worlds</image:title>
+                </image:image>
+              </url>
+              
+    
+  </urlset>

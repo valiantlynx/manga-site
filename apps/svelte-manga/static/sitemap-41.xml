@@ -1,0 +1,237 @@
+<?xml version='1.0' encoding='utf-8'?>
+  <urlset
+    xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="https://www.w3.org/1999/xhtml"
+    xmlns:news="https://www.google.com/schemas/sitemap-news/0.9"
+    xmlns:image="https://www.google.com/schemas/sitemap-image/1.1"
+    xmlns:video="https://www.google.com/schemas/sitemap-video/1.1">
+    <url>
+      <loc>http://localhost:5173</loc>
+    </url>
+    
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-on991570</loc>
+                <lastmod>2023-11-22T16:53:03.630Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-on991570.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20A%20parody%20of%20(https%3A%2F%2Fmangadex.org%2Ftitle%2F44625%2Fthis-croc-will-die-in-100-days)%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Kono%20Subarashii%20Sekai%20Ni%20Shukufuku%20Wo!%20-%20Kazumegu%20Will%20Get%20Married%20In%20100%20Days%20(Doujinshi)</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-pn993048</loc>
+                <lastmod>2023-11-22T16:53:03.630Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-pn993048.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Akira%20Kudo%2C%20a%20high%20school%20student%20who%20can%20freely%20travel%20back%20and%20forth%20between%20Japan%20and%20another%20world%2C%20Do%20Merta.%20With%20no%20goals%20in%20mind%2C%20he%20spends%20his%20time%20after%20school%20enjoying%20life%20in%20another%20world%20as%20he%20is!As%20an%20adventurer%2C%20he%20gets%20teased%20by%20the%20guild's%20receptionist%2C%20receives%20%22rewards%22%20from%20his%20magic%20master%2C%20and%20has%20fun%20with%20the%20girl%20he%20helped...!%3F%22I%20hate%20pain!%20I%20don't%20care%20about%20ranking%20up!%20Guild%20requests%20are%20also%20troublesome!%22A%20leisurely%20labyrinth%20exploration%20fantasy%20just%20for%20after%20school!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>After%20School%20Labyrinth%20Adventurer%20~I'm%20Now%20Able%20To%20Go%20Back%20And%20Forth%20Between%20Japan%20And%20Another%20World%2C%20And%20I'll%20Work%20Hard%20To%20Level%20Up~</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-qc993659</loc>
+                <lastmod>2023-11-22T16:53:03.630Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-qc993659.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Tougo%20is%20a%20high%20school%20student%20who%20loves%20drawing%20more%20than%20anything.%20One%20day%2C%20he%20woke%20up%20in%20a%20deep%20forest%20filled%20with%20vegetations%20he%20had%20never%20seen%20before...While%20he%20went%20on%20an%20exploration%20finding%20answers%20in%20this%20new%20world%2C%20he%20found%20them%20without%20putting%20much%20effort.When%20he%20drew%20a%20Mochi%20using%20pencil%20and%20paper%2C%20something%20unusual%20happened...!%3FNot%20just%20a%20log%20house%20but%20legendary%20beasts%20too!%3FWith%20ability%20to%20bring%20anything%20into%20being%2C%20he%20creates%20a%20paradise%20for%20everyone!A%20young%20boy%20who%20unbeknown%20to%20him%20is%20loved%20by%20others.The%20drawing%20fantasy%20story%20starts%20here!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>The%20Mochi%20I%20Drew%20Is%20Tasty%20Today%20Too</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-su995703</loc>
+                <lastmod>2023-11-22T16:53:03.630Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-su995703.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Slain%20and%20reborn%20into%20a%20typical%20modern-day%20household%2C%20this%20story%20chronicles%20the%20daily%20lives%20of%20a%20mother%20and%20her%20daughter%20(Former%20Demon%20King).%20Watch%20as%20Mao-chan%20adapts%20to%20a%20brand%20new%20world%2C%20meeting%20faces%20old%20and%20new.Originally%20uploaded%20on%20Twicomi%2C%20the%20ebook%20version%20of%20the%20story%20comes%20bundled%20with%20another%20short%20story%20by%20the%20same%20author%2C%20%E2%80%9CTa-chan%20and%20Maa-kun%E2%80%9D.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>My%20Daughter%20Might%20Be%20The%20Demon%20King%20Reincarnated</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-tp997098</loc>
+                <lastmod>2023-11-22T16:53:03.630Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-tp997098.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Realistic%20take%20on%20a%20modern%20doctor%20in%20another%20world%20treating%20fantasy%20creatures%20without%20magic%20or%20modern%20equipment%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>I%20Used%20High-Level%20Medicine%20To%20Counter%20Magic</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-nj990618</loc>
+                <lastmod>2023-11-22T16:53:03.630Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-nj990618.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Thank%20You%20Isekai!%20manga%20%2C%20Isekai%20Arigatou%20%2C%20%22Listen%20up%2C%20right%20now%2C%20there's%20a%20super%20important%20and%20urgent%20question!%20Am%20I%20cute%3F%22%20Chiba%20and%20Sheina%2C%20a%20pair%20of%20single%2C%20otaku%20males%20in%20their%2030s%20that%20met%20during%20a%20highschool%20reunion!%20Shortly%20after%20hitting%20it%20off%20with%20each%20other%2C%20they're%20thrown%20into%20one%20misfortune%20after%20another%2C%20and%20before%20they%20know%20it%20They%20got%20reincarnated%20in%20an%20Isekai%20as%20pretty%20babes!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Thank%20You%2C%20Isekai!</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-pt992802</loc>
+                <lastmod>2023-11-22T16:53:03.630Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-pt992802.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20A%20collection%20of%20short%20side%20stories%20taking%20place%20in%20the%20world%20of%20Tensura---------The%20ordinary%20Mikami%20Satoru%20found%20himself%20dying%20after%20being%20stabbed%20by%20a%20slasher.%20It%20should%20have%20been%20the%20end%20of%20his%20meager%2037%20years%2C%20but%20he%20found%20himself%20deaf%20and%20blind%20after%20hearing%20a%20mysterious%20voice.%20He%20had%20been%20reincarnated%20into%20a%20slime!While%20complaining%20about%20becoming%20the%20weak%20but%20famous%20slime%20and%20enjoying%20the%20life%20of%20a%20slime%20at%20the%20same%20time%2C%20Mikami%20Satoru%20met%20with%20the%20Catastrophe-level%20monster%20%E2%80%9CStorm%20Dragon%20Veldora%E2%80%9D%2C%20and%20his%20fate%20began%20to%20move.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>That%20Time%20I%20Got%20Reincarnated%20As%20A%20Slime%20-%20Tensura%20Short%20Stories</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-qw993831</loc>
+                <lastmod>2023-11-22T16:53:03.630Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-qw993831.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Leave%20Me%20Alone%20I%20Want%20to%20Enjoy%20Cheat%20Life%20with%20My%20Familiar%20manga%2C%20Please%20leave%20me%20alone%20I%20want%20to%20enjoy%20cheat%20life%20with%20my%20subordinates!%20%2C%20%2F%20Mizuki%2C%20an%20office%20lady%2C%20wakes%20up%20in%20an%20unfamiliar%20forest%2C%20in%20the%20form%20of%20a%20little%20girl%20somehow.%20She%20seems%20to%20have%20been%20reincarnated%20in%20a%20different%20world%2C%20and%20Mizuki%20is%20at%20a%20loss%2C%20but%20for%20some%20reason%2C%20she%20gets%20more%20and%20more%20strong%20allies%20-or%20rather%2C%20more%20followers-%20such%20as%20the%20legendary%20monster%20Fenrir%2C%20a%20talented%20A-rank%20adventurer%2C%20and%20the%20others.%20%22I%20just%20want%20to%20live%20a%20leisurely%20life%2C%20but%20why%20am%20I%20surrounded%20by%20overprotective%20adults!%3F%22%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Hottoite%20Kudasai%20-%20Juuma%20To%20Cheat%20Life%20Tanoshii%20Mitai!</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-qn993922</loc>
+                <lastmod>2023-11-22T16:53:03.630Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-qn993922.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20One%20day%2C%20an%20ordinary%20high%20school%20student%20is%20transferred%20to%20another%20world.He%20raises%20his%20level%20in%20the%20other%20world%2C%20successfully%20defeats%20the%20Demon%20King%2C%20and%20saves%20the%20world!With%20his%20strongest%20status%2C%20he%20decided%20to%20return%20to%20his%20own%20world.However%2C%20in%20the%20world%20to%20which%20he%20returns%2C%20a%20new%20%22dungeon%22%20has%20appeared.A%20modern%20dungeon%20fantasy%20where%20the%20former%20hero%20becomes%20a%20warrior%2C%20delving%20into%20dungeons%20created%20in%20his%20own%20world!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>The%20Hero%20Returns%20From%20Another%20World%2C%20Becomes%20An%20Influencer%2C%20And%20Earns%20Money%20In%20The%20Real%20World%2C%20Where%20Dungeons%20Have%20Appeared!</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-rx994580</loc>
+                <lastmod>2023-11-22T16:53:03.630Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-rx994580.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20I%20went%20to%20bed%20after%20completing%20the%20blockbuster%20eroge%20game%20that%20had%20become%20a%20trending%20topic%20in%20the%20past%20few%20days.%20When%20I%20woke%20up%2C%20I%20noticed%20something%20was%20different.%20Somehow%2C%20and%20for%20some%20reason%2C%20I%20got%20reincarnated%20in%20the%20initial%20stage%20of%20the%20same%20game%20that%20I%20was%20playing%20before.The%20most%20concerning%20part%20was%20my%20character.%20I%20was%20playing%20the%20role%20of%20a%20character%20who%20challenges%20the%20hero%20and%20gets%20defeated.%20In%20addition%2C%20all%20the%20routes%20of%20this%20particular%20character%20have%20been%20confirmed%20death.I%20got%20reincarnated%20as%20an%20underdog%2C%20and%20the%20situation%20is%20even%20worse%2C%20because%20someone%20has%20already%20defeated%20me%20in%20a%20duel.%20I%20can%E2%80%99t%20escape%20death%20anymore.%20But%20I%20won%E2%80%99t%20give%20up.%20I%20have%20the%20knowledge%20of%20the%20eroge%20game%20that%20I%20had%20cleared%20in%20my%20previous%20life.%20I%20will%20make%20full%20use%20of%20it%20and%20try%20to%20survive.This%20is%20a%20story%20about%20our%20hero%20who%20got%20reincarnated%20as%20an%20eroge%20underdog%20character%2C%20and%20is%20trying%20his%20hardest%20to%20survive.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Reincarnation%20To%20The%20World%20Of%20%E2%80%9CEroge%E2%80%9D%3A%20The%20Story%20About%20Lazy%20Aristocrat%20Who%20Struggle%20For%20Resist%20His%20Destiny</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-sm995595</loc>
+                <lastmod>2023-11-22T16:53:03.630Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-sm995595.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20A%20karate%20practitioner%20who%20has%20been%20transferred%20to%20another%20world%20refuses%20the%20cheat%20skills%20given%20by%20the%20goddess%20and%20he%20pursues%20his%20own%20karate%20in%20another%20world.%20Note%3A%20The%20title%2C%20Karate%20Baka%20Isekai%2C%20is%20a%20parody%20of%20the%20Manga%2C%20Karate%20Master%20(Karate%20Baka%20Ichidai).%20It%20doesn't%20mean%20he's%20an%20idiot.%20%20Original%20WN%20(Kakuyomu)%3A%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Karate%20Baka%20Isekai</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-tk996567</loc>
+                <lastmod>2023-11-22T16:53:03.630Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-tk996567.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20How%20the%20Villainess%20Becomes%20a%20Saint%3A%20Escaping%20Certain%20Death!%20manga%2C%20Akuyaku%20Reijou%20desuga%20Shibou%20Flag%20Kaihi%20no%20Tame%20ni%20Seijo%20ni%20Natte%20Kenryoku%20wo%20Koushi%20Shiyou%20to%20Omoimasu%20%2C%20She%20was%20just%20a%20regular%20office%20worker%20living%20a%20regular%20life%2C%20but%20one%20day%2C%20she%20gets%20reincarnated%20as%20a%20villainess%20in%20a%20game%20that%20she's%20been%20playing%20Now%20she's%20a%20villainess%20(6%20years%20old)%20whose%20death%20is%20a%20compulsory%20event%20no%20matter%20which%20route%20she%20takes!%20While%20being%20smothered%20by%20her%20father's%20love%2C%20she%20uses%20her%20knowledge%20from%20her%20previous%20life%20to%20great%20effect!%20She's%20going%20to%20use%20any%20means%20possible%20to%20avoid%20dying!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>How%20The%20Villainess%20Becomes%20A%20Saint%3A%20Escaping%20Certain%20Death!</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-ts996701</loc>
+                <lastmod>2023-11-22T16:53:03.630Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-ts996701.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20I%20reincarnated%20as%20the%20younger%20sister%20of%20the%20male%20lead%20in%20a%20BL%20novel.She's%20a%20fragile%20sunfish%20whose%20life%20is%20in%20danger%20even%20from%20catching%20a%20cold.So%2C%20I%20took%20advantage%20of%20a%20childhood%20friend%20who%20has%20healing%20abilities.The%20problem%20is%2C%20that%20ability%20manifests%20through%20skinship.Anyway%2C%20it%20was%20only%20a%20matter%20of%20time%20before%20this%20little%20guy%20fell%20in%20love%20with%20the%20male%20protagonist%2C%20so%20I%20didn't%20worry%20for%20long.We%20held%20hands%20and%20I%20stole%20his%20first%20kiss...But%20then%2CSince%20when...%22Lavie%2C%20you're%20beautiful.%22%22Huh...%3F%22%22You%20should%20look%20outside.%20I%20couldn't%20stop%20myself%20when%20I%20saw%20you.%22%22Akka%2C%20stop%20it.%22%22If%20you%20keep%20getting%20nervous%20like%20that%2C%20it%20makes%20me%20wanna%20do%20it%20more.%22Why%20is%20the%20guy%20who%20should%20be%20with%20the%20male%20lead%20suddenly%20doing%20this%20to%20me%3F!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Please%20Treat%20Your%20Friends%20Preciously</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-vi998665</loc>
+                <lastmod>2023-11-22T16:53:03.630Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-vi998665.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Beyond%20the%20mountains%2C%20trees%2C%20and%20flowers%20of%20our%20Earth%2C%20lies%20a%20mythical%20place%20better%20known%20as%20The%20Spirit%20World.%20A%20place%20which%20hides%20our%20true%20origins%20within%20the%20seasonal%20winds%20of%20its%20rainbow-colored%20skies%20and%20fluffy%20pastel%20clouds.%20Long%20ago%2C%20a%20group%20known%20as%20the%20Temporas%20were%20born%20with%20only%20one%20purpose%2C%20to%20create%20the%20universe.%20But%20that%20was%20written%20in%20stone%20many%20centuries%20ago%2C%20unlike%20today's%20blue-eyed%20pair%20destined%20to%20break%20all%20despair.%20Hopefully%2C%20twins%20Ember%20%26%20Eira%20are%20able%20to%20complete%20all%20the%20tasks%20faced%20before%20them.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Spirit%20Of%20December</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-ni990891</loc>
+                <lastmod>2023-11-22T16:53:03.630Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-ni990891.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20The%20youngest%20professor%20of%20medicine%20in%20history%20transmigrates%20to%20a%20matriarchal%20kingdom%2C%20where%20she%20has%20four%20husbands.%20She%20initially%20thinks%20that%20she%E2%80%99s%20the%20chosen%20one%20and%20is%20at%20the%20top%20of%20the%20world%2C%20but%20it%20turns%20out%20that%20her%20husbands%20are%20trying%20to%20kill%20her.%20She%20has%20no%20choice%20but%20to%20farm%20and%20run%20a%20business%20in%20order%20to%20improve%20her%20situation.%20Beautiful%20men%20then%20come%20running%20to%20hit%20on%20her.%20Out%20of%20jealousy%2C%20her%20husbands%20push%20her%20down.%20%E2%80%9CAre%20you%20trying%20to%20avoid%20taking%20responsibility%20now%20that%20you%E2%80%99ve%20slept%20with%20us%3F%E2%80%9D%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>My%20Male%20Harem</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-er982326</loc>
+                <lastmod>2023-11-22T16:53:03.630Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-er982326.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Nanami%20died%20in%20her%20previous%20life%2C%20but%20an%20Angel%20suddenly%20appears%20before%20her%20then%20gives%20her%20a%20second%20chance!%3F%20But...%20Miss%20Angel%20reincarnates%20her%20as%20both%20Hero%20and%20Demon%20Lord%3F!%3F!%20Poor%20Nanami%20has%20a%20tough%20road%20ahead%2C%20against%20herself!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Hero%20Or%20Demon%20Lord%3F%20Let%20Me%20Choose!</image:title>
+                </image:image>
+              </url>
+              
+    
+  </urlset>

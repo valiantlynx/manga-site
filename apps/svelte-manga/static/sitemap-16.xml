@@ -1,0 +1,237 @@
+<?xml version='1.0' encoding='utf-8'?>
+  <urlset
+    xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="https://www.w3.org/1999/xhtml"
+    xmlns:news="https://www.google.com/schemas/sitemap-news/0.9"
+    xmlns:image="https://www.google.com/schemas/sitemap-image/1.1"
+    xmlns:video="https://www.google.com/schemas/sitemap-video/1.1">
+    <url>
+      <loc>http://localhost:5173</loc>
+    </url>
+    
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-tx996632</loc>
+                <lastmod>2023-11-22T16:53:01.494Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-tx996632.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Just%20entered%20the%20novel%20world%20and%20unexpectedly%20became%20a%20cannon%20fodder%20supporting%20character%20named%20Mo%20Lang%2C%20who%20also%20married%20the%20villain%20boss%20as%20his%20wife%3F%20As%20a%20cannon%20fodder%2C%20he%20not%20only%20has%20to%20whiten%20his%20villainous%20wife%20to%20prevent%20her%20from%20turning%20black%2C%20but%20also%20has%20to%20seize%20the%20air%20luck%20of%20the%20son%20of%20destiny.%20Mo%20Lang%20smiled%20slightly%2C%20although%20he%20had%20no%20cultivation%2C%20the%20system%20gave%20him%20endless%20props%20and%20rare%20treasures%20to%20be%20able%20to%20stand%20at%20the%20top%20of%20this%20continent.%20The%20so-called%20son%20of%20destiny%20is%20nothing%20but%20an%20ant%20in%20his%20hands!%20But%20wait%2C%20why%20does%20the%20villain%20wife%20by%20his%20side%20look%20strange%3F%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>My%20Wife%20Is%20The%20Destined%20Villainess</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-sw995931</loc>
+                <lastmod>2023-11-22T16:53:01.494Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-sw995931.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Behind%20the%20battle%20of%20The%20Hero%20and%20The%20Demon%20King%20manga%2C%20Maou%20to%20Yuusha%20no%20Tatakai%20no%20Ura%20de%20Verna%20reincarnated%20into%20a%20modern%20Japanese%20RPG%20game%20world%20as%20the%20son%20of%20an%20aristocrat%20that%20is%2C%20reincarnated%20not%20as%20a%20main%20character%20but%20someone%20whose%20name%20is%20not%20even%20mentioned.%20On%20top%20of%20that%2C%20as%20his%20skill%20is%20boring%20and%20dull%2C%20he%20wasn't%20a%20person%20who%20was%20fit%20to%20be%20part%20of%20the%20hero's%20storyline.%20The%20only%20thread%20of%20hope%20is%20his%20friendship%20built%20between%20him%20and%20Hero%20Mazell%2C%20and%20his%20knowledge%20and%20wisdom%20passed%20down%20from%20his%20previous%20life%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Behind%20The%20Battle%20Of%20The%20Hero%20And%20The%20Demon%20King</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-gh983516</loc>
+                <lastmod>2023-11-22T16:53:01.494Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-gh983516.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Ariadna%20Lereg%20Ilestri%20Pre%20Agrigent.%20And%20so%20my%20life%20begins%20with%20this%20ridiculously%20long%20name%2C%20born%20to%20royalty%20and%20the%20center%20of%20attention%20%E2%80%94%20all%20because%20of%20one%20dangerous%20man%3B%20the%20veritably%20insane%20tyrant%20king%2C%20ruthless%20conqueror%20of%20ten%20empires%2C%20nightmare%20of%20all%20continents%E2%80%A6%20and%20my%20father%3F!%20Will%20I%20be%20able%20to%20survive%20this%20maniac%3F%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Daughter%20Of%20The%20Emperor</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-rv994504</loc>
+                <lastmod>2023-11-22T16:53:01.494Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-rv994504.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20A%20wealthy%20lady%20booked%20the%20Script%20Kill%20store%2C%20which%20was%20owned%20by%20the%20disgraceful%20man%20who%20broke%20up%20with%20her.%20After%20certain%20measures%2C%20the%20Script%20Host%20System%20warned%20her%2C%E2%80%9CForcibly%20opening%20a%20script%20has%20caused%20the%20system%20to%20undergo%20a%20major%20error.%20Now%2C%20if%20you%20wish%20to%20leave%2C%20you%20must%20give%20each%20script%20a%20happy%20ending.%20If%20you%20fail%20to%20succeed%2C%20you%20can%20work%20till%20your%20death%20inside%20the%20scripts!%E2%80%9D%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>The%20Script%20Shop%20Of%20Dream</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-ib986284</loc>
+                <lastmod>2023-11-22T16:53:01.494Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-ib986284.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Touya%2C%20the%20strongest%20player%20in%20the%20game%20Pandemic%20World%20Online%2C%20has%20won%20so%20many%20items%20that%20he%20decided%20to%20create%20an%20alternative%20account%20to%20store%20them%2C%20while%20playing%20he%20was%20summoned%20to%20another%20world%2C%20but%20not%20having%20the%20category%20of%20hero%20is%20discarded%20and%20replaced%20by%20another%20person%2C%20now%20he%20will%20have%20to%20survive%20only%20in%20that%20world%20and%20with%20the%20character%20he%20created%20to%20store%20those%20items.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>The%20Summoned%20Mage%20Goes%20To%20Another%20World</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-uz997408</loc>
+                <lastmod>2023-11-22T16:53:01.494Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-uz997408.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20The%20Villainess%20wants%20to%20get%20rid%20of%20her%20husband!%20-I%20was%20doing%20whatever%20I%20wanted%2C%20but%20for%20some%20reason%20it%20was%20called%20%22The%20Crown%20Prince's%20Book%22~%20%2C%20!%20When%20I%20wake%20up%2C%20I%20realized%20I%20reincarnated%20as%20the%20Villainess%20Anastasia%2C%20in%20the%20world%20of%20an%20otome%20game.%20But%2C%20the%20heroine%20of%20the%20game%20has%20already%20reached%20the%20bad%20end%20and%20has%20been%20imprisoned.%20Anastasia%20also%20married%20the%20main%20hero%2C%20Prince%20William%2C%20but%20the%20couple's%20relationship%20was%20cold.There%20is%20no%20happiness%20in%20the%20married%20life%20with%20the%20crown%20prince!%20Realizing%20this%2C%20Anastasia%20decides%20to%20divorce%20the%20crown%20prince%20in%20order%20to%20lead%20a%20slow%20life%20in%20the%20countryside.%20However%2C%20the%20attitude%20of%20the%20prince%2C%20who%20was%20just%20cold%2C%20changed%20little%20by%20little%20In%20the%20world%20after%20the%20bad%20end%2C%20the%20villainess%20rebuilds%20the%20country%20!%3F%20A%20romantic%20comedy%20in%20a%20different%20world%20starts%20now!Read%20more%3A%20https%3A%2F%2Fmy%20site%2Fmanga%2Fthe-villainess-wants-to-get-rid-of-her-husband-i-was-doing-whatever-i-wanted-but-for-some-reason-it-was-called-the-crown-princes-book%2F%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>The%20Villainess%20Wants%20To%20Get%20Rid%20Of%20Her%20Husband!%20-I%20Was%20Doing%20Whatever%20I%20Wanted%2C%20But%20For%20Some%20Reason%20It%20Was%20Called%20%E2%80%9CThe%20Crown%20Prince%E2%80%99S%20Book%E2%80%9D</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-sw995605</loc>
+                <lastmod>2023-11-22T16:53:01.494Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-sw995605.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20The%20villainess%20of%20an%20Otome%20Game%2C%20Eleanor%2C%20was%20still%20young%20when%20she%20first%20heard%20somebody's%20%22Inner%20voice%22.%20Tired%20of%20always%20hearing%20people's%20crude%20attention%20and%20their%20calculating%2C%20untrue%2C%20and%20heartless%20thoughts%2C%20at%20some%20point%20she%20had%20closed%20off%20her%20heart%20and%20given%20up%20on%20love.Then%2C%20she%20meets%20the%20first%20prince%2C%20Asher%2C%20at%20a%20ball.%20He's%20handsome%2C%20and%20speaks%20with%20a%20calm%20voice.%20No%20matter%20how%20you%20look%20at%20him%2C%20you'd%20think%20he's%20a%20perfect%20person.%20And%20then...%22Pheww%2C%20I'm%20so%20nervous.%20Okay%2C%20I'll%20do%20my%20best!%20One%2C%20two%2C%20let's%20gooo!%22He's%20actually%20a%20timid%20and%20pure%20prince!%3FFor%20the%20first%20time%2C%20Eleanor%20is%20curious%20about%20the%20boy%20with%20the%20calming%20%22inner%20voice%22.%20Could%20that%20turn%20into%20love...%3F%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>The%20Villainess%20Who%20Can%20Read%20Minds%20Is%20Playing%20With%20Her%20Puppy-Like%20Prince%20Today%20Too</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-lp989324</loc>
+                <lastmod>2023-11-22T16:53:01.494Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-lp989324.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20First%20among%20the%20ten%20martial%20emperors%2C%20Peerless%20Martial%20Emperor%20Gu%20Fei%20Yang%20met%20his%20demise%20in%20the%20Tiandang%20mountains.%20He%20was%20reincarnated%20fifteen%20years%20later%2C%20as%20Li%20Xun%20Xiao%20of%20the%20Tianshui%20Nation%2C%20and%20thus%20began%20a%20heaven-defying%20battlefront%20with%20the%20countless%20talents%20of%20the%20current%20generation.%20Martial%20arts%20of%20the%20nine%20heavens%20and%20ten%20divine%20realms.%20From%20then%20on%2C%20the%20whole%20world%20was%20set%20ablaze.The%20Ancient%20Sovereign%20of%20Eternity%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>The%20Ultimate%20Of%20All%20Ages</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-tg997089</loc>
+                <lastmod>2023-11-22T16:53:01.494Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-tg997089.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Yul%2C%20the%20manager%20of%20the%20interdimensional%20dump%20truck%20office%2C%20accidentally%20kills%20an%20innocent%20man%20named%20Kwon%20Yoo-jun.%20In%20order%20to%20make%20amends%2C%20Yul%20enters%20a%20romance%20fantasy%20novel%20where%20Yoo-jun%20is%20the%20villainess%20and%20tries%20to%20send%20her%20back%20to%20her%20original%20world.%20However%2C%20due%20to%20various%20complications%2C%20Yul%20becomes%20trapped%20in%20the%20novel.%20With%20the%20office%20staff%20scattered%20and%20no%20knowledge%20of%20the%20novel's%20plot%2C%20Yul%20desperately%20searches%20for%20a%20way%20out.%20But%2C%20Yoo-jun%2C%20who%20is%20now%20pretending%20to%20be%20a%20noble%20lady%20in%20the%20new%20world%2C%20causes%20Yul%20a%20headache.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Another%20World%20Dump%20Truck</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-rx994980</loc>
+                <lastmod>2023-11-22T16:53:01.494Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-rx994980.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20The%20protagonist%20is%20%22Uncle%20Arafif%2C%22%20who%20broke%20his%20body%20and%20retired%20after%20working%20as%20a%20cogwheel%20for%20a%20black%20company%20for%20many%20years%2C%20went%20to%20an%20auto%20camp%20to%20spend%20a%20leisurely%20time%20after%20winning%20the%20lottery%20he%20bought%20at%20Yakeso.%22However%2C%20I%20was%20suddenly%20blown%20into%20a%20different%20world%20and%20got%20a%20rejuvenated%20body%20and%20a%20lot%20of%20cheat%20skills!%22Making%20full%20use%20of%20the%20items%20brought%20in%20from%20the%20present%20age%2C%20the%20ex-old%20man%20will%20remake%20his%20life%20as%20much%20as%20he%20wants.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Ossan%20No%20Remake%20Bouken%20Nikki%3A%20Autocamp%20Kara%20Hajimaru%20Isekai%20Mankitsu%20Life</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-ff951362</loc>
+                <lastmod>2023-11-22T16:53:01.494Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-ff951362.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Story%20about%20a%20Yuuka%20Yoshimi%2C%20a%20young%20girl%20working%20in%20a%20Eroge-making%20studio%2C%20learning%20how%20to...make%20a%20good%20ecchi%20CG%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Eg%20Maker</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-tt996976</loc>
+                <lastmod>2023-11-22T16:53:01.494Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-tt996976.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20The%20strongest%20swordsman%20of%20the%20Warring%20States%20period%2C%20transferred%20to%20another%20world.At%20the%20end%20of%20the%20Warring%20States%20Period%2C%20Ginko%2C%20the%20greatest%20swordsman%20of%20the%20time%2C%20was%20always%20hungry%20for%20a%20fight%20to%20the%20death%20with%20someone%20stronger%20than%20herself.%20After%20cutting%20and%20cutting%20and%20cutting%2C%20she%20finally%20despairs%20that%20there%20is%20no%20one%20stronger%20than%20her%20in%20this%20world%2C%20and%20then%20she%20is%20transferred%20to%20another%20world!%20Before%20her%20eyes%20-%20a%20dragon!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Samurai%20In%20Another%20World</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-ht984802</loc>
+                <lastmod>2023-11-22T16:53:01.494Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-ht984802.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Kasiya%20Del%20Roman%20is%20a%20soldier%20crafted%20to%20become%20an%20assassin.%20She%20lost%20her%20human%20emotions%20long%20ago%20and%20lived%20her%20life%20as%20a%20simple%20tool%2C%20just%20to%20be%20thrown%20away%20in%20her%20final%20moments.%20She%20couldn%E2%80%99t%20even%20die%20a%20proper%20death%20as%20she%20opened%20her%20eyes%20to%20a%20battlefield%20of%20a%20different%20world.%20Will%20she%20live%20the%20same%20life%20she%20did%20in%20her%20original%20world%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Crimson%20Karma</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-tp996424</loc>
+                <lastmod>2023-11-22T16:53:01.494Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-tp996424.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Our%20protagonist%2C%20the%20speedrunning%20emperor%20of%20%22Another%20Verse%22%2C%20suddenly%20feels%20sleepy%20in%20the%20middle%20of%20practice.When%20he%20awakens%2C%20the%20familiar%20opening%20of%20%22Another%20Verse%22%20is%20playing%20right%20before%20his%20eyes!%3FIn%20this%20godly%20environment%20where%20the%20body%20is%20moving%20better%20than%20usual%2C%20you%20have%20to%20speedrun!Clearing%20the%20game%20world%20faster%20than%20anyone!Abusing%20bugs%20to%20fight%2C%20the%20%22fastest%22%20Isekai%20fantasy!!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Rta%20Sousha%20Wa%20Game%20Sekai%20Kara%20Kaerenai</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-rj994644</loc>
+                <lastmod>2023-11-22T16:53:01.494Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-rj994644.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20A%20dark%20gloomy%20castle%20with%20endless%20stairways%20and%20an%20ancient%20library.%20Scary%2C%20mysterious%20creatures%20live%20here%2C%20hiding%20in%20the%20night.%20One%20day%2C%20a%20girl%20who%20lost%20her%20memory%20ends%20up%20there.%20Who%20is%20she%20and%20how%20can%20she%20get%20back%3F%20And%2C%20most%20importantly%2C%20how%20will%20the%20owner%20of%20the%20castle%20decide%20her%20fate%3F%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Dark%20Castle</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-ry994933</loc>
+                <lastmod>2023-11-22T16:53:01.494Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-ry994933.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20In%20an%20unexpected%20turn%20of%20events%2C%20Haru%20transmigrates%20into%20the%20body%20of%20Reina%2C%20the%20villainess%20of%20an%20otome%20game.%20%20As%20soon%20as%20she%20transmigrates%2C%20an%20event%20in%20which%20the%20villainess%20bullies%20the%20heroine%20starts.%20If%20she%20bullies%20the%20heroine%20just%20like%20the%20game%2C%20the%20only%20ending%20waiting%20for%20Reina%20will%20be%20one%20of%20destruction.%20This%20isn%E2%80%99t%20the%20time%20to%20be%20acting%20like%20a%20villainess%2C%20I%20want%20to%20enjoy%20my%20life!%20That%E2%80%99s%20what%20Reina%20decided%2C%20but%20the%20heroine%20and%20the%20game%E2%80%99s%20love%20interests%20keep%20falling%20into%20trouble%3F!%20%20This%20is%20the%20long%20awaited%20manga%20version%20of%20the%20story%20of%20the%20villainess%20aiming%20for%20a%20happy%20ending%20in%20an%20unprecedented%20isekai%20life.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>This%20Isn't%20The%20Time%20For%20The%20Villainess%20To%20Be%20Bullying%20The%20Heroine</image:title>
+                </image:image>
+              </url>
+              
+    
+  </urlset>

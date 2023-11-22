@@ -1,0 +1,237 @@
+<?xml version='1.0' encoding='utf-8'?>
+  <urlset
+    xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="https://www.w3.org/1999/xhtml"
+    xmlns:news="https://www.google.com/schemas/sitemap-news/0.9"
+    xmlns:image="https://www.google.com/schemas/sitemap-image/1.1"
+    xmlns:video="https://www.google.com/schemas/sitemap-video/1.1">
+    <url>
+      <loc>http://localhost:5173</loc>
+    </url>
+    
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-rx994706</loc>
+                <lastmod>2023-11-22T16:53:01.929Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-rx994706.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Leo%20goes%20into%20an%20unknown%20place.%20Suddenly%20the%20demon%20beast%20attacked%20him.%20After%20defeating%20the%20demon%20beast%2C%20he%20became%20a%20hero!%20However%2C%20in%20order%20to%20get%20the%20money%20back%2C%20they%20will%20go%20in%20an%20effort%20to%20defeat%20the%20devil!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Syakkin%20Daiou%20Wa%20Maou%20O%20Taosu!</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-gj983592</loc>
+                <lastmod>2023-11-22T16:53:01.929Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-gj983592.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20The%20past%20life%20died%20because%20of%20the%20imperial%20concubine%2C%20and%20he%20was%20born%20again%20in%20the%20high%20school%20era.%20It%20coincides%20with%20the%20recovery%20of%20the%20aura%20and%20the%20great%20changes%20in%20the%20world.%20When%20rejuvenating%20a%20teenager%2C%20he%20will%20follow%20the%20path%20of%20his%20journey%2C%20and%20he%20will%20protect%20his%20own%20friends.%20Loved%20ones.%20When%20he%20does%20not%20choose%20to%20stay%2C%20he%20will%20push%20him%20all%20the%20way.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Wan%20Gu%20Shen%20Wang</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-ge984187</loc>
+                <lastmod>2023-11-22T16:53:01.929Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-ge984187.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20When%20I%20opened%20my%20eyes%2C%20I%20was%20inside%20a%20fantasy%20novel%20world!The%20beauty%20I%20see%20in%20front%20of%20the%20mirror%20is%20the%20future%20tyrant's%20older%20sister%2C%20Alicia!She's%20not%20even%20a%20protagonist%20or%20an%20antagonist%2C%20but%20a%20character%20that%20doesn't%20appear%20much%20and%20gets%20beheaded%20by%20the%20(upcoming)%20tyrant%20little%20brother.My%20life%20is%20all%20about%20escaping%20that%20fate%20from%20the%20novel.In%20the%20end%2C%20I%20seduced%20the%20male%20lead's%20merchant%20friend%20who%20also%20doesn't%20appear%20much%20and%20was%20about%20to%20leave%20the%20country%20with%20him.How-e-ver.The%20face%20of%20the%20man%20who%20spent%20the%20night%20with%20me%20was%20extraordinary.%22I-I'm%20pretty%20sure%20the%20name%20I%20heard%20yesterday%20wasn't%20that%20name%20but%20something%20else.%20Uhm%2C%20what%20was%20it.%20I-I%20think%20it's%20Sir%20Lancelot.%22%22Ah%2C%20that's%20my%20friend.%22%22...%22%22Why%2C%20is%20there%20a%20problem%3F%22Excuse%20me%2C%20you're%20asking%20if%20there's%20a%20problem%3F%20A%20lot.%20There's%20a%20lot.%E2%80%A6.%20Why%20is%20the%20male%20lead%20on%20my%20bed!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Living%20As%20The%20Tyrant's%20Older%20Sister</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-rl994994</loc>
+                <lastmod>2023-11-22T16:53:01.929Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-rl994994.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20A%20cat%20has%20been%20reincarnated%20in%20another%20world!%3F%20There%20is%20a%20different%20world%20of%20swords%20and%20magic%20without%20cats.%20The%20hero%20meets%20a%20mysterious%20creature%20(a%20cat)%20on%20her%20way%20home%20after%20being%20ordered%20to%20subdue%20the%20demon%20king.%20She%20touched%20the%20creature%20he%20saw%20for%20the%20first%20time%2C%20and%20then...!%3F%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Tensei%20Shite%20Mo%20Neko%20Wa%20Neko</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-tm996447</loc>
+                <lastmod>2023-11-22T16:53:01.929Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-tm996447.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%E2%80%9CBrother%2C%20I%20loved%20you%20since%20before%20I%20was%20born!%E2%80%9DCorporate%20slave%20Yukimura%20Rina%20was%20reincarnated%20as%20the%20villainess%20Ekaterina%20from%20an%20otome%20game.%20In%20her%20past%20life%20she%20was%20obsessed%20with%20the%20brother%20of%20the%20villainess%2C%20Alexei%2C%20but%20seeing%20him%20in%20real%20life%20is%20so%20much%20better%20than%20in%20the%20game!%20It%E2%80%99s%20just%20that%2C%20her%20brother%E2%80%99s%20upbringing%20is%20just%20so%20sad%20that%20she%20cries%20every%20time%20she%20thinks%20about%20it!%E2%80%9COkay!%20I%E2%80%99m%20going%20to%20escape%20my%20and%20my%20country%E2%80%99s%20destruction%20flag%20and%20make%20sure%20everyone%20lives%20happily!%E2%80%9DThus%20the%20villainess%20from%20the%20prestigious%20400%20year%20old%20Yurunova%20Dukedom%20along%20with%20her%20sharp%20tongued%20tendencies%20back%20when%20she%20was%20a%20corporate%20slave%20forged%20on%20forward.%20With%20her%20common%20sense%20and%20knowledge%20of%20history%20she%20plans%20on%20saving%20her%20brother%20and%20overcoming%20all%20the%20game%20events.%20For%20some%20reason%2C%20as%20time%20went%20by%20her%20talented%20brother%20became%20more%20and%20more%20of%20a%20siscon.%20Wait%20no%2C%20he%20was%20a%20siscon%20to%20begin%20with%20but%2C%20she%E2%80%99s%20more%20than%20happy%20to%20spend%20more%20time%20with%20her%20brother%20as%20a%20brocon%20and%20siscon.%20And%20as%20time%20went%20by%2C%20her%20plan%20to%20avoid%20the%20Heroine%20and%20the%20Prince%20death%20flag%20has%20become%20more%20and%20more%20messed%20up.%20Why%3F%20No%2C%20no%2C%20the%20two%20of%20them%20are%20good%20people%2C%20and%20good%20friends%2C%20but...%E2%80%9CPrince%2C%20stay%20far%20far%20away%20from%20me.%E2%80%9DEven%20so%2C%20the%20settings%20of%20the%20otome%20game%20she%20played%20before%20are%20completely%20messed%20up%20in%20this%20world%2C%20nothing%20is%20the%20same.%20Anyway!%20The%20evil%20villainess%20Ekaterina%20will%20do%20her%20best%20for%20the%20sake%20of%20her%20brother!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>The%20Villainess%20Is%20Changing%20Her%20Role%20To%20A%20Brocon</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-ut998076</loc>
+                <lastmod>2023-11-22T16:53:01.929Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-ut998076.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20An%20anthology%20featuring%20a%20variety%20of%20stories%20with%20girl%20%C3%97%20girl%20relationships%2C%20with%20a%20focus%20on%20Heroine%20%C3%97%20Villainess!%20Heroines%20and%20villainesses%2C%20maids%20and%20villainesses%E2%80%A6%205%20stories%20featuring%20relationships%20between%20girls%20and%20their%20bonds%20can%20be%20found%20in%20this%20anthology.%20A%20collection%20of%20stories%20that%20were%20published%20on%20*Shousetsuka%20ni%20Narou*!%20All%20have%20happy%20endings!Cover%20Art%3A%20Maro**Volume%201%20Contents%3A**%201.%20**The%20Heroine's%20Capture%20Target%20Is%E2%80%A6**%20(%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E3%81%AE%E6%94%BB%E7%95%A5%E5%AF%BE%E8%B1%A1%E3%81%AF%E2%80%A6%E2%80%A6)%2C%20Art%20by%20Kawano%20Akiko%2C%20Story%20by%20yui%2Fsouth%C2%B2%2C%20(https%3A%2F%2Fncode.syosetu.com%2Fn8335ef%2F).The%20villainess'%20engagement%20is%20broken%20at%20an%20evening%20party.%20Called%20by%20the%20prince%2C%20what%20will%20the%20heroine%20do%E2%80%A6%3F!%20*Has%20GL%20ending.*2.%20**Milady%20Looked%20Extremely%20Troubled%20When%20Her%20Engagement%20Was%20Broken%2C%20so%20I%20Stepped%20in%20to%20Help%20Her**%20(%E5%A9%9A%E7%B4%84%E7%A0%B4%E6%A3%84%E3%81%95%E3%82%8C%E3%81%9F%E3%81%8A%E5%AC%A2%E6%A7%98%E3%81%8C%E5%A4%A7%E5%A4%89%E3%81%9D%E3%81%86%E3%81%AA%E3%81%AE%E3%81%A7%E5%8A%A9%E3%81%91%E3%81%AB%E5%85%A5%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F)%2C%20Art%20by%20Ooba%20Soto%2C%20Story%20by%20Ringoame%20Tsuin%2C%20(https%3A%2F%2Fncode.syosetu.com%2Fn9459fo%2F).The%20lady%20she%20served%20had%20her%20engagement%20broken%20before%20her%20very%20eyes%3F!3.%20**My%20Best%20Friend's%20Engagement%20Was%20Broken.%20I%20Need%20to%20Do%20My%20Best%20to%20Stop%20It!%20%E2%80%A6But%20I%20Was%20the%20Reason%20Behind%20It%E2%80%A6**%20(%E5%A9%9A%E7%B4%84%E7%A0%B4%E6%A3%84%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82%E7%A7%81%E3%81%AE%E8%A6%AA%E5%8F%8B%E3%81%8C!%E5%BF%85%E3%81%9A%E9%98%BB%E6%AD%A2%E3%81%97%E3%81%BE%E3%81%99!%E2%80%A6%E2%80%A6%E7%A7%81%E3%81%8C%E5%8E%9F%E5%9B%A0%E3%81%AA%E3%81%AE%E3%81%A7orz)%2C%20Art%20by%20Wani%2C%20Story%20by%20naturalsoft%2C%20(https%3A%2F%2Fncode.syosetu.com%2Fn3379dw%2F).I%20thought%20I%20could%20avoid%20the%20condemnation%20scene%20after%20becoming%20friends%20with%20the%20villainess%2C%20but%E2%80%A6%3F!%20*Has%20GL%20ending.*4.%20**My%20Friendship%20Route%20With%20the%20Villainess**%20(%E6%82%AA%E5%BD%B9%E4%BB%A4%E5%AC%A2%E3%81%A8%E3%81%AE%E5%8F%8B%E6%83%85%E3%83%AB%E3%83%BC%E3%83%88)%2C%20Art%20by%20Hoshina%2C%20Story%20by%20Taikoban%2C%20(https%3A%2F%2Fncode.syosetu.com%2Fn9052ee%2F).The%20reincarnated%20heroine%20aims%20to%20save%20the%20villainess%3F!%20Using%20knowledge%20from%20the%20original%20work%2C%20she%20becomes%20acquainted%20with%20the%20villainess%E2%80%A65.%20**The%20%22Villainess'%22%20Engagement%20Braking%2C%20or%20an%20Account%20of%20the%20%22Dark%20Saint%22%20~Another%20Story~**%20(%E2%80%9C%E6%82%AA%E5%BD%B9%22%E4%BB%A4%E5%AC%A2%E3%81%AE%E5%A9%9A%E7%B4%84%E7%A0%B4%E6%A3%84%E3%80%81%E3%82%82%E3%81%97%E3%81%8F%E3%81%AF%E3%80%88%E9%BB%92%E3%81%AE%E8%81%96%E5%A5%B3%E3%80%89%E9%A1%9B%E6%9C%AB%E8%A8%98~another%20story~)%2C%20Art%20by%20Murasaki%2C%20Story%20by%20Fujiyama%2C%20(https%3A%2F%2Fncode.syosetu.com%2Fn7544cy%2F).%20All%20of%20the%20villainess'%20actions%20are%20for%20the%20sake%20of%20the%20heroine%E2%80%A6**Volume%202%20Contents%3A**1.%20**The%20villainess%20receives%20a%20pledge%20of%20love%20from%20an%20adorable%2C%20beautiful%20rival**%20(%E6%82%AA%E5%BD%B9%E4%BB%A4%E5%AC%A2%E3%81%AF%E5%A4%A9%E4%BD%BF%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E3%83%A9%E3%82%A4%E3%83%90%E3%83%AB%E7%BE%8E%E5%B0%91%E5%A5%B3%E3%81%AB%E6%84%9B%E3%82%92%E8%AA%93%E3%82%8F%E3%82%8C%E3%82%8B.)%20By%20Michiyuki%20Aoi.%20*Has%20GL%20ending.*2.%20%E6%82%AA%E5%BD%B9%E4%BB%A4%E5%AC%A2%E3%81%AB%E8%BB%A2%E7%94%9F%E3%81%97%E3%81%9F%E3%81%AE%E3%81%A7%E3%80%81%E5%9B%BD%E5%A4%96%E8%BF%BD%E6%94%BE%E5%9B%9E%E9%81%BF%E3%81%AE%E7%82%BA%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E3%81%AB%E5%84%AA%E3%81%97%E3%81%8F%E6%8E%A5%E3%81%97%E3%81%9F%E3%81%84%E3%81%8C%E3%80%81%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E3%81%8C%E9%88%8D%E8%87%AD%E3%81%8F%E3%81%A6%E3%83%9C%E3%82%B1%E3%83%9C%E3%82%B1%E3%81%AA%E3%81%AE%E3%81%A7%E5%8E%B3%E3%81%97%E3%81%8F%E6%8E%A5%E3%81%97%E3%81%A6%E3%83%84%E3%83%83%E3%82%B3%E3%83%9F%E3%81%BE%E3%81%8F%E3%81%A3%E3%81%A6%E3%81%84%E3%81%9F%E3%82%89%E3%80%81%E6%A1%88%E3%81%AE%E5%AE%9A%E5%8D%92%E6%A5%AD%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%E3%81%A7%E5%A9%9A%E7%B4%84%E8%80%85%E3%81%A7%E3%81%82%E3%82%8B%E7%8E%8B%E5%AD%90%E3%81%8B%E3%82%89%E6%96%AD%E7%BD%AA%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E6%9C%80%E4%B8%AD%E3%81%A7%E3%81%99.%20Art%20by%20%E3%81%8B%E3%81%97%E3%81%84%E8%91%B5%2C%20Story%20by%20Mon-chan.%20(https%3A%2F%2Fncode.syosetu.com%2Fn6610gi%2F)3.%20%E3%80%8C%E6%84%9B%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%AF%E3%81%AA%E3%81%84%E3%80%8D%E3%81%A8%E8%A8%80%E3%82%8F%E3%82%8C%E3%81%BE%E3%81%97%E3%81%A6%E3%82%82%E3%80%81%E3%81%9D%E3%82%82%E3%81%9D%E3%82%82%E3%81%9D%E3%81%AE%E5%BF%85%E8%A6%81%E3%81%AF%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%9B%E3%82%93%E3%80%82%20Art%20by%20Manatamayumu%2C%20Story%20by%20%E9%B0%AF%E3%81%A5%E3%81%8F%E3%81%97.%20(https%3A%2F%2Fncode.syosetu.com%2Fn2695hy%2F)4.%20**A%20Commoner%20Like%20Me%20Got%20Tangled%20up%20With%20a%20Haughty%20Villainess%2C%20What%20Should%20I%20Do%3F**%20(%E5%B9%B3%E6%B0%91%E3%81%AE%E7%A7%81%E3%81%8C%E9%AB%98%E6%85%A2%E3%81%AA%E6%82%AA%E5%BD%B9%E4%BB%A4%E5%AC%A2%E3%81%AB%E7%B5%A1%E3%81%BE%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%81%A7%E3%81%99%E3%81%8C%E3%80%81%E3%81%A9%E3%81%86%E3%81%99%E3%82%8C%E3%81%B0%E3%81%84%E3%81%84%E3%81%A7%E3%81%99%E3%81%8B%EF%BC%9F).%20Art%20by%20Hoshina%2C%20Story%20by%20Ringoame%20Tsuin.%20(https%3A%2F%2Fncode.syosetu.com%2Fn2667gs%2F)%20*Has%20GL%20ending.*5.%20%E3%82%8F%E3%81%9F%E3%81%8F%E3%81%97%E3%81%93%E3%81%9D%E3%81%8C%E7%8E%8B%E3%81%A8%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%99%E3%82%86%E3%81%88%E3%80%81%E6%AD%A4%E5%BA%A6%E3%81%AE%E7%B8%81%E8%AB%87%E3%81%AF%E3%81%8A%E6%96%AD%E3%82%8A%E3%81%95%E3%81%9B%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%BE%E3%81%99%E3%82%8F%E3%80%82%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E5%A6%B9%E3%81%8C%E5%BE%85%E3%81%A3%E3%81%A6%E3%81%8A%E3%82%8A%E3%81%BE%E3%81%99%E3%81%AE.%20Art%20by%20Fuyume%20Saya%2C%20Story%20by%20Nakamura%20Syuri.%20(https%3A%2F%2Fncode.syosetu.com%2Fn1179hz%2F)%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>I'm%20The%20Villainess%2C%20But%20I'm%20Being%20Captured%20By%20The%20Heroine%3F!%20Anthology</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-ct980202</loc>
+                <lastmod>2023-11-22T16:53:01.929Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-ct980202.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Saeki%20Kanji%2C%2032%20years%20old%20and%20still%20single%2C%20is%20living%20in%20the%20Japanese%20countryside%2C%20which%20is%20in%20decline.%20After%20graduating%20from%20university%20with%20a%20degree%20in%20economics%20he%20took%20a%20job%20as%20a%20salary%20man%20in%20a%20leading%20company%20in%20Tokyo%2C%20but%20retired%20when%20he%20inherited%20the%20family%20farm%20in%20Miyama%20village%20when%20his%20parents%20passed%20on.%20He%20soon%20took%20to%20the%20life%20of%20a%20simple%20farmer.One%20day%20a%20beautiful%20woman%20wearing%20full%20body%20armor%20came%20to%20his%20door%20begging%20to%20stay%20the%20night.%20She%20claimed%20to%20be%20royalty%20from%20another%20world%20and%20is%20unable%20to%20return%20there.%20She%20ends%20up%20living%20with%20Kanji%20and%20helping%20out%20the%20local%20agriculture%20situation.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Regarding%20That%20We%20Decided%20To%20Live%20In%20The%20Countryside%20With%20The%20Female%20Knight%20Who%20Came%20To%20Us</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-gb983536</loc>
+                <lastmod>2023-11-22T16:53:01.929Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-gb983536.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Hyejung%20loved%20to%20read%20to%20escape%20her%20daily%20stress.%20But%20that%E2%80%99s%20before%20she%20woke%20up%20inside%20the%20bizarre%20world%20of%20her%20favorite%20novel!%20Instead%20of%20the%20main%20heroine%20who%20courts%20three%20eligible%20men%2C%20she%20is%20now%20Latte%20Ectrie%20%E2%80%93%20a%20minor%20villain%20that%20everyone%20hates%3F!%20One%20way%20or%20another%2C%20it%E2%80%99s%20a%20chance%20to%20live%20out%20her%20most%20beloved%20storyline%2C%20with%20popcorn%20in%20hand%20to%20watch%20all%20the%20drama!%20Taking%20charge%20of%20the%20narrative%20takes%20on%20a%20whole%20new%20meaning%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Miss%20Not-So%20Sidekick</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-fi982443</loc>
+                <lastmod>2023-11-22T16:53:01.929Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-fi982443.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20A%20boy%20lives%20two%20lives%3A%20a%20young%20leader%20in%20a%20magical%20world%20and%20a%20high-schooler%20in%20reality.%20And%20he%E2%80%99s%20determined%20to%20live%20in%20both!%20Dive%20into%20this%20action-packed%20martial%20art%20fusion%20comic!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Devil%20Sword%20King</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-pr992474</loc>
+                <lastmod>2023-11-22T16:53:01.929Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-pr992474.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Dead-Teen%20Hero%20manga%2C%20The%203%20Strongest%20High%20School%20Heroes%20on%20Earth%20%3B%20%3B%203Can%20she%20be%20the%20main%20character%3F%20High%20school%20senior%20Jihyeon%20Han%20wants%20to%20be%20the%20heroine%20of%20a%20teen%20comic%20but%20every%20application%20has%20been%20rejected.%20Desparate%20and%20running%20out%20of%20options%2C%20she%20takes%20a%20chance%20at%20a%20once%20in%20a%20lifetime%20opportunity%20to%20prove%20herself.%20Can%20she%20finally%20be%20the%20main%20character%20for%20once%3F%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>The%203%20Strongest%20High%20School%20Heroes%20On%20Earth</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-oo992171</loc>
+                <lastmod>2023-11-22T16:53:01.929Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-oo992171.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Kardinal%2C%20a%20researcher%20who%20loves%20light%20novels%2C%20had%20been%20reincarnated%20as%20the%20villainous%20daughter%20of%20an%20otome%20game.%20Her%20banishment%20flag%20is%20raised%2C%20but%20oblivious%20to%20the%20game's%20storyline%2C%20she%20doesn't%20know%20how%20to%20overcome%20or%20avoid%20it.%20She%20makes%20the%20critical%20decision%20to%20live%20on%20her%20own%20and%20become%20a%20villainess%20until%20the%20very%20end!%20She'll%20rise%20up%20in%20this%20unknown%20world%20embracing%20her%20new%20role.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>What's%20A%20Villainess%20Supposed%20To%20Do%20Again%3F</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-ju986403</loc>
+                <lastmod>2023-11-22T16:53:01.929Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-ju986403.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Our%20protagonist%20is%20a%20college%20student%20who%20enjoys%20playing%20as%20the%20evil-aligned%20faction%20Arachnea%20in%20her%20favorite%20real-time%20strategy%20game.%20One%20day%2C%20she%20finds%20herself%20in%20a%20world%20similar%20to%20the%20one%20in%20the%20game%3B%20additionally%2C%20her%20body%20is%20now%20that%20of%20a%20fourteen-year-old%20girl.%20While%20things%20are%20a%20bit%20different%20from%20how%20they%20were%20in%20the%20game%2C%20one%20element%20has%20remained%20the%20same%3A%20she%20is%20the%20leader%20of%20the%20Arachnea.%20The%20insects%20under%20her%20control%2C%20collectively%20known%20as%20the%20Swarm%2C%20praise%20her%20and%20implore%20her%20to%20lead%20them%20to%20victory.%20In%20order%20to%20survive%2C%20she%20raises%20her%20Swarm%20and%20forms%20friendly%20relations%20with%20the%20elves%20of%20the%20neighboring%20forest.%20But%20after%20a%20slaver%20traveling%20through%20the%20forest%20murders%20one%20of%20her%20Swarm%20and%20the%20nearby%20kingdom's%20knights%20burn%20down%20the%20elven%20village%20and%20massacre%20its%20people%2C%20she%20prepares%20to%20launch%20her%20counterattacks%20in%20the%20name%20of%20revenge.%20However%2C%20revenge%20is%20merely%20a%20pretense%20for%20attacking%20the%20countries%20of%20this%20world.%20Her%20command%20is%20masterful%20and%20severe%2C%20as%20one%20who%20has%20played%20the%20game%20in%20real%20life%E2%80%A6%20---%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Her%20Majesty's%20Swarm</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-nc990937</loc>
+                <lastmod>2023-11-22T16:53:01.929Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-nc990937.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Yusung%20is%20a%20genius%20doctor%20famous%20in%20the%20medical%20world.He%2C%20who%20spent%20his%20whole%20life%20in%20an%20operation%20room%2C%20died%20in%20a%20traffic%20accident%2C%20and%20when%20he%20woke%20up%2C%20he%20was%20in%20another%20world.But%E2%80%A6a%20saintess%3F%20A%20holy%20empire%3F%20Healing%20magic%3F%E2%80%9CI%20put%20so%20much%20effort%20into%20learning%20medicine%2C%20but%20now%20all%20I%20need%20to%20do%20is%20touch%20someone%20and%20they%E2%80%99re%20healed%3FSeriously%2C%20I%20think%20I%E2%80%99ve%20gone%20crazy.%E2%80%9D%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>To%20Hell%20With%20Being%20A%20Saint%2C%20I%E2%80%99M%20A%20Doctor</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-tt996828</loc>
+                <lastmod>2023-11-22T16:53:01.929Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-tt996828.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Halo%20is%20a%20talented%20female%20elf%20magician%20who%20has%20memories%20of%20when%20she%20was%20a%20man%20in%20her%20previous%20life%2C%20which%20is%20why%20she%20wishes%20to%20make%20out%20with%20a%20cute%20girl.%20Halo%20decides%20to%20buy%20Filia%2C%20a%20beautiful%20female%20slave%20with%20big%20breasts%2C%20but%20things%20don%E2%80%99t%20go%20as%20she%20expects%20them%20to...%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Eroi%20Koto%20Suru%20Tame%20Ni%20Kyonyuu%20Bishoujo%20Dorei%20O%20Katta%20Hazu%20Ga%2C%20Oshishou-Sama%20To%20Shitawa%20Rete%20Omotta%20Toori%20Ni%20Ikanaku%20Naru%20Hanashi</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-tr997226</loc>
+                <lastmod>2023-11-22T16:53:01.929Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-tr997226.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20After%20a%20traffic%20accident%2C%2052-year-old%20civil%20servant%20Kenzaburou%20Tondabayashi%20awakens%20to%20find%20he's%20become%20Grace%20Auvergne%2C%20a%20duke's%20daughter%2C%20and%20more%20importantly%20the%20villainess%20of%20an%20otome%20game.%20Not%20wanting%20to%20get%20in%20the%20way%20of%20the%20happy%20endings%20of%20the%20young%20characters%20around%20him%2C%20Grace%20sets%20out%20to%20play%20the%20role%20of%20the%20villain%2C%20but%20whether%20it's%20due%20to%20Kenzaburou's%20memories%20of%20being%20an%20affectionate%20parent%20getting%20in%20the%20way%20or%20not%20being%20able%20to%20remember%20those%20pesky%20foreign%20names%20properly%2C%20it%20ends%20up%20being%20a%20lot%20harder%20than%20it%20looks%E2%80%A6%20%20Artist's%20Twitter%3A%20(https%3A%2F%2Ftwitter.com%2Fueyamamichiro)%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Akuyaku%20Reijou%20Tensei%20Oji-San</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-ih985416</loc>
+                <lastmod>2023-11-22T16:53:01.929Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-ih985416.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20I%20reincarnated%20as%20the%20%22Villainess%20Eumiella%22%20from%20an%20RPG%20Otome%20game.%20In%20the%20main%20story%2C%20Eumiella%20is%20merely%20a%20side%20character%2C%20but%20after%20the%20ending%2C%20she%20re-enters%20the%20story%20as%20the%20Hidden%20Boss%2C%20a%20character%20boasting%20high%20stats%20on%20par%20with%20the%20heroes!%20Lighting%20a%20fire%20in%20my%20gamer's%20soul%2C%20and%20taking%20advantage%20of%20being%20left%20on%20my%20own%20in%20my%20parent's%20territory%2C%20I%20trained%2C%20trained%2C%20and%20trained!%20As%20a%20result%20of%20my%20training%E2%80%A6%20by%20the%20time%20I%20enrolled%20in%20the%20academy%2C%20I%20managed%20to%20reach%20level%2099.%20Though%20I%20had%20planned%20to%20live%20out%20my%20days%20as%20inconspicuously%20and%20peacefully%20as%20possible%2C%20soon%20after%20entering%20the%20school%2C%20I'm%20suspected%20by%20the%20Heroine%20and%20Love%20Interests%20of%20being%20the%20%22Demon%20Lord%22%E2%80%A6%3F%20%20Based%20on%20a%20popular%20web%20novel%20of%20seeking%20a%20peaceful%20life%2C%20a%20fantasy%20story%20of%20the%20strongest%20villainess!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Villainess%20Level%2099%20~I%20May%20Be%20The%20Hidden%20Boss%20But%20I'm%20Not%20The%20Demon%20Lord~</image:title>
+                </image:image>
+              </url>
+              
+    
+  </urlset>

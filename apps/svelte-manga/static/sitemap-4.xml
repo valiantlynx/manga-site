@@ -1,0 +1,237 @@
+<?xml version='1.0' encoding='utf-8'?>
+  <urlset
+    xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="https://www.w3.org/1999/xhtml"
+    xmlns:news="https://www.google.com/schemas/sitemap-news/0.9"
+    xmlns:image="https://www.google.com/schemas/sitemap-image/1.1"
+    xmlns:video="https://www.google.com/schemas/sitemap-video/1.1">
+    <url>
+      <loc>http://localhost:5173</loc>
+    </url>
+    
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-oc992111</loc>
+                <lastmod>2023-11-22T16:53:00.464Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-oc992111.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20I%20Became%20A%20CEO%20In%20The%20Other%20World%20manhua%2C%20After%20being%20transmigrated%20to%20another%20world%2C%20he%20did%20one%20thing%20and%20reorganized%20the%20labyrinth%20of%20the%20devil%20into%20a%20company%2C%20and%20since%20then%20he%20has%20embarked%20on%20a%20path%20he%20never%20imagined.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>I%20Became%20A%20Ceo%20In%20The%20Other%20World</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-ph992364</loc>
+                <lastmod>2023-11-22T16:53:00.464Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-ph992364.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Noah%2C%20the%20youngest%20survivor%20of%20the%20earth%2C%20aims%20for%20a%20new%20universe%20on%20a%20spaceship%20entrusted%20by%20her%20mother%2C%20a%20scientist.%20What%20we%20arrived%20at%20was%20a%20planet%20where%20all%20creatures%20had%20%22magical%20powers.%22%20While%20conducting%20a%20field%20survey%2C%20I%20met%20a%20girl%20who%20claims%20to%20be%20the%20%22Demon%20King's%20Daughter%22!%3F%20Another%20world%20sci-fi%20fantasy%20where%20a%20cyborg%20young%20man%20travels%20through%20a%20mysterious%20planet!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Isekai%20Tensei</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-sx996080</loc>
+                <lastmod>2023-11-22T16:53:00.464Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-sx996080.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20A%20slapstick%20comedy%20about%20two%20unbalanced%20but%20perfectly%20matched%20people!%20One%20day%2C%20the%20Reiwa%20gal%2C%20Gotou%2C%20suddenly%20meets%20a%20female%20knight%20who%20has%20been%20transported%20from%20another%20world%20and%20ends%20up%20living%20together%20with%20her.%20The%20two%20of%20them%20enjoy%20the%20world%20of%20Reiwa%20anyway%2C%20such%20as%20taking%20the%20confused%20knightess%20out%20to%20Shibuya%20and%20working%20part-time%20at%20a%20caf%C3%A9%20together!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Gal%20And%20Knightess</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-sx970306</loc>
+                <lastmod>2023-11-22T16:53:00.464Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-sx970306.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Among%20the%20class%20transported%20to%20another%20world%2C%20Nagumo%20Hajime%20is%20an%20ordinary%20male%20student%20who%20didn%E2%80%99t%20have%20ambition%20nor%20aspiration%20in%20life%2C%20and%20thus%20called%20%E2%80%9CIncompetent%E2%80%9D%20by%20his%20classmates.%20The%20class%20was%20summoned%20to%20become%20heroes%20and%20save%20a%20country%20from%20destruction.%20Students%20of%20the%20class%20were%20blessed%20with%20cheat%20specifications%20and%20cool%20job%20class%2C%20however%2C%20it%20was%20not%20the%20case%20with%20Hajime%2C%20with%20his%20profession%20as%20a%20%E2%80%9CSynergist%E2%80%9D%2C%20and%20his%20very%20mediocre%20stats.%20%E2%80%9CSynergist%E2%80%9D%2C%20to%20put%20it%20in%20another%20word%20was%20just%20artisan%20class.%20Being%20the%20weakest%2C%20he%20then%20falls%20to%20the%20depth%20of%20the%20abyss%20when%20he%20and%20his%20classmates%20were%20exploring%20a%20dungeon.%20What%20did%20he%20find%20in%20the%20depth%20of%20the%20abyss%2C%20and%20can%20he%20survive%3F%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Arifureta%20Shokugyou%20De%20Sekai%20Saikyou</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-pq992573</loc>
+                <lastmod>2023-11-22T16:53:00.464Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-pq992573.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20.Finally%2CFinally........I%20can%20touch%20fluffy!Kanata%2C%20the%20girl%20known%20as%20the%20second%20coming%20of%20the%20%22Saint%22.She%20has%20a%20lot%20of%20talent%2C%20and%20her%20chosen%20profession%20is%20the%20weakest%20of%20all%20the%20demon%20users.That's%20right%2C%20Kanata%2C%20who%20ended%20up%20having%20a%20previous%20life%20of%20loneliness%2C%20has%20chosen%20to%20use%20her%20cheat%20power%20to%20pat%20all%20the%20world's%20fluffers.%20All%20you%20have%20to%20do%20is%20to%20adore%20it%20to%20the%20fullest!A%20fast-paced%20girl's%20otherworldly%20adventure%20story%2C%20comicalized!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Saint%3F%20No%2C%20It's%20A%20Passing%20Demon!%20~Absolutely%20Invincible%20Saint%20Travels%20With%20Mofumofu~</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-pl992568</loc>
+                <lastmod>2023-11-22T16:53:00.464Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-pl992568.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Ten%20years%20ago%2C%20a%20magic%20circle%20suddenly%20appeared%20above%20Earth%2C%20connecting%20it%20to%20the%20parallel%20world%20Alterna.%20This%20led%20to%20the%20invention%20of%20the%20Alternaphone%2C%20which%20allows%20people%20to%20freely%20reincarnate%20between%20worlds%2C%20allowing%20earthlings%20to%20become%20adventurers%20and%20otherworlders%20to%20become%20normal%20citizens.%20The%20series%20follows%20two%20amnesiac%20girls%2C%20earthling%20Kurami%20Utaho%20and%20otherworlder%20Melua%20Solaris%2C%20as%20they%20go%20back%20and%20forth%20between%20ordinary%20life%20on%20Earth%20and%20adventuring%20on%20Alterna.%20Published%20in%20Manga%20Time%20Kirara%20Forward%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Houkago%20Saitensei!</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-ta996935</loc>
+                <lastmod>2023-11-22T16:53:00.464Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-ta996935.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Waking%20up%20in%20a%20fantasy%20novel%20set%20in%20an%20ancient%20magical%20world%20was%20confusing%20enough%20for%20Sisha.%20But%20on%20top%20of%20that%2C%20she%20happens%20to%20be%20the%20only%20person%20who%20could%20read%20and%20understand%20the%20old%20texts%20recovered%20from%20the%20secret%20library%20kept%20hidden%20for%20thousands%20of%20years%20Furthermore%2C%20to%20Sisha's%20surprise%2C%20the%20ancient%20language%20of%20forbidden%20magic%20turned%20out%20to%20be%20none%20other%20than%20modern%20English!%20With%20the%20emperor%20now%20praising%20her%20ability%20to%20decipher%20the%20words%20of%20Alphabet%2C%20Sisha%20steps%20up%20from%20a%20mere%20sidekick%20to%20an%20incredible%20main%20leadin%20a%20world%20where%20whatever%20she%20speaks%20in%20her%20mother%20tongue%20is%20a%20key%20to%20unlock%20the%20powerful%20magic.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Only%20I%20Can%20Speak%20The%20Ancient%20Language%20Of%20Magic</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-us998101</loc>
+                <lastmod>2023-11-22T16:53:00.464Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-us998101.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20A%20genius%20magician%2C%20to%20fight%20against%20his%20fate%20to%20die%20a%20natural%20death%20from%20old%20age%2C%20grasped%20at%20the%20truth%20of%20magic%20to%20allow%20himself%20to%20reincarnate%20with%20a%20power%20he%20created%20himself.%20The%20cycle%20of%20reincarnation%20is%20repeated%20multiple%20times%20and%20in%20his%2031st%20reincarnation%2C%20the%20magician%20became%20a%20boy%20named%20Syril%20who%20lives%20in%20a%20village%20of%20elves.However%2C%20that%20village%20is%20ruled%20by%20Humans%2C%20and%20the%20Elves%20are%20treated%20as%20cattle.%20After%20becoming%2014%20years%20old%2C%20Cyril%2C%20who%20regained%20his%20past%20knowledge%20and%20experience%2C%20stands%20up%20to%20help%20a%20girl%2C%20Lucie%2C%20who%20is%20his%20childhood%20friend.%20The%20story%20of%20the%20creation%20of%20an%20ideal%20country%20begins%20in%20that%20one%20village%2C%20a%20place%20where%20all%20races%20can%20coexist.%20Elves%2C%20Fox-girl%2C%20and%20various%20other%20Heroines.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Elf%20Tensei%20Kara%20No%20Cheat%20Kenkokuki</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-vw998705</loc>
+                <lastmod>2023-11-22T16:53:00.464Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-vw998705.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20The%20swordsman%2C%20Jir%2C%20had%20just%20joined%20a%20well-known%20S-rank%20party%20when%20he%20finds%20himself%20stranded%20all%20alone%20in%20the%20hardest%20labyrinth.%20Normally%2C%20there's%20no%20way%20to%20survive%20such%20a%20situation%20other%20than%20to%20wait%20for%20rescue.%20Relying%20on%20nothing%20but%20his%20heroic%20sword%20skills%2C%20Jir%20decides%20to%20escape%20on%20his%20own!%20%22Heh!%20You're%20all%20bark%20and%20no%20bite%2C%20Labyrinth!%22%20he%20boldly%20declares.%20Due%20to%20his%20extremely%20poor%20sense%20of%20direction%2C%20he's%20completely%20unaware%20that%20he's%20headed%20towards%20the%20deepest%20level%20where%20the%20labyrinth%20boss%20awaits!!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>My%20Blade%20Will%20Lead%20The%20Way!%20Abandoned%20In%20A%20Labyrinth%20As%20A%20Directionally%20Challenged%20S-Rank%20Swordsman</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-uu997703</loc>
+                <lastmod>2023-11-22T16:53:00.464Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-uu997703.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20In%20another%20world%2C%20there%20was%20a%20person%20who%20made%20a%20living%20in%20alchemy%20.%20Alchemy%20x%20Sorcery%20x%20Slave%20x%20Elf%20x%20Reincarnation%20x%20God%20x%20Cheat%20x%20Battle...%20A%20work%20full%20of%20fantasy%20has%20started%20serialization%20with%20overwhelming%20brushwork!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>The%20Fake%20Alchemist</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-tg997163</loc>
+                <lastmod>2023-11-22T16:53:00.464Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-tg997163.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20A%20smart%2C%20athletic%2C%20who%20handles%20anything%20perfectly%20and%20unequalled%20beautiful%20girl%2C%20dies%20young%20due%20to%20a%20car%20accident.And%20now%2C%20while%20possessing%20the%20memories%20of%20her%20previous%20life%2C%20she%20reincarnated%20in%20a%20fantasy-ish%20different%20world%20with%20swords%20and%20magic!All%20lives%20were%20dependant%20of%20magicians%2C%20however%2C%20their%20numbers%20decreased%20every%20year%20due%20to%20the%20magic%20power%20(mana)%20scattered%20around%20the%20world%20running%20out%2C%20thus%20the%20reliance%20on%20magic%20for%20living%20was%20coming%20to%20an%20end.A%20story%20that%20will%20lead%20to%20the%20life%20of%20a%20girl%20relying%20the%20knowledge%20of%20her%20previous%20life%2C%20as%20she%20proposes%20a%20way%20to%20live%20even%20without%20the%20use%20of%20magic%20while%20seeking%20for%20what%20it%20is%2C%20and%20aiming%20for%20a%20wealthier%20life.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Tensei%20Shoujo%20No%20Rirekisho</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-nb990936</loc>
+                <lastmod>2023-11-22T16:53:00.464Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-nb990936.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Mako%2C%20a%20home%20centre%20sales%20clerk%2C%20fell%20asleep%20at%20the%20entrance%20of%20her%20house%20after%20her%20shift%20due%20to%20work%20fatigue.%20Only%20to%20wake%20up%20in%20a%20different%20world%3F!%20She%20was%20at%20a%20complete%20loss%20when%20the%20beastmen%20twins%20gave%20her%20shelter%20from%20the%20storm%20in%20their%20house%20in%20the%20village.%20However%2C%20it%20was%20a%20very%20poor%20village%20with%20tattered%20houses%20and%20no%20crops.%20In%20order%20to%20help%20her%20lifesavers%2C%20Mako%20decides%20to%20revitalize%20the%20village%20using%20the%20cheat%20skills%20unique%20to%20the%20home%20improvement%20clerk%2C%20obtained%20in%20a%20different%20world!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Home%20Centre%20Sales%20Clerk%E2%80%99S%20Life%20In%20Another%20World</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-qi993717</loc>
+                <lastmod>2023-11-22T16:53:00.464Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-qi993717.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Sora%2C%20a%20Japanese%20boy%20who%20was%20summoned%20to%20another%20world%2C%20gained%20the%20skill%20%22Walking%22.%20Its%20effect%20is%20that%20%22no%20matter%20how%20much%20he%20walks%2C%20he%20never%20gets%20tired%22.%20Because%20of%20this%20weak%20skill%2C%20the%20king%20expelled%20him%20from%20the%20group%20of%20summoned%20heroes.%20But%20when%20Sora%20starts%20walking%20in%20another%20world%2C%20he%20suddenly%20levels%20up!Walking%20had%20a%20hidden%20effect%20of%20%22gaining%201%20EXP%20for%20each%20step%20taken%22.%20He%20acquired%20useful%20skills%20such%20as%20'Appraisal'%2C%20'Alchemy'%2C%20and%20healing%20magic...Getting%20one%20skill%20after%20another%2C%20he%20became%20talented%20just%20by%20walking!%20The%20adventure%20to%20encounter%20and%20touch%20the%20unknown%20is%20about%20to%20begin!%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>Isekai%20Walking</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-nf991040</loc>
+                <lastmod>2023-11-22T16:53:00.464Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-nf991040.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20When%20I%20was%20reincarnated%2C%20I%20only%20wanted%20to%20live%20happily%20with%20my%20one%20and%20only%20younger%20brother.%20But%20the%20problem%20is%2C%20my%20younger%20brother%2C%20who%20will%20do%20anything%20for%20my%20sake%2C%20gave%20me%20the%20crown%20off%20the%20head%20of%20the%20tyrant%20who%20was%20the%20Emperor%20just%20up%20until%20yesterday.%20%22I'll%20make%20the%20continent%20kneel%20at%20your%20feet%2C%20Sister!%22%20...At%20this%20rate%2C%20before%20becoming%20the%20first%20Empress%20to%20unify%20the%20continent%2C%20I%20might%20die%20from%20overwork.%20And%20so%2C%20I%20decided%20to%20bring%20in%20a%20pushover--I%20mean%2C%20a%20husband--who%20is%20good%20at%20doing%20work%2C%20but...%20The%20Duke%20of%20Derhardt%20is%20called%20the%20monster%20of%20the%20North.%20He's%20compatible%20with%20his%20brother-in-law%20and%20is%20the%20Crazy-Bastard-No-2%20who%20also%20dreams%20of%20unification.%20Ha...%20these%20punks%20really....%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>My%20Younger%20Brother%20Forces%20My%20Flower%20Path</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-vm999095</loc>
+                <lastmod>2023-11-22T16:53:00.464Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-vm999095.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20When%20a%20BL%20comic%20artist%20transmigrated%20into%20the%20princess%20of%20Liao%2C%20she%20resumed%20her%20career...%20but%20encountered%20her%20%22dear%20son%22%20who%20crawled%20out%20of%20the%20book%20and%20refused%20to%20be%20gay!%20Faced%20with%20a%20sword%20to%20her%20neck%2C%20will%20she%20surrender%20or%20resist%3F%20What's%20worse%2C%20the%20plot%20is%20no%20longer%20under%20her%20control%3B%20who's%20the%20mysterious%20person%20behind%20the%20scenes%20controlling%20everything%3F%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>I%20Can't%20Fall%20In%20Love%20With%20Paperman</image:title>
+                </image:image>
+              </url>
+              
+    
+                <url>
+                <loc>http://localhost:5173/manga/manga-fq982473</loc>
+                <lastmod>2023-11-22T16:53:00.464Z</lastmod>
+                <priority>0.9</priority>
+                <changefreq>daily</changefreq>
+                <image:image>
+                  <image:loc>http://localhost:5173/api/mangaimage/manga-fq982473.jpg</image:loc>
+                  <image:caption>%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Lizia%20is%20reincarnated%20into%20an%20otome%20game%20world%20as%20a%20mob%20character.She%20decides%20to%20live%20with%20two%20lives%20worth%20of%20filial%20piety%2C%20however%2C%20she%20has%20been%20betrothed%20to%20Bernhardt%2C%20the%20last%20villain%20in%20the%20prince'%20Route.%20This%20is%20the%20struggle%20of%20Lizia%20as%20she%20tries%20for%20a%20peaceful%20life.%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</image:caption>
+                  <image:geo_location>Norway</image:geo_location>
+                  <image:title>I%20Am%20Troubled%20That%20My%20Fiance%20Is%20A%20Villain</image:title>
+                </image:image>
+              </url>
+              
+    
+  </urlset>
