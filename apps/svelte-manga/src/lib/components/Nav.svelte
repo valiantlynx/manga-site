@@ -27,7 +27,7 @@
 <!-- Large Devices Layout -->
 <div class="navbar bg-base-300 hidden sm:flex">
 	<div class="flex-1">
-		<a class="btn btn-ghost normal-case text-xl" href="/">{$page.url.hostname}</a>
+		<a class="btn btn-ghost normal-case text-xl" href="/">{$page.data.siteName}</a>
 		<ThemeChanger />
 	</div>
 	<div class="flex-none gap-2">

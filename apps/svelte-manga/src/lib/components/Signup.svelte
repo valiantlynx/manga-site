@@ -34,7 +34,7 @@
 		<div
 			class="w-full p-6 bg-base-200 border-t-4 border-primary rounded-md shadow-md border-top lg:max-w-lg"
 		>
-			<h1 class="text-3xl font-semibold text-center">{$page.url.hostname} | Signup</h1>
+			<h1 class="text-3xl font-semibold text-center">{$page.data.siteName} | Signup</h1>
 			<form action="?/signup" method="POST" class="flex flex-col items-center space-y-2 w-full pt-4" use:enhance={submitSignup}>
 				<Input id="name" label="Name" value={$page.form?.data?.name} errors={$page.form?.errors?.name} disabled={loading} />
 				<Input
