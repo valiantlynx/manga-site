@@ -336,7 +336,7 @@ export const renderMainSitemap = (url: string) => {
 					.map(
 						(page) => `
             <sitemap>
-                <loc>${url}/sitemap-${page}.xml</loc>
+                <loc>${url}/sitemap.xml/sitemap-${page}.xml</loc>
             </sitemap>
 
         `
