@@ -7,7 +7,7 @@ export const GET = ({ url, fetch }) => {
     const res = fetch(`/api/create-sitemap`)
 	.then(res => res.json())
 	.then(res => {
-		console.log('fgfgfg------>',res);
+		console.log('res------>', res);
 	})
 	.catch(err => {
 		console.log('err------>',err);

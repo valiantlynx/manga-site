@@ -2,10 +2,7 @@ import { render } from '$lib/utils/api';
 import { writeFile } from 'fs/promises';
 
 export const GET = async (event) => {
-	for (let i = 1; i <= 44; i++) {
-		const data = await render(i, event.url.origin);
-		await writeFile(`../../../../static/sitemap-${i}.xml`, data, { encoding: 'utf-8', flag: 'w' });
-	}
+		sitemap(event);
 		const data = {
 			sitemap: 'sitemap generation started',
 		};
@@ -16,3 +13,12 @@ export const GET = async (event) => {
 			},
 		});
 };
+
+async function sitemap(event) {
+	for (let i = 1; i <= 44; i++) {
+		console.log('creating sitemap', i);
+		const data = await render(i, event.url.origin);
+		await writeFile(`./static/sitemap-${i}.xml`, data, { encoding: 'utf-8', flag: 'w' });
+	}
+	return 'sitemap generation completed';
+}
