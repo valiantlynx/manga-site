@@ -2,6 +2,7 @@
 import { page } from '$app/stores';
 </script>
 
+{#if $page.data.sites }
 <div class="w-11/12 py-2 mx-4 rounded-3xl">
 	<script
 		async
@@ -18,3 +19,4 @@ import { page } from '$app/stores';
 	/>
 	<script>{}</script>
 </div>
+{/if}
