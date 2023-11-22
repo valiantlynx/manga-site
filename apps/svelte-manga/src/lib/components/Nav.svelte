@@ -9,7 +9,7 @@
 <div>
 	<div class="navbar bg-base-300 max-w-full sm:hidden">
 		<div class="flex-1">
-			<a class="btn btn-ghost normal-case text-xl" href="/">{$page.url.hostname}</a>
+			<a class="btn btn-ghost normal-case text-xl" href="/">{$page.url.host}</a>
 			<ThemeChanger />
 		</div>
 		<ProfileModal />
