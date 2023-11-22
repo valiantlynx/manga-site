@@ -4,7 +4,7 @@
 	export let icon: any;
 </script>
 
-<div class="sidebar-icon group">
+<div class="sidebar-icon group mx-0.5">
 	<Icon {icon} />
 	<span class="sidebar-tooltip group-hover:scale-100">
 		{tooltip}
