@@ -1,7 +1,7 @@
 import { render } from '$lib/utils/api';
 import { writeFile } from 'fs/promises';
 
-export const GET = async (event) => {
+export const GET = (event) => {
 		sitemap(event);
 		const data = {
 			sitemap: 'sitemap generation started',
@@ -19,6 +19,7 @@ async function sitemap(event) {
 		console.log('creating sitemap', i);
 		const data = await render(i, event.url.origin);
 		await writeFile(`./static/sitemap-${i}.xml`, data, { encoding: 'utf-8', flag: 'w' });
+		console.log('sitemap created', i);
 	}
 	return 'sitemap generation completed';
 }
