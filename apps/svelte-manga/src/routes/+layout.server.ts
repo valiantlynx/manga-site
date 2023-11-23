@@ -1,5 +1,7 @@
 import { serializeNonPOJOs } from '$lib/utils/api';
 
+export const csr = false;
+
 export const load = async (event) => {
 	// remove the www. and .com or whatever from the url if it exists and use that as the site name
 	const siteName = event.url.origin.replace(/^(?:https?:\/\/)?(?:www\.)?/i, '').split('.')[0];
