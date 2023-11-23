@@ -10,7 +10,7 @@
 
 <Feedback />
 <div class="flex flex-wrap">
-	<div class="left-content mt-4 w-full lg:w-3/4 p-4 order-2 md:order-1">
+	<div class="left-content  w-full lg:w-3/4 order-2 md:order-1">
 		<div class="container flex flex-wrap">
 			<div class="w-full p-4">
 				<Popular />

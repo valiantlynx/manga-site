@@ -52,7 +52,7 @@
 
 	<button
 		type="submit"
-		class="join-item btn btn-primary border-secondary animate-pulse"
+		class="join-item btn btn-primary border-secondary"
 		on:click={() => pageNo++}
 		disabled={disabled}
 		value={pageNo}

@@ -5,14 +5,14 @@
 	import PaginationSimple from './PaginationSimple.svelte';
 </script>
 
-<main class="bg-base-100 mx-4">
-	<h2 class="text-2xl font-bold text-center mb-6 bg-primary rounded-lg text-primary-content">
+<main class="bg-base-100 mb-4 border border-primary">
+	<h2 class="text-2xl font-bold text-center mb-6 bg-primary rounded-b-lg text-primary-content">
 		Latest Manga
 	</h2>
-	<div class="col-span-full flex justify-end w-full">
+	<div class="col-span-full flex justify-end w-full px-4">
 		<PaginationSimple action="?/latest" disabled={!$page.data.latestMangas} />
 	</div>
-	<div class="mx-auto container gap-y-6 gap-x-4">
+	<div class="mx-auto container gap-y-6 gap-x-4 px-4">
 		{#each ($page.form?.latestMangas ? $page.form?.latestMangas : $page.data.latestMangas) as manga}
 		
 			<ContentCardImage 
@@ -30,7 +30,7 @@
 			</ContentCardImage>
 		{/each}
 	</div>
-	<div class="col-span-full flex justify-end w-full">
+	<div class="col-span-full flex justify-end w-full px-4">
 		<PaginationSimple action="?/latest" disabled={!$page.data.latestMangas} />
 	</div>
 	<AnimevariantGridAds />

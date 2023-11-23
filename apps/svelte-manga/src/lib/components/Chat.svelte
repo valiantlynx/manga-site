@@ -119,7 +119,7 @@
 			minlength="1"
 			bind:value={newMessage}
 			disabled={loading}
-			class="input input-bordered input-primary flex-grow animate-pulse"
+			class="input input-bordered input-primary flex-grow"
 			
 			/>
 			{#if $page.data.user}

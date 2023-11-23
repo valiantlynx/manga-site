@@ -87,7 +87,7 @@
 	<meta name="twitter:data5" content={data.episodes.length} />
 </svelte:head>
 
-<main class="p-8">
+<main class="">
 	<Breadcrumbs {crumbs} />
 	<h1 class="text-3xl font-bold mb-6 text-center">{data.title}</h1>
 	<div class="grid grid-cols-1 gap-4 m-2 p-3 w-full h-full justify-center">
@@ -95,11 +95,12 @@
 		<ResponsiveBannerAd />
 		<Chapters />
 		<Pagination />
+		<ResponsiveBannerAd />
+		<Chat />
+		<ResponsiveBannerAd />
+		<ReadingProgress />
+		<ResponsiveBannerAd />
 	</div>
-	<ResponsiveBannerAd />
-	<Chat />
-	<ResponsiveBannerAd />
-	<ReadingProgress />
-	<ResponsiveBannerAd />
+
 </main>
 <Feedback />
