@@ -6,16 +6,17 @@
 	export let url = $page.url.origin;
 	export let text = 'Check out this manga website. it tracks your reading progress!';
 	export let hashtags = 'manga';
+	export let image = 'https://www.animevariant.com/api/logo?width=280&height=280&color=black'
 
 	let twitterUrl;
 	let facebookUrl;
 	let linkedinUrl;
 	let emailUrl;
 
-	$: twitterUrl = `https://twitter.com/intent/tweet?text=${text}&url=${url}&hashtags=${hashtags}`;
-	$: facebookUrl = `https://www.facebook.com/sharer/sharer.php?u=${url}`;
-	$: linkedinUrl = `https://www.linkedin.com/shareArticle?mini=true&url=${url}&title=${title}&summary=${text}&source=${url}`;
-	$: emailUrl = `mailto:?subject=${title}&body=${text} ${url}`;
+	$: twitterUrl = `https://twitter.com/intent/tweet?text=${text}&url=${url}&hashtags=${hashtags}&image=${image}`;
+	$: facebookUrl = `https://www.facebook.com/sharer/sharer.php?u=${url}&image=${image}&title=${title}&description=${text}`;
+	$: linkedinUrl = `https://www.linkedin.com/shareArticle?mini=true&url=${url}&title=${title}&summary=${text}&source=${url}&image=${image}`;
+	$: emailUrl = `mailto:?subject=${title}&body=${text} ${url}&image=${image}`;
 </script>
 
 <div class="flex flex-wrap justify-center py-2 w-full gap-2">

@@ -284,7 +284,7 @@
 	<!-- Previous and Next Chapter Buttons -->
 	<form class="flex justify-end space-x-4 m-4">
 		<a
-			href={`${$page.url.origin}/manga${data.chapters[currentChapterIndex]?.value}`}
+			href={`manga${data.chapters[currentChapterIndex]?.value}`}
 			class="px-4 py-2 rounded-lg btn btn-primary"
 			on:click={() => currentChapterIndex++}
 		>
@@ -293,13 +293,13 @@
 		{#if currentChapterIndex === 0}
 			<button
 				class="px-4 py-2 rounded-lg btn btn-secondary"
-				on:click={() => goto(`${$page.url.origin}/manga/${$page.params.id}`)}
+				on:click={() => goto(`manga/${$page.params.id}`)}
 			>
 				Manga Details
 			</button>
 		{:else}
 			<a
-				href={`${$page.url.origin}/manga${data.chapters[currentChapterIndex]?.value}`}
+				href={`manga${data.chapters[currentChapterIndex]?.value}`}
 				class="px-4 py-2 rounded-lg btn btn-primary"
 				on:click={() => currentChapterIndex--}
 			>
@@ -308,5 +308,12 @@
 		{/if}
 	</form>
 	<ScrollToTop />
+	<Share
+		title={data.title + ' ' + $page.params.chapterid + ' ' + $page.url.hostname}
+		url={$page.url.href}
+		image={data?.images[0].imageUrl}
+		text={`${data.title} ${$page.params.chapterid} ${$page.data.siteName}, read ${data.title} ${$page.params.chapterid} ${$page.data.siteName} online, ${data.title} ${$page.params.chapterid} ${$page.data.siteName} free online, ${data.title} ${$page.params.chapterid} ${$page.data.siteName} free online, ${data.title} ${$page.params.chapterid} ${$page.data.siteName} high quality, ${data.title} ${$page.params.chapterid} ${$page.data.siteName} manga scans, ${data.title} ${$page.params.chapterid} ${$page.data.siteName} manga scan`}
+		hashtags="manga, anime, manga online, manga free online, manga free online, manga high quality, manga scans, manga scan"
+	/>
 	<Chat />
 </main>
