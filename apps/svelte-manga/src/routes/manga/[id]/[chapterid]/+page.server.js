@@ -1,31 +1,30 @@
+import { serializeNonPOJOs } from '$lib/utils/api';
+
+
 let currentChapterIndex;
 let manga;
 export const load = async (event) => {
 	const { id, chapterid } = event.params;
 	const url = `/manga/${id}/${chapterid}`;
 
-	const response = await event.fetch(
-		event.url.origin + `/api/manga/${id}/${chapterid}?url=${url}`
-	);
+	const response = await event.fetch(event.url.origin + `/api/manga/${id}/${chapterid}?url=${url}`);
 	manga = await response.json();
-// filter  all the manga.chapters.value that starts with '\n
-manga.chapters = manga.chapters?.filter((chapter) => chapter.value.startsWith('/'));
+	// filter  all the manga.chapters.value that starts with '\n
+	manga.chapters = manga.chapters?.filter((chapter) => chapter.value.startsWith('/'));
 
-currentChapterIndex = manga.chapters?.findIndex(
-	(chapter) => {
-		return chapter.value === event.url.pathname?.replace('/manga', '')
-	}
-);
-
+	currentChapterIndex = manga.chapters?.findIndex((chapter) => {
+		return chapter.value === event.url.pathname?.replace('/manga', '');
+	});
 
 	await createRecord(event);
+	const similarManga = await getSimilarManga(event);
 
 	return {
 		manga,
-		currentChapterIndex
+		currentChapterIndex,
+		similarManga
 	};
 };
-
 
 // function to update the reading status of the manga on the user record in the users collection, if the manga is not in the user record, add it, else update the reading status of the manga and the reading progress
 let genreIds = [];
@@ -154,3 +153,15 @@ async function createRecord(event) {
 	}
 }
 
+async function getSimilarManga(event) {
+	const { locals } = event;
+	// get similar manga, depending on the genre of the manga
+	
+	const similarMangaList = await serializeNonPOJOs(
+	await locals.pb.collection('mangas').getList(1, 8, {
+		
+	})
+	);
+
+	return similarMangaList.items
+}
