@@ -1,6 +1,8 @@
 <script>
 	import { page } from '$app/stores';
 	import { ContentCardImage } from '@valiantlynx/svelte-ui';
+    import { Splide, SplideSlide } from '@splidejs/svelte-splide';
+    import '@splidejs/svelte-splide/css';
 
     const similarManga = $page.data.similarManga;
 </script>
@@ -11,7 +13,9 @@
 		Checkout similar manga
 	</h2>
     <div class="mx-auto container gap-y-6 gap-x-4 px-4">
+        <Splide aria-label="My Favorite Images">
         {#each similarManga as manga}
+        <SplideSlide>
             <ContentCardImage
                 link={'/manga/' + manga.sourceid}
                 img={manga.img}
@@ -22,7 +26,9 @@
             >
                 <label class="cursor-auto text-secondary" for="rating-8">{manga.views}</label>
             </ContentCardImage>
+        </SplideSlide>
         {/each}
+         </Splide>
     </div>
 </div>
 
