@@ -7,6 +7,7 @@
 	import Chat from '$lib/components/Chat.svelte';
 	import Share from '$lib/components/share/Share.svelte';
 	import PageControls from '$lib/components/chapterPage/PageControls.svelte';
+	import SimilarManga from '$lib/components/chapterPage/SimilarManga.svelte';
 
 	let data = $page.data.manga;
 	let currentChapterIndex: any;
@@ -123,6 +124,8 @@
 	image={data?.images[0].imageUrl}
 	text={`${data.title} ${$page.params.chapterid} ${$page.data.siteName}, read ${data.title} ${$page.params.chapterid} ${$page.data.siteName} online, ${data.title} ${$page.params.chapterid} ${$page.data.siteName} free online, ${data.title} ${$page.params.chapterid} ${$page.data.siteName} free online, ${data.title} ${$page.params.chapterid} ${$page.data.siteName} high quality, ${data.title} ${$page.params.chapterid} ${$page.data.siteName} manga scans, ${data.title} ${$page.params.chapterid} ${$page.data.siteName} manga scan`}
 	hashtags="manga, anime, manga online, manga free online, manga free online, manga high quality, manga scans, manga scan"
+
 />	
 	<Chat />
+	<SimilarManga />
 </main>
