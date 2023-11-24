@@ -9,6 +9,7 @@
 	import { goto } from '$app/navigation';
 	import { postPocketbase, pb, getPocketbase } from '$lib/utils/api';
 	import { onMount } from 'svelte';
+	import Share from '$lib/components/share/Share.svelte';
 
 	let data = $page.data.manga;
 
@@ -308,12 +309,17 @@
 		{/if}
 	</form>
 	<ScrollToTop />
+	<!-- Share -->
+	<div class="divider">
+		<i class="fa fa-share-alt mx-4"></i>
+		If you like this manga, please share it with your friends:
+	</div>
 	<Share
-		title={data.title + ' ' + $page.params.chapterid + ' ' + $page.url.hostname}
-		url={$page.url.href}
-		image={data?.images[0].imageUrl}
-		text={`${data.title} ${$page.params.chapterid} ${$page.data.siteName}, read ${data.title} ${$page.params.chapterid} ${$page.data.siteName} online, ${data.title} ${$page.params.chapterid} ${$page.data.siteName} free online, ${data.title} ${$page.params.chapterid} ${$page.data.siteName} free online, ${data.title} ${$page.params.chapterid} ${$page.data.siteName} high quality, ${data.title} ${$page.params.chapterid} ${$page.data.siteName} manga scans, ${data.title} ${$page.params.chapterid} ${$page.data.siteName} manga scan`}
-		hashtags="manga, anime, manga online, manga free online, manga free online, manga high quality, manga scans, manga scan"
-	/>
+	title={data.title + ' ' + $page.params.chapterid + ' ' + $page.url.hostname}
+	url={$page.url.href}
+	image={data?.images[0].imageUrl}
+	text={`${data.title} ${$page.params.chapterid} ${$page.data.siteName}, read ${data.title} ${$page.params.chapterid} ${$page.data.siteName} online, ${data.title} ${$page.params.chapterid} ${$page.data.siteName} free online, ${data.title} ${$page.params.chapterid} ${$page.data.siteName} free online, ${data.title} ${$page.params.chapterid} ${$page.data.siteName} high quality, ${data.title} ${$page.params.chapterid} ${$page.data.siteName} manga scans, ${data.title} ${$page.params.chapterid} ${$page.data.siteName} manga scan`}
+	hashtags="manga, anime, manga online, manga free online, manga free online, manga high quality, manga scans, manga scan"
+/>	
 	<Chat />
 </main>
