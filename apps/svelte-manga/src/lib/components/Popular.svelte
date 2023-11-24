@@ -5,16 +5,17 @@
 	import {ContentCardImage} from '@valiantlynx/svelte-ui';
 </script>
 
-<main class="bg-base-100 mx-4">
-	<h2 class="text-2xl font-bold text-center mb-6 bg-primary rounded-lg text-primary-content">
+<main class="bg-base-200 mb-4 border border-primary ">
+	<h2 class="text-2xl font-bold text-start  bg-primary rounded-b-lg text-primary-content">
+		<i class="fas fa-fire-alt mx-4"></i>
 		Popular
 	</h2>
 
-	<div class="col-span-full flex justify-end w-full">
+	<div class="col-span-full flex justify-end w-full px-4">
 		<PaginationSimple action="?/popular" disabled={!$page.data.popularMangas} />
 	</div>
 
-	<div class="mx-auto container gap-y-6 gap-x-4">
+	<div class="mx-auto container gap-y-6 gap-x-4 px-4">
 		{#each ( $page.form?.popularMangas ? $page.form?.popularMangas : $page.data.popularMangas) as manga}
 
 			<ContentCardImage 
@@ -30,7 +31,7 @@
 		{/each}
 	</div>
 
-	<div class="col-span-full flex justify-end w-full">
+	<div class="col-span-full flex justify-end w-full px-4">
 		<PaginationSimple action="?/popular" disabled={!$page.data.popularMangas} />
 	</div>
 	<AnimevariantGridAds />

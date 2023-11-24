@@ -8,3 +8,4 @@ export { default as ContentCardImage } from './components/ContentCardImage.svelt
 export { default as ThemeChanger } from './components/ThemeChanger.svelte';
 export { default as ScrollToTop } from './components/ScrollToTop.svelte';
 export { default as Breadcrumbs } from './components/Breadcrumbs.svelte';
+export { default as ButtonWithIcon } from './components/ButtonWithIcon.svelte';

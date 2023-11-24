@@ -21,11 +21,14 @@
 </script>
 
 <div class="flex flex-wrap justify-center">
-	<div class=" py-8 w-full lg:w-3/4 border border-primary rounded-l-lg">
-		<div class="container mx-auto px-4 sm:px-6 lg:px-8">
-			<h2 class="text-3xl font-semibold text-center mb-8">Your Reading Progress</h2>
+	<div class="px-4 py-8 w-full lg:w-3/4 border border-primary rounded-l-lg">
+		<div class="bg-base-200 mb-4 border border-primary">
+			<h2 class="text-xl font-bold text-center bg-primary rounded-b-lg text-primary-content ">
+				<i class="fa fa-book mx-4"></i>
+				Your Reading Progress
+			</h2>
 
-			<div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-6">
+			<div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-6 px-4">
 				{#if $page.data.user}
 					{#if $page.data.readingProgress.length != 0}
 					<!-- Pagination -->

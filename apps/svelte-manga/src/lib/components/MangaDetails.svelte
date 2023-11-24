@@ -1,7 +1,8 @@
 <script lang="ts">
 	import { page } from '$app/stores';
 	import { postPocketbase, pb, getPocketbase } from '$lib/utils/api';
-	import PersonalRating from './PersonalRating.svelte';
+	import PersonalRating from '$lib/components/PersonalRating.svelte';
+	import Share from '$lib/components/share/Share.svelte';
 	let data = $page.data.manga;
 
 	const imageSrc = `${import.meta.env.VITE_HOST_URL}/api${data.img}?width=200&height=300`;
@@ -292,6 +293,20 @@
 				<span class="font-bold">Last Updated:</span>
 				<span>{data.lastUpdated}</span>
 			</div>
+
+			<div class="flex flex-col">
+				<span class="font-bold">Share this manga:</span>
+				<Share
+		title={data.title}
+		url={$page.url.href}
+		text={data.description}
+		image={imageSrc}
+		hashtags="manga"
+
+	 />
+	 </div>
 		</div>
 	</div>
+
+
 </div>

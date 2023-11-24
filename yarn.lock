@@ -893,6 +893,11 @@
     "@vercel/nft" "^0.23.0"
     esbuild "^0.18.11"
 
+"@sveltejs/amp@^1.0.2":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@sveltejs/amp/-/amp-1.0.2.tgz#68b705accafcf689a3aed12c03cc84cb94e4685f"
+  integrity sha512-RAJLkZS6oYyF9T2ww/4QyUj3YDqnDIc2tFFi6WJ0EceLrmx107SNEhrhvTUCxECu5oIcA2s9GJtvaBplnjouWQ==
+
 "@sveltejs/kit@^1.20.4":
   version "1.27.2"
   resolved "https://registry.npmjs.org/@sveltejs/kit/-/kit-1.27.2.tgz"
@@ -2426,6 +2431,11 @@ dotenv@^16.3.1:
   version "16.3.1"
   resolved "https://registry.npmjs.org/dotenv/-/dotenv-16.3.1.tgz"
   integrity sha512-IPzF4w4/Rd94bA9imS68tZBaYyBWSCE47V1RGuMrB94iyTOIEwRmVL2x/4An+6mETpLrKJ5hQkB8W4kFAadeIQ==
+
+dropcss@^1.0.16:
+  version "1.0.16"
+  resolved "https://registry.yarnpkg.com/dropcss/-/dropcss-1.0.16.tgz#d538dbc278832f17cc1e8a8dcb0090cac8509525"
+  integrity sha512-QgA6BUh2SoBYE/dSuMmeGhNdoGtGewt3Rn66xKyXoGNyjrKRXf163wuM+xeQ83p87l/3ALoB6Il1dgKyGS5pEw==
 
 electron-to-chromium@^1.4.535:
   version "1.4.554"

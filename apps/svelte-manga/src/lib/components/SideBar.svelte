@@ -4,7 +4,7 @@
 </script>
 
 <div
-	class="relative top-0 left-0 w-16 h-screen bg-base-200 m-0 flex flex-col text-base-content shadow bg-gradient-to-b from-primary to-base-100"
+	class="relative top-0 left-0 w-16 h-auto bg-base-300 m-0 flex flex-col text-base-content shadow "
 >
 	<a href="/dashboard/profile"> <SideBarIcon tooltip="Profile" icon="iconoir:profile-circle" /></a>
 	<a href="/dashboard/reading-progress"
@@ -19,7 +19,7 @@
 	<a href="/dashboard/upload"><SideBarIcon tooltip="Upload" icon="ph:upload-bold" /></a>
 	{/if}
 
-	<form action="/api/logout" method="POST" class="absolute bottom-1/4 w-full">
+	<form action="/api/logout" method="POST" class="w-full">
 		<button type="submit" class="w-full">
 			<SideBarIcon tooltip="Logout" icon="bx:bx-log-out" />
 		</button>
