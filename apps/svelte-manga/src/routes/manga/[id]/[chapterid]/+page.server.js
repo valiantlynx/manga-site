@@ -21,7 +21,8 @@ currentChapterIndex = manga.chapters?.findIndex(
 	await createRecord(event);
 
 	return {
-		manga
+		manga,
+		currentChapterIndex
 	};
 };
 

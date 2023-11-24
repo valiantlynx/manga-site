@@ -9,17 +9,11 @@
 	import Share from '$lib/components/share/Share.svelte';
 
 	let data = $page.data.manga;
-
+	let currentChapterIndex: any;
+	$: currentChapterIndex = $page.data.currentChapterIndex
 	let readingMode = 'longstrip'; // Default reading mode
 
 	let currentPage = writable(0);
-
-	
-	let currentChapterIndex = data.chapters?.findIndex(
-		(chapter: any) => {
-			return chapter.value === $page.url.pathname?.replace('/manga', '')
-		}
-	);
 
 	function setReadingMode(mode: string) {
 		readingMode = mode;
@@ -45,6 +39,9 @@
 			url: `/manga/${$page.params.id}/${$page.params.chapterid}`
 		}
 	];
+
+	const readingModeSelect = ['longstrip', 'grid', 'paginated'];
+
 </script>
 
 <svelte:head>
@@ -106,31 +103,43 @@
 <main class="bg-base-100">
 	<Breadcrumbs {crumbs} />
 	<h1 class="text-3xl font-bold mb-6 text-center">{data.title} {$page.params.chapterid}</h1>
-	<!-- Reading Mode Selection -->
-	<div class="mb-4 flex justify-center space-x-4">
-		<button
-			class="px-4 py-2 rounded-lg btn btn-primary"
-			class:selected={readingMode === 'longstrip' ? 'bg-blue-500 text-white' : ''}
-			on:click={() => setReadingMode('longstrip')}
-		>
-			Long Strip
-		</button>
-
-		<button
-			class="px-4 py-2 rounded-lg btn btn-primary"
-			class:selected={readingMode === 'grid' ? 'bg-blue-500 text-white' : ''}
-			on:click={() => setReadingMode('grid')}
-		>
-			Grid
-		</button>
-		<button
-			class="px-4 py-2 rounded-lg btn btn-primary"
-			class:selected={readingMode === 'paginated' ? 'bg-blue-500 text-white' : ''}
-			on:click={() => setReadingMode('paginated')}
-		>
-			Paginated
-		</button>
+	<div class="flex justify-end items-end">
+		<!-- Reading Mode Selection -->
+		<select class="flex select select-primary m-4" bind:value={readingMode}>
+			<option disabled selected>Select reading mode?(longstrip)</option>
+			{#each readingModeSelect as mode}
+				<option value={mode}>{mode}</option>
+			{/each}
+		</select>
+			<!-- Previous and Next Chapter Buttons -->
+		<form class=" space-x-4 m-4">
+			<a
+				href={`/manga${data.chapters[currentChapterIndex]?.value}`}
+				class="px-4 py-2 rounded-lg btn btn-primary"
+				on:click={() => currentChapterIndex++}
+			>
+				Previous Chapter
+			</a>
+			{#if currentChapterIndex === 0}
+				<a
+					href={`/manga/${$page.params.id}`}
+					class="px-4 py-2 rounded-lg btn btn-secondary"
+				>
+					Manga Details
+				</a>
+			{:else}
+				<a
+					href={`/manga${data.chapters[currentChapterIndex]?.value}`}
+					class="px-4 py-2 rounded-lg btn btn-primary"
+					on:click={() => currentChapterIndex--}
+				>
+					Next Chapter
+				</a>
+			{/if}
+		</form>
+	
 	</div>
+	
 
 	<!-- Images Display -->
 	{#if readingMode === 'longstrip'}
@@ -145,32 +154,42 @@
 		<PaginatedReadingMode />
 	{/if}
 
-	<!-- Previous and Next Chapter Buttons -->
-	<form class="flex justify-end space-x-4 m-4">
-		<a
-			href={`/manga${data.chapters[currentChapterIndex]?.value}`}
-			class="px-4 py-2 rounded-lg btn btn-primary"
-			on:click={() => currentChapterIndex++}
-		>
-			Previous Chapter
-		</a>
-		{#if currentChapterIndex === 0}
-			<a
-				href={`/manga/${$page.params.id}`}
-				class="px-4 py-2 rounded-lg btn btn-secondary"
-			>
-				Manga Details
-			</a>
-		{:else}
+	<div class="flex justify-end items-end">
+		<!-- Reading Mode Selection -->
+		<select class="flex select select-primary m-4" bind:value={readingMode}>
+			<option disabled selected>Select reading mode?(longstrip)</option>
+			{#each readingModeSelect as mode}
+				<option value={mode}>{mode}</option>
+			{/each}
+		</select>
+			<!-- Previous and Next Chapter Buttons -->
+		<form class=" space-x-4 m-4">
 			<a
 				href={`/manga${data.chapters[currentChapterIndex]?.value}`}
 				class="px-4 py-2 rounded-lg btn btn-primary"
-				on:click={() => currentChapterIndex--}
+				on:click={() => currentChapterIndex++}
 			>
-				Next Chapter
+				Previous Chapter
 			</a>
-		{/if}
-	</form>
+			{#if currentChapterIndex === 0}
+				<a
+					href={`/manga/${$page.params.id}`}
+					class="px-4 py-2 rounded-lg btn btn-secondary"
+				>
+					Manga Details
+				</a>
+			{:else}
+				<a
+					href={`/manga${data.chapters[currentChapterIndex]?.value}`}
+					class="px-4 py-2 rounded-lg btn btn-primary"
+					on:click={() => currentChapterIndex--}
+				>
+					Next Chapter
+				</a>
+			{/if}
+		</form>
+	
+	</div>
 	<ScrollToTop />
 	<!-- Share -->
 	<div class="divider">
