@@ -10,8 +10,6 @@
 	import SimilarManga from '$lib/components/chapterPage/SimilarManga.svelte';
 
 	let data = $page.data.manga;
-	let currentChapterIndex: any;
-	$: currentChapterIndex = $page.data.currentChapterIndex
 	let readingMode = 'longstrip'; // Default reading mode
 
 	let crumbs: any[] = [];
@@ -95,7 +93,7 @@
 	<Breadcrumbs {crumbs} />
 	<h1 class="text-3xl font-bold mb-6 text-center">{data.title} {$page.params.chapterid}</h1>
 
-	<PageControls bind:readingMode bind:currentChapterIndex />
+	<PageControls bind:readingMode />
 	<!-- Images Display -->
 	{#if readingMode === 'longstrip'}
 		<LongstripReadingMode />
@@ -108,7 +106,7 @@
 	{#if readingMode === 'paginated'}
 		<PaginatedReadingMode />
 	{/if}
-	<PageControls bind:readingMode bind:currentChapterIndex />
+	<PageControls bind:readingMode />
 	<ScrollToTop />
 	<!-- Share -->
 	<div class="divider font-bold">

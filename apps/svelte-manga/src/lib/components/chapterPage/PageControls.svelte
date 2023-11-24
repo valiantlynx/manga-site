@@ -2,7 +2,8 @@
     import { page } from "$app/stores";
 
     let data = $page.data.manga;
-    export let currentChapterIndex;
+    let currentChapterIndex;
+    $: currentChapterIndex = $page.data.currentChapterIndex
     export let readingMode;
 
     const readingModeSelect = ['longstrip', 'grid', 'paginated'];
