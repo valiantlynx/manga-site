@@ -5,7 +5,7 @@
 	import {ContentCardImage} from '@valiantlynx/svelte-ui';
 </script>
 
-<main class="bg-base-100 mb-4 border border-primary ">
+<main class="bg-base-200 mb-4 border border-primary ">
 	<h2 class="text-2xl font-bold text-start  bg-primary rounded-b-lg text-primary-content">
 		<i class="fas fa-fire-alt mx-4"></i>
 		Popular

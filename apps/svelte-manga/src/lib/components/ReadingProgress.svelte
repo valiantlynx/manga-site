@@ -32,10 +32,10 @@
 </script>
 
 <div class="bg-base-100 rounded-lg p-4 shadow-md text-base-content">
-	<h2 class="text-2xl font-bold text-center mb-6 bg-primary rounded-lg text-primary-content">
+	<h2 class="text-xl font-bold text-center mb-6 bg-primary rounded-lg text-primary-content ">
+		<i class="fa fa-book mx-4 left-content"></i>
 		Your Reading Progress
 	</h2>
-
 	{#if $page.data.user}
 		{#if readingProgress.length != 0}
 			<!-- Individual Chapters -->

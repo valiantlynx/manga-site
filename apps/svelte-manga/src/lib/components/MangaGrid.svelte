@@ -5,8 +5,9 @@
 	import PaginationSimple from './PaginationSimple.svelte';
 </script>
 
-<main class="bg-base-100 mb-4 border border-primary">
-	<h2 class="text-2xl font-bold text-center mb-6 bg-primary rounded-b-lg text-primary-content">
+<main class="bg-base-200 mb-4 border border-primary">
+	<h2 class="text-2xl font-bold text-start  bg-primary rounded-b-lg text-primary-content">
+		<i class="fa fa-fire-alt mx-4"></i>
 		Latest Manga
 	</h2>
 	<div class="col-span-full flex justify-end w-full px-4">
