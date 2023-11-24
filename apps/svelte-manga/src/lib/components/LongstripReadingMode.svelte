@@ -3,13 +3,11 @@
 	import { onMount } from 'svelte';
 	let data: any;
 	$: data = $page.data.manga;
-	export let currentPage: any;
 	let imageWidth: string;
 
 	function setImageWidth(mode: string) {
 		window.localStorage.setItem('imageWidth', mode);
 		imageWidth = window.localStorage.getItem('imageWidth') || '3/5';
-		currentPage.set(0); // Reset current page when switching reading modes
 	}
 
 	onMount(() => {
@@ -27,7 +25,6 @@
 		<div class="mb-4 flex justify-center space-x-4">
 			<button
 				class="px-4 py-2 rounded-lg btn btn-primary"
-				class:selected={imageWidth === 'full' ? 'bg-blue-500 text-white' : ''}
 				on:click={() => setImageWidth('full')}
 			>
 				Full
@@ -35,7 +32,6 @@
 
 			<button
 				class="px-4 py-2 rounded-lg btn btn-primary"
-				class:selected={imageWidth === '3/5' ? 'bg-blue-500 text-white' : ''}
 				on:click={() => setImageWidth('3/5')}
 			>
 				Medium
