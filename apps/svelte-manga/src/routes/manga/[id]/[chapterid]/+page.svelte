@@ -6,6 +6,8 @@
 	import PaginatedReadingMode from '$lib/components/PaginatedReadingMode.svelte';
 	import Chat from '$lib/components/Chat.svelte';
 	import Share from '$lib/components/share/Share.svelte';
+	import PageControls from '$lib/components/chapterPage/PageControls.svelte';
+	import SimilarManga from '$lib/components/chapterPage/SimilarManga.svelte';
 
 	let data = $page.data.manga;
 	let currentChapterIndex: any;
@@ -31,9 +33,6 @@
 			url: `/manga/${$page.params.id}/${$page.params.chapterid}`
 		}
 	];
-
-	const readingModeSelect = ['longstrip', 'grid', 'paginated'];
-
 </script>
 
 <svelte:head>
@@ -95,42 +94,8 @@
 <main class="bg-base-100">
 	<Breadcrumbs {crumbs} />
 	<h1 class="text-3xl font-bold mb-6 text-center">{data.title} {$page.params.chapterid}</h1>
-	<div class="flex flex-wrap">
-		<div class="left-content order-1 ml-auto md:order-2">
-		<!-- Previous and Next Chapter Buttons -->
-		<form class="space-x-4 m-4">
-			<a href={`/manga${data.chapters[currentChapterIndex]?.value}`} class="px-4 py-2 rounded-lg btn btn-primary" on:click={() => currentChapterIndex++}>
-				Previous Chapter
-			</a>
-			{#if currentChapterIndex === 0}
-			<a href={`/manga/${$page.params.id}`} class="px-4 py-2 rounded-lg btn btn-secondary">
-				Manga Details
-			</a>
-			{:else}
-			<a href={`/manga${data.chapters[currentChapterIndex]?.value}`} class="px-4 py-2 rounded-lg btn btn-primary" on:click={() => currentChapterIndex--}>
-				Next Chapter
-			</a>
-			{/if}
-		</form>
-			
-		</div>
-	
-		<div class="right-content order-2   md:order-1">
-				<!-- Reading Mode Selection -->
-				<select class="select select-primary m-4" bind:value={readingMode}>
-					<option disabled selected>Select reading mode?(longstrip)</option>
-					{#each readingModeSelect as mode}
-					<option value={mode}>{mode}</option>
-					{/each}
-				</select>
-				<!-- Chapters Selection -->
-				<select class="select select-primary my-4" bind:value={$page.params.chapterid}>
-					<option disabled selected>{$page.params.chapterid}</option>
-				</select>
-		</div>
-	</div>
-	
 
+	<PageControls bind:readingMode bind:currentChapterIndex />
 	<!-- Images Display -->
 	{#if readingMode === 'longstrip'}
 		<LongstripReadingMode />
@@ -143,45 +108,7 @@
 	{#if readingMode === 'paginated'}
 		<PaginatedReadingMode />
 	{/if}
-
-
-
-	<div class="flex flex-wrap">
-		<div class="left-content order-1 ml-auto md:order-2">
-		<!-- Previous and Next Chapter Buttons -->
-		<form class="space-x-4 m-4">
-			<a href={`/manga${data.chapters[currentChapterIndex]?.value}`} class="px-4 py-2 rounded-lg btn btn-primary" on:click={() => currentChapterIndex++}>
-				Previous Chapter
-			</a>
-			{#if currentChapterIndex === 0}
-			<a href={`/manga/${$page.params.id}`} class="px-4 py-2 rounded-lg btn btn-secondary">
-				Manga Details
-			</a>
-			{:else}
-			<a href={`/manga${data.chapters[currentChapterIndex]?.value}`} class="px-4 py-2 rounded-lg btn btn-primary" on:click={() => currentChapterIndex--}>
-				Next Chapter
-			</a>
-			{/if}
-		</form>
-			
-		</div>
-	
-		<div class="right-content order-2   md:order-1">
-				<!-- Reading Mode Selection -->
-				<select class="select select-primary m-4" bind:value={readingMode}>
-					<option disabled selected>Select reading mode?(longstrip)</option>
-					{#each readingModeSelect as mode}
-					<option value={mode}>{mode}</option>
-					{/each}
-				</select>
-				<!-- Chapters Selection -->
-				<select class="select select-primary my-4" bind:value={$page.params.chapterid}>
-					<option disabled selected>{$page.params.chapterid}</option>
-				</select>
-		</div>
-	</div>
-	
-	
+	<PageControls bind:readingMode bind:currentChapterIndex />
 	<ScrollToTop />
 	<!-- Share -->
 	<div class="divider font-bold">
@@ -197,6 +124,8 @@
 	image={data?.images[0].imageUrl}
 	text={`${data.title} ${$page.params.chapterid} ${$page.data.siteName}, read ${data.title} ${$page.params.chapterid} ${$page.data.siteName} online, ${data.title} ${$page.params.chapterid} ${$page.data.siteName} free online, ${data.title} ${$page.params.chapterid} ${$page.data.siteName} free online, ${data.title} ${$page.params.chapterid} ${$page.data.siteName} high quality, ${data.title} ${$page.params.chapterid} ${$page.data.siteName} manga scans, ${data.title} ${$page.params.chapterid} ${$page.data.siteName} manga scan`}
 	hashtags="manga, anime, manga online, manga free online, manga free online, manga high quality, manga scans, manga scan"
+
 />	
 	<Chat />
+	<SimilarManga />
 </main>

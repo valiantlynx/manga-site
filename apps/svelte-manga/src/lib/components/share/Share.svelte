@@ -20,9 +20,9 @@
 </script>
 
 <div class="flex flex-wrap justify-center py-2 w-full gap-2">
-	<a href={facebookUrl} target="_blank">
+	<a href={facebookUrl} target="_blank" class="bg-blue-200">
 	<ButtonWithIcon>
-		<i slot="icon" class="fa fa-facebook" />
+		<i slot="icon" class="fa fa-facebook text-blue-600" />
 		
 			Facebook
 		
@@ -32,13 +32,13 @@
 
 	<a href={twitterUrl} target="_blank">
 	<ButtonWithIcon>
-		<i slot="icon" class="fa fa-twitter" />
+		<i slot="icon" class="fa fa-twitter text-blue-600" />
 			Twitter
 	</ButtonWithIcon>
 </a>
 <a href={linkedinUrl} target="_blank">
 	<ButtonWithIcon>
-		<i slot="icon" class="fa fa-linkedin" />
+		<i slot="icon" class="fa fa-linkedin text-blue-600" />
 		
 			LinkedIn
 		
@@ -46,7 +46,7 @@
 </a>
 <a href={emailUrl} target="_blank">
 	<ButtonWithIcon>
-		<i slot="icon" class="fa fa-envelope" />
+		<i slot="icon" class="fa fa-envelope text-warning" />
 		
 			Email
 		

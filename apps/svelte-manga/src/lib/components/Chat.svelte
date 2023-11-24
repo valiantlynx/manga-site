@@ -3,6 +3,7 @@
 	import { onMount, onDestroy } from 'svelte';
 	import { pb } from '$lib/utils/api';
 	import { page } from '$app/stores';
+	import ProfileModal from './ProfileModal.svelte';
 
 	let newMessage: string;
 	let messages: any[] = [];
@@ -25,7 +26,6 @@
 	}
 
 	async function getInitialMessages() {
-
 		try {
 			const resultList = await pb.collection('chat_animevariant').getList(1, 50, {
 				sort: 'created',
@@ -88,10 +88,13 @@
 	}
 </script>
 
-<div class="p-4 space-y-4 w-full px-4">
-	<h2 class="text-2xl font-bold mb-4">Join the Discussion</h2>
+<div class=" space-y-4  pb-4 border border-primary m-4 bg-base-200">
+	<h2 class="text-2xl font-bold mb-4 bg-primary text-primary-content rounded-b-md w-full">
+		<i class="fa fa-comments mx-2"></i> 
+		Join the Discussion
+	</h2>
 
-	<main class="overflow-y-auto max-h-[60vh]" on:scroll={watchScroll}>
+	<main class="overflow-y-auto max-h-[60vh] px-4" on:scroll={watchScroll}>
 		{#each messages as message (message.id)}
 			<ChatMessage {message} sender={$page.data.user?.username} />
 		{/each}
@@ -109,8 +112,11 @@
 		</div>
 	{/if}
 
-	<div class="border-t border-primary pt-4">
+	<div class="divider px-4 "></div>
+
+	<div class="border-t border-primary pt-4 px-4">
 		<form on:submit|preventDefault={sendMessage} class="space-x-2 flex items-center">
+			<ProfileModal />
 			<input
 			type="text"
 			placeholder={$page.data.user ? 'Type a message...' : 'Login to chat... ------>'}
