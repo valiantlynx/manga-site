@@ -16,8 +16,10 @@ export const actions = {
 	popular: async (event) => {
 		const data = await event.request.formData();
 		const page = data.get('page');
+		console.log('page', page);
 		try {
-			const popularMangas = await Popular(event.locals, page);  
+			const popularMangas = await Popular(event.locals, page); 
+			console.log('popularMangas', popularMangas); 
 			return {
 				popularMangas
 			};
@@ -50,7 +52,7 @@ const Popular = async (locals, pageNo) => {
 			filter: 'user = "77760erf1db6qql"',
 			expand: ['manga', 'currentChapter'],
 			perPage: 20,
-			sort: '-rating',
+			sort: '-updated',
 			page: pageNo
 		})
 	);

@@ -6,6 +6,7 @@
 	import Feedback from '$lib/components/feedback/Feedback.svelte';
 	import {CardWithCustomColor} from '@valiantlynx/svelte-ui';
 	import { page } from '$app/stores';
+	import Share from '$lib/components/share/Share.svelte';
 </script>
 
 <Feedback />
@@ -20,6 +21,7 @@
 	</div>
 
 	<div class="right-content w-full lg:w-1/4 p-4 order-1 md:order-2">
+		<Share />
 		<ReadingProgress />
 		<ResponsiveBannerAd />
 		<CardWithCustomColor>

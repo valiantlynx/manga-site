@@ -1,6 +1,5 @@
 import { serializeNonPOJOs } from '$lib/utils/api';
 
-export const csr = false;
 
 export const load = async (event) => {
 	// remove the www. and .com or whatever from the url if it exists and use that as the site name
@@ -13,7 +12,6 @@ export const load = async (event) => {
 			siteName
 		};
 	}
-
 	
 	const data = {
 		user: undefined,
