@@ -23,7 +23,8 @@
   "workspaces": [
     "apps/*",
     "packages/*",
-    "packages/scripts/python/*"
+    "packages/scripts/python/*",
+    "packages/scripts/python/school/math/*"
   ],
   "packageManager": "yarn@1.22.19",
   "usePackagemanager": "yarn@1.22.19 or pnpm@8.6.10 or npm@8.19.4",
