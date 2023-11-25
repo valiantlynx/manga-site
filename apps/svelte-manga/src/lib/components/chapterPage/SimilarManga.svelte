@@ -13,7 +13,16 @@
 		Checkout similar manga
 	</h2>
     <div class="mx-auto container gap-y-6 gap-x-4 px-4">
-        <Splide aria-label="My Favorite Images">
+        <Splide 
+        aria-label="similar manga"
+        options={ {
+            rewind: true,
+            fixedWidth : 200,
+            gap   : '1rem',
+            type   : 'loop',
+            autoplay: true,
+          } }
+        >
         {#each similarManga as manga}
         <SplideSlide>
             <ContentCardImage
