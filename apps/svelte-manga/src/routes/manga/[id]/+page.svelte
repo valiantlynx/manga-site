@@ -8,6 +8,7 @@
 	import Chat from '$lib/components/Chat.svelte';
 	import ResponsiveBannerAd from '$lib/components/ResponsiveBannerAd.svelte';
 	import Feedback from '$lib/components/feedback/Feedback.svelte';
+	import SimilarManga from '$lib/components/chapterPage/SimilarManga.svelte';
 
 	let data = $page.data.manga;
 
@@ -97,6 +98,7 @@
 		<Pagination />
 		<ResponsiveBannerAd />
 		<Chat />
+		<SimilarManga />
 		<ResponsiveBannerAd />
 		<ReadingProgress />
 		<ResponsiveBannerAd />

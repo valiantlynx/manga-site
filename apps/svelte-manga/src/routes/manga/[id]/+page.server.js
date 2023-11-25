@@ -1,4 +1,6 @@
 import { error } from '@sveltejs/kit';
+import { serializeNonPOJOs } from '$lib/utils/api';
+
 
 export const load = async (event) => {
 	const { id } = event.params;
@@ -10,10 +12,13 @@ export const load = async (event) => {
 
 	const pageNumbers = generatePageNumbers(manga);
 	const chaptersToShow = updateChaptersToShow(1, manga);
+	const similarManga = await getSimilarManga(event);
+
 	return {
 		manga,
 		chaptersToShow,
-		pageNumbers
+		pageNumbers,
+		similarManga
 	};
 };
 
@@ -52,4 +57,17 @@ function generatePageNumbers(manga) {
 	const totalPages = Math.ceil(totalChapters / chaptersPerPage);
 	const pageNumbers = Array.from({ length: totalPages }, (_, index) => index + 1);
 	return pageNumbers;
+}
+
+async function getSimilarManga(event) {
+	const { locals } = event;
+	// get similar manga, depending on the genre of the manga
+	
+	const similarMangaList = await serializeNonPOJOs(
+	await locals.pb.collection('mangas').getList(1, 8, {
+		
+	})
+	);
+
+	return similarMangaList.items
 }
