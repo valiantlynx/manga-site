@@ -20,7 +20,7 @@
 </script>
 
 <div class="flex flex-wrap justify-center py-2 w-full gap-2">
-	<a href={facebookUrl} target="_blank" class="bg-blue-200">
+	<a href={facebookUrl} target="_blank">
 	<ButtonWithIcon>
 		<i slot="icon" class="fa fa-facebook text-blue-600" />
 		

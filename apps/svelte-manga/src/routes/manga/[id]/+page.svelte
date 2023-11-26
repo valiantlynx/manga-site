@@ -91,7 +91,7 @@
 <main class="">
 	<Breadcrumbs {crumbs} />
 	<h1 class="text-3xl font-bold mb-6 text-center">{data.title}</h1>
-	<div class="grid grid-cols-1 gap-4 m-2 p-3 w-full h-full justify-center">
+	<div class="grid grid-cols-1 gap-4 p-3 w-full h-full justify-center">
 		<MangaDetails />
 		<ResponsiveBannerAd />
 		<Chapters />
