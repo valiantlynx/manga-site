@@ -8,6 +8,7 @@ declare global {
 			user?: any;
 			state?: string;
 			verifier?: string;
+			isSmallDevice?: boolean;
 		}
 		// interface PageData {}
 		// interface Platform {}
