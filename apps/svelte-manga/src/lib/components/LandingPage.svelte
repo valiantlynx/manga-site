@@ -42,6 +42,7 @@
 
    
 </div>
+
 <Share
 title="{$page.data.siteName}"
 url="{$page.url.origin}"

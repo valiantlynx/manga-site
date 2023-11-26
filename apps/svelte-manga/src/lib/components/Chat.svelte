@@ -114,12 +114,18 @@
 
 	<div class="divider px-4 "></div>
 
-	<div class="border-t border-primary pt-4 px-4">
+	<div class="flex flex-wrap border-t border-primary pt-4 px-4">
+		<ProfileModal />
+		<div class="flex-grow"> 
+			<h3 class="text-lg font-bold">{$page.data.user?.username}</h3>
+			<p class="text-sm">{$page.data.user?.email}</p>
+		</div>
+
 		<form on:submit|preventDefault={sendMessage} class="space-x-2 flex items-center">
-			<ProfileModal />
+			
 			<input
 			type="text"
-			placeholder={$page.data.user ? 'Type a message...' : 'Login to chat... ------>'}
+			placeholder={$page.data.user ? 'Type a message...' : '<------ Login to chat 💬'}
 			id="comment"
 			required
 			minlength="1"
@@ -130,8 +136,6 @@
 			/>
 			{#if $page.data.user}
 				<button type="submit" disabled={loading} class="btn btn-primary"> Send </button>
-			{:else}
-				<a href="/login" type="submit" class="btn btn-primary"> Login </a>
 			{/if}
 		</form>
 	</div>
