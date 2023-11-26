@@ -12,6 +12,7 @@
 <Footer />
 
 <svelte:head>
+	<meta name="theme-color" content="#fff" />
 	{#if $page.data.sites }
 		<!-- clarity there is abug in svelte where inside the svript tags i cannot access the variables //! https://stackoverflow.com/questions/63419284/svelte-substitution-in-script-within-sveltehead-->
 		{@html `<script type="text/javascript">
