@@ -69,7 +69,7 @@
 				}}
 				class:border-2={currentTheme === name}
 				class:border-primary={currentTheme === name}
-				class="btn btn-ghost w-full hover:bg-primary group rounded-lg flex bg-base-100  transition-all"
+				class="btn btn-ghost w-full hover:bg-primary group rounded-lg flex bg-base-100 transition-all"
 			>
 				<p
 					class="flex-1 text-left text-base-content group-hover:text-primary-content transition-color"
@@ -86,12 +86,11 @@
 	</ul>
 </div>
 
-
 <style>
 	.overflow {
-  max-height: 21.5rem;
-  overflow-y: auto;
-}
+		max-height: 21.5rem;
+		overflow-y: auto;
+	}
 	.flex-1 {
 		flex: 1;
 	}
@@ -109,4 +108,4 @@
 	.transition-color {
 		transition: color 0.2s ease-in-out;
 	}
-	</style>
+</style>

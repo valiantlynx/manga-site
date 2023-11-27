@@ -27,8 +27,8 @@
 	<label for={id} class="label font-medium pb-1">
 		<span class="label-text">{label}</span>
 		{#if required}
-		<span class="indicator-item badge">Required</span>
-	{/if}
+			<span class="indicator-item badge">Required</span>
+		{/if}
 	</label>
 
 	<input
