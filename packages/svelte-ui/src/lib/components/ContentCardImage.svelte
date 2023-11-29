@@ -12,11 +12,7 @@
 	class="w-full bg-base-300 text-base-content shadow-md rounded-xl duration-500 hover:scale-105 hover:shadow-xl border border-primary"
 >
 	<a class=" w-full" href={link}>
-		<img
-			class=" w-full group-hover:opacity-75 overflow-hidden rounded-t-xl"
-			src={img}
-			alt={alt}
-		/>
+		<img class=" w-full group-hover:opacity-75 overflow-hidden rounded-t-xl" src={img} {alt} />
 
 		<div class="px-4 py-3 w-full">
 			<span class="mr-3 uppercase text-xs truncate block text-neutral">{label1}</span>
