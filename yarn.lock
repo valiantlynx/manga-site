@@ -1414,6 +1414,13 @@
   resolved "https://registry.npmjs.org/@valiantlynx/image/-/image-0.0.2.tgz"
   integrity sha512-cthhGEd+g4FHfqrszd/cD6ubbJdQdWvHloviWraIifdp/xcmp9KvyTXJQKo4XoFKDFt9hXzsm2DQHy2hbXyWOw==
 
+"@valiantlynx/svelte-leaflet@^0.0.6":
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/@valiantlynx/svelte-leaflet/-/svelte-leaflet-0.0.6.tgz#902a44d830476b8b781e6c171cc31e3be417ee8c"
+  integrity sha512-KuA/GL5EfbqEYCk00mizbM0txyaS81w7Jaa9K36YFTcYMRfvj4jjXq6i4WfZXqB3cydrJObYbjmGPyHjgsWOCg==
+  dependencies:
+    leaflet "^1.9.4"
+
 "@valiantlynx/svelte-ui@^0.0.9":
   version "0.0.9"
   resolved "https://registry.yarnpkg.com/@valiantlynx/svelte-ui/-/svelte-ui-0.0.9.tgz#8742a86027983b2f401edccc1d0fb2078fc5c01c"
