@@ -4,7 +4,7 @@
   "globalEnv": ["PORT"],
   "pipeline": {
     "build": {
-      "dependsOn": ["^build"],
+      "dependsOn": ["^build", "^format", "^package"],
       "outputs": ["dist/**", ".next/**", "!.next/cache/**", "public/dist/**", ".svelte-kit/**", ".vercel/**"],
       "env": ["NEXT_PUBLIC_API_HOST"]
     },
