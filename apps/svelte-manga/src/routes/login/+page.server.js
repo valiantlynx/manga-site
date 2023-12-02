@@ -1,5 +1,4 @@
 import { error, redirect } from '@sveltejs/kit';
-import { state, verifier } from '$lib/utils/stores';
 
 export const load = ({ locals }) => {
 	if (locals.pb.authStore.isValid) {
@@ -43,8 +42,11 @@ export const actions = {
 		);
 		const authProviderRedirect = `${googleAuthProvider?.authUrl}${redirectUrl}&googleAuthState=${googleAuthProvider?.state}`;
 		// Save the state and verifier in a cookie
-		state.set(googleAuthProvider.state);
-		verifier.set(googleAuthProvider.codeVerifier);
+		const state = googleAuthProvider.state;
+        const verifier = googleAuthProvider.codeVerifier
+
+		event.cookies.set('state',state);
+        event.cookies.set('verifier',verifier);
 
 		throw redirect(302, authProviderRedirect);
 	}
