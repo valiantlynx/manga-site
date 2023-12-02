@@ -1,16 +1,17 @@
-# fly.toml app configuration file generated for nameless-cloud-5581 on 2023-08-20T20:58:03+02:00
+# fly.toml app configuration file generated for texbab on 2023-12-02T17:09:08+01:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = "nameless-cloud-5581"
+app = "texbab"
 primary_region = "arn"
 
 [build]
 
-# optional if you want to change the PocketBase version
-[build.args]
-  PB_VERSION="0.17.5"
+[[mounts]]
+  source = "pb_data"
+  destination = "/pb/pb_data"
+  auto_extend_size_threshold = 0
 
 [http_service]
   internal_port = 8080
@@ -21,9 +22,10 @@ primary_region = "arn"
   processes = ["app"]
   [http_service.concurrency]
     type = "requests"
-    soft_limit = 500
     hard_limit = 550
+    soft_limit = 500
 
-[mounts]
-  destination = "/pb/pb_data"
-  source = "pb_data"
+[[vm]]
+  cpu_kind = "shared"
+  cpus = 1
+  memory_mb = 1024
