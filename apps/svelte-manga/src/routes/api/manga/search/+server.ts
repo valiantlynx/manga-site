@@ -40,7 +40,7 @@ export const GET: RequestHandler = async ({ url }) => {
 
 			const content = {
 				title: titleElement.text().trim(),
-				img: `${import.meta.env.VITE_IMAGE_URL}` + imgElement.attr('src'),
+				img: `${url.origin}/api` + imgElement.attr('src'),
 				latestChapter: chaptersElement.text(),
 				src: `${url.origin}` + src,
 				mangaParkId: id,

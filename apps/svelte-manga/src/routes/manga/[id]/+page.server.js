@@ -9,7 +9,6 @@ export const load = async (event) => {
 
 	const response = await fetch(event.url.origin + `/api/manga/${id}?url=${url}`);
 	const manga = await response.json();
-	console.log("url2", manga);
 
 	const pageNumbers = generatePageNumbers(manga);
 	const chaptersToShow = updateChaptersToShow(1, manga);
@@ -28,7 +27,6 @@ export const actions = {
 	chapters: async (event) => {
 		const data = await event.request.formData();
 		const page = data.get('page');
-		console.log('page chapters', page);
 		try {
 			const { id } = event.params;
 			const url = `/manga/${id}`;

@@ -6,7 +6,7 @@
 	export let url = $page.url.origin;
 	export let text = 'Check out this manga website. it tracks your reading progress!';
 	export let hashtags = 'manga';
-	export let image = 'https://www.animevariant.com/api/logo?width=280&height=280&color=black'
+	export let image = `${$page.url.origin}/api/logo?width=280&height=280&color=black`
 
 	let twitterUrl;
 	let facebookUrl;
