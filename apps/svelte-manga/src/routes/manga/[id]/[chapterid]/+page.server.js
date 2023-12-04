@@ -9,6 +9,7 @@ export const load = async (event) => {
 
 	const response = await event.fetch(event.url.origin + `/api/manga/${id}/${chapterid}?url=${url}`);
 	manga = await response.json();
+	console.log(manga);
 	// filter  all the manga.chapters.value that starts with '\n
 	manga.chapters = manga.chapters?.filter((chapter) => chapter.value.startsWith('/'));
 
@@ -82,9 +83,11 @@ async function createRecord(event) {
 				const urlmanga = `/manga/${params.id}`;
 
 				const responsemanga = await fetch(
-					import.meta.env.VITE_HOST_URL + `/api/manga/${params.id}?url=${urlmanga}`
+					url.origin + `/api/manga/${params.id}?url=${urlmanga}`
 				);
 				const datamanga = await responsemanga.json();
+
+			
 
 				// Manga doesn't exist, create it
 				for (let i = 0; i < datamanga.author.length; i++) {

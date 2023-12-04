@@ -9,6 +9,7 @@ export const load = async (event) => {
 
 	const response = await fetch(event.url.origin + `/api/manga/${id}?url=${url}`);
 	const manga = await response.json();
+	console.log("url2", manga);
 
 	const pageNumbers = generatePageNumbers(manga);
 	const chaptersToShow = updateChaptersToShow(1, manga);
