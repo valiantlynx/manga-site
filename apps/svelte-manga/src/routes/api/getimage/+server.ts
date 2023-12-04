@@ -3,7 +3,7 @@ import type { RequestHandler } from './$types';
 
 export const GET: RequestHandler = async ({ url }) => {
 	const imageUrl: any = url.searchParams.get('url');
-	const quality = Number(url.searchParams.get('quality')) || 80;
+	const quality = Number(url.searchParams.get('quality')) || 100;
 
 	console.log('imageUrl', imageUrl);
 

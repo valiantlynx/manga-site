@@ -1,5 +1,6 @@
 <script>
 	import { getImageURL } from '$lib/utils/api';
+	import { page } from '$app/stores';
 	export let project;
 </script>
 
@@ -27,7 +28,7 @@
 				<img
 					src={project.expand?.user
 						? `https://animevariant.fly.dev/api/files/${project.expand?.user?.collectionId}/${project.expand?.user?.id}/${project.expand?.user?.avatar}?thumb=100x100`
-						: 'https://animevariant.com/logo.png'}
+						: `${$page.url.origin}/logo.png`}
 					alt={project.expand?.user?.username}
 					class="w-8 h-8 rounded-full object-cover"
 				/>
