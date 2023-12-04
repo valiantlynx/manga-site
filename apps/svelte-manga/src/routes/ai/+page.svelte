@@ -3,7 +3,6 @@
 	import { page } from '$app/stores';
 	import toast from 'svelte-french-toast';
 	let loading;
-	console.log($page);
 
 	$: loading = false;
 

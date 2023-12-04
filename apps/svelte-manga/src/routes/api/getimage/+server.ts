@@ -3,9 +3,6 @@ import type { RequestHandler } from './$types';
 
 export const GET: RequestHandler = async ({ url }) => {
     const imageUrl: any = url.searchParams.get('url');
-    const upscaleFactor = 2; // Upscale by a factor of 2
-
-    console.log('imageUrl', imageUrl);
 
     try {
         // Fetch the image

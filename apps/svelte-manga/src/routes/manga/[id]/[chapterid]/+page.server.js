@@ -9,7 +9,6 @@ export const load = async (event) => {
 
 	const response = await event.fetch(event.url.origin + `/api/manga/${id}/${chapterid}?url=${url}`);
 	manga = await response.json();
-	console.log(manga);
 	// filter  all the manga.chapters.value that starts with '\n
 	manga.chapters = manga.chapters?.filter((chapter) => chapter.value.startsWith('/'));
 
