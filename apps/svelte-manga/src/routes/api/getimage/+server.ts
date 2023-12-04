@@ -3,9 +3,9 @@ import type { RequestHandler } from './$types';
 
 export const GET: RequestHandler = async ({ url }) => {
 	const imageUrl: any = url.searchParams.get('url');
-	const width = Number(url.searchParams.get('width')) || 200;
-	const height = Number(url.searchParams.get('height')) || 300;
 	const quality = Number(url.searchParams.get('quality')) || 80;
+
+	console.log('imageUrl', imageUrl);
 
 	try {
 		// Fetch the image
@@ -26,7 +26,6 @@ export const GET: RequestHandler = async ({ url }) => {
 
 		// Process the image using sharp
 		const compressedImageBuffer = await sharp(imageArrayBuffer)
-			.resize(width, height)
 			.rotate()
 			.webp({ quality })
 			.toBuffer();

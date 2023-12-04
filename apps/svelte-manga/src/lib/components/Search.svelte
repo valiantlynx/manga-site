@@ -4,6 +4,7 @@
 	import BigSearchResults from './BigSearchResults.svelte';
 	import SmallSearchResults from './SmallSearchResults.svelte';
 	import { metaKeywords, searchQuery } from '$lib/utils/stores';
+	import { page } from '$app/stores';
 
 	export let type: 'small' | 'big' = 'small';
 
@@ -18,7 +19,7 @@
 		}
 
 		try {
-			const response = await axios.get(`${import.meta.env.VITE_HOST_URL}/api/manga/search`, {
+			const response = await axios.get(`${$page.url.origin}/api/manga/search`, {
 				params: { word: searchTerm, page: 1 }
 			});
 

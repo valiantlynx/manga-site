@@ -1,5 +1,4 @@
 import { error, redirect } from '@sveltejs/kit';
-import { state, verifier } from '$lib/utils/stores';
 
 /** @type {import('./$types').Actions} */
 export const actions = {
@@ -64,7 +63,7 @@ export const actions = {
 				);
 			}
 		}
-		throw redirect(303, '/login');
+		return;
 	},
 	oauth2google: async (event) => {
 		const authMethods = await event.locals.pb?.collection('users').listAuthMethods(); // generates a state and a verifier
@@ -79,9 +78,11 @@ export const actions = {
 			(provider) => provider.name === 'google'
 		);
 		const authProviderRedirect = `${googleAuthProvider?.authUrl}${redirectUrl}&googleAuthState=${googleAuthProvider?.state}`;
-		// Save the state and verifier in a cookie
-		state.set(googleAuthProvider.state);
-		verifier.set(googleAuthProvider.codeVerifier);
+		const state = googleAuthProvider.state;
+        const verifier = googleAuthProvider.codeVerifier
+
+		event.cookies.set('state',state);
+        event.cookies.set('verifier',verifier);
 
 		throw redirect(302, authProviderRedirect);
 	}

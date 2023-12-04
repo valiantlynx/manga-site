@@ -22,7 +22,9 @@ export const GET: RequestHandler = async ({ url, setHeaders }) => {
 		const elements = $('.container-chapter-reader img');
 		const data = elements
 			.map((index, element) => {
-				const imageUrl = $(element).attr('data-src');
+				const imageUrlExternal = $(element).attr('data-src');
+				// fetch the image url from the data-src attribute through our origin
+				const imageUrl = `${url.origin}/api/getimage?url=${imageUrlExternal}`;
 				const pageNumber = index + 1;
 				const totalPages = elements.length;
 

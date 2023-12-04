@@ -92,7 +92,7 @@
 		async function search(entry: any) {
 			try {
 				const response = await fetch(
-					`${import.meta.env.VITE_HOST_URL}/api/manga/search?word=${entry.name}&page=${1}`
+					`${$page.url.origin}/api/manga/search?word=${entry.name}&page=${1}`
 				);
 
 				const data = await response.json();
@@ -108,7 +108,7 @@
 
 			try {
 				const response = await fetch(
-					import.meta.env.VITE_HOST_URL + `/api/manga/${id}/${chapterid}?url=${url}`
+					$page.url.origin + `/api/manga/${id}/${chapterid}?url=${url}`
 				);
 				const data = await response.json();
 
@@ -142,7 +142,7 @@
 						const urlmanga = `/manga/${manga?.mangaParkId}`;
 
 						const responsemanga = await fetch(
-							import.meta.env.VITE_HOST_URL + `/api/manga/${manga?.mangaParkId}?url=${urlmanga}`
+							$page.url.origin + `/api/manga/${manga?.mangaParkId}?url=${urlmanga}`
 						);
 						const datamanga = await responsemanga.json();
 
@@ -167,7 +167,7 @@
 						const pbDataManga = {
 							title: datamanga.title,
 							description: datamanga.description,
-							img: import.meta.env.VITE_HOST_URL + '/api' + datamanga.img,
+							img: $page.url.origin + '/api' + datamanga.img,
 							updated: datamanga.lastUpdated,
 							views: datamanga.views,
 							latestChapter: datamanga.episodes[0]?.chapterTitle,
@@ -182,7 +182,7 @@
 							title: entry.name,
 							chapterId: `chapter-${entry.ch ? entry.ch : 1}`,
 							src:
-								import.meta.env.VITE_HOST_URL +
+								$page.url.origin +
 								`/manga/${manga?.mangaParkId}/chapter-${entry.ch ? entry.ch : 1}`,
 							manga: mangaRes.id
 						};
@@ -209,7 +209,7 @@
 							title: entry.name,
 							chapterId: `chapter-${entry.ch ? entry.ch : 1}`,
 							src:
-								import.meta.env.VITE_HOST_URL +
+								$page.url.origin +
 								`/manga/${manga?.mangaParkId}/chapter-${entry.ch ? entry.ch : 1}`,
 							manga: existingMangaList.items[0].id
 						};

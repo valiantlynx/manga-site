@@ -4302,6 +4302,11 @@ leaflet-routing-machine@^3.2.12:
     "@mapbox/polyline" "^0.2.0"
     osrm-text-instructions "^0.13.2"
 
+leaflet.fullscreen@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/leaflet.fullscreen/-/leaflet.fullscreen-3.0.0.tgz#e5e162b95c6219469c251006573fccbe4ef8cc55"
+  integrity sha512-81wWSUXz1ZtdneR0v5eJDWXUSx+Zo5J50WXWeydG/UcILfIEAgz/iOjZSi3p00Z9MJ/FC/P5i3CgdYuEAos0yQ==
+
 leaflet@^1.9.4:
   version "1.9.4"
   resolved "https://registry.yarnpkg.com/leaflet/-/leaflet-1.9.4.tgz#23fae724e282fa25745aff82ca4d394748db7d8d"
