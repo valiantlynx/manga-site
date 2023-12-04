@@ -5,7 +5,7 @@
 	import Share from '$lib/components/share/Share.svelte';
 	let data = $page.data.manga;
 
-	const imageSrc = `${import.meta.env.VITE_HOST_URL}/api${data.img}?width=200&height=300`;
+	const imageSrc = `${$page.url.origin}/api${data.img}?width=200&height=300`;
 
 	// turn the views into a number by removing the commas and the last character, if the last character is a k  then multiply the number by 1000, if the last character is an m then multiply the number by 1000000
 	let views = data.views;
