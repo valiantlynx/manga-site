@@ -4,7 +4,6 @@
 	import { page } from '$app/stores';
 	import ImportReadingProgress from '$lib/components/ImportReadingProgress.svelte';
 	import PaginationSimple from '$lib/components/PaginationSimple.svelte';
-	console.log('page,,,,', $page);
 	
 	let pageNo = 1;
 	const itemsPerPage = 20;
