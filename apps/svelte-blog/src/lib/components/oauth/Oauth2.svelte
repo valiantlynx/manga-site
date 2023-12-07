@@ -7,7 +7,7 @@
 	<!-- auth with google -->
 	<div class="w-full block my-4">
 		<Oauth2SingleServer
-			logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/512px-Google_%22G%22_Logo.svg.png"
+			logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/150px-Google_%22G%22_logo.svg.png"
 			provider="google"
 		/>
 	</div>

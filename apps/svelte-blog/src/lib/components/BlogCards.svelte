@@ -1,10 +1,30 @@
 <script>
 	import { page } from '$app/stores';
-	const blogs = $page.data.blogs;
+	export let blog;
+
+	function shareButtonClick(blog) {
+		if (navigator.share) {
+			navigator
+				.share({
+					title: blog.title,
+					url: $page.url.origin + '/' + blog.slug,
+					text: blog.summary,
+
+				})
+				.then(() => {
+					console.dir('Thanks for sharing!');
+				})
+				.catch((err) => {
+					console.dir('Error while using Web share API:');
+					console.error(err);
+				});
+		} else {
+			alert("Browser doesn't support this API !");
+		}
+	}
 </script>
 
-<div class="flex flex-wrap -m-4 p-10">
-	{#each blogs.items as blog (blog.id)}
+
 		<div class="w-full md:w-1/2 lg:w-1/3 xl:w-1/4 p-4">
 			<!-- Blog Card Component -->
 			<div class="bg-primary border rounded-lg p-4 shadow-md hover:shadow-lg text-primary-content">
@@ -32,16 +52,22 @@
 								<i class="fa fa-heart-o fa-lg text-primary-content"></i>
 							</li>
 							<li class="inline pr-2">
-								<i class="fa fa-envelope-o fa-lg text-primary-content"></i>
+								<!-- svelte-ignore a11y-click-events-have-key-events -->
+								<!-- svelte-ignore a11y-no-static-element-interactions -->
+								<i class="fa fa-envelope-o fa-lg text-primary-content hover:text-secondary" on:click={() => shareButtonClick(blog)}></i>
 							</li>
 							<li class="inline">
-								<i class="fa fa-share-alt fa-lg text-primary-content"></i>
+								<!-- svelte-ignore a11y-click-events-have-key-events -->
+								<!-- svelte-ignore a11y-no-static-element-interactions -->
+								<i 
+								class="fa fa-share-alt fa-lg text-primary-content hover:text-secondary"
+								on:click={() => shareButtonClick(blog)}
+								
+								></i>
 							</li>
 						</ul>
 					</div>
 				</div>
 			</div>
 		</div>
-	{/each}
-</div>
 

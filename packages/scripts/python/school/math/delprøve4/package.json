@@ -4,7 +4,7 @@
   "private": true,
   "license": "MIT",
   "scripts": {
-    "python": "venv\\Scripts\\python -u main.py",
+    "python": "venv\\Scripts\\python -u test-1.py",
     "python:pip": "python -m venv venv && venv\\Scripts\\pip install -r requirements.txt"
   }
 }

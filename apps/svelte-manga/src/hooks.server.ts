@@ -18,6 +18,6 @@ export const handle = async ({ event, resolve }) => {
 	}
 
 	const response = await resolve(event);
-	response.headers.set('set-cookie', event.locals.pb.authStore.exportToCookie({ secure: false }));
+	response.headers.append('set-cookie', event.locals.pb.authStore.exportToCookie({ secure: true }));
 	return response;
 };

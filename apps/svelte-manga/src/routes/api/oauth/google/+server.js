@@ -1,18 +1,12 @@
 /* eslint-disable no-console */
 import { redirect } from '@sveltejs/kit';
-import { state, verifier } from '$lib/utils/stores';
 
 export const GET = async ({ locals, url }) => {
 	const redirectUrl = `${url.origin}/api/oauth/google`;
 	let expectedState;
 	let expectedVerifier;
 
-	state.subscribe((value) => {
-		expectedState = value;
-	});
-	verifier.subscribe((value) => {
-		expectedVerifier = value; //! everytime the listAuthMethods is called, the verifier changes. so we cant get the verifier pocketbase function hook. cause it will be different from the one we saved in the cookie from the action hook
-	});
+	//! everytime the listAuthMethods is called, the verifier changes. so we cant get the verifier pocketbase function hook. cause it will be different from the one we saved in the cookie from the action hook
 
 	const gState = url.searchParams.get('state');
 	const code = url.searchParams.get('code');
