@@ -2,7 +2,7 @@
 	import Search from './Search.svelte';
 	import ProfileModal from './ProfileModal.svelte';
 	import { page } from '$app/stores';
-	import ThemeChanger from './ThemeChanger.svelte';
+	import {ThemeChanger} from '@valiantlynx/svelte-ui';
 </script>
 
 <!-- Small Devices Layout -->
