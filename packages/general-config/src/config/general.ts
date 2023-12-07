@@ -2,16 +2,24 @@ import type { ThemeConfig, DateConfig } from '../types/general';
 
 export const theme: ThemeConfig = [
 	{
+		name: 'lofi',
+		text: '🎶 Lo-Fi'
+	},
+	{
 		name: 'christmas',
 		text: '🎄 Christmas'
 	},
 	{
-		name: 'dracula',
-		text: '🧛 Dracula'
+		name: 'black',
+		text: '🖤 Black'
 	},
 	{
 		name: 'halloween',
 		text: '🎃 Halloween'
+	},
+	{
+		name: 'dracula',
+		text: '🧛 Dracula'
 	},
 	{
 		name: 'cyberpunk',
@@ -21,10 +29,7 @@ export const theme: ThemeConfig = [
 		name: 'business',
 		text: '🏢 Business'
 	},
-	{
-		name: 'lofi',
-		text: '🎶 Lo-Fi'
-	},
+
 	{
 		name: 'coffee',
 		text: '☕ Coffee'
@@ -96,11 +101,6 @@ export const theme: ThemeConfig = [
 	{
 		name: 'fantasy',
 		text: '🧚 Fantasy'
-	},
-
-	{
-		name: 'black',
-		text: '🖤 Black'
 	},
 	{
 		name: 'luxury',
