@@ -1409,6 +1409,11 @@
   resolved "https://registry.yarnpkg.com/@ungap/structured-clone/-/structured-clone-1.2.0.tgz#756641adb587851b5ccb3e095daf27ae581c8406"
   integrity sha512-zuVdFrMJiuCDQUMCzQaD6KL28MjnqqN8XnAqiEq9PNm/hCPTSGfrXCOfwj1ow4LFb/tNymJPwsNbVePc1xFqrQ==
 
+"@valiantlynx/general-config@^0.0.18":
+  version "0.0.18"
+  resolved "https://registry.yarnpkg.com/@valiantlynx/general-config/-/general-config-0.0.18.tgz#3dae57b03364429fe9ccfea589f1686dae1f91a4"
+  integrity sha512-f7ouLV52QAZPKpqkcUXXgJmxQptOI15Xw5tp6FmN8g9LOA5wOwyIn2eaZJqjBROJOBzRL7L92tMZ/+0x5lHDDw==
+
 "@valiantlynx/image@^0.0.2":
   version "0.0.2"
   resolved "https://registry.npmjs.org/@valiantlynx/image/-/image-0.0.2.tgz"
