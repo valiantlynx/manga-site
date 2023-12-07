@@ -96,7 +96,8 @@
 		autoScroll();
 	}
 </script>
-<div class="flex flex-col space-y-4 w-full">
+
+<div class=" p-4 space-y-4 items-center">
 	<div class=" p-4 space-y-4 border-dashed border-2 border-primary sm:mx-20">
 		<h2 class="text-2xl font-bold mb-4">Join the Discussion</h2>
 	
@@ -125,11 +126,12 @@
 					placeholder={$page.data.user
 						? 'write your comment here'
 						: 'login to write a comment  ----------------->'}
+					minlength="1"
 					bind:value={newMessage}
 					class="input input-bordered input-primary flex-grow"
 				/>
 				{#if $page.data.user}
-					<button type="submit" disabled={!newMessage} class="btn btn-primary"> Send </button>
+					<button type="submit" class="btn btn-primary"> Send </button>
 				{:else}
 					<a href="/login" type="submit" class="btn btn-primary">Login</a>
 				{/if}

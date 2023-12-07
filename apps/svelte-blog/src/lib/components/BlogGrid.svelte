@@ -4,7 +4,7 @@
 	const blogs = $page.data.blogs;
 </script>
 
-<div class="flex flex-wrap -m-4 p-10">
+<div class="flex flex-wrap">
 	{#each blogs.items as blog (blog.id)}
 		<BlogCards blog={blog} />
 	{/each}

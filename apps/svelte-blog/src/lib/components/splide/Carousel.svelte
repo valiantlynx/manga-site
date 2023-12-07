@@ -19,6 +19,7 @@
     pagination: true,
     type: "loop",
     autoplay: true,
+    fixedHeight: 520,
   };
   const thumbsOptions = {
     arrows: false,
@@ -102,7 +103,7 @@
 
   .blog-hero img {
     width: 100%;
-    height: 720px; /* Set an appropriate height for your hero images */
+    height: 520px; /* Set an appropriate height for your hero images */
     object-fit: cover;
   }
 
