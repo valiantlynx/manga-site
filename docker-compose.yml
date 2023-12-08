@@ -68,6 +68,17 @@ services:
     restart: always
     networks:
       - valiantlynx-turborepo
+
+  logseq:
+    image: ghcr.io/logseq/logseq-webapp:latest
+    ports:
+      - "8443:443"  # Use "8443:443" for HTTPS setup
+    volumes:
+      - ./apps/logseq/certs:/etc/nginx/certs  # SSL certificates for HTTPS setup
+      - ./apps/logseq/ssl.conf:/etc/nginx/conf.d/ssl.conf  # Nginx configuration for HTTPS
+    restart: always
+    networks:
+      - valiantlynx-turborepo
 # Define a network, which allows containers to communicate
 # with each other, by using their container name as a hostname
 networks:
