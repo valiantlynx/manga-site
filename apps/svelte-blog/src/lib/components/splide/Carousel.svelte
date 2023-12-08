@@ -19,6 +19,7 @@
     pagination: true,
     type: "loop",
     autoplay: true,
+    fixedHeight: 520,
   };
   const thumbsOptions = {
     arrows: false,
@@ -50,6 +51,10 @@
     >
       {#each blogs.items as blog}
         <SplideSlide>
+          <a 
+          href={`/${blog.slug}`}
+          class="hover:cursor-pointer hover:underline hover:text-secondary"
+          >
           <div class="blog-hero">
             <img src={blog?.image} alt={blog?.alt} />
             <div class=" absolute p-10 bg-secondary text-secondary-content bg-opacity-75 bottom-5 left-5 right-5 rounded-md">
@@ -57,9 +62,10 @@
               {blog.title}</h2>
               <p class="text-base font-normal text-secondary-content my-4">
                 {blog.summary}</p>
-              <a href={`/${blog.slug}`} class="btn btn-primary">Read More</a>
+              <p class="btn btn-primary">Read More</p>
             </div>
           </div>
+        </a>
         </SplideSlide>
       {/each}
     </Splide>
@@ -97,7 +103,7 @@
 
   .blog-hero img {
     width: 100%;
-    height: 720px; /* Set an appropriate height for your hero images */
+    height: 520px; /* Set an appropriate height for your hero images */
     object-fit: cover;
   }
 

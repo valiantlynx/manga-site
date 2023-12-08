@@ -1409,6 +1409,16 @@
   resolved "https://registry.yarnpkg.com/@ungap/structured-clone/-/structured-clone-1.2.0.tgz#756641adb587851b5ccb3e095daf27ae581c8406"
   integrity sha512-zuVdFrMJiuCDQUMCzQaD6KL28MjnqqN8XnAqiEq9PNm/hCPTSGfrXCOfwj1ow4LFb/tNymJPwsNbVePc1xFqrQ==
 
+"@valiantlynx/general-config@^0.0.18":
+  version "0.0.18"
+  resolved "https://registry.yarnpkg.com/@valiantlynx/general-config/-/general-config-0.0.18.tgz#3dae57b03364429fe9ccfea589f1686dae1f91a4"
+  integrity sha512-f7ouLV52QAZPKpqkcUXXgJmxQptOI15Xw5tp6FmN8g9LOA5wOwyIn2eaZJqjBROJOBzRL7L92tMZ/+0x5lHDDw==
+
+"@valiantlynx/general-config@^0.0.19":
+  version "0.0.19"
+  resolved "https://registry.yarnpkg.com/@valiantlynx/general-config/-/general-config-0.0.19.tgz#b7efa1c7d2ade93695545beadc09eed0bd087838"
+  integrity sha512-qf0ESntM7+gdPuCG0K1tum1G9ZC23OlHyO0yDmPp2yodnufkpD/knYFfndvIZ2SCZ09UNov3sy/+dKJiCogqeQ==
+
 "@valiantlynx/image@^0.0.2":
   version "0.0.2"
   resolved "https://registry.npmjs.org/@valiantlynx/image/-/image-0.0.2.tgz"
@@ -1421,10 +1431,10 @@
   dependencies:
     leaflet "^1.9.4"
 
-"@valiantlynx/svelte-ui@^0.0.9":
-  version "0.0.9"
-  resolved "https://registry.yarnpkg.com/@valiantlynx/svelte-ui/-/svelte-ui-0.0.9.tgz#8742a86027983b2f401edccc1d0fb2078fc5c01c"
-  integrity sha512-+Vy1t/6fdxEogtsC/Im+Cagxm0jSuS6ByA557dkd46J6GU0psRnCpiVs9IiExFUDL6PkeIKzOrUvk//Rm5zL4g==
+"@valiantlynx/svelte-ui@^0.0.18":
+  version "0.0.18"
+  resolved "https://registry.yarnpkg.com/@valiantlynx/svelte-ui/-/svelte-ui-0.0.18.tgz#d12a57dbdaa8c2a1e98750b7ee1a2487bbeeb2be"
+  integrity sha512-g7q1s3XGp4KkGXsymU0EEJPs0xr0kWb7JLY3BfUdGq+4LeKA0Dw7stQlMWDXHehYIC7xGpeOYtinWzFDWOdyDQ==
 
 "@vercel/nft@^0.23.0":
   version "0.23.1"

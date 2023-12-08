@@ -21,7 +21,6 @@
 		"@typescript-eslint/eslint-plugin": "^6.0.0",
 		"@typescript-eslint/parser": "^6.0.0",
 		"@valiantlynx/eslint-config-custom": "0.0.1",
-		"@valiantlynx/general-config": "^0.0.18",
 		"@valiantlynx/svelte-leaflet": "^0.0.6",
 		"@valiantlynx/svelte-rich-text": "^0.0.4",
 		"@valiantlynx/tailwind-config": "0.0.9",
@@ -38,7 +37,8 @@
 		"tslib": "^2.4.1",
 		"typescript": "^5.2.2",
 		"vite": "^4.4.2",
-		"@valiantlynx/svelte-ui": "^0.0.9"
+		"@valiantlynx/general-config": "^0.0.19",
+		"@valiantlynx/svelte-ui": "0.0.19"
 	},
 	"type": "module"
 }

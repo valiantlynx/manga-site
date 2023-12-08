@@ -79,9 +79,12 @@ export const actions = {
 			(provider) => provider.name === 'google'
 		);
 		const authProviderRedirect = `${googleAuthProvider?.authUrl}${redirectUrl}&googleAuthState=${googleAuthProvider?.state}`;
-		// Save the state and verifier in a cookie
-		state.set(googleAuthProvider.state);
-		verifier.set(googleAuthProvider.codeVerifier);
+		const stateToBeSaved = googleAuthProvider.state;
+		const verifierToBeSaved = googleAuthProvider.codeVerifier;
+		
+		// renew the state and verifier in a cookie
+		event.cookies.set('state', stateToBeSaved);
+		event.cookies.set('verifier', verifierToBeSaved);
 
 		throw redirect(302, authProviderRedirect);
 	}
