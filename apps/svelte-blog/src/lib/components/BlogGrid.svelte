@@ -8,4 +8,10 @@
 	{#each blogs.items as blog (blog.id)}
 		<BlogCards blog={blog} />
 	{/each}
+	
 </div>
+<!-- if they want to see more available to go to the features page -->
+<div class="justify-center mb-8">
+	<a href="/blogs" class="flex btn btn-primary mx-8">show more</a>
+</div>
+

@@ -1,15 +1,17 @@
 import { error } from '@sveltejs/kit';
-import { serializeNonPOJOs } from '$lib/utils/api';
+import { getImageURL, serializeNonPOJOs } from '$lib/utils/api';
 
-export const load = ({ locals }) => {
-	const getAllProjects = async () => {
+export const load = ({ locals, params }) => {
+	const getBlogs = async () => {
 		try {
-			const projects = serializeNonPOJOs(
-				await locals.pb.collection('projects_valiantlynx').getList(1, 20, {
-					expand: ['user']
-				})
-			);
-			return projects;
+			const blogs = await locals.pb.collection('blogs').getList(1, 50, {
+				sort: 'created',
+				expand: 'author'
+			});
+			for (const item of blogs.items) {
+				item.image = getImageURL(item.collectionId, item.id, item.image);
+			}
+			return serializeNonPOJOs(blogs);
 		} catch (err) {
 			console.error('Error: ', err);
 			throw error(err.status, err.message);
@@ -17,6 +19,6 @@ export const load = ({ locals }) => {
 	};
 
 	return {
-		projects: getAllProjects()
+		blogs: getBlogs()
 	};
 };
