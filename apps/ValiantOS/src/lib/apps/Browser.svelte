@@ -4,7 +4,7 @@
 
   let title = "Browser";
 
-  let url = "https://vkdbois.xyz";
+  let url = "https://valiantlynx.com";
   let searchurl = "https://swisscows.com/en/web?query=";
 
   const setURL = (e) => {

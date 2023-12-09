@@ -925,7 +925,7 @@
 
 "@sveltejs/adapter-node@^1.3.1":
   version "1.3.1"
-  resolved "https://registry.npmjs.org/@sveltejs/adapter-node/-/adapter-node-1.3.1.tgz"
+  resolved "https://registry.yarnpkg.com/@sveltejs/adapter-node/-/adapter-node-1.3.1.tgz#b3d8dee1ae09d008b2add093e84cf085f3333bbc"
   integrity sha512-A0VgRQDCDPzdLNoiAbcOxGw4zT1Mc+n1LwT1OmO350R7WxrEqdMUChPPOd1iMfIDWlP4ie6E2d/WQf5es2d4Zw==
   dependencies:
     "@rollup/plugin-commonjs" "^25.0.0"

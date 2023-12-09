@@ -79,6 +79,28 @@ services:
     restart: always
     networks:
       - valiantlynx-turborepo
+
+  svelte-blog:
+    container_name: svelte-blog
+    build:
+      context: .
+      dockerfile: ./apps/svelte-blog/Dockerfile
+    restart: always
+    ports:
+      - 3000:3000
+    networks:
+      - valiantlynx-turborepo
+
+  valiantos:
+    container_name: ValiantOS
+    build:
+      context: .
+      dockerfile: ./apps/ValiantOS/Dockerfile
+    restart: always
+    ports:
+      - 3000:3000
+    networks:
+      - valiantlynx-turborepo
 # Define a network, which allows containers to communicate
 # with each other, by using their container name as a hostname
 networks:
