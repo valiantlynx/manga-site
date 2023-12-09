@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <ctype.h>
 
-int main() {
+int main()
+{
     char questions[][100] = {
         "What is the capital of India?\n",
         "What is the capital of USA?\n",
@@ -30,14 +31,28 @@ int main() {
     int numberOfQuestions = sizeof(questions) / sizeof(questions[0]);
 
     char guess;
-    char score;
+    int score;
 
     printf("QUIZ GAME!\n");
 
-    for (int i = 0; i < numberOfQuestions; i++) {
+    for (int i = 0; i < numberOfQuestions; i++)
+    {
         printf("%s", questions[i]);
-        
+        printf("%s\n", options[i]);
+        scanf(" %c", &guess);
+
+        if (guess == answers[i])
+        {
+            score = score + 1;
+            printf("correct!\n------------\n");
+        }
+        else
+        {
+            printf("incorrect!\n------------\n");
+        }
     };
+
+    printf("Your score: %i of %i", score, numberOfQuestions);
 
     return 0;
 }
