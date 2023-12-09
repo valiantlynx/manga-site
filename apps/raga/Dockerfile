@@ -1,45 +1,61 @@
-# Base image with Node.js
-FROM node:20.5-alpine AS base
+FROM node:18-alpine AS base
 
-# Set working directory for the build
-WORKDIR /app
+# This Dockerfile is copy-pasted into our main docs at /docs/handbook/deploying-with-docker.
+# Make sure you update both files!
 
-# Copy package.json and yarn.lock files (if yarn.lock exists)
-COPY package.json yarn.lock* ./
-
-# Install dependencies
-# This step is separate to take advantage of Docker layer caching
-RUN yarn install --frozen-lockfile
-
-# Copy the rest of your SvelteKit app's source code
-COPY . .
-
-# Build the SvelteKit app
-# Adjust the memory limit based on your specific requirements.
-# This example uses 1 GB.
-# If you don't need to set a memory limit, you can remove the
-# set the deploy target to node
-RUN NODE_OPTIONS="--max-old-space-size=1024" DEPLOY_TARGET=node yarn build
-
-# Create a new stage for running the app
-FROM node:18-alpine AS runner
-
+FROM base AS builder
+# Check https://github.com/nodejs/docker-node/tree/b4117f9333da4138b03a546ec926ef50a31506c3#nodealpine to understand why libc6-compat might be needed.
+RUN apk add --no-cache libc6-compat
+RUN apk update
 # Set working directory
 WORKDIR /app
+RUN yarn global add turbo
+COPY . .
+RUN turbo prune raga --docker
 
-# Don't run production as root - create a non-root user
-RUN addgroup --system --gid 1001 nodejs \
-    && adduser --system --uid 1001 svelte
+# Add lockfile and package.json's of isolated subworkspace
+FROM base AS installer
+RUN apk add --no-cache libc6-compat
+RUN apk update
+WORKDIR /app
 
+# First install the dependencies (as they change less often)
+COPY .gitignore .gitignore
+COPY --from=builder /app/out/json/ .
+COPY --from=builder /app/out/yarn.lock ./yarn.lock
+RUN yarn install
+
+# Build the project
+COPY --from=builder /app/out/full/ .
+COPY turbo.json turbo.json
+
+# Uncomment and use build args to enable remote caching
+# ARG TURBO_TEAM
+# ENV TURBO_TEAM=$TURBO_TEAM
+
+# ARG TURBO_TOKEN
+# ENV TURBO_TOKEN=$TURBO_TOKEN
+
+
+# set the deploy target to node
+RUN DEPLOY_TARGET=node yarn turbo run build --filter=raga --concurrency 2
+
+
+# Create a new stage for the runner
+FROM base AS runner
+WORKDIR /app
+
+# Don't run production as root - add a non-root user
+RUN addgroup --system --gid 1001 nodejs
+RUN adduser --system --uid 1001 svelte
 USER svelte
 
-# Copy the built app and the necessary node modules from the builder stage
-COPY --from=base /app/package.json .
-COPY --from=base /app/build ./build
-COPY --from=base /app/node_modules ./node_modules
 
-# Expose the port the app runs on
+# Copy the necessary files from the installer stage
+COPY --from=installer /app/apps/raga/package.json .
+COPY --from=installer /app/apps/raga/build /app/build
+
 EXPOSE 3000
 
-# Start the SvelteKit app
+# Modify this line to start your SvelteKit application, e.g., run your server.js or the appropriate script.
 CMD [ "node", "build" ]

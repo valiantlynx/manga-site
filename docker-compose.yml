@@ -87,7 +87,7 @@ services:
       dockerfile: ./apps/svelte-blog/Dockerfile
     restart: always
     ports:
-      - 3000:3000
+      - 3001:3000
     networks:
       - valiantlynx-turborepo
 
@@ -98,7 +98,18 @@ services:
       dockerfile: ./apps/ValiantOS/Dockerfile
     restart: always
     ports:
-      - 3000:3000
+      - 3002:3000
+    networks:
+      - valiantlynx-turborepo
+
+  raga:
+    container_name: raga
+    build:
+      context: .
+      dockerfile: ./apps/raga/Dockerfile
+    restart: always
+    ports:
+      - 3003:3000
     networks:
       - valiantlynx-turborepo
 # Define a network, which allows containers to communicate

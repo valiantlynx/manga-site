@@ -38,7 +38,7 @@ COPY turbo.json turbo.json
 
 
 # You can adjust the memory limit based on your specific requirements.
-RUN NODE_OPTIONS="--max-old-space-size=8192" yarn turbo run build --filter=valiantos --concurrency 2
+RUN NODE_OPTIONS="--max-old-space-size=8192" DEPLOY_TARGET=node yarn turbo run build --filter=valiantos --concurrency 2
 
 
 # Create a new stage for the runner

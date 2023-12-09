@@ -38,7 +38,8 @@ COPY turbo.json turbo.json
 
 
 # You can adjust the memory limit based on your specific requirements.
-RUN NODE_OPTIONS="--max-old-space-size=8192" yarn turbo run build --filter=svelte-manga --concurrency 2
+# set the deploy target to node
+RUN DEPLOY_TARGET=node NODE_OPTIONS="--max-old-space-size=8192" yarn turbo run build --filter=svelte-manga --concurrency 2
 
 
 # Create a new stage for the runner
