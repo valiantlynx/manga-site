@@ -3,8 +3,8 @@
   import App from "$lib/components/App.svelte";
   let title = "Visual Studio Code";
   const AppDetails = {
-    height: "30rem",
-    width: "35rem",
+    height: "50rem",
+    width: "85rem",
     inset: "1rem",
   };
 </script>
@@ -24,21 +24,27 @@
 
 <style>
   .vscode {
-    background: #202327;
-    position: absolute;
-    inset: 10%;
-    border-radius: 8px;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    background: #1e1e1e;
+    border-radius: 0.5rem;
     overflow: hidden;
-    resize: both;
   }
   .mainApp {
-    display: flex;
-    position: absolute;
+    margin-top: 2rem;
+    height: 100%;
     width: 100%;
-    height: calc(100% - 36px);
+    display: flex;
+    flex-direction: column;
+    background: #1e1e1e;
+    border-radius: 0.5rem;
+    overflow: hidden;
   }
-
   iframe {
-    flex-grow: 1;
+    height: 100%;
+    width: 100%;
+    border: none;
   }
 </style>
