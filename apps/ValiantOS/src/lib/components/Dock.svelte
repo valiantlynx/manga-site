@@ -12,11 +12,11 @@
     <DockItem {app} />
   {/each}
 
-  <a href="https://github.com/TheoIsDumb/TheoOS" target="_blank" noreferrer>
+  <a href="https://github.com/valiantlynx/valiantlynx-turborepo" target="_blank" noreferrer>
     <IconCode />
     </a>
 
-  <a href="https://github.com/TheoIsDumb" target="_blank" noreferrer>
+  <a href="https://github.com/valiantlynx" target="_blank" noreferrer>
     <IconGithub />
     </a>
 </div>

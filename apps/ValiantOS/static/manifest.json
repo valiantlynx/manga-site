@@ -1,0 +1,26 @@
+{
+    "name": "ValiantOS",
+    "short_name": "ValiantOS",
+    "description": "ValiantOS is a web app designed to resemble a desktop environment using SvelteKit.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#25133F",
+    "theme_color": "#25133F",
+    "icons": [
+        {
+            "src": "pwa-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "pwa-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "pwa-64x64.png",
+            "sizes": "64x64",
+            "type": "image/png"
+        }
+    ]
+}

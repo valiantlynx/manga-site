@@ -5,7 +5,8 @@
 	"scripts": {
 		"dev": "vite dev --host --open",
 		"build": "vite build",
-		"preview": "vite preview --host --open"
+		"preview": "vite preview --host --open",
+		"generate-pwa-assets": "npx @vite-pwa/assets-generator --preset minimal static/logo.svg"
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "^2.0.0",
