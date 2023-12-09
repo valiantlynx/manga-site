@@ -68,6 +68,50 @@ services:
     restart: always
     networks:
       - valiantlynx-turborepo
+
+  logseq:
+    image: ghcr.io/logseq/logseq-webapp:latest
+    ports:
+      - "8443:443"  # Use "8443:443" for HTTPS setup
+    volumes:
+      - ./apps/logseq/certs:/etc/nginx/certs  # SSL certificates for HTTPS setup
+      - ./apps/logseq/ssl.conf:/etc/nginx/conf.d/ssl.conf  # Nginx configuration for HTTPS
+    restart: always
+    networks:
+      - valiantlynx-turborepo
+
+  svelte-blog:
+    container_name: svelte-blog
+    build:
+      context: .
+      dockerfile: ./apps/svelte-blog/Dockerfile
+    restart: always
+    ports:
+      - 3001:3000
+    networks:
+      - valiantlynx-turborepo
+
+  valiantos:
+    container_name: ValiantOS
+    build:
+      context: .
+      dockerfile: ./apps/ValiantOS/Dockerfile
+    restart: always
+    ports:
+      - 3002:3000
+    networks:
+      - valiantlynx-turborepo
+
+  raga:
+    container_name: raga
+    build:
+      context: .
+      dockerfile: ./apps/raga/Dockerfile
+    restart: always
+    ports:
+      - 3003:3000
+    networks:
+      - valiantlynx-turborepo
 # Define a network, which allows containers to communicate
 # with each other, by using their container name as a hostname
 networks:
