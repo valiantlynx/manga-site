@@ -8,6 +8,7 @@ import Notes from '$lib/apps/Notes.svelte';
 import About from '$lib/apps/About.svelte';
 import DateCalc from '$lib/apps/DateCalc.svelte';
 import AspectRatioCalc from '$lib/apps/AspectRatioCalc.svelte';
+import VSCode from '$lib/apps/VSCode.svelte';
 
 import IconMusic from '$lib/icons/IconMusic.svelte';
 import IconTerminal from '$lib/icons/IconTerminal.svelte';
@@ -17,6 +18,8 @@ import IconNotes from '$lib/icons/IconNotes.svelte';
 import IconAbout from '$lib/icons/IconAbout.svelte';
 import IconDateCalc from '$lib/icons/IconDateCalc.svelte';
 import IconAspectRatioCalc from '$lib/icons/IconAspectRatioCalc.svelte';
+import IconVSCode from '$lib/icons/IconVSCode.svelte';
+
 
 export let openedApps = writable([]);
 
@@ -62,5 +65,10 @@ export let apps = readable([
         id: "About",
         component: About,
         icon: IconAbout,
+    },
+    {
+        id: "VSCode",
+        component: VSCode,
+        icon: IconVSCode,
     }
 ])

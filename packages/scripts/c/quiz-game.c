@@ -36,6 +36,7 @@ int main() {
 
     for (int i = 0; i < numberOfQuestions; i++) {
         printf("%s", questions[i]);
+        
     };
 
     return 0;
