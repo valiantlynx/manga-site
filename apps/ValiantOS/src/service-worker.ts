@@ -28,7 +28,6 @@ self.addEventListener("activate", (event) => {
 			}
 		}
 	}
-
 	event.waitUntil(deleteOldCaches());
 });
 

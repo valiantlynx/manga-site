@@ -25,8 +25,8 @@
     };
 </script>
 
-<div class="panel flex items-center justify-between xl:flex-col
-    h-8 w-[100dvw] xl:w-10 xl:h-[calc(100dvh-2rem)] px-4 xl:py-4 xl:ml-3
+<div id="title-bar" class="panel flex items-center justify-between xl:flex-col
+    h-9 w-[100dvw] xl:w-10 xl:h-[calc(100dvh-2rem)] px-4 xl:py-4 xl:ml-3
     fixed top-0 xl:top-1/2 xl:-translate-y-1/2
     xl:border border-gray-600
     backdrop-blur bg-[#000000a3] xl:rounded-lg text-white"
@@ -42,3 +42,9 @@
             <IconPower />
         </button>
 </div>
+
+<style>
+    #title-bar {
+      -webkit-app-region: drag;
+    }
+  </style>
