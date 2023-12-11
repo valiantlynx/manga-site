@@ -104,9 +104,11 @@
     console.log("PWA is installed: " + PWAisInstalled, relatedApps);
   }
 
+ 
+  
   onMount(async () => {
     detectServiceWorkerUpdate();
-    getInstalledApps()  
+    getInstalledApps();
   });
 </script>
 

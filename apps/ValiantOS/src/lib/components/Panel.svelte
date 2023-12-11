@@ -24,14 +24,20 @@
     }
   };
 
-  function requestNotificationPermission() {
+  async function requestNotificationPermission() {
     if (!("Notification" in window)) {
       // Check if the browser supports notifications
       alert("This browser does not support desktop notification");
     } else if (Notification.permission === "granted") {
       // Check whether notification permissions have already been granted;
       // if so, create a notification
-      const notification = new Notification("Hi there!", {
+      await showNotification("Hi there!", {
+        actions: [
+          {
+            action: "hello",
+            title: "say hello",
+          },
+        ],
         body: "How are you doing?",
         icon: "logo.svg",
         vibrate: [200, 100, 200, 100, 200, 100, 200],
@@ -42,10 +48,8 @@
         lang: "en",
         dir: "ltr",
         badge: "logo.svg",
-        sound: "divewithme.mp3",
-      }
-      );
-      // …
+        sound: "mixkit-bubble-pop-up-alert-notification-2357.wav",
+      });
     } else if (Notification.permission !== "denied") {
       // We need to ask the user for permission
       Notification.requestPermission().then((permission) => {
@@ -59,6 +63,13 @@
 
     // At last, if the user has denied notifications, and you
     // want to be respectful there is no need to bother them anymore.
+  }
+
+  // example notification
+  async function showNotification(message, options) {
+    const registration = await navigator.serviceWorker.ready;
+    // Show a notification that includes an action titled Archive.
+    registration.showNotification(message, options);
   }
 </script>
 

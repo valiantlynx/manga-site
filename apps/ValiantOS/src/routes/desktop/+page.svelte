@@ -7,6 +7,7 @@
 
 <div class="parent w-[100dvw] h-[100dvh] relative overflow-hidden" transition:scale>
   <Panel />
+  
 
   {#each $openedApps as openedApp}
     <svelte:component this={openedApp.app} />

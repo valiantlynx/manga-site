@@ -96,3 +96,23 @@ self.addEventListener("message", (event) => {
 if (!("BackgroundFetchManager" in self)) {
   // Provide fallback downloading.
 }
+
+self.addEventListener(
+	"notificationclick",
+	(event) => {
+	  event.notification.close();
+	  if (event.action === "archive") {
+		// User selected the Archive action.
+		console.log("archive");
+	  } else if (event.action === "hello") {
+		console.log("hello");
+	  } else {
+		
+		// User selected (e.g., clicked in) the main body of notification.
+		console.log("open");
+		const clients = self.clients as unknown as Clients;
+		clients.openWindow("/desktop");
+	  }
+	},
+	false,
+  );
