@@ -21,8 +21,9 @@ class Graph:
         self.nodes[node.name] = node
         self.edges[node.name] = []
 
-    def add_edge(self, node1, node2):
-        self.edges[node1.name].append(node2.name)
+    def add_edge(self, node1, node2, cost):
+        # Store neighbor along with the cost of the edge
+        self.edges[node1.name].append((node2.name, cost))
 
     def a_star_search(self, start, goal, heuristic_type="euclidean"):
         def heuristic(node_name):
@@ -46,8 +47,8 @@ class Graph:
                     current_name = came_from.get(current_name)
                 return path[::-1]
 
-            for neighbor_name in self.edges[current_name]:
-                tentative_g_score = g_score[current_name] + 1  # Assuming each edge has a weight of 1
+            for neighbor_name, edge_cost in self.edges[current_name]:
+                tentative_g_score = g_score[current_name] + edge_cost
                 if tentative_g_score < g_score[neighbor_name]:
                     came_from[neighbor_name] = current_name
                     g_score[neighbor_name] = tentative_g_score
@@ -55,4 +56,5 @@ class Graph:
                     heapq.heappush(open_set, (f_score, neighbor_name))
 
         return None
+
 
