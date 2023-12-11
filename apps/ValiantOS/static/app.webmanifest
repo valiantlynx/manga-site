@@ -26,8 +26,8 @@
         "url": "/play-later",
         "icons": [
             {
-                "src": "/icons/play-later.svg",
-                "type": "image/svg+xml",
+                "src": "/icons/play-later.png",
+                "type": "image/png",
                 "purpose": "any"
             }
         ]
@@ -35,7 +35,14 @@
     {
         "name": "Subscriptions",
         "description": "View the list of podcasts available in your subscription",
-        "url": "/subscriptions?sort=desc"
+        "url": "/subscriptions?sort=desc",
+        "icons": [
+            {
+                "src": "/icons/subscriptions.webp",
+                "type": "image/webp",
+                "purpose": "any"
+            }
+        ]
     }
 ],
   "icons": [
@@ -121,7 +128,7 @@
         "url": "https://www.minfuel.com/manifest.json"
      }
   ],
-  "prefer_related_applications": true,
+  "prefer_related_applications": false,
   "developer": {
     "name": "valiantlynx",
     "url": "http://valiantlynx.com"
