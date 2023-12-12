@@ -13,7 +13,7 @@ int main()
         {
             sum = sum + number;
         }
-        
+
     } while (number > 0);
 
     printf("Your sum: %i", sum);
