@@ -3,6 +3,9 @@
   "globalDependencies": ["**/.env.*local"],
   "globalEnv": ["PORT"],
   "pipeline": {
+    "anime-site#dev": {
+      "dependsOn": ["anime-site-api#start"]
+    },
     "build": {
       "dependsOn": ["^build", "^format", "^package"],
       "outputs": ["dist/**", ".next/**", "!.next/cache/**", "public/dist/**", ".svelte-kit/**", ".vercel/**"],

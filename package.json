@@ -4,6 +4,7 @@
   "version": "0.0.0",
   "scripts": {
     "build": "turbo build",
+    "start": "turbo start",
     "dev": "turbo run dev --concurrency=11",
     "python": "turbo run python",
     "lint": "turbo lint",
