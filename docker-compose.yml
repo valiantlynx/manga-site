@@ -112,6 +112,20 @@ services:
       - 3003:3000
     networks:
       - valiantlynx-turborepo
+
+  anime-site-api:
+    container_name: anime-site-api
+    build:
+      context: .
+      dockerfile: ./apps/anime-site-api/Dockerfile
+    volumes:
+      - ./apps/anime-site-api:/app/apps/anime-site-api
+    restart: always
+    ports:
+      - 3001:3001
+    networks:
+      - valiantlynx-turborepo
+
 # Define a network, which allows containers to communicate
 # with each other, by using their container name as a hostname
 networks:

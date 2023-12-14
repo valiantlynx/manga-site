@@ -5,6 +5,7 @@
   "main": "api/index.js",
   "scripts": {
     "start": "nodemon api",
+    "docker": "docker-compose up -d anime-site-api",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

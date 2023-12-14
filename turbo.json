@@ -4,7 +4,7 @@
   "globalEnv": ["PORT"],
   "pipeline": {
     "anime-site#dev": {
-      "dependsOn": ["anime-site-api#start"]
+      "dependsOn": ["anime-site-api#docker"]
     },
     "build": {
       "dependsOn": ["^build", "^format", "^package"],
@@ -40,6 +40,8 @@
     },
     "clean": {
       "cache": false
-    }
+    },
+    "docker": {},
+    "start": {}
   }
 }

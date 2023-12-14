@@ -9,7 +9,7 @@ const hostURL = process.env.HOST_URL
 
 app.use(cors());
 
-const baseURL = "https://gogoanime.ai/";
+const baseURL = "https://anitaku.to/";
 
 app.get("/api/home", (req, res) => {
   let info = {

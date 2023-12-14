@@ -12,7 +12,8 @@
     "format": "turbo format",
     "preview": "turbo preview",
     "package": "turbo package",
-    "release": "turbo release"
+    "release": "turbo release",
+    "docker": "turbo docker"
   },
   "devDependencies": {
     "@valiantlynx/tsconfig": "^0.0.25",
