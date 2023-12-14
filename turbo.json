@@ -42,6 +42,10 @@
       "cache": false
     },
     "docker": {},
-    "start": {}
+    "start": {},
+    "pull": {},
+    "push": {
+      "dependsOn": ["^pull"]
+    }
   }
 }
