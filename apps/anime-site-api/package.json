@@ -6,9 +6,7 @@
   "scripts": {
     "start": "nodemon api",
     "docker": "docker-compose up -d --build anime-site-api",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "pull": "git subtree pull --prefix=apps/anime-site-api https://github.com/valiantlynx/anime-site-api.git master --squash",
-    "push": "yarn pull && git subtree push --prefix=apps/anime-site-api https://github.com/valiantlynx/anime-site-api.git master"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
