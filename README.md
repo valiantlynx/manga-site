@@ -73,3 +73,12 @@ For any inquiries or questions regarding the Animevariant Manga, please feel fre
 - Email: valiantlynxz@gmail.com
 - Twitter: [@valiantlynx](https://twitter.com/valiantlynx)
 - GitHub: [valiantlynx](https://github.com/valiantlynx)
+
+
+### adding new projects with their own git history
+```sh
+git subtree add --prefix=apps/manga-site https://github.com/valiantlynx/manga-site.git master --squash
+git subtree pull --prefix=apps/manga-site https://github.com/valiantlynx/manga-site.git master --squash
+git subtree push --prefix=apps/manga-site https://github.com/valiantlynx/manga-site.git master
+
+```
