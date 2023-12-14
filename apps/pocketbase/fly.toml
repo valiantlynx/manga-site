@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for texbab on 2023-12-02T17:09:08+01:00
+# fly.toml app configuration file generated for digicv on 2023-12-13T23:04:07+01:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = "texbab"
+app = "digicv"
 primary_region = "arn"
 
 [build]

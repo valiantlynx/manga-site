@@ -80,9 +80,9 @@ You can test this behavior using a command like:
 
 ### adding new projects with their own git history
 ```sh
-git subtree add --prefix=packages/tsconfig https://github.com/valiantlynx/tsconfig.git valiantlynx-turborepo --squash
-git subtree pull --prefix=packages/tsconfig https://github.com/valiantlynx/tsconfig.git valiantlynx-turborepo --squash
-git subtree push --prefix=packages/tsconfig https://github.com/valiantlynx/tsconfig.git valiantlynx-turborepo
+git subtree add --prefix=apps/anime-site https://github.com/valiantlynx/anime-site.git master --squash
+git subtree pull --prefix=apps/anime-site https://github.com/valiantlynx/anime-site.git master --squash
+git subtree push --prefix=apps/anime-site https://github.com/valiantlynx/anime-site.git master
 
 ```
 

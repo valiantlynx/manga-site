@@ -11,6 +11,7 @@ docker
 
 # deploy to fly
 1. install flyctl
-2. run ```flyctl init```
-3. run ```flyctl deploy```
-4. run ```flyctl open```
+2. run ```flyctl auth login```
+3. run ```flyctl launch```
+4. run ```flyctl deploy```
+5. run ```flyctl open```
