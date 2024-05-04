@@ -1,4 +1,5 @@
 # Animevariant Manga
+this project require [anime-site-api](https://github.com/valiantlynx/manga-site-api/tree/master) to be running beforehand
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
