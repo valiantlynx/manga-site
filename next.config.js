@@ -14,7 +14,6 @@ const nextConfig = {
     },
     images: {
         domains: [
-            "gogocdn.net",
             "daisyui.com",
             "api.animevariant.org",
             "localhost:8080"
@@ -22,7 +21,7 @@ const nextConfig = {
         remotePatterns: [
             {
               protocol: 'https',
-              hostname: '**.mpcdn.org',
+              hostname: '**.xfspp.com',
             },
           ],
     },
