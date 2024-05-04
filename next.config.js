@@ -14,7 +14,7 @@ const nextConfig = {
     },
     images: {
         domains: [
-            "daisyui.com",
+            "img.daisyui.com",
             "api.animevariant.org",
             "localhost:8080"
         ],
