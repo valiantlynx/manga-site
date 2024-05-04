@@ -3,10 +3,6 @@ import Carousel from '@/app/components/Carousel'
 import getHomeData from '@/utils/pocketbase/getHomeData';
 import Grid from '../components/Grid';
 
-export const metadata = {
-  title: "Welcome to AnimeVariant",
-}
-
 async function page() {
   const pocketbaseMangaList: any = await getHomeData(1);
   const page = 1;

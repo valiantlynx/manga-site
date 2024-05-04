@@ -1,5 +1,5 @@
 "use client"
-import { pb } from '@/lib/pocketbase/pb';
+import { pb } from '@/utils/pocketbase/pb';
 
 export default function signOut() {
     pb.authStore.clear();

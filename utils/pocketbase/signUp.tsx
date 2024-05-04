@@ -1,6 +1,6 @@
 "use client"
-import {pb } from '@/lib/pocketbase/pb';
-import login from '@/lib/pocketbase/signIn';
+import {pb } from '@/utils/pocketbase/pb';
+import login from '@/utils/pocketbase/signIn';
 
 type UserData = {
     username: string;

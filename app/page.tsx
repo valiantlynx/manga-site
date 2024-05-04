@@ -4,11 +4,7 @@ import Carousel from '@/app/components/Carousel'
 import getPopular from '@/utils/getPopular';
 import { useState, useEffect } from 'react';
 
-export const metadata = {
-  title: "Welcome to AnimeVariant",
-}
-
-function page() {
+function Page() {
 
   const [mangaList, setMangaList] = useState<PopularMangaProps[]>([]);
   const [page, setPage] = useState<number>(1);
@@ -28,4 +24,4 @@ function page() {
   )
 }
 
-export default page
+export default Page
